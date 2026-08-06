@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-05T11:52:44.055Z",
+  "generatedAt": "2026-08-06T12:50:30.717Z",
   "stats": {
     "considered": 2311,
-    "relevant": 63,
+    "relevant": 75,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 689,
-    "minutes": 2.870833333333333,
+    "words": 609,
+    "minutes": 2.5375,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "UK's AISI finds 19 instances where Anthropic's Mythos, OpenAI's GPT-5.6 Sol tried attacks — Constellation Research",
-    "U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families — Salesforce Newsroom",
-    "AI can knock on the door. Your CRM marketing platform is still the house. by Optimove — MarTech",
-    "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era — Databricks Blog"
+    "HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny — Constellation Research",
+    "Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events — Salesforce Ben",
+    "HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation — CX Today",
+    "Stop looking for the perfect attribution model — MarTech"
   ],
   "sections": [
     {
@@ -25,48 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events",
+          "url": "https://www.salesforceben.com/exclusive-salesforce-cuts-jobs-across-tableau-trailhead-community-and-events/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-06T11:32:24.000Z",
+          "summary": "Salesforce has conducted another round of layoffs, reportedly affecting positions across Tableau, Trailhead, community engagements, events, and more.",
+          "score": 122.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Introducing Agentforce for Architects: Guidance On Demand",
+          "url": "https://www.salesforceben.com/introducing-agentforce-for-architects-guidance-on-demand/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-05T12:20:05.000Z",
+          "summary": "More Salesforce Architects are being asked to make complex design decisions across a growing number of clouds, technologies, and architectural patterns.",
+          "score": 62.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families",
           "url": "https://www.salesforce.com/news/press-releases/2026/08/05/us-army-hrc-agentforce-ai-powered-support/",
           "source": "Salesforce Newsroom",
           "date": "2026-08-05T09:00:00.000Z",
           "summary": "Army HRC becomes the first Department of War organization to deploy the newly authorized Agentforce Public Sector in Salesforce’s Impact Level 5 environment SAN FRANCISCO and WASHINGTON, August 5,…",
-          "score": 84.2,
+          "score": 61.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "ServiceNow Just Hit $1B in AI Revenue: Should Salesforce Be Concerned?",
-          "url": "https://www.salesforceben.com/servicenow-just-hit-1b-in-ai-revenue-should-salesforce-be-concerned/",
+          "title": "Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions",
+          "url": "https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/",
           "source": "Salesforce Ben",
-          "date": "2026-08-03T13:30:00.000Z",
-          "summary": "ServiceNow has just hit a significant milestone – $1B in AI revenue ACV (Annual Contract Value). This comes after the company disclosed its Q2 2026 financial results, which also saw 24% revenue…",
-          "score": 58.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Summer ’26: How to Create a Radio Button Group in Salesforce Flow",
-          "url": "https://www.salesforceben.com/how-to-create-a-radio-button-group-in-salesforce-flow/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-05T06:43:07.000Z",
-          "summary": "If you’ve spent much time building Screen Flows, you’ve probably found yourself wishing there was a better way to present simple choices to users.",
-          "score": 38.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The Era of Salesforce Digital Transformation Is Over",
-          "url": "https://www.salesforceben.com/the-era-of-salesforce-digital-transformation-is-over/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-03T08:55:08.000Z",
-          "summary": "Recently, I suggested that Anthropic could (and perhaps should) acquire Salesforce. In that article, I raised something that resonated with many readers.",
-          "score": 38,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
-          "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-04T14:00:00.000Z",
-          "summary": "Agentforce Coworker is Generally Available. It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You…",
-          "score": 32.3,
+          "date": "2026-08-05T14:41:15.000Z",
+          "summary": "‘No software’ was Salesforce’s rallying cry in its early days, positioning itself as an agile, modern-era jet fighter taking down the outdated biplanes of legacy enterprise tech.",
+          "score": 61.2,
           "alsoCoveredBy": []
         }
       ]
@@ -76,30 +67,45 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "AI can knock on the door. Your CRM marketing platform is still the house. by Optimove",
-          "url": "https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/",
-          "source": "MarTech",
-          "date": "2026-08-04T11:00:00.000Z",
-          "summary": "AI assistants like ChatGPT and Claude can now plug straight into your marketing systems. That connection is powerful. But it doesn't replace the platform behind it. It depends on it.",
-          "score": 42.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "HubSpot Got the Blame, But Does the Whole Industry Have the Same Problem?",
-          "url": "https://www.cxtoday.com/crm/hubspot-signal-debt-acoustic-alexi-hatch/",
+          "title": "HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation",
+          "url": "https://www.cxtoday.com/crm/hubspot-ai-agents-customer-agent-data-agent-cx-results/",
           "source": "CX Today",
-          "date": "2026-08-04T12:03:43.000Z",
-          "summary": "The HubSpot data enrichment controversy generated plenty of heat. Alexi Hatch, CMO of Acoustic, is more interested in the light.",
-          "score": 29.3,
+          "date": "2026-08-06T11:30:52.000Z",
+          "summary": "HubSpot prove its AI agents are successfully moving into live customer-service workflows, with the company pitching its CRM as the control layer for deployment.",
+          "score": 57.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "CRM change management: A practical guide for leaders",
-          "url": "https://blog.hubspot.com/marketing/crm-change-management",
+          "title": "HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]",
+          "url": "https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo",
           "source": "HubSpot Marketing Blog",
-          "date": "2026-08-05T11:00:02.000Z",
-          "summary": "CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after…",
-          "score": 24.6,
+          "date": "2026-08-06T11:00:03.000Z",
+          "summary": "As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand…",
+          "score": 26.7,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "Stop looking for the perfect attribution model",
+          "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
+          "source": "MarTech",
+          "date": "2026-08-06T12:20:00.000Z",
+          "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead.",
+          "score": 43.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+          "source": "TechCrunch AI",
+          "date": "2026-08-05T20:05:00.000Z",
+          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+          "score": 40,
           "alsoCoveredBy": []
         }
       ]
@@ -109,12 +115,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era",
-          "url": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era",
+          "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
+          "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration",
           "source": "Databricks Blog",
-          "date": "2026-08-03T13:00:00.000Z",
-          "summary": "Today, we are thrilled to announce that Databricks has officially completed the acquisition...",
-          "score": 27.1,
+          "date": "2026-08-06T13:00:00.000Z",
+          "summary": "Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...",
+          "score": 40,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +130,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny",
+          "url": "https://www.constellationr.com/insights/news/hubspot-sees-turbulence-ahead-due-outcome-based-pricing-shift-ai-budget-scrutiny",
+          "source": "Constellation Research",
+          "date": "2026-08-06T10:48:50.000Z",
+          "summary": "",
+          "score": 132.7,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "UK's AISI finds 19 instances where Anthropic's Mythos, OpenAI's GPT-5.6 Sol tried attacks",
           "url": "https://www.constellationr.com/insights/news/uks-aisi-finds-19-instances-where-anthropics-mythos-openais-gpt-56-sol-tried-attacks",
           "source": "Constellation Research",
           "date": "2026-08-05T10:41:05.000Z",
           "summary": "",
-          "score": 175.4,
+          "score": 129.2,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +153,7 @@
           "source": "Constellation Research",
           "date": "2026-08-04T20:15:00.000Z",
           "summary": "",
-          "score": 117.5,
+          "score": 81,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +162,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-05T09:00:00.000Z",
           "summary": "With new IL5 authorization, Agentforce 360 — Salesforce’s full portfolio of AI agents, data capabilities, and apps — is now embedded into the Missionforce National Security platform.",
-          "score": 74.7,
+          "score": 54.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Linux Foundation launches effort to quantify AI returns",
-          "url": "https://www.constellationr.com/insights/news/linux-foundation-launches-effort-quantify-ai-returns",
-          "source": "Constellation Research",
-          "date": "2026-08-04T14:26:53.000Z",
-          "summary": "",
-          "score": 70.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The AI Agent Security Risks CX Leaders Need to Address in the Wake of OpenAI and Anthropic Hacks",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/the-ai-agent-security-risks-cx-leaders-need-to-address-in-the-wake-of-openai-and-anthropic-hacks/",
+          "title": "ServiceNow Moves to Lock Down Enterprise AI Agents With Autonomous Security Portfolio",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/servicenow-moves-to-lock-down-enterprise-ai-agents-with-autonomous-security-portfolio/",
           "source": "CX Today",
-          "date": "2026-08-03T16:46:54.000Z",
-          "summary": "Following disclosures that autonomous AI agents escaped from OpenAI model training breached AI platform Hugging Face, subsequent findings from Anthropic and OpenAI indicate that enterprise AI agents…",
-          "score": 64.5,
+          "date": "2026-08-05T16:21:18.000Z",
+          "summary": "ServiceNow, which is billing itself as “the fastest-growing major enterprise cybersecurity company,” is bringing identity, exposure management and incident response into a unified security offering…",
+          "score": 51.1,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +179,44 @@
   ],
   "quickLinks": [
     {
+      "title": "Official 2026 Dreamforce Parties and Events Guide",
+      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Agentic Intelligence for Contract Review on Snowflake",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake",
+      "source": "Snowflake Blog"
+    },
+    {
+      "title": "Salesforce Hacks 2026: Everything We Know So Far",
+      "url": "https://www.salesforceben.com/salesforce-hacks-2026-everything-we-know-so-far/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Linux Foundation launches effort to quantify AI returns",
+      "url": "https://www.constellationr.com/insights/news/linux-foundation-launches-effort-quantify-ai-returns",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Uber controls token spend, outlines AI use cases",
+      "url": "https://www.constellationr.com/insights/news/uber-controls-token-spend-outlines-ai-use-cases",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Zendesk Explain Why The App Sidebar Is Dead",
+      "url": "https://www.cxtoday.com/contact-center/zendesk-explain-why-the-app-sidebar-is-dead-cs-0064/",
+      "source": "CX Today"
+    },
+    {
       "title": "Palantir: Worst nightmare for OpenAI, Anthropic?",
       "url": "https://www.constellationr.com/insights/news/palantir-worst-nightmare-openai-anthropic",
       "source": "Constellation Research"
     },
     {
-      "title": "Palantir's Q2 shines, CEO Karp says it's benefiting from LLM economics revolt",
-      "url": "https://www.constellationr.com/insights/news/palantirs-q2-shines-ceo-karp-says-its-benefiting-llm-economics-revolt",
+      "title": "Why Multi-Model AI Is the Future of Enterprise Architecture",
+      "url": "https://www.constellationr.com/video/insights/why-multi-model-ai-future-enterprise-architecture",
       "source": "Constellation Research"
-    },
-    {
-      "title": "SpaceX’s Q2 takeaways: Rocket building knowhow translates to AI data center efficiency",
-      "url": "https://www.constellationr.com/insights/news/spacexs-q2-takeaways-rocket-building-knowhow-translates-ai-data-center-efficiency",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "OpenAI ad experiment could change what happens after the click",
-      "url": "https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/",
-      "source": "MarTech"
-    },
-    {
-      "title": "AMD Q2 data center revenue up 107%",
-      "url": "https://www.constellationr.com/insights/news/amd-q2-data-center-revenue-107",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "New Report: Five Lead-to-Order Agentic Use Cases Growth Leaders MUST be Using Now",
-      "url": "https://www.constellationr.com/research/blog/new-report-five-lead-order-agentic-use-cases-growth-leaders-must-be-using-now",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Ethyca launches Astralis to govern enterprise AI agents in real time",
-      "url": "https://siliconangle.com/2026/08/04/ethyca-launches-astralis-govern-enterprise-ai-agents-real-time/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Salesforce Dynamic Forms: Overview & Deep Dive Tutorial",
-      "url": "https://www.salesforceben.com/salesforce-dynamic-forms-overview-deep-dive-tutorial/",
-      "source": "Salesforce Ben"
     }
   ]
 }

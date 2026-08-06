@@ -1,57 +1,62 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Wednesday, August 5, 2026 · 2–3 min read · 14 stories from 23 sources*
+*Thursday, August 6, 2026 · 2–3 min read · 14 stories from 23 sources*
 
 ## The 60-second version
 
-- UK's AISI finds 19 instances where Anthropic's Mythos, OpenAI's GPT-5.6 Sol tried attacks — Constellation Research
-- U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families — Salesforce Newsroom
-- AI can knock on the door. Your CRM marketing platform is still the house. by Optimove — MarTech
-- Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era — Databricks Blog
+- HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny — Constellation Research
+- Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events — Salesforce Ben
+- HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation — CX Today
+- Stop looking for the perfect attribution model — MarTech
 
 ## Salesforce
+
+**[Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events](https://www.salesforceben.com/exclusive-salesforce-cuts-jobs-across-tableau-trailhead-community-and-events/)**
+Salesforce has conducted another round of layoffs, reportedly affecting positions across Tableau, Trailhead, community engagements, events, and more.
+<sub>Salesforce Ben · Aug 6</sub>
+
+**[Introducing Agentforce for Architects: Guidance On Demand](https://www.salesforceben.com/introducing-agentforce-for-architects-guidance-on-demand/)**
+More Salesforce Architects are being asked to make complex design decisions across a growing number of clouds, technologies, and architectural patterns.
+<sub>Salesforce Ben · Aug 5</sub>
 
 **[U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families](https://www.salesforce.com/news/press-releases/2026/08/05/us-army-hrc-agentforce-ai-powered-support/)**
 Army HRC becomes the first Department of War organization to deploy the newly authorized Agentforce Public Sector in Salesforce’s Impact Level 5 environment SAN FRANCISCO and WASHINGTON, August 5,…
 <sub>Salesforce Newsroom · Aug 5</sub>
 
-**[ServiceNow Just Hit $1B in AI Revenue: Should Salesforce Be Concerned?](https://www.salesforceben.com/servicenow-just-hit-1b-in-ai-revenue-should-salesforce-be-concerned/)**
-ServiceNow has just hit a significant milestone – $1B in AI revenue ACV (Annual Contract Value). This comes after the company disclosed its Q2 2026 financial results, which also saw 24% revenue…
-<sub>Salesforce Ben · Aug 3</sub>
-
-**[Summer ’26: How to Create a Radio Button Group in Salesforce Flow](https://www.salesforceben.com/how-to-create-a-radio-button-group-in-salesforce-flow/)**
-If you’ve spent much time building Screen Flows, you’ve probably found yourself wishing there was a better way to present simple choices to users.
+**[Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions](https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/)**
+‘No software’ was Salesforce’s rallying cry in its early days, positioning itself as an agile, modern-era jet fighter taking down the outdated biplanes of legacy enterprise tech.
 <sub>Salesforce Ben · Aug 5</sub>
-
-**[The Era of Salesforce Digital Transformation Is Over](https://www.salesforceben.com/the-era-of-salesforce-digital-transformation-is-over/)**
-Recently, I suggested that Anthropic could (and perhaps should) acquire Salesforce. In that article, I raised something that resonated with many readers.
-<sub>Salesforce Ben · Aug 3</sub>
-
-**[Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.](https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/)**
-Agentforce Coworker is Generally Available. It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You…
-<sub>Salesforce Blog · Aug 4</sub>
 
 ## CRM Platforms
 
-**[AI can knock on the door. Your CRM marketing platform is still the house. by Optimove](https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/)**
-AI assistants like ChatGPT and Claude can now plug straight into your marketing systems. That connection is powerful. But it doesn't replace the platform behind it. It depends on it.
-<sub>MarTech · Aug 4</sub>
+**[HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation](https://www.cxtoday.com/crm/hubspot-ai-agents-customer-agent-data-agent-cx-results/)**
+HubSpot prove its AI agents are successfully moving into live customer-service workflows, with the company pitching its CRM as the control layer for deployment.
+<sub>CX Today · Aug 6</sub>
 
-**[HubSpot Got the Blame, But Does the Whole Industry Have the Same Problem?](https://www.cxtoday.com/crm/hubspot-signal-debt-acoustic-alexi-hatch/)**
-The HubSpot data enrichment controversy generated plenty of heat. Alexi Hatch, CMO of Acoustic, is more interested in the light.
-<sub>CX Today · Aug 4</sub>
+**[HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]](https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo)**
+As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand…
+<sub>HubSpot Marketing Blog · Aug 6</sub>
 
-**[CRM change management: A practical guide for leaders](https://blog.hubspot.com/marketing/crm-change-management)**
-CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after…
-<sub>HubSpot Marketing Blog · Aug 5</sub>
+## Marketing Tech
+
+**[Stop looking for the perfect attribution model](https://martech.org/stop-looking-for-the-perfect-attribution-model/)**
+No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead.
+<sub>MarTech · Aug 6</sub>
+
+**[Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)**
+The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.
+<sub>TechCrunch AI · Aug 5</sub>
 
 ## Data Platforms
 
-**[Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era](https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era)**
-Today, we are thrilled to announce that Databricks has officially completed the acquisition...
-<sub>Databricks Blog · Aug 3</sub>
+**[BigQuery to Databricks: A Strategic Framework for Modern Migration](https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration)**
+Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...
+<sub>Databricks Blog · Aug 6</sub>
 
 ## AI
+
+**[HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny](https://www.constellationr.com/insights/news/hubspot-sees-turbulence-ahead-due-outcome-based-pricing-shift-ai-budget-scrutiny)**
+<sub>Constellation Research · Aug 6</sub>
 
 **[UK's AISI finds 19 instances where Anthropic's Mythos, OpenAI's GPT-5.6 Sol tried attacks](https://www.constellationr.com/insights/news/uks-aisi-finds-19-instances-where-anthropics-mythos-openais-gpt-56-sol-tried-attacks)**
 <sub>Constellation Research · Aug 5</sub>
@@ -63,23 +68,20 @@ Today, we are thrilled to announce that Databricks has officially completed the 
 With new IL5 authorization, Agentforce 360 — Salesforce’s full portfolio of AI agents, data capabilities, and apps — is now embedded into the Missionforce National Security platform.
 <sub>Salesforce Newsroom · Aug 5</sub>
 
-**[Linux Foundation launches effort to quantify AI returns](https://www.constellationr.com/insights/news/linux-foundation-launches-effort-quantify-ai-returns)**
-<sub>Constellation Research · Aug 4</sub>
-
-**[The AI Agent Security Risks CX Leaders Need to Address in the Wake of OpenAI and Anthropic Hacks](https://www.cxtoday.com/security-privacy-compliance/the-ai-agent-security-risks-cx-leaders-need-to-address-in-the-wake-of-openai-and-anthropic-hacks/)**
-Following disclosures that autonomous AI agents escaped from OpenAI model training breached AI platform Hugging Face, subsequent findings from Anthropic and OpenAI indicate that enterprise AI agents…
-<sub>CX Today · Aug 3</sub>
+**[ServiceNow Moves to Lock Down Enterprise AI Agents With Autonomous Security Portfolio](https://www.cxtoday.com/security-privacy-compliance/servicenow-moves-to-lock-down-enterprise-ai-agents-with-autonomous-security-portfolio/)**
+ServiceNow, which is billing itself as “the fastest-growing major enterprise cybersecurity company,” is bringing identity, exposure management and incident response into a unified security offering…
+<sub>CX Today · Aug 5</sub>
 
 ## Also worth a click
 
+- [Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/) — *Salesforce Ben*
+- [Agentic Intelligence for Contract Review on Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake) — *Snowflake Blog*
+- [Salesforce Hacks 2026: Everything We Know So Far](https://www.salesforceben.com/salesforce-hacks-2026-everything-we-know-so-far/) — *Salesforce Ben*
+- [Linux Foundation launches effort to quantify AI returns](https://www.constellationr.com/insights/news/linux-foundation-launches-effort-quantify-ai-returns) — *Constellation Research*
+- [Uber controls token spend, outlines AI use cases](https://www.constellationr.com/insights/news/uber-controls-token-spend-outlines-ai-use-cases) — *Constellation Research*
+- [Zendesk Explain Why The App Sidebar Is Dead](https://www.cxtoday.com/contact-center/zendesk-explain-why-the-app-sidebar-is-dead-cs-0064/) — *CX Today*
 - [Palantir: Worst nightmare for OpenAI, Anthropic?](https://www.constellationr.com/insights/news/palantir-worst-nightmare-openai-anthropic) — *Constellation Research*
-- [Palantir's Q2 shines, CEO Karp says it's benefiting from LLM economics revolt](https://www.constellationr.com/insights/news/palantirs-q2-shines-ceo-karp-says-its-benefiting-llm-economics-revolt) — *Constellation Research*
-- [SpaceX’s Q2 takeaways: Rocket building knowhow translates to AI data center efficiency](https://www.constellationr.com/insights/news/spacexs-q2-takeaways-rocket-building-knowhow-translates-ai-data-center-efficiency) — *Constellation Research*
-- [OpenAI ad experiment could change what happens after the click](https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/) — *MarTech*
-- [AMD Q2 data center revenue up 107%](https://www.constellationr.com/insights/news/amd-q2-data-center-revenue-107) — *Constellation Research*
-- [New Report: Five Lead-to-Order Agentic Use Cases Growth Leaders MUST be Using Now](https://www.constellationr.com/research/blog/new-report-five-lead-order-agentic-use-cases-growth-leaders-must-be-using-now) — *Constellation Research*
-- [Ethyca launches Astralis to govern enterprise AI agents in real time](https://siliconangle.com/2026/08/04/ethyca-launches-astralis-govern-enterprise-ai-agents-real-time/) — *SiliconANGLE AI*
-- [Salesforce Dynamic Forms: Overview & Deep Dive Tutorial](https://www.salesforceben.com/salesforce-dynamic-forms-overview-deep-dive-tutorial/) — *Salesforce Ben*
+- [Why Multi-Model AI Is the Future of Enterprise Architecture](https://www.constellationr.com/video/insights/why-multi-model-ai-future-enterprise-architecture) — *Constellation Research*
 
 ---
 
