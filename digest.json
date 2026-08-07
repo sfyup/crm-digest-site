@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-06T12:50:30.717Z",
+  "generatedAt": "2026-08-07T11:37:51.285Z",
   "stats": {
-    "considered": 2311,
-    "relevant": 75,
+    "considered": 2316,
+    "relevant": 81,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 609,
-    "minutes": 2.5375,
+    "words": 595,
+    "minutes": 2.4791666666666665,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny — Constellation Research",
     "Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events — Salesforce Ben",
-    "HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation — CX Today",
-    "Stop looking for the perfect attribution model — MarTech"
+    "Big CX News from Avaya, ServiceNow, NiCE & HubSpot — CX Today",
+    "The latest AI-powered martech news and releases — MarTech"
   ],
   "sections": [
     {
@@ -30,7 +30,16 @@
           "source": "Salesforce Ben",
           "date": "2026-08-06T11:32:24.000Z",
           "summary": "Salesforce has conducted another round of layoffs, reportedly affecting positions across Tableau, Trailhead, community engagements, events, and more.",
-          "score": 122.8,
+          "score": 93.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The Great Salesforce Architect Identity Crisis",
+          "url": "https://www.salesforceben.com/the-great-salesforce-architect-identity-crisis/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-07T11:34:12.000Z",
+          "summary": "Nearly every Salesforce role has evolved in some way since its inception, and for the Salesforce Architect role, that change is particularly noticeable.",
+          "score": 67.5,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-05T12:20:05.000Z",
           "summary": "More Salesforce Architects are being asked to make complex design decisions across a growing number of clouds, technologies, and architectural patterns.",
-          "score": 62.6,
+          "score": 42.6,
           "alsoCoveredBy": []
         },
         {
@@ -48,16 +57,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-05T09:00:00.000Z",
           "summary": "Army HRC becomes the first Department of War organization to deploy the newly authorized Agentforce Public Sector in Salesforce’s Impact Level 5 environment SAN FRANCISCO and WASHINGTON, August 5,…",
-          "score": 61.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions",
-          "url": "https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-05T14:41:15.000Z",
-          "summary": "‘No software’ was Salesforce’s rallying cry in its early days, positioning itself as an agile, modern-era jet fighter taking down the outdated biplanes of legacy enterprise tech.",
-          "score": 61.2,
+          "score": 41,
           "alsoCoveredBy": []
         }
       ]
@@ -67,21 +67,30 @@
       "label": "CRM Platforms",
       "items": [
         {
+          "title": "Big CX News from Avaya, ServiceNow, NiCE & HubSpot",
+          "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-avaya-servicenow-nice-hubspot/",
+          "source": "CX Today",
+          "date": "2026-08-07T09:33:29.000Z",
+          "summary": "From a new Avaya CEO to ServiceNow crowning itself as “the fastest-growing major enterprise cybersecurity company,” here are extracts from this week’s most popular news stories.",
+          "score": 59.8,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "HubSpot Customer Agent Resolves 72% of Support Tickets Without Human Escalation",
           "url": "https://www.cxtoday.com/crm/hubspot-ai-agents-customer-agent-data-agent-cx-results/",
           "source": "CX Today",
           "date": "2026-08-06T11:30:52.000Z",
           "summary": "HubSpot prove its AI agents are successfully moving into live customer-service workflows, with the company pitching its CRM as the control layer for deployment.",
-          "score": 57.7,
+          "score": 43.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]",
-          "url": "https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo",
-          "source": "HubSpot Marketing Blog",
-          "date": "2026-08-06T11:00:03.000Z",
-          "summary": "As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand…",
-          "score": 26.7,
+          "title": "Inside Intelligent Workspace: How Vonage Is Rebuilding Agent Experience for a Multi-CRM, AI-Driven Era",
+          "url": "https://www.cxtoday.com/contact-center/inside-intelligent-workspace-how-vonage-is-rebuilding-agent-experience-for-a-multi-crm-ai-driven-era-vonage-cs-0158/",
+          "source": "CX Today",
+          "date": "2026-08-06T14:57:50.000Z",
+          "summary": "Rob Wilkinson speaks with Rodney Hassard, Head of Product, Applications Group at Vonage, about how intelligent workspaces are reshaping the agent experience.",
+          "score": 35.7,
           "alsoCoveredBy": []
         }
       ]
@@ -91,36 +100,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-08-06T15:24:25.000Z",
+          "summary": "Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer.",
+          "score": 50.8,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Stop looking for the perfect attribution model",
           "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
           "source": "MarTech",
           "date": "2026-08-06T12:20:00.000Z",
           "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead.",
-          "score": 43.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-05T20:05:00.000Z",
-          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-          "score": 40,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "data",
-      "label": "Data Platforms",
-      "items": [
-        {
-          "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
-          "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration",
-          "source": "Databricks Blog",
-          "date": "2026-08-06T13:00:00.000Z",
-          "summary": "Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...",
-          "score": 40,
+          "score": 32.9,
           "alsoCoveredBy": []
         }
       ]
@@ -135,7 +129,7 @@
           "source": "Constellation Research",
           "date": "2026-08-06T10:48:50.000Z",
           "summary": "",
-          "score": 132.7,
+          "score": 100.5,
           "alsoCoveredBy": []
         },
         {
@@ -144,16 +138,16 @@
           "source": "Constellation Research",
           "date": "2026-08-05T10:41:05.000Z",
           "summary": "",
-          "score": 129.2,
+          "score": 87,
           "alsoCoveredBy": []
         },
         {
-          "title": "Freshworks strong Q2 highlights power of focus",
-          "url": "https://www.constellationr.com/insights/news/freshworks-strong-q2-highlights-power-focus",
+          "title": "Airbnb graduates to AI native: A look at the metrics, ROI approach",
+          "url": "https://www.constellationr.com/insights/news/airbnb-graduates-ai-native-look-metrics-roi-approach",
           "source": "Constellation Research",
-          "date": "2026-08-04T20:15:00.000Z",
+          "date": "2026-08-07T10:45:01.000Z",
           "summary": "",
-          "score": 81,
+          "score": 53.5,
           "alsoCoveredBy": []
         },
         {
@@ -162,16 +156,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-05T09:00:00.000Z",
           "summary": "With new IL5 authorization, Agentforce 360 — Salesforce’s full portfolio of AI agents, data capabilities, and apps — is now embedded into the Missionforce National Security platform.",
-          "score": 54.7,
+          "score": 36.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "ServiceNow Moves to Lock Down Enterprise AI Agents With Autonomous Security Portfolio",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/servicenow-moves-to-lock-down-enterprise-ai-agents-with-autonomous-security-portfolio/",
-          "source": "CX Today",
-          "date": "2026-08-05T16:21:18.000Z",
-          "summary": "ServiceNow, which is billing itself as “the fastest-growing major enterprise cybersecurity company,” is bringing identity, exposure management and incident response into a unified security offering…",
-          "score": 51.1,
+          "title": "Agentic Intelligence for Contract Review on Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake",
+          "source": "Snowflake Blog",
+          "date": "2026-08-05T18:02:34.000Z",
+          "summary": "See how Snowflake used agentic AI to reduce contract review time by 70%, improve audit coverage and scale revenue-control workflows.",
+          "score": 35.1,
           "alsoCoveredBy": []
         }
       ]
@@ -179,14 +173,29 @@
   ],
   "quickLinks": [
     {
+      "title": "Atlassian cites Q4 Teamwork Graph, context boom",
+      "url": "https://www.constellationr.com/insights/news/atlassian-cites-q4-teamwork-graph-context-boom",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions",
+      "url": "https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Five9 raises outlook after strong Q2",
+      "url": "https://www.constellationr.com/insights/news/five9-raises-outlook-after-strong-q2",
+      "source": "Constellation Research"
+    },
+    {
       "title": "Official 2026 Dreamforce Parties and Events Guide",
       "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Agentic Intelligence for Contract Review on Snowflake",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake",
-      "source": "Snowflake Blog"
+      "title": "ServiceNow Moves to Lock Down Enterprise AI Agents With Autonomous Security Portfolio",
+      "url": "https://www.cxtoday.com/security-privacy-compliance/servicenow-moves-to-lock-down-enterprise-ai-agents-with-autonomous-security-portfolio/",
+      "source": "CX Today"
     },
     {
       "title": "Salesforce Hacks 2026: Everything We Know So Far",
@@ -194,29 +203,14 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Linux Foundation launches effort to quantify AI returns",
-      "url": "https://www.constellationr.com/insights/news/linux-foundation-launches-effort-quantify-ai-returns",
-      "source": "Constellation Research"
+      "title": "Agentic AI in HR: Why Employee Trust Starts with the Data Foundation",
+      "url": "https://www.salesforce.com/blog/data-first-agentic-hr/",
+      "source": "Salesforce Blog"
     },
     {
-      "title": "Uber controls token spend, outlines AI use cases",
-      "url": "https://www.constellationr.com/insights/news/uber-controls-token-spend-outlines-ai-use-cases",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Zendesk Explain Why The App Sidebar Is Dead",
-      "url": "https://www.cxtoday.com/contact-center/zendesk-explain-why-the-app-sidebar-is-dead-cs-0064/",
-      "source": "CX Today"
-    },
-    {
-      "title": "Palantir: Worst nightmare for OpenAI, Anthropic?",
-      "url": "https://www.constellationr.com/insights/news/palantir-worst-nightmare-openai-anthropic",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Why Multi-Model AI Is the Future of Enterprise Architecture",
-      "url": "https://www.constellationr.com/video/insights/why-multi-model-ai-future-enterprise-architecture",
-      "source": "Constellation Research"
+      "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
+      "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration",
+      "source": "Databricks Blog"
     }
   ]
 }
