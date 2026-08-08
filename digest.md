@@ -1,31 +1,31 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Friday, August 7, 2026 · 2–3 min read · 14 stories from 23 sources*
+*Saturday, August 8, 2026 · 2–3 min read · 14 stories from 22 sources*
 
 ## The 60-second version
 
+- Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year — Salesforce Newsroom
 - HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny — Constellation Research
-- Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events — Salesforce Ben
 - Big CX News from Avaya, ServiceNow, NiCE & HubSpot — CX Today
-- The latest AI-powered martech news and releases — MarTech
+- Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders — TechCrunch AI
 
 ## Salesforce
+
+**[Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year](https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/)**
+An analysis of Agentforce usage among businesses consistently leveraging agents from February 2025 to April 2026 shows how different industries deploy AI agents while building trust and recognizing…
+<sub>Salesforce Newsroom · Aug 7</sub>
+
+**[Map Collection Support in Salesforce Flow Is On the Roadmap](https://www.salesforceben.com/map-collection-support-in-salesforce-flow-is-on-the-roadmap/)**
+The Apex vs. Flow debate has raged on since I started my Salesforce career over a decade ago. While clicks-not-code development has evolved to the point where Salesforce encourages it to be used in…
+<sub>Salesforce Ben · Aug 7</sub>
 
 **[Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events](https://www.salesforceben.com/exclusive-salesforce-cuts-jobs-across-tableau-trailhead-community-and-events/)**
 Salesforce has conducted another round of layoffs, reportedly affecting positions across Tableau, Trailhead, community engagements, events, and more.
 <sub>Salesforce Ben · Aug 6</sub>
 
-**[The Great Salesforce Architect Identity Crisis](https://www.salesforceben.com/the-great-salesforce-architect-identity-crisis/)**
-Nearly every Salesforce role has evolved in some way since its inception, and for the Salesforce Architect role, that change is particularly noticeable.
+**[Is the Salesforce CTA Becoming a Luxury Credential?](https://www.salesforceben.com/is-the-salesforce-cta-becoming-a-luxury-credential/)**
+For many Salesforce professionals, becoming a Certified Technical Architect (CTA) is the ultimate career milestone.
 <sub>Salesforce Ben · Aug 7</sub>
-
-**[Introducing Agentforce for Architects: Guidance On Demand](https://www.salesforceben.com/introducing-agentforce-for-architects-guidance-on-demand/)**
-More Salesforce Architects are being asked to make complex design decisions across a growing number of clouds, technologies, and architectural patterns.
-<sub>Salesforce Ben · Aug 5</sub>
-
-**[U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families](https://www.salesforce.com/news/press-releases/2026/08/05/us-army-hrc-agentforce-ai-powered-support/)**
-Army HRC becomes the first Department of War organization to deploy the newly authorized Agentforce Public Sector in Salesforce’s Impact Level 5 environment SAN FRANCISCO and WASHINGTON, August 5,…
-<sub>Salesforce Newsroom · Aug 5</sub>
 
 ## CRM Platforms
 
@@ -41,46 +41,47 @@ HubSpot prove its AI agents are successfully moving into live customer-service w
 Rob Wilkinson speaks with Rodney Hassard, Head of Product, Applications Group at Vonage, about how intelligent workspaces are reshaping the agent experience.
 <sub>CX Today · Aug 6</sub>
 
+**[Tokenomics - the HubSpot worldview as CEO Yamini Rangan looks to meet the needs of customers seeking AI confidence](https://diginomica.com/tokenomics-hubspot-worldview-ceo-yamini-rangan-looks-meet-needs-customers-seeking-ai-confidence)**
+At times of tech transition, customers increasingly look for more re-assurance before committing to spend. Vendors need to meet them on their own terms.
+<sub>Diginomica · Aug 7</sub>
+
 ## Marketing Tech
 
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer.
-<sub>MarTech · Aug 6</sub>
-
-**[Stop looking for the perfect attribution model](https://martech.org/stop-looking-for-the-perfect-attribution-model/)**
-No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead.
-<sub>MarTech · Aug 6</sub>
+**[Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)**
+The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.
+<sub>TechCrunch AI · Aug 5</sub>
 
 ## AI
 
 **[HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny](https://www.constellationr.com/insights/news/hubspot-sees-turbulence-ahead-due-outcome-based-pricing-shift-ai-budget-scrutiny)**
 <sub>Constellation Research · Aug 6</sub>
 
-**[UK's AISI finds 19 instances where Anthropic's Mythos, OpenAI's GPT-5.6 Sol tried attacks](https://www.constellationr.com/insights/news/uks-aisi-finds-19-instances-where-anthropics-mythos-openais-gpt-56-sol-tried-attacks)**
-<sub>Constellation Research · Aug 5</sub>
+**[Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
+Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents…
+<sub>TechCrunch AI · Aug 7</sub>
 
 **[Airbnb graduates to AI native: A look at the metrics, ROI approach](https://www.constellationr.com/insights/news/airbnb-graduates-ai-native-look-metrics-roi-approach)**
 <sub>Constellation Research · Aug 7</sub>
 
-**[Missionforce National Security Unveils IL5-Authorized AI Agents and Apps to Drive Decision Advantage, Readiness, and Enhanced Warfighter Support](https://www.salesforce.com/news/press-releases/2026/08/05/dow-agentforce-mission-readiness/)**
-With new IL5 authorization, Agentforce 360 — Salesforce’s full portfolio of AI agents, data capabilities, and apps — is now embedded into the Missionforce National Security platform.
-<sub>Salesforce Newsroom · Aug 5</sub>
+**[Economic Optimism, AI’s New Frontier, and Finding Your 25th Hour | DisrupTV Ep 447](https://www.constellationr.com/video/disruptv/economic-optimism-ais-new-frontier-and-finding-your-25th-hour-disruptv-ep-447)**
+Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.
+<sub>Constellation Research · Aug 7</sub>
 
-**[Agentic Intelligence for Contract Review on Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake)**
-See how Snowflake used agentic AI to reduce contract review time by 70%, improve audit coverage and scale revenue-control workflows.
-<sub>Snowflake Blog · Aug 5</sub>
+**[OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
+OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally…
+<sub>TechCrunch AI · Aug 7</sub>
 
 ## Also worth a click
 
+- [The Great Salesforce Architect Identity Crisis](https://www.salesforceben.com/the-great-salesforce-architect-identity-crisis/) — *Salesforce Ben*
+- [Salesforce Is Poised to Win the Enterprise AI Race](https://www.salesforceben.com/salesforce-is-poised-to-win-the-enterprise-ai-race/) — *Salesforce Ben*
 - [Atlassian cites Q4 Teamwork Graph, context boom](https://www.constellationr.com/insights/news/atlassian-cites-q4-teamwork-graph-context-boom) — *Constellation Research*
-- [Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions](https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/) — *Salesforce Ben*
 - [Five9 raises outlook after strong Q2](https://www.constellationr.com/insights/news/five9-raises-outlook-after-strong-q2) — *Constellation Research*
-- [Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/) — *Salesforce Ben*
-- [ServiceNow Moves to Lock Down Enterprise AI Agents With Autonomous Security Portfolio](https://www.cxtoday.com/security-privacy-compliance/servicenow-moves-to-lock-down-enterprise-ai-agents-with-autonomous-security-portfolio/) — *CX Today*
-- [Salesforce Hacks 2026: Everything We Know So Far](https://www.salesforceben.com/salesforce-hacks-2026-everything-we-know-so-far/) — *Salesforce Ben*
+- [How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity](https://www.salesforce.com/blog/pacsun-customer-story/) — *Salesforce Blog*
+- [Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions](https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/) — *Salesforce Ben*
 - [Agentic AI in HR: Why Employee Trust Starts with the Data Foundation](https://www.salesforce.com/blog/data-first-agentic-hr/) — *Salesforce Blog*
-- [BigQuery to Databricks: A Strategic Framework for Modern Migration](https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration) — *Databricks Blog*
+- [Introducing Agentforce for Architects: Guidance On Demand](https://www.salesforceben.com/introducing-agentforce-for-architects-guidance-on-demand/) — *Salesforce Ben*
 
 ---
 
-<sub>Every headline links to its original source. 2316 items scanned from 23/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2307 items scanned from 22/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
