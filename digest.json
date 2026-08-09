@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-08T11:19:50.378Z",
+  "generatedAt": "2026-08-09T11:19:44.572Z",
   "stats": {
-    "considered": 2307,
-    "relevant": 59,
+    "considered": 2317,
+    "relevant": 49,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 22,
+    "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 644,
-    "minutes": 2.683333333333333,
+    "words": 602,
+    "minutes": 2.5083333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year — Salesforce Newsroom",
-    "HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny — Constellation Research",
+    "Enterprises need better AI value metrics and vendors need better pricing models — Constellation Research",
+    "Map Collection Support in Salesforce Flow Is On the Roadmap — Salesforce Ben",
     "Big CX News from Avaya, ServiceNow, NiCE & HubSpot — CX Today",
-    "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders — TechCrunch AI"
+    "Personalization still falls short of customer expectations — MarTech"
   ],
   "sections": [
     {
@@ -25,30 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year",
-          "url": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-08-07T12:00:00.000Z",
-          "summary": "An analysis of Agentforce usage among businesses consistently leveraging agents from February 2025 to April 2026 shows how different industries deploy AI agents while building trust and recognizing…",
-          "score": 67.8,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "Map Collection Support in Salesforce Flow Is On the Roadmap",
           "url": "https://www.salesforceben.com/map-collection-support-in-salesforce-flow-is-on-the-roadmap/",
           "source": "Salesforce Ben",
           "date": "2026-08-07T12:36:45.000Z",
           "summary": "The Apex vs. Flow debate has raged on since I started my Salesforce career over a decade ago. While clicks-not-code development has evolved to the point where Salesforce encourages it to be used in…",
-          "score": 67.6,
+          "score": 45.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events",
-          "url": "https://www.salesforceben.com/exclusive-salesforce-cuts-jobs-across-tableau-trailhead-community-and-events/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-06T11:32:24.000Z",
-          "summary": "Salesforce has conducted another round of layoffs, reportedly affecting positions across Tableau, Trailhead, community engagements, events, and more.",
-          "score": 62.5,
+          "title": "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year",
+          "url": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-08-07T12:00:00.000Z",
+          "summary": "An analysis of Agentforce usage among businesses consistently leveraging agents from February 2025 to April 2026 shows how different industries deploy AI agents while building trust and recognizing…",
+          "score": 45.4,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +48,16 @@
           "source": "Salesforce Ben",
           "date": "2026-08-07T12:48:19.000Z",
           "summary": "For many Salesforce professionals, becoming a Certified Technical Architect (CTA) is the ultimate career milestone.",
-          "score": 51.7,
+          "score": 34.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The Great Salesforce Architect Identity Crisis",
+          "url": "https://www.salesforceben.com/the-great-salesforce-architect-identity-crisis/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-07T11:34:12.000Z",
+          "summary": "Nearly every Salesforce role has evolved in some way since its inception, and for the Salesforce Architect role, that change is particularly noticeable.",
+          "score": 33.9,
           "alsoCoveredBy": []
         }
       ]
@@ -72,7 +72,16 @@
           "source": "CX Today",
           "date": "2026-08-07T09:33:29.000Z",
           "summary": "From a new Avaya CEO to ServiceNow crowning itself as “the fastest-growing major enterprise cybersecurity company,” here are extracts from this week’s most popular news stories.",
-          "score": 44.7,
+          "score": 29.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Supplier Engagement in Dynamics 365 Supply Chain Management is now available in public preview",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/06/supplier-engagement-supply-chain-management/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-06T15:21:22.000Z",
+          "summary": "Supplier Engagement, now in public preview for Dynamics 365 Supply Chain Management, helps organizations streamline supplier onboarding, lifecycle management, and collaboration from a centralized…",
+          "score": 15.4,
           "alsoCoveredBy": []
         },
         {
@@ -81,25 +90,7 @@
           "source": "CX Today",
           "date": "2026-08-06T11:30:52.000Z",
           "summary": "HubSpot prove its AI agents are successfully moving into live customer-service workflows, with the company pitching its CRM as the control layer for deployment.",
-          "score": 29.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Inside Intelligent Workspace: How Vonage Is Rebuilding Agent Experience for a Multi-CRM, AI-Driven Era",
-          "url": "https://www.cxtoday.com/contact-center/inside-intelligent-workspace-how-vonage-is-rebuilding-agent-experience-for-a-multi-crm-ai-driven-era-vonage-cs-0158/",
-          "source": "CX Today",
-          "date": "2026-08-06T14:57:50.000Z",
-          "summary": "Rob Wilkinson speaks with Rodney Hassard, Head of Product, Applications Group at Vonage, about how intelligent workspaces are reshaping the agent experience.",
-          "score": 24.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Tokenomics - the HubSpot worldview as CEO Yamini Rangan looks to meet the needs of customers seeking AI confidence",
-          "url": "https://diginomica.com/tokenomics-hubspot-worldview-ceo-yamini-rangan-looks-meet-needs-customers-seeking-ai-confidence",
-          "source": "Diginomica",
-          "date": "2026-08-07T07:35:01.000Z",
-          "summary": "At times of tech transition, customers increasingly look for more re-assurance before committing to spend. Vendors need to meet them on their own terms.",
-          "score": 16.6,
+          "score": 14.7,
           "alsoCoveredBy": []
         }
       ]
@@ -109,12 +100,21 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-05T20:05:00.000Z",
-          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-          "score": 16.5,
+          "title": "Personalization still falls short of customer expectations",
+          "url": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
+          "source": "MarTech",
+          "date": "2026-08-07T12:17:00.000Z",
+          "summary": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations.",
+          "score": 20,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-08-06T15:24:25.000Z",
+          "summary": "Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer.",
+          "score": 18.8,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +124,21 @@
       "label": "AI",
       "items": [
         {
-          "title": "HubSpot sees turbulence ahead due to outcome-based pricing shift, AI budget scrutiny",
-          "url": "https://www.constellationr.com/insights/news/hubspot-sees-turbulence-ahead-due-outcome-based-pricing-shift-ai-budget-scrutiny",
+          "title": "Enterprises need better AI value metrics and vendors need better pricing models",
+          "url": "https://www.constellationr.com/insights/news/enterprises-need-better-ai-value-metrics-and-vendors-need-better-pricing-models",
           "source": "Constellation Research",
-          "date": "2026-08-06T10:48:50.000Z",
+          "date": "2026-08-09T10:01:27.000Z",
           "summary": "",
-          "score": 67.1,
+          "score": 120.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "source": "TechCrunch AI",
+          "date": "2026-08-08T19:41:13.000Z",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "score": 34.1,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +147,7 @@
           "source": "TechCrunch AI",
           "date": "2026-08-07T16:16:09.000Z",
           "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents…",
-          "score": 43.2,
+          "score": 29.7,
           "alsoCoveredBy": []
         },
         {
@@ -147,7 +156,7 @@
           "source": "Constellation Research",
           "date": "2026-08-07T10:45:01.000Z",
           "summary": "",
-          "score": 40.2,
+          "score": 26.7,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +165,7 @@
           "source": "Constellation Research",
           "date": "2026-08-07T22:25:06.000Z",
           "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
-          "score": 32.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-07T22:48:24.000Z",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally…",
-          "score": 24.9,
+          "score": 22.9,
           "alsoCoveredBy": []
         }
       ]
@@ -173,8 +173,8 @@
   ],
   "quickLinks": [
     {
-      "title": "The Great Salesforce Architect Identity Crisis",
-      "url": "https://www.salesforceben.com/the-great-salesforce-architect-identity-crisis/",
+      "title": "Exclusive: Salesforce Cuts Jobs Across Tableau, Trailhead, Community, and Events",
+      "url": "https://www.salesforceben.com/exclusive-salesforce-cuts-jobs-across-tableau-trailhead-community-and-events/",
       "source": "Salesforce Ben"
     },
     {
@@ -188,9 +188,9 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Five9 raises outlook after strong Q2",
-      "url": "https://www.constellationr.com/insights/news/five9-raises-outlook-after-strong-q2",
-      "source": "Constellation Research"
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
@@ -198,19 +198,19 @@
       "source": "Salesforce Blog"
     },
     {
-      "title": "Salesforce’s M&A Playbook: Lessons from 25 Years of Acquisitions",
-      "url": "https://www.salesforceben.com/salesforces-ma-playbook-lessons-from-25-years-of-acquisitions/",
-      "source": "Salesforce Ben"
+      "title": "Five9 raises outlook after strong Q2",
+      "url": "https://www.constellationr.com/insights/news/five9-raises-outlook-after-strong-q2",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Inside Intelligent Workspace: How Vonage Is Rebuilding Agent Experience for a Multi-CRM, AI-Driven Era",
+      "url": "https://www.cxtoday.com/contact-center/inside-intelligent-workspace-how-vonage-is-rebuilding-agent-experience-for-a-multi-crm-ai-driven-era-vonage-cs-0158/",
+      "source": "CX Today"
     },
     {
       "title": "Agentic AI in HR: Why Employee Trust Starts with the Data Foundation",
       "url": "https://www.salesforce.com/blog/data-first-agentic-hr/",
       "source": "Salesforce Blog"
-    },
-    {
-      "title": "Introducing Agentforce for Architects: Guidance On Demand",
-      "url": "https://www.salesforceben.com/introducing-agentforce-for-architects-guidance-on-demand/",
-      "source": "Salesforce Ben"
     }
   ]
 }
