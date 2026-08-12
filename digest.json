@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-11T11:36:57.683Z",
+  "generatedAt": "2026-08-12T11:38:19.133Z",
   "stats": {
-    "considered": 2328,
-    "relevant": 40,
-    "featured": 13,
+    "considered": 2330,
+    "relevant": 80,
+    "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 531,
-    "minutes": 2.2125,
+    "words": 588,
+    "minutes": 2.45,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Meta releases open weight Muse Glimmer model with open Muse Spark 1.2 on tap — Constellation Research",
-    "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question — CX Today",
-    "The marketing-to-sales handoff is where revenue leaks — MarTech",
-    "Y Combinator Releases Open Source Agentforce/Claude Tag Competitor — Salesforce Ben"
+    "Ultimate Guide to Anthropic’s Claude for Salesforce Professionals — Salesforce Ben",
+    "Official 2026 Dreamforce Parties and Events Guide — Salesforce Ben",
+    "New Release: 39 Constellation ShortList™ Updates for Q3 2026 — Constellation Research",
+    "Snowflake moves enterprise AI beyond fragmented data pipelines — SiliconANGLE AI"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Official 2026 Dreamforce Parties and Events Guide",
+          "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-12T06:49:00.000Z",
+          "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
+          "score": 81.2,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question",
           "url": "https://www.cxtoday.com/crm/salesforce-says-agentforce-adoption-is-accelerating-but-enterprise-cx-readiness-remains-in-question/",
           "source": "CX Today",
           "date": "2026-08-10T15:20:49.000Z",
           "summary": "Salesforce says businesses are rapidly scaling AI agent deployments, but data readiness, workflow complexity and unclear success measures could determine whether Agentforce adoption translates into…",
-          "score": 88.2,
+          "score": 60.2,
           "alsoCoveredBy": []
         },
         {
@@ -39,25 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-10T07:00:00.000Z",
           "summary": "Y Combinator has just published one of its internal tools as an open-source project that anyone can set up for use inside their organization.",
-          "score": 71.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Complete Guide to Dreamforce 2026",
-          "url": "https://www.salesforceben.com/dreamforce/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-11T09:49:22.000Z",
-          "summary": "As Salesforce’s flagship conference, Dreamforce is the highlight of the year for many professionals in the ecosystem.",
-          "score": 58.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Is Your Archived Salesforce Data Actually Ready for AI?",
-          "url": "https://www.salesforceben.com/is-your-archived-salesforce-data-actually-ready-for-ai/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-10T10:00:00.000Z",
-          "summary": "Every growing Salesforce org runs into the same conversation eventually: storage costs are climbing, and it’s all starting to feel a little sluggish.",
-          "score": 58.3,
+          "score": 46.1,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +57,16 @@
           "source": "Salesforce Blog",
           "date": "2026-08-10T13:00:00.000Z",
           "summary": "Your tools work better together — here's how Salesforce CRM integrations help small businesses master the customer experience.",
-          "score": 42,
+          "score": 28.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Build Your Future: Dreamforce Tips For Startups and SMBs",
+          "url": "https://www.salesforce.com/blog/small-business/dreamforce-tips-for-startups/",
+          "source": "Salesforce Blog",
+          "date": "2026-08-11T13:00:00.000Z",
+          "summary": "Welcome to three days of the biggest ideas, boldest launches, and real connections — here's how to make every moment count.",
+          "score": 23.5,
           "alsoCoveredBy": []
         }
       ]
@@ -76,30 +76,45 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The marketing-to-sales handoff is where revenue leaks",
-          "url": "https://martech.org/the-marketing-to-sales-handoff-is-where-revenue-leaks/",
-          "source": "MarTech",
-          "date": "2026-08-10T12:55:00.000Z",
-          "summary": "Buying signals lose value when speed and context disappear. Connected workflows turn more opportunities into revenue.",
-          "score": 13.9,
+          "title": "New Release: 39 Constellation ShortList™ Updates for Q3 2026",
+          "url": "https://www.constellationr.com/research/blog/new-release-39-constellation-shortlisttm-updates-q3-2026",
+          "source": "Constellation Research",
+          "date": "2026-08-12T14:00:00.000Z",
+          "summary": "Our analysts are former practitioners who draw on deep, firsthand experience to deliver pragmatic, forward-looking guidance.",
+          "score": 56.4,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "data",
+      "label": "Data Platforms",
+      "items": [
+        {
+          "title": "Snowflake moves enterprise AI beyond fragmented data pipelines",
+          "url": "https://siliconangle.com/2026/08/11/data-interoperability-ai-pipelines-awsmarketplaceseries/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-08-11T20:20:51.000Z",
+          "summary": "Data interoperability is quickly becoming a practical requirement for companies trying to move artificial intelligence into production.",
+          "score": 51.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "5 AI blind spots that cost you conversions",
-          "url": "https://martech.org/5-ai-blind-spots-that-cost-you-conversions/",
-          "source": "MarTech",
-          "date": "2026-08-10T12:45:00.000Z",
-          "summary": "Every marketer can generate competent copy. Few understand what actually changes behavior.",
-          "score": 13.9,
+          "title": "Electric joins Databricks to bring WASM Postgres to AI agent sandboxes",
+          "url": "https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes",
+          "source": "Databricks Blog",
+          "date": "2026-08-11T07:00:00.000Z",
+          "summary": "Today, we’re excited to welcome Electric to Databricks. The world is building a new...",
+          "score": 35.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-          "source": "OpenAI News",
-          "date": "2026-08-10T00:00:00.000Z",
-          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-          "score": 13.6,
+          "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases",
+          "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
+          "source": "Databricks Blog",
+          "date": "2026-08-11T19:00:00.000Z",
+          "summary": "Most code at Databricks is now written by agents. For the moments engineers still...",
+          "score": 24.8,
           "alsoCoveredBy": []
         }
       ]
@@ -109,48 +124,48 @@
       "label": "AI",
       "items": [
         {
+          "title": "Ultimate Guide to Anthropic’s Claude for Salesforce Professionals",
+          "url": "https://www.salesforceben.com/ultimate-guide-to-anthropics-claude-for-salesforce-professionals/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-12T10:56:27.000Z",
+          "summary": "Over time, Anthropic has become less unfamiliar and more of a household name among Salesforce professionals.",
+          "score": 103.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Nvidia launches Nemotron 3.5 Lightning as US open model momentum picks up",
+          "url": "https://www.constellationr.com/insights/news/nvidia-launches-nemotron-35-lightning-us-open-model-momentum-picks",
+          "source": "Constellation Research",
+          "date": "2026-08-11T14:50:10.000Z",
+          "summary": "",
+          "score": 69.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Meta releases open weight Muse Glimmer model with open Muse Spark 1.2 on tap",
           "url": "https://www.constellationr.com/insights/news/meta-releases-open-weight-muse-glimmer-model-open-muse-spark-12-tap",
           "source": "Constellation Research",
           "date": "2026-08-10T10:58:02.000Z",
           "summary": "",
-          "score": 89.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Enterprises need better AI value metrics and vendors need better pricing models",
-          "url": "https://www.constellationr.com/insights/news/enterprises-need-better-ai-value-metrics-and-vendors-need-better-pricing-models",
-          "source": "Constellation Research",
-          "date": "2026-08-09T10:01:27.000Z",
-          "summary": "",
           "score": 59.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "The Charlatans at the Inflection Point",
-          "url": "https://www.constellationr.com/research/blog/charlatans-inflection-point",
-          "source": "Constellation Research",
-          "date": "2026-08-09T20:46:13.000Z",
-          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
-          "score": 42.9,
+          "title": "AI and Search (1/2) - the agentic revolution in commerce with LLMs, Product Intelligence and, er, Feedonomics!",
+          "url": "https://diginomica.com/ai-and-search-12-agentic-revolution-commerce-llms-product-intelligence-and-er-feedonomics",
+          "source": "Diginomica",
+          "date": "2026-08-12T11:00:01.000Z",
+          "summary": "Caveat emptor as the agentic commerce bandwagon rumbles on. From the buy side, the shopping journey no longer begins with traditional search in an increasingly high number of cases.",
+          "score": 55.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Can CallMiner Eureka Turn Conversations Into CX Action?",
-          "url": "https://www.cxtoday.com/customer-analytics-intelligence/callminer-eureka-review-2026/",
-          "source": "CX Today",
-          "date": "2026-08-11T11:34:47.000Z",
-          "summary": "Conversation intelligence has spent years promising contact centers a clearer picture of what customers are saying.",
-          "score": 40.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI adds technology to compete for ad dollars",
-          "url": "https://martech.org/openai-adds-technology-to-compete-for-ad-dollars/",
-          "source": "MarTech",
-          "date": "2026-08-10T12:13:00.000Z",
-          "summary": "Product carousels and AppsFlyer attribution give ChatGPT more of what performance marketers need to move beyond experimental ad buys.",
-          "score": 38.1,
+          "title": "The LLM tax - why your AI agents are wasting tokens and how to stop it",
+          "url": "https://diginomica.com/llm-tax-why-your-ai-agents-are-wasting-tokens-and-how-stop-it",
+          "source": "Diginomica",
+          "date": "2026-08-12T07:28:34.000Z",
+          "summary": "Celonis' Manuel Haug argues that every time an AI agent makes an unnecessary call to an LLM, they leak a little money. Those trickles can quickly add up to a flood.",
+          "score": 47.9,
           "alsoCoveredBy": []
         }
       ]
@@ -158,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Salesforce Promotes Long-Term Executive Miguel Milano to COO",
-      "url": "https://www.salesforceben.com/salesforce-promotes-long-term-executive-miguel-milano-to-coo/",
+      "title": "CoreWeave Q2 stronger than expected, touts backlog",
+      "url": "https://www.constellationr.com/insights/news/coreweave-q2-stronger-expected-touts-backlog",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Anthropic to start watermarking Claude-generated text, images",
+      "url": "https://siliconangle.com/2026/08/11/anthropic-start-watermarking-claude-generated-text-images/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Complete Guide to Dreamforce 2026",
+      "url": "https://www.salesforceben.com/dreamforce/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Are Salesforce Professionals Leaving the Ecosystem? Here’s the Data",
-      "url": "https://www.salesforceben.com/are-salesforce-professionals-leaving-the-ecosystem-heres-the-data/",
+      "title": "Genesys Puts AI Trust at the Center of Its Agentic CX Strategy",
+      "url": "https://www.cxtoday.com/ai-automation-in-cx/genesys-agentic-ai-contact-center-trust/",
+      "source": "CX Today"
+    },
+    {
+      "title": "What Elastic and OpenAI’s New Partnership Means for CX Service Management",
+      "url": "https://www.cxtoday.com/service-management-connectivity/elastic-open-partnership-service-management-connectivity-bpo/",
+      "source": "CX Today"
+    },
+    {
+      "title": "Zuckerberg Proposes to Transform the Customer Journey with Personal AI Agents for Billions",
+      "url": "https://www.cxtoday.com/security-privacy-compliance/zuckerberg-personal-ai-agents-cx/",
+      "source": "CX Today"
+    },
+    {
+      "title": "Is Your Archived Salesforce Data Actually Ready for AI?",
+      "url": "https://www.salesforceben.com/is-your-archived-salesforce-data-actually-ready-for-ai/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce Winter ‘27 Treasure Hunt: Preview Orgs Are Live!",
-      "url": "https://www.salesforceben.com/salesforce-winter-27-treasure-hunt-preview-orgs-are-live/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Ultimate Guide to the Free Features in Salesforce Foundations",
-      "url": "https://www.salesforceben.com/what-can-you-actually-use-for-free-in-salesforce-with-foundations/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "How PwC hopes to hone its agentic front office approach with OpenAI",
-      "url": "https://diginomica.com/how-pwc-hopes-hone-its-agentic-front-office-approach-openai",
-      "source": "Diginomica"
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Agents are getting more skilful and more numerous, according to Salesforce data, but is the value there to survive AI skepticism?",
-      "url": "https://diginomica.com/agents-are-getting-more-skilful-and-more-numerous-according-salesforce-data-value-there-survive-ai",
-      "source": "Diginomica"
-    },
-    {
-      "title": "No Code? No Problem. How Salesforce Employees Are Building AI Skills Every Day",
-      "url": "https://www.salesforce.com/blog/slackbot-no-code-ai-tools-salesforce/",
-      "source": "Salesforce Blog"
+      "title": "SpaceXAI launches Grok Bot work assistant",
+      "url": "https://www.constellationr.com/insights/news/spacexai-launches-grok-bot-work-assistant",
+      "source": "Constellation Research"
     }
   ]
 }
