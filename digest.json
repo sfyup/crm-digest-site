@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-12T11:38:19.133Z",
+  "generatedAt": "2026-08-13T11:38:38.261Z",
   "stats": {
-    "considered": 2330,
-    "relevant": 80,
+    "considered": 2332,
+    "relevant": 93,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 588,
-    "minutes": 2.45,
+    "words": 582,
+    "minutes": 2.425,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Ultimate Guide to Anthropic’s Claude for Salesforce Professionals — Salesforce Ben",
+    "IBM, OpenAI forge AI consulting, delivery pact — Constellation Research",
     "Official 2026 Dreamforce Parties and Events Guide — Salesforce Ben",
-    "New Release: 39 Constellation ShortList™ Updates for Q3 2026 — Constellation Research",
-    "Snowflake moves enterprise AI beyond fragmented data pipelines — SiliconANGLE AI"
+    "Snowflake moves enterprise AI beyond fragmented data pipelines — SiliconANGLE AI",
+    "Gartner Magic Quadrant for CRM Sales Platforms 2026: The Rundown — CX Today"
   ],
   "sections": [
     {
@@ -30,58 +30,67 @@
           "source": "Salesforce Ben",
           "date": "2026-08-12T06:49:00.000Z",
           "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
-          "score": 81.2,
+          "score": 59.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question",
-          "url": "https://www.cxtoday.com/crm/salesforce-says-agentforce-adoption-is-accelerating-but-enterprise-cx-readiness-remains-in-question/",
-          "source": "CX Today",
-          "date": "2026-08-10T15:20:49.000Z",
-          "summary": "Salesforce says businesses are rapidly scaling AI agent deployments, but data readiness, workflow complexity and unclear success measures could determine whether Agentforce adoption translates into…",
-          "score": 60.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Y Combinator Releases Open Source Agentforce/Claude Tag Competitor",
-          "url": "https://www.salesforceben.com/y-combinator-releases-open-source-multiplayer-agent-harness/",
+          "title": "The State of Salesforce Salaries in 2026",
+          "url": "https://www.salesforceben.com/the-state-of-salesforce-salaries-in-2026/",
           "source": "Salesforce Ben",
-          "date": "2026-08-10T07:00:00.000Z",
-          "summary": "Y Combinator has just published one of its internal tools as an open-source project that anyone can set up for use inside their organization.",
-          "score": 46.1,
+          "date": "2026-08-12T14:56:24.000Z",
+          "summary": "Salesforce has proven to be a lucrative and stable career for those with the ability to master it. But with a drop in demand following the COVID boom, sweeping layoffs across the tech sector, and…",
+          "score": 56.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Connectors: CRM Integrations For Small Business",
-          "url": "https://www.salesforce.com/blog/small-business/salesforce-integrations-for-small-teams/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-10T13:00:00.000Z",
-          "summary": "Your tools work better together — here's how Salesforce CRM integrations help small businesses master the customer experience.",
-          "score": 28.3,
+          "title": "Agentic AI workforce is more than doubling year on year, says Salesforce",
+          "url": "https://www.salesforce.com/news/linked-content/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-08-12T17:00:19.000Z",
+          "summary": "",
+          "score": 50.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Build Your Future: Dreamforce Tips For Startups and SMBs",
-          "url": "https://www.salesforce.com/blog/small-business/dreamforce-tips-for-startups/",
+          "title": "What Is Dreamforce? Everything About Salesforce’s Annual Event",
+          "url": "https://www.salesforce.com/blog/what-is-dreamforce/",
           "source": "Salesforce Blog",
-          "date": "2026-08-11T13:00:00.000Z",
-          "summary": "Welcome to three days of the biggest ideas, boldest launches, and real connections — here's how to make every moment count.",
-          "score": 23.5,
+          "date": "2026-08-12T19:21:55.000Z",
+          "summary": "Dreamforce is Salesforce's annual event for becoming an Agentic Enterprise — where attendees learn, connect, have fun, and give back.",
+          "score": 39,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "martech",
-      "label": "Marketing Tech",
+      "key": "crm",
+      "label": "CRM Platforms",
       "items": [
         {
-          "title": "New Release: 39 Constellation ShortList™ Updates for Q3 2026",
-          "url": "https://www.constellationr.com/research/blog/new-release-39-constellation-shortlisttm-updates-q3-2026",
-          "source": "Constellation Research",
-          "date": "2026-08-12T14:00:00.000Z",
-          "summary": "Our analysts are former practitioners who draw on deep, firsthand experience to deliver pragmatic, forward-looking guidance.",
-          "score": 56.4,
+          "title": "Gartner Magic Quadrant for CRM Sales Platforms 2026: The Rundown",
+          "url": "https://www.cxtoday.com/crm/gartner-magic-quadrant-crm-sales-platforms-2026/",
+          "source": "CX Today",
+          "date": "2026-08-12T15:52:33.000Z",
+          "summary": "Gartner has published its 2026 Magic Quadrant for CRM Sales Platforms, and there is an important caveat before getting into the vendor rankings.",
+          "score": 32,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Sales Platforms for the sixteenth consecutive year",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/11/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-crm-sales-platforms-for-the-sixteenth-consecutive-year/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-11T16:30:00.000Z",
+          "summary": "Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Sales Platforms. Learn how AI-powered capabilities in Dynamics 365 are helping sales teams move from systems of record…",
+          "score": 29.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Microsoft enhances the Implementation Portal for Dynamics 365 with business process visualization",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/11/dynamics-365-implementation-portal-business-process-visualization/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-11T15:30:00.000Z",
+          "summary": "Access Microsoft Business Process Catalog diagrams directly in the Dynamics 365 Implementation Portal to align stakeholders and improve implementation planning.",
+          "score": 28.5,
           "alsoCoveredBy": []
         }
       ]
@@ -96,25 +105,16 @@
           "source": "SiliconANGLE AI",
           "date": "2026-08-11T20:20:51.000Z",
           "summary": "Data interoperability is quickly becoming a practical requirement for companies trying to move artificial intelligence into production.",
-          "score": 51.5,
+          "score": 36.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Electric joins Databricks to bring WASM Postgres to AI agent sandboxes",
-          "url": "https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes",
+          "title": "Databricks Network Configuration delivery to Tens of Millions of Serverless VMs",
+          "url": "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms",
           "source": "Databricks Blog",
-          "date": "2026-08-11T07:00:00.000Z",
-          "summary": "Today, we’re excited to welcome Electric to Databricks. The world is building a new...",
-          "score": 35.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases",
-          "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
-          "source": "Databricks Blog",
-          "date": "2026-08-11T19:00:00.000Z",
-          "summary": "Most code at Databricks is now written by agents. For the moments engineers still...",
-          "score": 24.8,
+          "date": "2026-08-12T20:00:00.000Z",
+          "summary": "Databricks' serverless platform launches tens of millions of VMs daily, and...",
+          "score": 28.5,
           "alsoCoveredBy": []
         }
       ]
@@ -124,30 +124,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "IBM, OpenAI forge AI consulting, delivery pact",
+          "url": "https://www.constellationr.com/insights/news/ibm-openai-forge-ai-consulting-delivery-pact",
+          "source": "Constellation Research",
+          "date": "2026-08-13T10:00:00.000Z",
+          "summary": "",
+          "score": 106.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Dynatrace acquires Arize, accelerates AI observability efforts",
+          "url": "https://www.constellationr.com/insights/news/dynatrace-acquires-arize-accelerates-ai-observability-efforts",
+          "source": "Constellation Research",
+          "date": "2026-08-13T11:12:17.000Z",
+          "summary": "",
+          "score": 77.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Ultimate Guide to Anthropic’s Claude for Salesforce Professionals",
           "url": "https://www.salesforceben.com/ultimate-guide-to-anthropics-claude-for-salesforce-professionals/",
           "source": "Salesforce Ben",
           "date": "2026-08-12T10:56:27.000Z",
           "summary": "Over time, Anthropic has become less unfamiliar and more of a household name among Salesforce professionals.",
-          "score": 103.2,
+          "score": 77.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Nvidia launches Nemotron 3.5 Lightning as US open model momentum picks up",
-          "url": "https://www.constellationr.com/insights/news/nvidia-launches-nemotron-35-lightning-us-open-model-momentum-picks",
+          "title": "Beyond Public Models: The Return of Enterprise Control",
+          "url": "https://www.constellationr.com/research/blog/beyond-public-models-return-enterprise-control",
           "source": "Constellation Research",
-          "date": "2026-08-11T14:50:10.000Z",
-          "summary": "",
-          "score": 69.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Meta releases open weight Muse Glimmer model with open Muse Spark 1.2 on tap",
-          "url": "https://www.constellationr.com/insights/news/meta-releases-open-weight-muse-glimmer-model-open-muse-spark-12-tap",
-          "source": "Constellation Research",
-          "date": "2026-08-10T10:58:02.000Z",
-          "summary": "",
-          "score": 59.2,
+          "date": "2026-08-12T15:29:21.000Z",
+          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
+          "score": 52.1,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +165,7 @@
           "source": "Diginomica",
           "date": "2026-08-12T11:00:01.000Z",
           "summary": "Caveat emptor as the agentic commerce bandwagon rumbles on. From the buy side, the shopping journey no longer begins with traditional search in an increasingly high number of cases.",
-          "score": 55.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The LLM tax - why your AI agents are wasting tokens and how to stop it",
-          "url": "https://diginomica.com/llm-tax-why-your-ai-agents-are-wasting-tokens-and-how-stop-it",
-          "source": "Diginomica",
-          "date": "2026-08-12T07:28:34.000Z",
-          "summary": "Celonis' Manuel Haug argues that every time an AI agent makes an unnecessary call to an LLM, they leak a little money. Those trickles can quickly add up to a flood.",
-          "score": 47.9,
+          "score": 41.6,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
+      "title": "Salesforce’s Hiring Boomerang: Why Are Ex-Employees Coming Back Now?",
+      "url": "https://www.salesforceben.com/salesforces-hiring-boomerang-why-are-ex-employees-coming-back-now/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Does Building Your Own Salesforce-Jira Integration Actually Save You Money?",
+      "url": "https://www.salesforceben.com/does-building-your-own-salesforce-jira-integration-actually-save-you-money/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Nebius’ Q2 revenue boom: What you need to know",
+      "url": "https://www.constellationr.com/insights/news/nebius-q2-revenue-boom-what-you-need-know",
+      "source": "Constellation Research"
+    },
+    {
       "title": "CoreWeave Q2 stronger than expected, touts backlog",
       "url": "https://www.constellationr.com/insights/news/coreweave-q2-stronger-expected-touts-backlog",
       "source": "Constellation Research"
     },
     {
-      "title": "Anthropic to start watermarking Claude-generated text, images",
-      "url": "https://siliconangle.com/2026/08/11/anthropic-start-watermarking-claude-generated-text-images/",
+      "title": "New Release: 39 Constellation ShortList™ Updates for Q3 2026",
+      "url": "https://www.constellationr.com/research/blog/new-release-39-constellation-shortlisttm-updates-q3-2026",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Skan AI raises $63M to give AI agents a map of enterprise work",
+      "url": "https://siliconangle.com/2026/08/12/skan-ai-raises-63m-give-ai-agents-map-enterprise-work/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Complete Guide to Dreamforce 2026",
-      "url": "https://www.salesforceben.com/dreamforce/",
+      "title": "3 Biggest Risks to a Salesforce Architect’s Career in 2026",
+      "url": "https://www.salesforceben.com/3-biggest-risks-to-a-salesforce-architects-career-in-2026/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Genesys Puts AI Trust at the Center of Its Agentic CX Strategy",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/genesys-agentic-ai-contact-center-trust/",
-      "source": "CX Today"
-    },
-    {
-      "title": "What Elastic and OpenAI’s New Partnership Means for CX Service Management",
-      "url": "https://www.cxtoday.com/service-management-connectivity/elastic-open-partnership-service-management-connectivity-bpo/",
-      "source": "CX Today"
-    },
-    {
-      "title": "Zuckerberg Proposes to Transform the Customer Journey with Personal AI Agents for Billions",
-      "url": "https://www.cxtoday.com/security-privacy-compliance/zuckerberg-personal-ai-agents-cx/",
-      "source": "CX Today"
-    },
-    {
-      "title": "Is Your Archived Salesforce Data Actually Ready for AI?",
-      "url": "https://www.salesforceben.com/is-your-archived-salesforce-data-actually-ready-for-ai/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "SpaceXAI launches Grok Bot work assistant",
-      "url": "https://www.constellationr.com/insights/news/spacexai-launches-grok-bot-work-assistant",
-      "source": "Constellation Research"
+      "title": "Blacksmith raises $45M to aid AI code validation as agentic development grows",
+      "url": "https://siliconangle.com/2026/08/12/blacksmith-raises-45m-aid-ai-code-validation-agentic-development-grows/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
