@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-14T11:36:35.628Z",
+  "generatedAt": "2026-08-15T11:10:42.377Z",
   "stats": {
-    "considered": 2327,
+    "considered": 2338,
     "relevant": 88,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 22,
+    "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 562,
-    "minutes": 2.341666666666667,
+    "words": 605,
+    "minutes": 2.5208333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "The most important LLM benchmark today: Price — Constellation Research",
-    "Data Theft Campaign Targets Salesforce and ServiceNow With 560K+ Attacks — Salesforce Ben",
+    "Has Marc Benioff Just Invested Millions Into a Company That Replaces Humans? — Salesforce Ben",
     "Databricks hits $7 billion revenue run rate in Q2, $190 billion valuation — Constellation Research",
-    "HubSpot AEO vs. Profound: Features, pricing, and use cases — HubSpot Marketing Blog"
+    "Is your martech stack costing more time than it saves? — MarTech"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Has Marc Benioff Just Invested Millions Into a Company That Replaces Humans?",
+          "url": "https://www.salesforceben.com/has-marc-benioff-just-invested-millions-into-a-company-that-replaces-humans/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-14T14:44:21.000Z",
+          "summary": "The golden rule in Big Tech – much like politics or some aspects of the wellness industry – is to take everything the big dogs at the top say with a grain of salt.",
+          "score": 60.2,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Data Theft Campaign Targets Salesforce and ServiceNow With 560K+ Attacks",
           "url": "https://www.salesforceben.com/data-theft-campaign-targets-salesforce-and-servicenow-with-560k-attacks/",
           "source": "Salesforce Ben",
           "date": "2026-08-13T13:44:30.000Z",
           "summary": "Salesforce Experience Cloud and ServiceNow customer portals have been targeted in an ongoing data theft campaign, dubbed ‘City-Forum’ by AI security firm Reco, which has been tracking the attacks.",
-          "score": 79.9,
+          "score": 54.5,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-14T08:25:46.000Z",
           "summary": "Salesforce recently backtracked on its decision to retire permissions from within profiles. This was something that Salesforce customers had known was coming for years and had been preparing for.",
-          "score": 65.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Are Senior Salesforce Professionals Really Safe from AI?",
-          "url": "https://www.salesforceben.com/are-senior-salesforce-professionals-really-safe-from-ai/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-14T08:12:47.000Z",
-          "summary": "When we initially talk about AI taking jobs, the conversation is usually centered around junior and entry-level roles.",
-          "score": 65.1,
+          "score": 48.7,
           "alsoCoveredBy": []
         },
         {
@@ -57,40 +57,49 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-13T15:00:01.000Z",
           "summary": "",
-          "score": 49.5,
+          "score": 34,
           "alsoCoveredBy": []
         },
         {
-          "title": "Agentic AI workforce is more than doubling year on year, says Salesforce",
-          "url": "https://www.salesforce.com/news/linked-content/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-08-12T17:00:19.000Z",
-          "summary": "",
-          "score": 35,
+          "title": "Buon progresso as Salesforce invests in Italian retail giant's e-commerce innovation",
+          "url": "https://diginomica.com/buon-progresso-salesforce-invests-italian-retail-giants-e-commerce-innovation",
+          "source": "Diginomica",
+          "date": "2026-08-14T09:05:01.000Z",
+          "summary": "Salesforce just made a big investment commitment to Italy - and one of its best-known fashion houses is an early beneficiary.",
+          "score": 22.7,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "crm",
-      "label": "CRM Platforms",
+      "key": "martech",
+      "label": "Marketing Tech",
       "items": [
         {
-          "title": "HubSpot AEO vs. Profound: Features, pricing, and use cases",
-          "url": "https://blog.hubspot.com/marketing/hubspot-vs-profound",
-          "source": "HubSpot Marketing Blog",
-          "date": "2026-08-13T19:17:11.000Z",
-          "summary": "Profound is a comparison between two answer engine optimization tools that take different approaches to AI search visibility.",
-          "score": 31.9,
+          "title": "Is your martech stack costing more time than it saves?",
+          "url": "https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/",
+          "source": "MarTech",
+          "date": "2026-08-14T12:09:00.000Z",
+          "summary": "Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates.",
+          "score": 51.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "The CRM Trap: Why Most Contact Centers Are Paying for Integrations That Don’t Actually Work",
-          "url": "https://www.cxtoday.com/crm/the-crm-trap-why-most-contact-centers-are-paying-for-integrations-that-dont-actually-work/",
-          "source": "CX Today",
-          "date": "2026-08-13T14:01:28.000Z",
-          "summary": "Many contact centers have CRM integrations that technically work, but still fail the people who use them every day.",
-          "score": 26.2,
+          "title": "Here’s the first martech category replaced by AI",
+          "url": "https://martech.org/heres-the-first-martech-category-replaced-by-ai/",
+          "source": "MarTech",
+          "date": "2026-08-13T12:22:00.000Z",
+          "summary": "CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem.",
+          "score": 35.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-08-13T13:00:10.000Z",
+          "summary": "Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency.",
+          "score": 29.8,
           "alsoCoveredBy": []
         }
       ]
@@ -105,16 +114,7 @@
           "source": "Constellation Research",
           "date": "2026-08-13T15:23:09.000Z",
           "summary": "",
-          "score": 79.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-13T20:14:39.000Z",
-          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-          "score": 22.2,
+          "score": 54.8,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +129,16 @@
           "source": "Constellation Research",
           "date": "2026-08-13T20:54:44.000Z",
           "summary": "",
-          "score": 118.9,
+          "score": 84.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered",
+          "url": "https://www.cxtoday.com/contact-center/the-dialpad-ai-contact-center-and-agentic-ai/",
+          "source": "CX Today",
+          "date": "2026-08-14T16:32:43.000Z",
+          "summary": "AI agents are easy to demo. Production is where the optimism starts to wobble. Dialpad’s Agentic AI roadmap, Skill Mining, Agent Studio, Proving Ground, COMPASS, and Guardian give the Dialpad AI…",
+          "score": 72.3,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +147,7 @@
           "source": "Constellation Research",
           "date": "2026-08-13T10:00:00.000Z",
           "summary": "",
-          "score": 79.2,
+          "score": 52.7,
           "alsoCoveredBy": []
         },
         {
@@ -147,7 +156,7 @@
           "source": "TechCrunch AI",
           "date": "2026-08-13T18:28:14.000Z",
           "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-          "score": 53.3,
+          "score": 37.4,
           "alsoCoveredBy": []
         },
         {
@@ -156,36 +165,32 @@
           "source": "TechCrunch AI",
           "date": "2026-08-13T19:22:40.000Z",
           "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-          "score": 45.7,
+          "score": 32.2,
           "alsoCoveredBy": [
             {
               "source": "OpenAI News",
               "url": "https://openai.com/index/previewing-ultrafast"
             }
           ]
-        },
-        {
-          "title": "Cisco Resolves 145,000 Support Cases Using Agentic AI",
-          "url": "https://www.cxtoday.com/service-management-connectivity/cisco-agentic-ai-145000-support-cases/",
-          "source": "CX Today",
-          "date": "2026-08-13T11:45:12.000Z",
-          "summary": "Agentic AI is beginning to produce tangible CX metrics, with Cisco reporting that AI independently resolved 145,000 support cases.",
-          "score": 33.2,
-          "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
     {
+      "title": "Are Senior Salesforce Professionals Really Safe from AI?",
+      "url": "https://www.salesforceben.com/are-senior-salesforce-professionals-really-safe-from-ai/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "20+ Sales and Service Validation Rules for Salesforce Admins",
+      "url": "https://www.salesforceben.com/20-sales-and-service-validation-rules-for-salesforce-admins/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Dynatrace acquires Arize, accelerates AI observability efforts",
       "url": "https://www.constellationr.com/insights/news/dynatrace-acquires-arize-accelerates-ai-observability-efforts",
       "source": "Constellation Research"
-    },
-    {
-      "title": "Ultimate Guide to Anthropic’s Claude for Salesforce Professionals",
-      "url": "https://www.salesforceben.com/ultimate-guide-to-anthropics-claude-for-salesforce-professionals/",
-      "source": "Salesforce Ben"
     },
     {
       "title": "Beyond the Pilot: How Enterprises Build AI They Can Actually Trust",
@@ -193,29 +198,24 @@
       "source": "Constellation Research"
     },
     {
-      "title": "The State of Salesforce Salaries in 2026",
-      "url": "https://www.salesforceben.com/the-state-of-salesforce-salaries-in-2026/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Official 2026 Dreamforce Parties and Events Guide",
-      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce’s Hiring Boomerang: Why Are Ex-Employees Coming Back Now?",
-      "url": "https://www.salesforceben.com/salesforces-hiring-boomerang-why-are-ex-employees-coming-back-now/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Does Building Your Own Salesforce-Jira Integration Actually Save You Money?",
-      "url": "https://www.salesforceben.com/does-building-your-own-salesforce-jira-integration-actually-save-you-money/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Beyond Public Models: The Return of Enterprise Control",
-      "url": "https://www.constellationr.com/research/blog/beyond-public-models-return-enterprise-control",
+      "title": "AI, Human Judgment, and Global Design: What It Takes to Lead in the Next Era | DisrupTV Ep 448",
+      "url": "https://www.constellationr.com/video/disruptv/ai-human-judgment-and-global-design-what-it-takes-lead-next-era-disruptv-ep-448",
       "source": "Constellation Research"
+    },
+    {
+      "title": "Your Complete Guide to Validation Rules in Salesforce",
+      "url": "https://www.salesforceben.com/validation-rules-in-salesforce/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Scale Customer Support With AI Agents: 5 Service Tips For SMBs",
+      "url": "https://www.salesforce.com/blog/small-business/customer-support-tips-with-ai-agents/",
+      "source": "Salesforce Blog"
+    },
+    {
+      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+      "source": "AWS Machine Learning"
     }
   ]
 }
