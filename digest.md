@@ -1,30 +1,37 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Sunday, August 16, 2026 · 2–3 min read · 14 stories from 23 sources*
+*Monday, August 17, 2026 · 2–3 min read · 14 stories from 23 sources*
 
 ## The 60-second version
 
-- The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered — CX Today
-- Has Marc Benioff Just Invested Millions Into a Company That Replaces Humans? — Salesforce Ben
+- Salesforce Teases Pre-Dreamforce Updates: What’s Next for Headless? — Salesforce Ben
+- How an AI agentic AI system is optimizing scarce resources at NGO Mercy Corps — Diginomica
+- CRM for insurance companies: What it does and why it matters — HubSpot Marketing Blog
 - Is your martech stack costing more time than it saves? — MarTech
-- Databricks hits $7 billion revenue run rate in Q2, $190 billion valuation — Constellation Research
 
 ## Salesforce
 
-**[Has Marc Benioff Just Invested Millions Into a Company That Replaces Humans?](https://www.salesforceben.com/has-marc-benioff-just-invested-millions-into-a-company-that-replaces-humans/)**
-The golden rule in Big Tech – much like politics or some aspects of the wellness industry – is to take everything the big dogs at the top say with a grain of salt.
-<sub>Salesforce Ben · Aug 14</sub>
+**[Salesforce Teases Pre-Dreamforce Updates: What’s Next for Headless?](https://www.salesforceben.com/salesforce-teases-pre-dreamforce-updates-whats-next-for-headless/)**
+Salesforce’s flagship conference, Dreamforce, returns this year from September 15-17 and promises another few days of big product announcements, AI advancements, and connection opportunities.
+<sub>Salesforce Ben · Aug 17</sub>
 
-**[How Salesforce Admins Should Distribute Permissions in a Scalable Way](https://www.salesforceben.com/how-salesforce-admins-should-distribute-permissions-in-a-scalable-way/)**
-Salesforce recently backtracked on its decision to retire permissions from within profiles. This was something that Salesforce customers had known was coming for years and had been preparing for.
-<sub>Salesforce Ben · Aug 14</sub>
+**[Is Manual Data Entry Hurting Your Salesforce AI Strategy?](https://www.salesforceben.com/is-manual-data-entry-hurting-your-salesforce-ai-strategy/)**
+A few years ago, we wrote about predictions related to the future of data collection in Salesforce. Revisiting those predictions three years later: For the most part, yes.
+<sub>Salesforce Ben · Aug 17</sub>
 
-**[20+ Sales and Service Validation Rules for Salesforce Admins](https://www.salesforceben.com/20-sales-and-service-validation-rules-for-salesforce-admins/)**
-Validation rules are one of the most well-known and commonly reached-for tools in an admin’s toolkit (and for good reason!).
-<sub>Salesforce Ben · Aug 14</sub>
+**[Stop Saying Yes to “Quick Fixes”: A Survival Guide for Salesforce Admins](https://www.salesforceben.com/stop-saying-yes-to-quick-fixes-a-survival-guide-for-salesforce-admins/)**
+“Can you just add one field?” are six words that strike fear into the heart of every Salesforce Admin, because everyone who works with Salesforce knows that “just” is one of the most dangerous words…
+<sub>Salesforce Ben · Aug 17</sub>
 
-**[Salesforce ‘headed in the right direction’ for agentic AI, Evercore says](https://www.salesforce.com/news/linked-content/salesforce-headed-in-the-right-direction-for-agentic-ai-evercore-says/)**
-<sub>Salesforce Newsroom · Aug 13</sub>
+## CRM Platforms
+
+**[CRM for insurance companies: What it does and why it matters](https://blog.hubspot.com/marketing/crm-for-insurance-companies)**
+Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone.
+<sub>HubSpot Marketing Blog · Aug 17</sub>
+
+**[Announcing Shift Rotation Policies: automated shift rotations at scale](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/14/shift-rotation-policies-workforce-management/)**
+Introducing Shift Rotation Policies in Dynamics 365 Workforce Management, a new capability that automates rotating schedules, improves operational consistency, and reduces manual scheduling effort
+<sub>MS Dynamics 365 Blog · Aug 14</sub>
 
 ## Marketing Tech
 
@@ -32,54 +39,52 @@ Validation rules are one of the most well-known and commonly reached-for tools i
 Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates.
 <sub>MarTech · Aug 14</sub>
 
-**[Here’s the first martech category replaced by AI](https://martech.org/heres-the-first-martech-category-replaced-by-ai/)**
-CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem.
-<sub>MarTech · Aug 13</sub>
-
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency.
-<sub>MarTech · Aug 13</sub>
+**[The data trust crisis: Why your customer data is getting worse](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)**
+Unreliable customer data threatens your personalization and ROI. On Sept. 2, we'll discuss how to navigate data decay and build a high-trust measurement framework.
+<sub>MarTech · Aug 14</sub>
 
 ## Data Platforms
-
-**[Databricks hits $7 billion revenue run rate in Q2, $190 billion valuation](https://www.constellationr.com/insights/news/databricks-hits-7-billion-revenue-run-rate-q2-190-billion-valuation)**
-<sub>Constellation Research · Aug 13</sub>
 
 **[Using AI_Functions in Your Data Warehouse: Top Use Cases](https://www.databricks.com/blog/using-aifunctions-your-data-warehouse-top-use-cases)**
 In most organizations, data warehouses hold structured data, while unstructured data...
 <sub>Databricks Blog · Aug 14</sub>
 
+**[Zero-Copy Data Architecture: Snowflake Summit 2026](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-summit-2026-zero-copy-data-architecture)**
+Explore how zero-copy data architecture and enterprise AI help leaders reduce costs, analyze unstructured data and make faster decisions.
+<sub>Snowflake Blog · Aug 14</sub>
+
 ## AI
+
+**[How an AI agentic AI system is optimizing scarce resources at NGO Mercy Corps](https://diginomica.com/how-ai-agentic-ai-system-optimizing-scarce-resources-ngo-mercy-corps)**
+The humanitarian NGO is using an AI chatbot-based system to speed up and enhance information-gathering
+<sub>Diginomica · Aug 17</sub>
+
+**[Why AI infrastructure folks are talking so much about applications](https://www.constellationr.com/insights/news/why-ai-infrastructure-folks-are-talking-so-much-about-applications)**
+<sub>Constellation Research · Aug 16</sub>
 
 **[The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered](https://www.cxtoday.com/contact-center/the-dialpad-ai-contact-center-and-agentic-ai/)**
 AI agents are easy to demo. Production is where the optimism starts to wobble. Dialpad’s Agentic AI roadmap, Skill Mining, Agent Studio, Proving Ground, COMPASS, and Guardian give the Dialpad AI…
 <sub>CX Today · Aug 14</sub>
 
-**[The most important LLM benchmark today: Price](https://www.constellationr.com/insights/news/most-important-llm-benchmark-today-price)**
-<sub>Constellation Research · Aug 13</sub>
-
-**[Why AI infrastructure folks are talking so much about applications](https://www.constellationr.com/insights/news/why-ai-infrastructure-folks-are-talking-so-much-about-applications)**
-<sub>Constellation Research · Aug 16</sub>
-
 **[Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)**
 How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
 <sub>TechCrunch AI · Aug 15</sub>
 
-**[Anthropic set AI agents loose on the same task. They started a turf war.](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)**
-Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.
-<sub>TechCrunch AI · Aug 13</sub>
+**[Excel's Copilot function is headed for the Recycle Bin](https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327)**
+Microsoft realizes the side pane should be enough for anyone
+<sub>The Register AI/ML · Aug 17</sub>
 
 ## Also worth a click
 
-- [Are Senior Salesforce Professionals Really Safe from AI?](https://www.salesforceben.com/are-senior-salesforce-professionals-really-safe-from-ai/) — *Salesforce Ben*
-- [Data Theft Campaign Targets Salesforce and ServiceNow With 560K+ Attacks](https://www.salesforceben.com/data-theft-campaign-targets-salesforce-and-servicenow-with-560k-attacks/) — *Salesforce Ben*
+- [Has Marc Benioff Just Invested Millions Into a Company That Replaces Humans?](https://www.salesforceben.com/has-marc-benioff-just-invested-millions-into-a-company-that-replaces-humans/) — *Salesforce Ben*
+- [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/) — *TechCrunch AI*
+- [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) — *Google AI Blog*
+- [20+ Sales and Service Validation Rules for Salesforce Admins](https://www.salesforceben.com/20-sales-and-service-validation-rules-for-salesforce-admins/) — *Salesforce Ben*
 - [AI, Human Judgment, and Global Design: What It Takes to Lead in the Next Era | DisrupTV Ep 448](https://www.constellationr.com/video/disruptv/ai-human-judgment-and-global-design-what-it-takes-lead-next-era-disruptv-ep-448) — *Constellation Research*
-- [Your Complete Guide to Validation Rules in Salesforce](https://www.salesforceben.com/validation-rules-in-salesforce/) — *Salesforce Ben*
-- [Beyond the Pilot: How Enterprises Build AI They Can Actually Trust](https://www.constellationr.com/video/beyond-pilot-how-enterprises-build-ai-they-can-actually-trust) — *Constellation Research*
-- [Dynatrace acquires Arize, accelerates AI observability efforts](https://www.constellationr.com/insights/news/dynatrace-acquires-arize-accelerates-ai-observability-efforts) — *Constellation Research*
+- [Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report](https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report/) — *SiliconANGLE AI*
+- [Weak API controls are one of the biggest threats in the agentic AI era](https://siliconangle.com/2026/08/14/weak-api-controls-one-biggest-threats-agentic-ai-era/) — *SiliconANGLE AI*
 - [Scale Customer Support With AI Agents: 5 Service Tips For SMBs](https://www.salesforce.com/blog/small-business/customer-support-tips-with-ai-agents/) — *Salesforce Blog*
-- [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/) — *AWS Machine Learning*
 
 ---
 
-<sub>Every headline links to its original source. 2338 items scanned from 23/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2339 items scanned from 23/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
