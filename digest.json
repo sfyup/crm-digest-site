@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-19T11:15:21.959Z",
+  "generatedAt": "2026-08-20T11:17:18.998Z",
   "stats": {
-    "considered": 2350,
-    "relevant": 59,
+    "considered": 2353,
+    "relevant": 72,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 573,
-    "minutes": 2.3875,
+    "words": 583,
+    "minutes": 2.4291666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Service Cloud: Top 8 Salesforce Winter ’27 Features — Salesforce Ben +1",
     "Snowflake to add dynamic model routing to Cortex AI Gateway — Constellation Research +1",
     "OpenAI: We'll hit pause on model reinforcement learning for safety — Constellation Research",
-    "Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says — Salesforce Ben",
-    "From ecosystems to agent builders - how HubSpot is primed to grow the mid-market — Diginomica"
+    "Is Microsoft’s AI Workforce Forecasting Enough for Contact Centers? — CX Today"
   ],
   "sections": [
     {
@@ -25,12 +25,44 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says",
-          "url": "https://www.salesforceben.com/salesforce-could-rebrand-to-salesforceslack-marc-benioff-says/",
+          "title": "Service Cloud: Top 8 Salesforce Winter ’27 Features",
+          "url": "https://www.salesforceben.com/service-cloud-top-8-salesforce-winter-27-features/",
           "source": "Salesforce Ben",
-          "date": "2026-08-17T15:56:44.000Z",
-          "summary": "Marc Benioff has suggested that Salesforce rebrand to ‘SalesforceSlack’ to “capture its AI-era power”.",
-          "score": 80.7,
+          "date": "2026-08-19T13:07:20.000Z",
+          "summary": "Another Salesforce release, another wave of updates to dig through! Winter ’27 has a good mix for Service Cloud (sorry, it’s Agentforce Service now) admins and reps to sink their teeth into.",
+          "score": 84.8,
+          "alsoCoveredBy": [
+            {
+              "source": "Salesforce Ben",
+              "url": "https://www.salesforceben.com/sales-cloud-top-7-salesforce-winter-27-features/"
+            }
+          ]
+        },
+        {
+          "title": "Salesforce Expands Headless 360 to Enable Agentic CX",
+          "url": "https://www.cxtoday.com/crm/salesforce-headless-360-expansion-agentic-cx/",
+          "source": "CX Today",
+          "date": "2026-08-19T12:04:52.000Z",
+          "summary": "Salesforce has today expanded Headless 360 with an MCP-based architecture that lets AI agents discover and act on existing capabilities across enterprise workflows.",
+          "score": 68,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The Salesforce Architect’s Guide to Dreamforce 2026",
+          "url": "https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/",
+          "source": "Salesforce Blog",
+          "date": "2026-08-19T16:01:43.000Z",
+          "summary": "Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.",
+          "score": 53.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Turns Enterprise Applications into Enterprise Capabilities",
+          "url": "https://www.salesforce.com/news/stories/expanding-headless-360-enterprise-capabilities/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-08-19T12:00:00.000Z",
+          "summary": "Headless 360 is expanding across the Salesforce platform, transforming every Salesforce cloud into reusable enterprise capabilities that any authorized AI agent can securely discover and use through…",
+          "score": 53,
           "alsoCoveredBy": []
         },
         {
@@ -39,34 +71,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-18T15:56:40.000Z",
           "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
-          "score": 68.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "10 Winter ’27 Updates Salesforce Marketers Need to Know",
-          "url": "https://www.salesforceben.com/10-winter-27-updates-salesforce-marketers-need-to-know/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-18T18:09:03.000Z",
-          "summary": "As far as Salesforce releases go, the winter release is always one to watch. As the ecosystem gears up for Dreamforce, the Winter ‘27 Release offers an early glimpse into the announcements to come.",
-          "score": 62.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "A Guide to Dreamforce 2026: What CX Leaders Need to Know About Salesforce AI",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-cx-leaders/",
-          "source": "CX Today",
-          "date": "2026-08-18T08:14:49.000Z",
-          "summary": "Dreamforce 2026 is Salesforce’s chance to prove that Agentforce can improve real customer service journeys. Every technology vendor now promises more personal customer service through AI.",
-          "score": 60.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Close the Agentforce Usage Visibility Gap With the AI Usage Data Model",
-          "url": "https://www.salesforce.com/blog/agentforce-usage-data-model/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-18T20:14:54.000Z",
-          "summary": "A step-by-step walkthrough of the AI Agent Generative AI Usage Data Model — the near-real-time, fine-grained source of truth for AI consumption.",
-          "score": 39,
+          "score": 46.9,
           "alsoCoveredBy": []
         }
       ]
@@ -76,21 +81,27 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "From ecosystems to agent builders - how HubSpot is primed to grow the mid-market",
-          "url": "https://diginomica.com/ecosystems-agent-builders-how-hubspot-primed-grow-mid-market",
-          "source": "Diginomica",
-          "date": "2026-08-19T07:35:02.000Z",
-          "summary": "HubSpot is betting that its customer data, partner ecosystem and new agent-building tools can give it an edge in the mid-market.",
-          "score": 30,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Has ServiceNow’s Autonomous Workforce Changed the CX Staffing Equation?",
-          "url": "https://www.cxtoday.com/workforce-engagement-management/servicenow-autonomous-workforce-cx-staffing/",
+          "title": "Is Microsoft’s AI Workforce Forecasting Enough for Contact Centers?",
+          "url": "https://www.cxtoday.com/workforce-engagement-management/microsoft-ai-workforce-forecasting-contact-centers/",
           "source": "CX Today",
-          "date": "2026-08-18T15:19:41.000Z",
-          "summary": "ServiceNow is bringing its Autonomous Workforce into CRM… and contact center leaders should be paying attention.",
-          "score": 27.8,
+          "date": "2026-08-19T15:44:15.000Z",
+          "summary": "Microsoft is aiming to turn workforce engagement management into something more ambitious than a scheduling tool.",
+          "score": 19.7,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "What Wunderkind and Cordial’s New Partnership Means for Cross-Channel Personalization",
+          "url": "https://www.cxtoday.com/marketing-sales-technology/wunderkind-cordial-partnership-cross-channel-personalization/",
+          "source": "CX Today",
+          "date": "2026-08-19T15:00:19.000Z",
+          "summary": "Most potential customers leave without ever becoming a name in a database. They browse, maybe add something to a cart, compare a few prices, and disappear, and most brands have no way to bring them…",
+          "score": 19.5,
           "alsoCoveredBy": []
         }
       ]
@@ -105,7 +116,7 @@
           "source": "Constellation Research",
           "date": "2026-08-18T13:00:00.000Z",
           "summary": "",
-          "score": 115.2,
+          "score": 77.7,
           "alsoCoveredBy": [
             {
               "source": "Snowflake Blog",
@@ -119,7 +130,7 @@
           "source": "Snowflake Blog",
           "date": "2026-08-17T19:48:19.000Z",
           "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
-          "score": 34.2,
+          "score": 19.6,
           "alsoCoveredBy": []
         }
       ]
@@ -134,7 +145,7 @@
           "source": "Constellation Research",
           "date": "2026-08-18T19:22:28.000Z",
           "summary": "",
-          "score": 86.1,
+          "score": 60.3,
           "alsoCoveredBy": []
         },
         {
@@ -143,34 +154,34 @@
           "source": "Constellation Research",
           "date": "2026-08-19T10:39:19.000Z",
           "summary": "",
-          "score": 72.7,
+          "score": 54.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
-          "url": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-08-19T01:25:23.000Z",
-          "summary": "OpenAI Group PBC is falling further behind its rival Anthropic PBC, if its latest financials are any indication.",
-          "score": 45.2,
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "source": "VentureBeat AI",
+          "date": "2026-08-19T14:18:12.000Z",
+          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research.",
+          "score": 51.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "The 3 Security Gaps Enterprises Must Fix to Limit AI Agent Threats",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/ai-agent-security-threats-perimeter-identity-data-governance/",
-          "source": "CX Today",
-          "date": "2026-08-17T15:54:09.000Z",
-          "summary": "Agentic AI is being built on weak foundations, and adding more agent-specific guardrails may do little to address the underlying problem.",
-          "score": 35.6,
+          "title": "Getting your brand ready for AI agent discovery",
+          "url": "https://martech.org/getting-your-brand-ready-for-ai-agent-discovery/",
+          "source": "MarTech",
+          "date": "2026-08-19T12:27:00.000Z",
+          "summary": "Being included in an AI answer isn't the same as being chosen. Here's what determines the difference.",
+          "score": 43.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI’s junior version of ChatGPT with guardrails has launched",
-          "url": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-08-19T01:43:18.000Z",
-          "summary": "OpenAI Group PBC today announced it’s rolling out a stricter version of its ChatGPT chatbot created for younger users.",
-          "score": 34.9,
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch AI",
+          "date": "2026-08-19T22:10:46.000Z",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "score": 43.7,
           "alsoCoveredBy": []
         }
       ]
@@ -178,44 +189,44 @@
   ],
   "quickLinks": [
     {
+      "title": "Alibaba Cloud surges in Q1, AI lab efforts losing money",
+      "url": "https://www.constellationr.com/insights/news/alibaba-cloud-surges-q1-ai-lab-efforts-losing-money",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says",
+      "url": "https://www.salesforceben.com/salesforce-could-rebrand-to-salesforceslack-marc-benioff-says/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "10 Winter ’27 Updates Salesforce Marketers Need to Know",
+      "url": "https://www.salesforceben.com/10-winter-27-updates-salesforce-marketers-need-to-know/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Salesforce Named a Leader in IDC MarketScape: Worldwide Software Platforms for National Civilian Government AI-Enabled Case Management",
+      "url": "https://www.salesforce.com/news/stories/idc-marketscape-vendor-assessment-2026-announcement/",
+      "source": "Salesforce Newsroom"
+    },
+    {
       "title": "17 New Salesforce Flow Features in Winter ‘27",
       "url": "https://www.salesforceben.com/17-new-salesforce-flow-features-in-winter-27/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce Teases Pre-Dreamforce Updates: What’s Next for Headless?",
-      "url": "https://www.salesforceben.com/salesforce-teases-pre-dreamforce-updates-whats-next-for-headless/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Clawed Back from a Three-Year Low, Now Q2 Has to Deliver",
-      "url": "https://www.salesforceben.com/salesforce-clawed-back-from-a-three-year-low-now-q2-has-to-deliver/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Top 10 Salesforce Winter ’27 Features for Developers",
-      "url": "https://www.salesforceben.com/top-10-salesforce-winter-27-features-for-developers/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Constellation Research Releases Final Wave of Q3 2026 ShortList™ Updates",
-      "url": "https://www.constellationr.com/research/blog/constellation-research-releases-final-wave-q3-2026-shortlisttm-updates",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "OpenAI, Nvidia, SB Energy finalize Ohio AI infrastructure deal",
-      "url": "https://www.constellationr.com/insights/news/openai-nvidia-sb-energy-finalize-ohio-ai-infrastructure-deal",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "2026 SF Ben Salesforce Developer Survey Is Open: Participate Now!",
-      "url": "https://www.salesforceben.com/2026-sf-ben-salesforce-developer-survey-is-open-participate-now/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "NLPatent rebrands as Clerq, launches agentic patent research workflows",
-      "url": "https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/",
+      "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents",
+      "url": "https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/",
       "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Top 12 Salesforce Winter ’27 Features for Admins",
+      "url": "https://www.salesforceben.com/top-12-salesforce-winter-27-features-for-admins/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Stripe buys OpenRouter",
+      "url": "https://www.constellationr.com/insights/news/stripe-buys-openrouter",
+      "source": "Constellation Research"
     }
   ]
 }

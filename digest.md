@@ -1,45 +1,47 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Wednesday, August 19, 2026 · 2–3 min read · 14 stories from 23 sources*
+*Thursday, August 20, 2026 · 2–3 min read · 14 stories from 23 sources*
 
 ## The 60-second version
 
+- Service Cloud: Top 8 Salesforce Winter ’27 Features — Salesforce Ben +1
 - Snowflake to add dynamic model routing to Cortex AI Gateway — Constellation Research +1
 - OpenAI: We'll hit pause on model reinforcement learning for safety — Constellation Research
-- Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says — Salesforce Ben
-- From ecosystems to agent builders - how HubSpot is primed to grow the mid-market — Diginomica
+- Is Microsoft’s AI Workforce Forecasting Enough for Contact Centers? — CX Today
 
 ## Salesforce
 
-**[Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says](https://www.salesforceben.com/salesforce-could-rebrand-to-salesforceslack-marc-benioff-says/)**
-Marc Benioff has suggested that Salesforce rebrand to ‘SalesforceSlack’ to “capture its AI-era power”.
-<sub>Salesforce Ben · Aug 17</sub>
+**[Service Cloud: Top 8 Salesforce Winter ’27 Features](https://www.salesforceben.com/service-cloud-top-8-salesforce-winter-27-features/)**
+Another Salesforce release, another wave of updates to dig through! Winter ’27 has a good mix for Service Cloud (sorry, it’s Agentforce Service now) admins and reps to sink their teeth into.
+<sub>Salesforce Ben · Aug 19 — also: [Salesforce Ben](https://www.salesforceben.com/sales-cloud-top-7-salesforce-winter-27-features/)</sub>
+
+**[Salesforce Expands Headless 360 to Enable Agentic CX](https://www.cxtoday.com/crm/salesforce-headless-360-expansion-agentic-cx/)**
+Salesforce has today expanded Headless 360 with an MCP-based architecture that lets AI agents discover and act on existing capabilities across enterprise workflows.
+<sub>CX Today · Aug 19</sub>
+
+**[The Salesforce Architect’s Guide to Dreamforce 2026](https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/)**
+Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.
+<sub>Salesforce Blog · Aug 19</sub>
+
+**[Salesforce Turns Enterprise Applications into Enterprise Capabilities](https://www.salesforce.com/news/stories/expanding-headless-360-enterprise-capabilities/)**
+Headless 360 is expanding across the Salesforce platform, transforming every Salesforce cloud into reusable enterprise capabilities that any authorized AI agent can securely discover and use through…
+<sub>Salesforce Newsroom · Aug 19</sub>
 
 **[Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/)**
 The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.
 <sub>Salesforce Ben · Aug 18</sub>
 
-**[10 Winter ’27 Updates Salesforce Marketers Need to Know](https://www.salesforceben.com/10-winter-27-updates-salesforce-marketers-need-to-know/)**
-As far as Salesforce releases go, the winter release is always one to watch. As the ecosystem gears up for Dreamforce, the Winter ‘27 Release offers an early glimpse into the announcements to come.
-<sub>Salesforce Ben · Aug 18</sub>
-
-**[A Guide to Dreamforce 2026: What CX Leaders Need to Know About Salesforce AI](https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-cx-leaders/)**
-Dreamforce 2026 is Salesforce’s chance to prove that Agentforce can improve real customer service journeys. Every technology vendor now promises more personal customer service through AI.
-<sub>CX Today · Aug 18</sub>
-
-**[Close the Agentforce Usage Visibility Gap With the AI Usage Data Model](https://www.salesforce.com/blog/agentforce-usage-data-model/)**
-A step-by-step walkthrough of the AI Agent Generative AI Usage Data Model — the near-real-time, fine-grained source of truth for AI consumption.
-<sub>Salesforce Blog · Aug 18</sub>
-
 ## CRM Platforms
 
-**[From ecosystems to agent builders - how HubSpot is primed to grow the mid-market](https://diginomica.com/ecosystems-agent-builders-how-hubspot-primed-grow-mid-market)**
-HubSpot is betting that its customer data, partner ecosystem and new agent-building tools can give it an edge in the mid-market.
-<sub>Diginomica · Aug 19</sub>
+**[Is Microsoft’s AI Workforce Forecasting Enough for Contact Centers?](https://www.cxtoday.com/workforce-engagement-management/microsoft-ai-workforce-forecasting-contact-centers/)**
+Microsoft is aiming to turn workforce engagement management into something more ambitious than a scheduling tool.
+<sub>CX Today · Aug 19</sub>
 
-**[Has ServiceNow’s Autonomous Workforce Changed the CX Staffing Equation?](https://www.cxtoday.com/workforce-engagement-management/servicenow-autonomous-workforce-cx-staffing/)**
-ServiceNow is bringing its Autonomous Workforce into CRM… and contact center leaders should be paying attention.
-<sub>CX Today · Aug 18</sub>
+## Marketing Tech
+
+**[What Wunderkind and Cordial’s New Partnership Means for Cross-Channel Personalization](https://www.cxtoday.com/marketing-sales-technology/wunderkind-cordial-partnership-cross-channel-personalization/)**
+Most potential customers leave without ever becoming a name in a database. They browse, maybe add something to a cart, compare a few prices, and disappear, and most brands have no way to bring them…
+<sub>CX Today · Aug 19</sub>
 
 ## Data Platforms
 
@@ -58,29 +60,29 @@ Learn best practices for creating a semantic layer using Snowflake semantic view
 **[Why Google's purchase of Spirit Airlines data matters](https://www.constellationr.com/insights/news/why-googles-purchase-spirit-airlines-data-matters)**
 <sub>Constellation Research · Aug 19</sub>
 
-**[OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses](https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/)**
-OpenAI Group PBC is falling further behind its rival Anthropic PBC, if its latest financials are any indication.
-<sub>SiliconANGLE AI · Aug 19</sub>
+**[VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push](https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push)**
+Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research.
+<sub>VentureBeat AI · Aug 19</sub>
 
-**[The 3 Security Gaps Enterprises Must Fix to Limit AI Agent Threats](https://www.cxtoday.com/security-privacy-compliance/ai-agent-security-threats-perimeter-identity-data-governance/)**
-Agentic AI is being built on weak foundations, and adding more agent-specific guardrails may do little to address the underlying problem.
-<sub>CX Today · Aug 17</sub>
+**[Getting your brand ready for AI agent discovery](https://martech.org/getting-your-brand-ready-for-ai-agent-discovery/)**
+Being included in an AI answer isn't the same as being chosen. Here's what determines the difference.
+<sub>MarTech · Aug 19</sub>
 
-**[OpenAI’s junior version of ChatGPT with guardrails has launched](https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/)**
-OpenAI Group PBC today announced it’s rolling out a stricter version of its ChatGPT chatbot created for younger users.
-<sub>SiliconANGLE AI · Aug 19</sub>
+**[OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)**
+A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
+<sub>TechCrunch AI · Aug 19</sub>
 
 ## Also worth a click
 
+- [Alibaba Cloud surges in Q1, AI lab efforts losing money](https://www.constellationr.com/insights/news/alibaba-cloud-surges-q1-ai-lab-efforts-losing-money) — *Constellation Research*
+- [Salesforce Could Rebrand to ‘SalesforceSlack’, Marc Benioff Says](https://www.salesforceben.com/salesforce-could-rebrand-to-salesforceslack-marc-benioff-says/) — *Salesforce Ben*
+- [10 Winter ’27 Updates Salesforce Marketers Need to Know](https://www.salesforceben.com/10-winter-27-updates-salesforce-marketers-need-to-know/) — *Salesforce Ben*
+- [Salesforce Named a Leader in IDC MarketScape: Worldwide Software Platforms for National Civilian Government AI-Enabled Case Management](https://www.salesforce.com/news/stories/idc-marketscape-vendor-assessment-2026-announcement/) — *Salesforce Newsroom*
 - [17 New Salesforce Flow Features in Winter ‘27](https://www.salesforceben.com/17-new-salesforce-flow-features-in-winter-27/) — *Salesforce Ben*
-- [Salesforce Teases Pre-Dreamforce Updates: What’s Next for Headless?](https://www.salesforceben.com/salesforce-teases-pre-dreamforce-updates-whats-next-for-headless/) — *Salesforce Ben*
-- [Salesforce Clawed Back from a Three-Year Low, Now Q2 Has to Deliver](https://www.salesforceben.com/salesforce-clawed-back-from-a-three-year-low-now-q2-has-to-deliver/) — *Salesforce Ben*
-- [Top 10 Salesforce Winter ’27 Features for Developers](https://www.salesforceben.com/top-10-salesforce-winter-27-features-for-developers/) — *Salesforce Ben*
-- [Constellation Research Releases Final Wave of Q3 2026 ShortList™ Updates](https://www.constellationr.com/research/blog/constellation-research-releases-final-wave-q3-2026-shortlisttm-updates) — *Constellation Research*
-- [OpenAI, Nvidia, SB Energy finalize Ohio AI infrastructure deal](https://www.constellationr.com/insights/news/openai-nvidia-sb-energy-finalize-ohio-ai-infrastructure-deal) — *Constellation Research*
-- [2026 SF Ben Salesforce Developer Survey Is Open: Participate Now!](https://www.salesforceben.com/2026-sf-ben-salesforce-developer-survey-is-open-participate-now/) — *Salesforce Ben*
-- [NLPatent rebrands as Clerq, launches agentic patent research workflows](https://siliconangle.com/2026/08/18/nlpatent-rebrands-as-clerq-launches-agentic-patent-research-workflows/) — *SiliconANGLE AI*
+- [Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents](https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/) — *SiliconANGLE AI*
+- [Top 12 Salesforce Winter ’27 Features for Admins](https://www.salesforceben.com/top-12-salesforce-winter-27-features-for-admins/) — *Salesforce Ben*
+- [Stripe buys OpenRouter](https://www.constellationr.com/insights/news/stripe-buys-openrouter) — *Constellation Research*
 
 ---
 
-<sub>Every headline links to its original source. 2350 items scanned from 23/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2353 items scanned from 23/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
