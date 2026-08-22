@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-21T11:16:33.884Z",
+  "generatedAt": "2026-08-22T11:11:25.891Z",
   "stats": {
-    "considered": 2355,
-    "relevant": 85,
+    "considered": 2356,
+    "relevant": 73,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 617,
-    "minutes": 2.5708333333333333,
+    "words": 704,
+    "minutes": 2.933333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Dreamforce 2026 Has One Job: Prove Agentforce Actually Works — Salesforce Ben",
     "Big CX News from Salesforce, Stripe, OpenAI & Anthropic — CX Today",
-    "The latest AI-powered martech news and releases — MarTech",
+    "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management — MS Dynamics 365 Blog",
     "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment — AWS Machine Learning +1"
   ],
   "sections": [
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-21T11:13:59.000Z",
           "summary": "Dreamforce 2026 feels like another big moment for Agentforce. Salesforce has spent close to two years putting its flagship AI product at the center of basically everything it does, and by now, most…",
-          "score": 136.4,
+          "score": 102.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +39,16 @@
           "source": "Salesforce Ben",
           "date": "2026-08-20T17:12:08.000Z",
           "summary": "Salesforce has just launched Slack Code, a new feature within the Slack interface that allows users to collaborate with AI agents in “dedicated multiplayer coding project channels”.",
-          "score": 87.7,
+          "score": 60.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Is Salesforce Finally Putting AI Adoption Ahead of AI Features?",
-          "url": "https://www.salesforceben.com/is-salesforce-finally-putting-ai-adoption-ahead-of-ai-features/",
+          "title": "Official 2026 Dreamforce Parties and Events Guide",
+          "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
           "source": "Salesforce Ben",
-          "date": "2026-08-20T16:45:45.000Z",
-          "summary": "“Customers want outcomes, not AI features.” This is the first line of Rohan Kumar’s letter to the Salesforce ecosystem, two months after he took on the position of Salesforce President.",
-          "score": 73.9,
+          "date": "2026-08-21T05:08:00.000Z",
+          "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
+          "score": 58.7,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,40 @@
           "source": "SiliconANGLE AI",
           "date": "2026-08-20T16:05:19.000Z",
           "summary": "Salesforce Inc. today introduced Slack Code, a new way to interact with coding agents in chat, with the whole team in the loop so everyone can see what’s happening at the conversational level.",
-          "score": 57.6,
+          "score": 39.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "The Salesforce Architect’s Guide to Dreamforce 2026",
-          "url": "https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/",
+          "title": "Your Guide to Sustainability at Dreamforce",
+          "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
           "source": "Salesforce Blog",
-          "date": "2026-08-19T16:01:43.000Z",
-          "summary": "Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.",
-          "score": 36.9,
+          "date": "2026-08-21T18:00:00.000Z",
+          "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
+          "score": 27.1,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-20T15:30:00.000Z",
+          "summary": "Supplier Engagement in Dynamics 365 Supply Chain Management helps organizations connect supplier experiences, procurement operations, and business data while creating a stronger foundation for AI and…",
+          "score": 64.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see",
+          "url": "https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/",
+          "source": "MarTech",
+          "date": "2026-08-21T12:14:00.000Z",
+          "summary": "The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them.",
+          "score": 53.3,
           "alsoCoveredBy": []
         }
       ]
@@ -81,16 +105,7 @@
           "source": "MarTech",
           "date": "2026-08-20T13:13:39.000Z",
           "summary": "Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes?",
-          "score": 47.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Marketing contribution is the new attribution",
-          "url": "https://martech.org/marketing-contribution-is-the-new-attribution/",
-          "source": "MarTech",
-          "date": "2026-08-20T12:28:00.000Z",
-          "summary": "Attribution turns complex buyer journeys into neat charts. Marketing contribution looks at the content, conversations, and decision points those charts miss.",
-          "score": 29.9,
+          "score": 32.1,
           "alsoCoveredBy": []
         }
       ]
@@ -105,25 +120,11 @@
           "source": "AWS Machine Learning",
           "date": "2026-08-20T21:23:38.000Z",
           "summary": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard.",
-          "score": 46.2,
+          "score": 32.7,
           "alsoCoveredBy": [
             {
               "source": "AWS Machine Learning",
               "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/"
-            }
-          ]
-        },
-        {
-          "title": "Snowflake to add dynamic model routing to Cortex AI Gateway",
-          "url": "https://www.constellationr.com/insights/news/snowflake-add-dynamic-model-routing-cortex-ai-gateway",
-          "source": "Constellation Research",
-          "date": "2026-08-18T13:00:00.000Z",
-          "summary": "",
-          "score": 40.2,
-          "alsoCoveredBy": [
-            {
-              "source": "Snowflake Blog",
-              "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai"
             }
           ]
         }
@@ -139,7 +140,7 @@
           "source": "CX Today",
           "date": "2026-08-21T10:00:44.000Z",
           "summary": "From Salesforce’s latest headless expansion to a pair of tantalizing acquisitions, here are extracts from this week’s most popular news stories.",
-          "score": 115.5,
+          "score": 86.3,
           "alsoCoveredBy": []
         },
         {
@@ -148,33 +149,33 @@
           "source": "Constellation Research",
           "date": "2026-08-20T21:14:31.000Z",
           "summary": "",
-          "score": 89.1,
+          "score": 63.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-          "source": "AWS Machine Learning",
-          "date": "2026-08-20T21:46:03.000Z",
-          "summary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference.",
-          "score": 39.2,
+          "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail… quietly",
+          "url": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-08-21T14:00:32.000Z",
+          "summary": "Data centers, of all things, now look like they’re going to be a prime political issue in the midterm elections and beyond. Really? Really.",
+          "score": 40.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Spy vs. Spy at Machine Speed: Inside the Agentic AI Arms Race",
-          "url": "https://www.salesforce.com/news/stories/inside-agentic-ai-arms-race/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-08-20T15:00:00.000Z",
-          "summary": "The cybersecurity risks posed by AI took dramatic form recently through a villain with a sinister name: JadePuffer.",
-          "score": 37.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why Google's purchase of Spirit Airlines data matters",
-          "url": "https://www.constellationr.com/insights/news/why-googles-purchase-spirit-airlines-data-matters",
+          "title": "From Automation to Reinvention: Inside the Infinite Company and the Borrowed Mind | DisrupTV Ep 449",
+          "url": "https://www.constellationr.com/video/disruptv/automation-reinvention-inside-infinite-company-and-borrowed-mind-disruptv-ep-449",
           "source": "Constellation Research",
-          "date": "2026-08-19T10:39:19.000Z",
-          "summary": "",
+          "date": "2026-08-21T19:14:50.000Z",
+          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
+          "score": 39,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+          "url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+          "source": "ZDNet Enterprise Software",
+          "date": "2026-08-21T17:48:29.000Z",
+          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
           "score": 36.1,
           "alsoCoveredBy": []
         }
@@ -183,8 +184,13 @@
   ],
   "quickLinks": [
     {
-      "title": "Service Cloud: Top 8 Salesforce Winter ’27 Features",
-      "url": "https://www.salesforceben.com/service-cloud-top-8-salesforce-winter-27-features/",
+      "title": "Is Salesforce Finally Putting AI Adoption Ahead of AI Features?",
+      "url": "https://www.salesforceben.com/is-salesforce-finally-putting-ai-adoption-ahead-of-ai-features/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "5 Reasons Salesforce Professionals Distrust AI",
+      "url": "https://www.salesforceben.com/5-reasons-salesforce-professionals-distrust-ai/",
       "source": "Salesforce Ben"
     },
     {
@@ -193,34 +199,29 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Business websites dominate Gemini’s local AI citations",
-      "url": "https://martech.org/business-websites-dominate-geminis-local-ai-citations/",
-      "source": "MarTech"
+      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+      "source": "AWS Machine Learning"
     },
     {
-      "title": "Salesforce Turns Enterprise Applications into Enterprise Capabilities",
-      "url": "https://www.salesforce.com/news/stories/expanding-headless-360-enterprise-capabilities/",
-      "source": "Salesforce Newsroom"
+      "title": "Service Cloud: Top 8 Salesforce Winter ’27 Features",
+      "url": "https://www.salesforceben.com/service-cloud-top-8-salesforce-winter-27-features/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "source": "VentureBeat AI"
-    },
-    {
-      "title": "Report: Anthropic hopes to surpass SpaceX’s record IPO raise when it finally floats",
-      "url": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "OpenAI: We'll hit pause on model reinforcement learning for safety",
-      "url": "https://www.constellationr.com/insights/news/openai-well-hit-pause-model-reinforcement-learning-safety",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "Spy vs. Spy at Machine Speed: Inside the Agentic AI Arms Race",
+      "url": "https://www.salesforce.com/news/stories/inside-agentic-ai-arms-race/",
+      "source": "Salesforce Newsroom"
     }
   ]
 }
