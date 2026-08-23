@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-22T11:11:25.891Z",
+  "generatedAt": "2026-08-23T11:11:33.071Z",
   "stats": {
     "considered": 2356,
-    "relevant": 73,
+    "relevant": 57,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 704,
-    "minutes": 2.933333333333333,
+    "words": 693,
+    "minutes": 2.8875,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Dreamforce 2026 Has One Job: Prove Agentforce Actually Works — Salesforce Ben",
     "Big CX News from Salesforce, Stripe, OpenAI & Anthropic — CX Today",
-    "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management — MS Dynamics 365 Blog",
+    "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see — MarTech",
     "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment — AWS Machine Learning +1"
   ],
   "sections": [
@@ -30,16 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-21T11:13:59.000Z",
           "summary": "Dreamforce 2026 feels like another big moment for Agentforce. Salesforce has spent close to two years putting its flagship AI product at the center of basically everything it does, and by now, most…",
-          "score": 102.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Brings Vibe-Coding to Slack With New ‘Slack Code’",
-          "url": "https://www.salesforceben.com/salesforce-brings-vibe-coding-to-slack-with-new-slack-code/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-20T17:12:08.000Z",
-          "summary": "Salesforce has just launched Slack Code, a new feature within the Slack interface that allows users to collaborate with AI agents in “dedicated multiplayer coding project channels”.",
-          "score": 60.8,
+          "score": 68.3,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +39,25 @@
           "source": "Salesforce Ben",
           "date": "2026-08-21T05:08:00.000Z",
           "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
-          "score": 58.7,
+          "score": 37.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Brings Vibe-Coding to Slack With New ‘Slack Code’",
+          "url": "https://www.salesforceben.com/salesforce-brings-vibe-coding-to-slack-with-new-slack-code/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-20T17:12:08.000Z",
+          "summary": "Salesforce has just launched Slack Code, a new feature within the Slack interface that allows users to collaborate with AI agents in “dedicated multiplayer coding project channels”.",
+          "score": 33.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Why This Salesforce Employee Never Had to Change Companies to Change Careers",
+          "url": "https://www.salesforce.com/blog/salesforce-careers-consulting-to-sales-ai/",
+          "source": "Salesforce Blog",
+          "date": "2026-08-23T00:54:55.000Z",
+          "summary": "Some people build careers by choosing one thing and staying with it. Jolyn has built hers on the willingness to start over, with each fresh start stretching her skills and showing her new…",
+          "score": 23.6,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +66,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-08-20T16:05:19.000Z",
           "summary": "Salesforce Inc. today introduced Slack Code, a new way to interact with coding agents in chat, with the whole team in the loop so everyone can see what’s happening at the conversational level.",
-          "score": 39.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Your Guide to Sustainability at Dreamforce",
-          "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-21T18:00:00.000Z",
-          "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
-          "score": 27.1,
+          "score": 21.7,
           "alsoCoveredBy": []
         }
       ]
@@ -76,21 +76,21 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-08-20T15:30:00.000Z",
-          "summary": "Supplier Engagement in Dynamics 365 Supply Chain Management helps organizations connect supplier experiences, procurement operations, and business data while creating a stronger foundation for AI and…",
-          "score": 64.1,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see",
           "url": "https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/",
           "source": "MarTech",
           "date": "2026-08-21T12:14:00.000Z",
           "summary": "The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them.",
-          "score": 53.3,
+          "score": 35.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-20T15:30:00.000Z",
+          "summary": "Supplier Engagement in Dynamics 365 Supply Chain Management helps organizations connect supplier experiences, procurement operations, and business data while creating a stronger foundation for AI and…",
+          "score": 34.7,
           "alsoCoveredBy": []
         }
       ]
@@ -105,7 +105,7 @@
           "source": "MarTech",
           "date": "2026-08-20T13:13:39.000Z",
           "summary": "Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes?",
-          "score": 32.1,
+          "score": 16.7,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +120,7 @@
           "source": "AWS Machine Learning",
           "date": "2026-08-20T21:23:38.000Z",
           "summary": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard.",
-          "score": 32.7,
+          "score": 19.2,
           "alsoCoveredBy": [
             {
               "source": "AWS Machine Learning",
@@ -140,7 +140,25 @@
           "source": "CX Today",
           "date": "2026-08-21T10:00:44.000Z",
           "summary": "From Salesforce’s latest headless expansion to a pair of tantalizing acquisitions, here are extracts from this week’s most popular news stories.",
-          "score": 86.3,
+          "score": 57.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The birth of Data Inc.?",
+          "url": "https://www.constellationr.com/insights/news/birth-data-inc",
+          "source": "Constellation Research",
+          "date": "2026-08-23T10:00:00.000Z",
+          "summary": "",
+          "score": 43.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "source": "TechCrunch AI",
+          "date": "2026-08-22T19:00:00.000Z",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+          "score": 39.3,
           "alsoCoveredBy": []
         },
         {
@@ -149,7 +167,7 @@
           "source": "Constellation Research",
           "date": "2026-08-20T21:14:31.000Z",
           "summary": "",
-          "score": 63.1,
+          "score": 37,
           "alsoCoveredBy": []
         },
         {
@@ -158,25 +176,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-08-21T14:00:32.000Z",
           "summary": "Data centers, of all things, now look like they’re going to be a prime political issue in the midterm elections and beyond. Really? Really.",
-          "score": 40.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "From Automation to Reinvention: Inside the Infinite Company and the Borrowed Mind | DisrupTV Ep 449",
-          "url": "https://www.constellationr.com/video/disruptv/automation-reinvention-inside-infinite-company-and-borrowed-mind-disruptv-ep-449",
-          "source": "Constellation Research",
-          "date": "2026-08-21T19:14:50.000Z",
-          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
-          "score": 39,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
-          "url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
-          "source": "ZDNet Enterprise Software",
-          "date": "2026-08-21T17:48:29.000Z",
-          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
-          "score": 36.1,
+          "score": 29.5,
           "alsoCoveredBy": []
         }
       ]
@@ -189,9 +189,24 @@
       "source": "Salesforce Ben"
     },
     {
+      "title": "From Automation to Reinvention: Inside the Infinite Company and the Borrowed Mind | DisrupTV Ep 449",
+      "url": "https://www.constellationr.com/video/disruptv/automation-reinvention-inside-infinite-company-and-borrowed-mind-disruptv-ep-449",
+      "source": "Constellation Research"
+    },
+    {
       "title": "5 Reasons Salesforce Professionals Distrust AI",
       "url": "https://www.salesforceben.com/5-reasons-salesforce-professionals-distrust-ai/",
       "source": "Salesforce Ben"
+    },
+    {
+      "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+      "url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+      "source": "ZDNet Enterprise Software"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Complete Guide to Salesforce API Version Maintenance and Retirement",
@@ -204,24 +219,9 @@
       "source": "AWS Machine Learning"
     },
     {
-      "title": "Service Cloud: Top 8 Salesforce Winter ’27 Features",
-      "url": "https://www.salesforceben.com/service-cloud-top-8-salesforce-winter-27-features/",
-      "source": "Salesforce Ben"
-    },
-    {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning"
-    },
-    {
-      "title": "Spy vs. Spy at Machine Speed: Inside the Agentic AI Arms Race",
-      "url": "https://www.salesforce.com/news/stories/inside-agentic-ai-arms-race/",
-      "source": "Salesforce Newsroom"
     }
   ]
 }
