@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-24T11:17:53.985Z",
+  "generatedAt": "2026-08-25T11:16:56.994Z",
   "stats": {
-    "considered": 2356,
-    "relevant": 29,
+    "considered": 2359,
+    "relevant": 38,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 653,
-    "minutes": 2.720833333333333,
+    "words": 576,
+    "minutes": 2.4,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "SaaS: Apocalypse over, sorting winners and losers just starting — Constellation Research",
-    "5 Certifications Worth Chasing at Dreamforce This Year — Salesforce Ben",
-    "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see — MarTech",
-    "The power of connected customer history by Rokt mParticle — MarTech"
+    "SoundHound AI: LivePerson deal may bolster its AI agent ambitions — Constellation Research",
+    "Salesforce Partners Are Not Seeing Agentforce ROI — Salesforce Ben",
+    "Streaming Data into Apache Iceberg with Snowflake — Snowflake Blog",
+    "Better marketing starts after the results come in — MarTech"
   ],
   "sections": [
     {
@@ -25,63 +25,48 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Partners Are Not Seeing Agentforce ROI",
+          "url": "https://www.salesforceben.com/salesforce-partners-are-not-seeing-agentforce-roi/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-24T12:00:00.000Z",
+          "summary": "A new report by American investment bank TD Cowen has indicated that Salesforce partners have yet to see any meaningful revenue from Agentforce.",
+          "score": 109.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "ServiceNow, Salesforce, and Synthflow expose the operational issues behind agentic CX",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/servicenow-salesforce-and-synthflow-expose-the-operational-issues-behind-agentic-cx/",
+          "source": "CX Today",
+          "date": "2026-08-24T15:01:38.000Z",
+          "summary": "AI in customer experience has reached the point where a good conversation is no longer enough. ServiceNow, Salesforce, and Synthflow are all pushing the market toward systems that take action inside…",
+          "score": 68.7,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "5 Certifications Worth Chasing at Dreamforce This Year",
           "url": "https://www.salesforceben.com/5-certifications-worth-chasing-at-dreamforce-this-year/",
           "source": "Salesforce Ben",
           "date": "2026-08-24T11:00:00.000Z",
           "summary": "This will be my thirteenth Dreamforce. I’ve attended as both a customer and an employee, and I’m here to pass along a pro-tip that could save you up to $400.",
-          "score": 82.2,
+          "score": 61.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "What You Need to Know Before Using the Next-Gen Salesforce DevOps Center",
-          "url": "https://www.salesforceben.com/what-you-need-to-know-before-using-the-next-gen-salesforce-devops-center/",
+          "title": "Salesforce’s New Release Notes Format: What It Means for Your Preparation",
+          "url": "https://www.salesforceben.com/salesforces-new-release-notes-format-what-it-means-for-your-preparation/",
           "source": "Salesforce Ben",
-          "date": "2026-08-24T10:17:23.000Z",
-          "summary": "DevOps Center has been around for a while as a managed package, and over the last few releases we’ve watched Salesforce gradually fold its capabilities into the core platform.",
-          "score": 66.8,
+          "date": "2026-08-24T13:30:00.000Z",
+          "summary": "If you’re like me, the first thing you noticed when opening the Salesforce release notes for Winter ‘27 was the new section on the first page entitled “Changes to the Release Notes”.",
+          "score": 52.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "The Most Wanted Hire in Salesforce Teams Isn’t a Developer Anymore",
-          "url": "https://www.salesforceben.com/the-most-wanted-hire-in-salesforce-teams-isnt-a-developer-anymore/",
-          "source": "Salesforce Ben",
-          "date": "2026-08-24T08:08:23.000Z",
-          "summary": "For as long as we’ve been doing surveys and writing about Salesforce careers, “who would you hire next?” almost always had the same answer: developer.",
-          "score": 65.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why This Salesforce Employee Never Had to Change Companies to Change Careers",
-          "url": "https://www.salesforce.com/blog/salesforce-careers-consulting-to-sales-ai/",
+          "title": "Connect Your Data: MuleSoft For Small Businesses and Startups",
+          "url": "https://www.salesforce.com/blog/small-business/mulesoft-for-smbs-and-startups/",
           "source": "Salesforce Blog",
-          "date": "2026-08-23T00:54:55.000Z",
-          "summary": "Some people build careers by choosing one thing and staying with it. Jolyn has built hers on the willingness to start over, with each fresh start stretching her skills and showing her new…",
-          "score": 16.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Your Guide to Sustainability at Dreamforce",
-          "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-21T18:00:00.000Z",
-          "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
-          "score": 10.6,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see",
-          "url": "https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/",
-          "source": "MarTech",
-          "date": "2026-08-21T12:14:00.000Z",
-          "summary": "The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them.",
-          "score": 18.2,
+          "date": "2026-08-24T13:00:00.000Z",
+          "summary": "MuleSoft connects all your apps and gives you a complete view of your customers‌ — ‌no matter what size your business is.",
+          "score": 18.6,
           "alsoCoveredBy": []
         }
       ]
@@ -91,21 +76,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The power of connected customer history by Rokt mParticle",
-          "url": "https://martech.org/the-power-of-connected-customer-history/",
+          "title": "Better marketing starts after the results come in",
+          "url": "https://martech.org/better-marketing-starts-after-the-results-come-in/",
           "source": "MarTech",
-          "date": "2026-08-24T11:00:00.000Z",
-          "summary": "Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation.",
-          "score": 18.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "B2B marketers don’t trust the data used to shape budgets",
-          "url": "https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/",
-          "source": "MarTech",
-          "date": "2026-08-21T12:47:00.000Z",
-          "summary": "Marketing data influences budgets, but only 49% fully trust its accuracy and completeness. Disconnected reporting is behind the confidence gap.",
-          "score": 4.8,
+          "date": "2026-08-24T12:23:00.000Z",
+          "summary": "Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions.",
+          "score": 13.9,
           "alsoCoveredBy": []
         }
       ]
@@ -115,12 +91,30 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-21T14:00:00.000Z",
-          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran.",
-          "score": 4.9,
+          "title": "Streaming Data into Apache Iceberg with Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-iceberg-tables",
+          "source": "Snowflake Blog",
+          "date": "2026-08-24T19:58:00.000Z",
+          "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
+          "score": 38.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Run, debug, and scale Databricks workloads from your local IDE",
+          "url": "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide",
+          "source": "Databricks Blog",
+          "date": "2026-08-24T17:01:08.000Z",
+          "summary": "The Databricks workspace is purposefully built for data analysis and data engineering. However...",
+          "score": 24.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How Databricks Uses AI to Accelerate Incident Investigation",
+          "url": "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation",
+          "source": "Databricks Blog",
+          "date": "2026-08-24T17:00:00.000Z",
+          "summary": "In our previous blog post, we shared how Databricks uses AI to debug thousands of...",
+          "score": 24.3,
           "alsoCoveredBy": []
         }
       ]
@@ -130,48 +124,48 @@
       "label": "AI",
       "items": [
         {
+          "title": "SoundHound AI: LivePerson deal may bolster its AI agent ambitions",
+          "url": "https://www.constellationr.com/insights/news/soundhound-ai-liveperson-deal-may-bolster-its-ai-agent-ambitions",
+          "source": "Constellation Research",
+          "date": "2026-08-25T10:00:00.000Z",
+          "summary": "",
+          "score": 131.4,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "SaaS: Apocalypse over, sorting winners and losers just starting",
           "url": "https://www.constellationr.com/insights/news/saas-apocalypse-over-sorting-winners-and-losers-just-starting",
           "source": "Constellation Research",
           "date": "2026-08-24T10:00:00.000Z",
           "summary": "",
-          "score": 151.5,
+          "score": 113.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "The birth of Data Inc.?",
-          "url": "https://www.constellationr.com/insights/news/birth-data-inc",
+          "title": "Open-Weight Models Are Gaining Ground in Enterprise AI",
+          "url": "https://www.constellationr.com/research/blog/open-weight-models-are-gaining-ground-enterprise-ai",
           "source": "Constellation Research",
-          "date": "2026-08-23T10:00:00.000Z",
-          "summary": "",
-          "score": 32.7,
+          "date": "2026-08-24T23:33:31.000Z",
+          "summary": "With over 25 years of experience, he has built, shipped, marketed, and sold successful enterprise SaaS products and solutions across startups, mid-size, and large companies.",
+          "score": 59,
           "alsoCoveredBy": []
         },
         {
-          "title": "Enterprise hits and misses - agents need meaning, not just data. Anthropic grapples with model pricing, and retailers get an economic gut check.",
-          "url": "https://diginomica.com/enterprise-hits-and-misses-agents-need-meaning-not-just-data-anthropic-grapples-model-pricing-and",
-          "source": "Diginomica",
-          "date": "2026-08-24T07:16:03.000Z",
-          "summary": "This week - agents need meaning - and proper, contained actions. But how do we get there? Anthropic gets a taste of frontier model pricing backlash, and retailers run into macro-economic crosswinds.",
-          "score": 32.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
           "source": "TechCrunch AI",
-          "date": "2026-08-22T19:00:00.000Z",
-          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-          "score": 27.4,
+          "date": "2026-08-24T15:00:00.000Z",
+          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+          "score": 42.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI says California should strengthen its AI safety bill",
-          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-22T16:30:34.000Z",
-          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-          "score": 15.9,
+          "title": "Businesses must reinvent their processes and workforce to scale agentic AI adoption",
+          "url": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/",
+          "source": "ZDNet Enterprise Software",
+          "date": "2026-08-24T19:22:32.000Z",
+          "summary": "Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.",
+          "score": 28.5,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "From Automation to Reinvention: Inside the Infinite Company and the Borrowed Mind | DisrupTV Ep 449",
-      "url": "https://www.constellationr.com/video/disruptv/automation-reinvention-inside-infinite-company-and-borrowed-mind-disruptv-ep-449",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "How the Aerospace Technology Institute clears AI use cases for landing in the aerospace industry with Capgemini",
-      "url": "https://diginomica.com/how-aerospace-technology-institute-clears-ai-use-cases-landing-aerospace-industry-capgemini",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail… quietly",
-      "url": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
-      "url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
-      "source": "ZDNet Enterprise Software"
-    },
-    {
-      "title": "5 Reasons Salesforce Professionals Distrust AI",
-      "url": "https://www.salesforceben.com/5-reasons-salesforce-professionals-distrust-ai/",
+      "title": "What You Need to Know Before Using the Next-Gen Salesforce DevOps Center",
+      "url": "https://www.salesforceben.com/what-you-need-to-know-before-using-the-next-gen-salesforce-devops-center/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+      "title": "The Most Wanted Hire in Salesforce Teams Isn’t a Developer Anymore",
+      "url": "https://www.salesforceben.com/the-most-wanted-hire-in-salesforce-teams-isnt-a-developer-anymore/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "The Unsung Heroes of the AI Paradigm Shift: CISOs",
+      "url": "https://www.constellationr.com/research/blog/unsung-heroes-ai-paradigm-shift-cisos",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "OpenAI’s Push on Regulation Could Change How CX Teams Buy and Govern AI",
+      "url": "https://www.cxtoday.com/security-privacy-compliance/openais-push-on-regulation-could-change-how-cx-teams-buy-and-govern-ai/",
+      "source": "CX Today"
+    },
+    {
+      "title": "Enterprise hits and misses - agents need meaning, not just data. Anthropic grapples with model pricing, and retailers get an economic gut check.",
+      "url": "https://diginomica.com/enterprise-hits-and-misses-agents-need-meaning-not-just-data-anthropic-grapples-model-pricing-and",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
       "source": "AWS Machine Learning"
     },
     {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch AI"
+      "title": "Future-Proofing Your Career Against the SaaSpocalypse",
+      "url": "https://www.salesforceben.com/future-proofing-your-career-against-the-saaspocalypse/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
-      "source": "AWS Machine Learning"
+      "title": "The birth of Data Inc.?",
+      "url": "https://www.constellationr.com/insights/news/birth-data-inc",
+      "source": "Constellation Research"
     }
   ]
 }
