@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-25T11:16:56.994Z",
+  "generatedAt": "2026-08-26T11:19:13.187Z",
   "stats": {
-    "considered": 2359,
-    "relevant": 38,
+    "considered": 2366,
+    "relevant": 58,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 576,
-    "minutes": 2.4,
+    "words": 600,
+    "minutes": 2.5,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "SoundHound AI: LivePerson deal may bolster its AI agent ambitions — Constellation Research",
     "Salesforce Partners Are Not Seeing Agentforce ROI — Salesforce Ben",
-    "Streaming Data into Apache Iceberg with Snowflake — Snowflake Blog",
-    "Better marketing starts after the results come in — MarTech"
+    "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap — MS Dynamics 365 Blog",
+    "Modernizing SQL ETL in Lakehouse with Declarative Patterns — Databricks Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-24T12:00:00.000Z",
           "summary": "A new report by American investment bank TD Cowen has indicated that Salesforce partners have yet to see any meaningful revenue from Agentforce.",
-          "score": 109.1,
+          "score": 73,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "CX Today",
           "date": "2026-08-24T15:01:38.000Z",
           "summary": "AI in customer experience has reached the point where a good conversation is no longer enough. ServiceNow, Salesforce, and Synthflow are all pushing the market toward systems that take action inside…",
-          "score": 68.7,
+          "score": 46.9,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-24T11:00:00.000Z",
           "summary": "This will be my thirteenth Dreamforce. I’ve attended as both a customer and an employee, and I’m here to pass along a pro-tip that could save you up to $400.",
-          "score": 61.6,
+          "score": 41,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,22 @@
           "source": "Salesforce Ben",
           "date": "2026-08-24T13:30:00.000Z",
           "summary": "If you’re like me, the first thing you noticed when opening the Salesforce release notes for Winter ‘27 was the new section on the first page entitled “Changes to the Release Notes”.",
-          "score": 52.2,
+          "score": 35.3,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
         {
-          "title": "Connect Your Data: MuleSoft For Small Businesses and Startups",
-          "url": "https://www.salesforce.com/blog/small-business/mulesoft-for-smbs-and-startups/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-24T13:00:00.000Z",
-          "summary": "MuleSoft connects all your apps and gives you a complete view of your customers‌ — ‌no matter what size your business is.",
-          "score": 18.6,
+          "title": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-08-25T15:00:00.000Z",
+          "summary": "Learn how the move from release wave announcements to the AI at Work roadmap creates a single destination to discover, track, and plan innovations.",
+          "score": 36.4,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +82,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Better marketing starts after the results come in",
-          "url": "https://martech.org/better-marketing-starts-after-the-results-come-in/",
-          "source": "MarTech",
-          "date": "2026-08-24T12:23:00.000Z",
-          "summary": "Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions.",
-          "score": 13.9,
+          "title": "Best Marketo alternatives worth evaluating in 2026",
+          "url": "https://blog.hubspot.com/marketing/marketo-alternatives",
+          "source": "HubSpot Marketing Blog",
+          "date": "2026-08-26T11:00:03.000Z",
+          "summary": "Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder…",
+          "score": 31.1,
           "alsoCoveredBy": []
         }
       ]
@@ -91,30 +97,30 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Streaming Data into Apache Iceberg with Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-iceberg-tables",
-          "source": "Snowflake Blog",
-          "date": "2026-08-24T19:58:00.000Z",
-          "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
-          "score": 38.7,
+          "title": "Modernizing SQL ETL in Lakehouse with Declarative Patterns",
+          "url": "https://www.databricks.com/blog/modernizing-sql-etl-lakehouse-declarative-patterns",
+          "source": "Databricks Blog",
+          "date": "2026-08-25T15:00:00.000Z",
+          "summary": "Databricks is bringing declarative ETL to data warehousing workflows in Lakehouse...",
+          "score": 34.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Run, debug, and scale Databricks workloads from your local IDE",
-          "url": "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide",
+          "title": "Choosing Data Governance Tools for Enterprise Data Governance",
+          "url": "https://www.databricks.com/blog/data-governance-tools",
           "source": "Databricks Blog",
-          "date": "2026-08-24T17:01:08.000Z",
-          "summary": "The Databricks workspace is purposefully built for data analysis and data engineering. However...",
-          "score": 24.3,
+          "date": "2026-08-25T16:17:44.000Z",
+          "summary": "Data governance tools are software platforms that help organizations catalog, secure,...",
+          "score": 32.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "How Databricks Uses AI to Accelerate Incident Investigation",
-          "url": "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation",
+          "title": "Leveraging Databricks to Support FISC Security Guidelines",
+          "url": "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines",
           "source": "Databricks Blog",
-          "date": "2026-08-24T17:00:00.000Z",
-          "summary": "In our previous blog post, we shared how Databricks uses AI to debug thousands of...",
-          "score": 24.3,
+          "date": "2026-08-26T00:00:00.000Z",
+          "summary": "The FISC Security Guidelines on Computer Systems for Banking and Related Financial...",
+          "score": 31.8,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +135,7 @@
           "source": "Constellation Research",
           "date": "2026-08-25T10:00:00.000Z",
           "summary": "",
-          "score": 131.4,
+          "score": 98.1,
           "alsoCoveredBy": []
         },
         {
@@ -138,34 +144,34 @@
           "source": "Constellation Research",
           "date": "2026-08-24T10:00:00.000Z",
           "summary": "",
-          "score": 113.1,
+          "score": 74.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Open-Weight Models Are Gaining Ground in Enterprise AI",
-          "url": "https://www.constellationr.com/research/blog/open-weight-models-are-gaining-ground-enterprise-ai",
+          "title": "Zoom’s Q2 shows strong enterprise traction, net boosted by Anthropic stake",
+          "url": "https://www.constellationr.com/insights/news/zooms-q2-shows-strong-enterprise-traction-net-boosted-anthropic-stake",
           "source": "Constellation Research",
-          "date": "2026-08-24T23:33:31.000Z",
-          "summary": "With over 25 years of experience, he has built, shipped, marketed, and sold successful enterprise SaaS products and solutions across startups, mid-size, and large companies.",
-          "score": 59,
+          "date": "2026-08-25T20:37:40.000Z",
+          "summary": "",
+          "score": 61,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-24T15:00:00.000Z",
-          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-          "score": 42.5,
+          "title": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics",
+          "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-08-25T17:00:22.000Z",
+          "summary": "Artificial intelligence startup Anthropic PBC announced today it’s changing how Claude, its flagship AI product, uses memory by allowing users to see everything it remembers “topic by topic,” and…",
+          "score": 40.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Businesses must reinvent their processes and workforce to scale agentic AI adoption",
-          "url": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/",
-          "source": "ZDNet Enterprise Software",
-          "date": "2026-08-24T19:22:32.000Z",
-          "summary": "Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.",
-          "score": 28.5,
+          "title": "Agentic web search infrastructure startup Keenable raises $26M",
+          "url": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-08-25T23:51:41.000Z",
+          "summary": "Artificial intelligence startup Keenable.ai Inc. said today it’s launching with $26 million in funding to try to revamp a web search infrastructure that was built for humans, not the billions of…",
+          "score": 38.8,
           "alsoCoveredBy": []
         }
       ]
@@ -173,9 +179,24 @@
   ],
   "quickLinks": [
     {
+      "title": "Open-Weight Models Are Gaining Ground in Enterprise AI",
+      "url": "https://www.constellationr.com/research/blog/open-weight-models-are-gaining-ground-enterprise-ai",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "10 takeaways from recent DisrupTV episodes",
+      "url": "https://www.constellationr.com/insights/news/10-takeaways-recent-disruptv-episodes",
+      "source": "Constellation Research"
+    },
+    {
       "title": "What You Need to Know Before Using the Next-Gen Salesforce DevOps Center",
       "url": "https://www.salesforceben.com/what-you-need-to-know-before-using-the-next-gen-salesforce-devops-center/",
       "source": "Salesforce Ben"
+    },
+    {
+      "title": "Perplexity AI launches Portable Computer on-device AI agent",
+      "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+      "source": "SiliconANGLE AI"
     },
     {
       "title": "The Most Wanted Hire in Salesforce Teams Isn’t a Developer Anymore",
@@ -183,34 +204,19 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "The Unsung Heroes of the AI Paradigm Shift: CISOs",
-      "url": "https://www.constellationr.com/research/blog/unsung-heroes-ai-paradigm-shift-cisos",
-      "source": "Constellation Research"
+      "title": "Data Mesh vs. Data Fabric: Key Differences and How the Lakehouse Resolves the Debate",
+      "url": "https://www.databricks.com/blog/data-mesh-vs-data-fabric",
+      "source": "Databricks Blog"
     },
     {
-      "title": "OpenAI’s Push on Regulation Could Change How CX Teams Buy and Govern AI",
-      "url": "https://www.cxtoday.com/security-privacy-compliance/openais-push-on-regulation-could-change-how-cx-teams-buy-and-govern-ai/",
-      "source": "CX Today"
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Enterprise hits and misses - agents need meaning, not just data. Anthropic grapples with model pricing, and retailers get an economic gut check.",
-      "url": "https://diginomica.com/enterprise-hits-and-misses-agents-need-meaning-not-just-data-anthropic-grapples-model-pricing-and",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
-      "source": "AWS Machine Learning"
-    },
-    {
-      "title": "Future-Proofing Your Career Against the SaaSpocalypse",
-      "url": "https://www.salesforceben.com/future-proofing-your-career-against-the-saaspocalypse/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "The birth of Data Inc.?",
-      "url": "https://www.constellationr.com/insights/news/birth-data-inc",
-      "source": "Constellation Research"
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch AI"
     }
   ]
 }
