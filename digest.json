@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-27T20:51:00.638Z",
+  "generatedAt": "2026-08-28T21:17:07.427Z",
   "stats": {
-    "considered": 2373,
-    "relevant": 91,
+    "considered": 2374,
+    "relevant": 93,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 581,
-    "minutes": 2.4208333333333334,
+    "words": 562,
+    "minutes": 2.341666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce Q2 shines amid AI demand — Constellation Research",
-    "CrowdStrike: AI agent concerns driving cybersecurity spending — Constellation Research",
+    "Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings — Salesforce Ben",
+    "Elastic's bets on context pay off as AI agents need to be more accurate, cost effective — Constellation Research",
     "The latest AI-powered martech news and releases — MarTech",
-    "Building for the AI Era: Lakebase, Streaming, and Lakehouse Innovations at VLDB 2026 — Databricks Blog"
+    "How Indra unified EV charging data on Databricks — Databricks Blog"
   ],
   "sections": [
     {
@@ -25,48 +25,48 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings",
+          "url": "https://www.salesforceben.com/salesforce-and-anthropic-announce-claudeforce-in-q2-27-earnings/",
+          "source": "Salesforce Ben",
+          "date": "2026-08-28T13:32:06.000Z",
+          "summary": "Salesforce and Anthropic have announced ‘Claudeforce’ – a partnership which brings Claude and Salesforce closer together.",
+          "score": 160,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic partnership makes Salesforce’s interface optional",
+          "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
+          "source": "MarTech",
+          "date": "2026-08-28T12:28:00.000Z",
+          "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software.",
+          "score": 95.4,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Salesforce Q2 shines amid AI demand",
           "url": "https://www.constellationr.com/insights/news/salesforce-q2-shines-amid-ai-demand",
           "source": "Constellation Research",
           "date": "2026-08-26T20:26:52.000Z",
           "summary": "",
-          "score": 140.5,
+          "score": 92.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings",
-          "url": "https://www.salesforceben.com/salesforce-and-anthropic-announce-claudeforce-in-q2-27-earnings/",
+          "title": "Why More Than 20 Employees Are Returning to Salesforce from OpenAI",
+          "url": "https://www.salesforceben.com/why-more-than-20-employees-are-returning-to-salesforce-from-openai/",
           "source": "Salesforce Ben",
-          "date": "2026-08-26T22:06:01.000Z",
-          "summary": "Salesforce and Anthropic have announced ‘Claudeforce’ – a partnership which brings Claude and Salesforce closer together.",
-          "score": 132.8,
+          "date": "2026-08-28T12:35:06.000Z",
+          "summary": "Although for many, the tech market is largely an employer’s market, for the top talent – and AI talent especially – the demand for expertise is sky-high.",
+          "score": 87.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce aims to be your enterprise AI harness, touts AIforce",
-          "url": "https://www.constellationr.com/insights/news/salesforce-aims-be-your-enterprise-ai-harness-touts-aiforce",
-          "source": "Constellation Research",
-          "date": "2026-08-26T21:54:22.000Z",
-          "summary": "",
-          "score": 102.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Stock Shoots Up 14% After Strong Q2 Earnings",
-          "url": "https://www.salesforceben.com/salesforce-stock-shoots-up-14-after-strong-q2-earnings/",
+          "title": "Dreamforce 2026: Usher and Gwen Stefani Announced as Headliners for Dreamfest",
+          "url": "https://www.salesforceben.com/dreamforce-2026-usher-and-gwen-stefani-announced-as-headliners-for-dreamfest/",
           "source": "Salesforce Ben",
-          "date": "2026-08-27T14:23:41.000Z",
-          "summary": "Salesforce shares have soared 14% after the company announced Q2 2027 financial results on Wednesday. The CRM giant also increased its full-year outlook amid growing traction around its artificial…",
-          "score": 90.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software",
-          "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
-          "source": "CX Today",
-          "date": "2026-08-27T13:42:26.000Z",
-          "summary": "Salesforce CEO Marc Benioff has repeatedly pushed back against warnings that AI could undermine the software-as-a-service (SaaS) business model.",
-          "score": 67.4,
+          "date": "2026-08-28T11:55:45.000Z",
+          "summary": "Gwen Stefani and Usher have been announced as the headlining acts for this year’s Dreamforce. The ‘Hollaback Girl’ hitmaker and ‘Yeah!’ singer will be performing in San Francisco for Dreamfest – the…",
+          "score": 85.3,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +81,7 @@
           "source": "MarTech",
           "date": "2026-08-27T14:41:50.000Z",
           "summary": "Why replace the CEO with AI when you can replace the entire C-suite?",
-          "score": 53.7,
+          "score": 39.1,
           "alsoCoveredBy": []
         },
         {
@@ -90,16 +90,7 @@
           "source": "MarTech",
           "date": "2026-08-27T12:48:00.000Z",
           "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix?",
-          "score": 32.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Best Marketo alternatives worth evaluating in 2026",
-          "url": "https://blog.hubspot.com/marketing/marketo-alternatives",
-          "source": "HubSpot Marketing Blog",
-          "date": "2026-08-26T11:00:03.000Z",
-          "summary": "Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder…",
-          "score": 20.2,
+          "score": 23.2,
           "alsoCoveredBy": []
         }
       ]
@@ -109,12 +100,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Building for the AI Era: Lakebase, Streaming, and Lakehouse Innovations at VLDB 2026",
-          "url": "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026",
+          "title": "How Indra unified EV charging data on Databricks",
+          "url": "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks",
           "source": "Databricks Blog",
-          "date": "2026-08-27T15:22:00.000Z",
-          "summary": "We are headed to VLDB 2026 to share multiple innovations that power the Databricks platform...",
-          "score": 25.5,
+          "date": "2026-08-28T17:30:00.000Z",
+          "summary": "When data grows faster than the systems around it, complexity becomes the default....",
+          "score": 23.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Tokenomics - \"It was never about tokenmaxxing,\" insists Snowflake CEO Sridhar Ramaswamy",
+          "url": "https://diginomica.com/tokenomics-it-was-never-about-tokenmaxxing-insists-snowflake-ceo-sridhar-ramaswamy",
+          "source": "Diginomica",
+          "date": "2026-08-28T09:35:01.000Z",
+          "summary": "Look beyond tokenomics and tokenmaxxing and start thinking about cost vs value.",
+          "score": 20.5,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +124,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "Elastic's bets on context pay off as AI agents need to be more accurate, cost effective",
+          "url": "https://www.constellationr.com/insights/news/elastics-bets-context-pay-ai-agents-need-be-more-accurate-cost-effective",
+          "source": "Constellation Research",
+          "date": "2026-08-28T11:45:40.000Z",
+          "summary": "",
+          "score": 100.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "CrowdStrike: AI agent concerns driving cybersecurity spending",
           "url": "https://www.constellationr.com/insights/news/crowdstrike-ai-agent-concerns-driving-cybersecurity-spending",
           "source": "Constellation Research",
           "date": "2026-08-27T11:28:27.000Z",
           "summary": "",
-          "score": 133.2,
+          "score": 95.6,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +147,7 @@
           "source": "CX Today",
           "date": "2026-08-27T17:12:51.000Z",
           "summary": "Salesforce and Anthropic have launched Claudeforce, bringing the Claude family of large language models (LLMs) directly into the systems enterprises use to manage customers, data and workflows.",
-          "score": 122.6,
+          "score": 90.1,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +156,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-26T20:05:00.000Z",
           "summary": "Expanded partnership brings Claude’s reasoning together with the data, workflows, business logic, actions, and governance of the Salesforce platform to power trusted enterprise action directly in…",
-          "score": 107,
+          "score": 70.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "\"Time for it to stop!\" - will Salesforce's Claudeforce tie-up with Anthropic be the final nail in the SaaSpocalypse coffin?",
-          "url": "https://diginomica.com/time-it-stop-will-salesforces-claudeforce-tie-anthropic-be-final-nail-saaspocalypse-coffin",
-          "source": "Diginomica",
-          "date": "2026-08-27T07:22:45.000Z",
-          "summary": "A major new axis between Salesforce and Anthropic might just change the narrative once and for all.",
-          "score": 62.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "New Study of 2,025 Agentic AI Leaders: First To Launch Isn’t Fastest to ROI",
-          "url": "https://www.salesforce.com/news/stories/agentic-ai-leaders-survey-on-roi/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-08-27T13:00:00.000Z",
-          "summary": "Agent deployments more than doubled over the past year, according to Salesforce’s platform data, and those agents are driving real results.",
-          "score": 56.6,
+          "title": "Can Crescendo’s AI Agents Really Run the Whole CX Operation?",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
+          "source": "CX Today",
+          "date": "2026-08-28T09:00:19.000Z",
+          "summary": "Crescendo has launched an AI-native customer experience platform that puts Crescendo AI agents at the center of service operations.",
+          "score": 48.7,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
+      "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
+      "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Salesforce aims to be your enterprise AI harness, touts AIforce",
+      "url": "https://www.constellationr.com/insights/news/salesforce-aims-be-your-enterprise-ai-harness-touts-aiforce",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "What Happened to Trailhead’s Popularity?",
+      "url": "https://www.salesforceben.com/what-happened-to-trailheads-popularity/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Salesforce Stock Shoots Up 14% After Strong Q2 Earnings",
+      "url": "https://www.salesforceben.com/salesforce-stock-shoots-up-14-after-strong-q2-earnings/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Workday Q2 strong, says AI attracting more wallet share",
       "url": "https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share",
       "source": "Constellation Research"
     },
     {
-      "title": "Is SaaS Under Threat? Enterprise Strategy & the Next Wave of AI Growth",
-      "url": "https://www.constellationr.com/video/constellationtv/saas-under-threat-enterprise-strategy-next-wave-ai-growth",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Will AI Replace Salesforce Admins? Salesforce Experts Discuss",
-      "url": "https://www.salesforceben.com/will-ai-replace-salesforce-admins-salesforce-experts-discuss/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce’s Outcome-Based Pricing: Strategic Masterstroke or Defensive Scramble Against AI Seat Compression?",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/salesforces-outcome-based-pricing-strategic-masterstroke-or-defensive-scramble-against-ai-seat-compression/",
+      "title": "Big CX News From Salesforce, Zoom, Meta and Google",
+      "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
       "source": "CX Today"
     },
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI"
-    },
-    {
-      "title": "Box CEO Levie says model prices falling, excited about open weight options",
-      "url": "https://www.constellationr.com/insights/news/box-ceo-levie-says-model-prices-falling-excited-about-open-weight-options",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Building Salesforce React Apps and Multi-Framework UIs",
-      "url": "https://www.salesforceben.com/building-salesforce-react-apps-and-multi-framework-uis/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "TTEC Digital Lands First Agentforce Contact Center Go-Live",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/ttec-digital-lands-first-agentforce-contact-center-go-live/",
+      "title": "Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software",
+      "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
       "source": "CX Today"
+    },
+    {
+      "title": "Anthropic previews MHS standard for AI agents that operate machines",
+      "url": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
