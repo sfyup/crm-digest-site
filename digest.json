@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-28T21:17:07.427Z",
+  "generatedAt": "2026-08-29T15:22:38.839Z",
   "stats": {
-    "considered": 2374,
-    "relevant": 93,
+    "considered": 2375,
+    "relevant": 80,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 562,
-    "minutes": 2.341666666666667,
+    "words": 592,
+    "minutes": 2.466666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-28T13:32:06.000Z",
           "summary": "Salesforce and Anthropic have announced ‘Claudeforce’ – a partnership which brings Claude and Salesforce closer together.",
-          "score": 160,
+          "score": 127.2,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +39,7 @@
           "source": "MarTech",
           "date": "2026-08-28T12:28:00.000Z",
           "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software.",
-          "score": 95.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Q2 shines amid AI demand",
-          "url": "https://www.constellationr.com/insights/news/salesforce-q2-shines-amid-ai-demand",
-          "source": "Constellation Research",
-          "date": "2026-08-26T20:26:52.000Z",
-          "summary": "",
-          "score": 92.6,
+          "score": 75.6,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-28T12:35:06.000Z",
           "summary": "Although for many, the tech market is largely an employer’s market, for the top talent – and AI talent especially – the demand for expertise is sky-high.",
-          "score": 87.3,
+          "score": 69.2,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +57,16 @@
           "source": "Salesforce Ben",
           "date": "2026-08-28T11:55:45.000Z",
           "summary": "Gwen Stefani and Usher have been announced as the headlining acts for this year’s Dreamforce. The ‘Hollaback Girl’ hitmaker and ‘Yeah!’ singer will be performing in San Francisco for Dreamfest – the…",
-          "score": 85.3,
+          "score": 67.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Big CX News From Salesforce, Zoom, Meta and Google",
+          "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
+          "source": "CX Today",
+          "date": "2026-08-28T11:30:42.000Z",
+          "summary": "From Salesforce and Zoom’s latest quarterly earnings, to Meta’s 18 billion settlement, here are extracts from this week’s most popular news stories.",
+          "score": 50.7,
           "alsoCoveredBy": []
         }
       ]
@@ -81,16 +81,16 @@
           "source": "MarTech",
           "date": "2026-08-27T14:41:50.000Z",
           "summary": "Why replace the CEO with AI when you can replace the entire C-suite?",
-          "score": 39.1,
+          "score": 28.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Integrate buys CaliberMind and hopes to close the B2B demand gen loop",
-          "url": "https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/",
+          "title": "Marketers know AI is using bad data to make decisions",
+          "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
           "source": "MarTech",
-          "date": "2026-08-27T12:48:00.000Z",
-          "summary": "Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix?",
-          "score": 23.2,
+          "date": "2026-08-28T12:55:00.000Z",
+          "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes.",
+          "score": 18.3,
           "alsoCoveredBy": []
         }
       ]
@@ -105,7 +105,7 @@
           "source": "Databricks Blog",
           "date": "2026-08-28T17:30:00.000Z",
           "summary": "When data grows faster than the systems around it, complexity becomes the default....",
-          "score": 23.1,
+          "score": 18.5,
           "alsoCoveredBy": []
         },
         {
@@ -114,7 +114,7 @@
           "source": "Diginomica",
           "date": "2026-08-28T09:35:01.000Z",
           "summary": "Look beyond tokenomics and tokenmaxxing and start thinking about cost vs value.",
-          "score": 20.5,
+          "score": 16.1,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +129,7 @@
           "source": "Constellation Research",
           "date": "2026-08-28T11:45:40.000Z",
           "summary": "",
-          "score": 100.5,
+          "score": 79.5,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +138,7 @@
           "source": "Constellation Research",
           "date": "2026-08-27T11:28:27.000Z",
           "summary": "",
-          "score": 95.6,
+          "score": 67.8,
           "alsoCoveredBy": []
         },
         {
@@ -147,7 +147,16 @@
           "source": "CX Today",
           "date": "2026-08-27T17:12:51.000Z",
           "summary": "Salesforce and Anthropic have launched Claudeforce, bringing the Claude family of large language models (LLMs) directly into the systems enterprises use to manage customers, data and workflows.",
-          "score": 90.1,
+          "score": 66.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
+          "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
+          "source": "Constellation Research",
+          "date": "2026-08-28T19:10:11.000Z",
+          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
+          "score": 59.7,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +165,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-26T20:05:00.000Z",
           "summary": "Expanded partnership brings Claude’s reasoning together with the data, workflows, business logic, actions, and governance of the Salesforce platform to power trusted enterprise action directly in…",
-          "score": 70.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Can Crescendo’s AI Agents Really Run the Whole CX Operation?",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
-          "source": "CX Today",
-          "date": "2026-08-28T09:00:19.000Z",
-          "summary": "Crescendo has launched an AI-native customer experience platform that puts Crescendo AI agents at the center of service operations.",
-          "score": 48.7,
+          "score": 43.1,
           "alsoCoveredBy": []
         }
       ]
@@ -173,13 +173,8 @@
   ],
   "quickLinks": [
     {
-      "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
-      "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Salesforce aims to be your enterprise AI harness, touts AIforce",
-      "url": "https://www.constellationr.com/insights/news/salesforce-aims-be-your-enterprise-ai-harness-touts-aiforce",
+      "title": "Salesforce Q2 shines amid AI demand",
+      "url": "https://www.constellationr.com/insights/news/salesforce-q2-shines-amid-ai-demand",
       "source": "Constellation Research"
     },
     {
@@ -188,29 +183,34 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce Stock Shoots Up 14% After Strong Q2 Earnings",
-      "url": "https://www.salesforceben.com/salesforce-stock-shoots-up-14-after-strong-q2-earnings/",
-      "source": "Salesforce Ben"
-    },
-    {
       "title": "Workday Q2 strong, says AI attracting more wallet share",
       "url": "https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share",
       "source": "Constellation Research"
     },
     {
-      "title": "Big CX News From Salesforce, Zoom, Meta and Google",
-      "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
-      "source": "CX Today"
+      "title": "Salesforce Stock Shoots Up 14% After Strong Q2 Earnings",
+      "url": "https://www.salesforceben.com/salesforce-stock-shoots-up-14-after-strong-q2-earnings/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software",
-      "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
+      "title": "Salesforce aims to be your enterprise AI harness, touts AIforce",
+      "url": "https://www.constellationr.com/insights/news/salesforce-aims-be-your-enterprise-ai-harness-touts-aiforce",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Can Crescendo’s AI Agents Really Run the Whole CX Operation?",
+      "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
       "source": "CX Today"
     },
     {
       "title": "Anthropic previews MHS standard for AI agents that operate machines",
       "url": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
       "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software",
+      "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
+      "source": "CX Today"
     }
   ]
 }
