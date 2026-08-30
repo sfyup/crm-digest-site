@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Saturday, August 29, 2026 · 2–3 min read · 14 stories from 23 sources*
+*Sunday, August 30, 2026 · 2–3 min read · 14 stories from 23 sources*
 
 ## The 60-second version
 
 - Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings — Salesforce Ben
-- Elastic's bets on context pay off as AI agents need to be more accurate, cost effective — Constellation Research
-- The latest AI-powered martech news and releases — MarTech
+- Quantum computing: Where we stand in 2026 — Constellation Research
 - How Indra unified EV charging data on Databricks — Databricks Blog
+- Marketers know AI is using bad data to make decisions — MarTech
 
 ## Salesforce
 
@@ -33,12 +33,12 @@ From Salesforce and Zoom’s latest quarterly earnings, to Meta’s 18 billion s
 
 ## Marketing Tech
 
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-Why replace the CEO with AI when you can replace the entire C-suite?
-<sub>MarTech · Aug 27</sub>
-
 **[Marketers know AI is using bad data to make decisions](https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/)**
 Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes.
+<sub>MarTech · Aug 28</sub>
+
+**[Stop measuring your brand and start listening](https://martech.org/stop-measuring-your-brand-and-start-listening/)**
+The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience.
 <sub>MarTech · Aug 28</sub>
 
 ## Data Platforms
@@ -53,34 +53,34 @@ Look beyond tokenomics and tokenmaxxing and start thinking about cost vs value.
 
 ## AI
 
+**[Quantum computing: Where we stand in 2026](https://www.constellationr.com/insights/news/quantum-computing-where-we-stand-2026)**
+<sub>Constellation Research · Aug 30</sub>
+
 **[Elastic's bets on context pay off as AI agents need to be more accurate, cost effective](https://www.constellationr.com/insights/news/elastics-bets-context-pay-ai-agents-need-be-more-accurate-cost-effective)**
 <sub>Constellation Research · Aug 28</sub>
-
-**[CrowdStrike: AI agent concerns driving cybersecurity spending](https://www.constellationr.com/insights/news/crowdstrike-ai-agent-concerns-driving-cybersecurity-spending)**
-<sub>Constellation Research · Aug 27</sub>
-
-**[Salesforce’s Claudeforce Deal With Anthropic Points to What Comes After the CRM UI](https://www.cxtoday.com/crm/salesforces-claudeforce-deal-with-anthropic-points-to-what-comes-after-the-crm-ui/)**
-Salesforce and Anthropic have launched Claudeforce, bringing the Claude family of large language models (LLMs) directly into the systems enterprises use to manage customers, data and workflows.
-<sub>CX Today · Aug 27</sub>
 
 **[How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450](https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450)**
 Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.
 <sub>Constellation Research · Aug 28</sub>
 
-**[Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM](https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/)**
-Expanded partnership brings Claude’s reasoning together with the data, workflows, business logic, actions, and governance of the Salesforce platform to power trusted enterprise action directly in…
-<sub>Salesforce Newsroom · Aug 26</sub>
+**[Salesforce’s Claudeforce Deal With Anthropic Points to What Comes After the CRM UI](https://www.cxtoday.com/crm/salesforces-claudeforce-deal-with-anthropic-points-to-what-comes-after-the-crm-ui/)**
+Salesforce and Anthropic have launched Claudeforce, bringing the Claude family of large language models (LLMs) directly into the systems enterprises use to manage customers, data and workflows.
+<sub>CX Today · Aug 27</sub>
+
+**[Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
+This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+<sub>TechCrunch AI · Aug 29</sub>
 
 ## Also worth a click
 
-- [Salesforce Q2 shines amid AI demand](https://www.constellationr.com/insights/news/salesforce-q2-shines-amid-ai-demand) — *Constellation Research*
 - [What Happened to Trailhead’s Popularity?](https://www.salesforceben.com/what-happened-to-trailheads-popularity/) — *Salesforce Ben*
 - [Workday Q2 strong, says AI attracting more wallet share](https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share) — *Constellation Research*
-- [Salesforce Stock Shoots Up 14% After Strong Q2 Earnings](https://www.salesforceben.com/salesforce-stock-shoots-up-14-after-strong-q2-earnings/) — *Salesforce Ben*
-- [Salesforce aims to be your enterprise AI harness, touts AIforce](https://www.constellationr.com/insights/news/salesforce-aims-be-your-enterprise-ai-harness-touts-aiforce) — *Constellation Research*
 - [Can Crescendo’s AI Agents Really Run the Whole CX Operation?](https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/) — *CX Today*
+- [Court rules Pentagon can’t ban Anthropic’s AI models](https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/) — *SiliconANGLE AI*
+- [Top 10 Claude Tips and Tricks for Salesforce Admins](https://www.salesforceben.com/top-10-claude-tips-and-tricks-for-salesforce-admins/) — *Salesforce Ben*
 - [Anthropic previews MHS standard for AI agents that operate machines](https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/) — *SiliconANGLE AI*
-- [Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software](https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/) — *CX Today*
+- [Three Perfect Days at Dreamforce — A Marketer’s Guide](https://www.salesforce.com/blog/three-perfect-days-at-dreamforce-a-marketers-guide/) — *Salesforce Blog*
+- [What Does Salesforce Do?](https://www.salesforce.com/blog/what-does-salesforce-do/) — *Salesforce Blog*
 
 ---
 
