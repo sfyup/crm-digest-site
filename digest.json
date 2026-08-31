@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-30T15:06:59.382Z",
+  "generatedAt": "2026-08-31T17:45:10.516Z",
   "stats": {
-    "considered": 2375,
-    "relevant": 45,
+    "considered": 2376,
+    "relevant": 26,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 23,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 583,
-    "minutes": 2.4291666666666667,
+    "words": 661,
+    "minutes": 2.754166666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings — Salesforce Ben",
-    "Quantum computing: Where we stand in 2026 — Constellation Research",
-    "How Indra unified EV charging data on Databricks — Databricks Blog",
-    "Marketers know AI is using bad data to make decisions — MarTech"
+    "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You — Salesforce Ben",
+    "Best-in-class martech depends on your business context — MarTech",
+    "Oracle: Takeaways on AI value, outcome pricing, managing AI spend — Constellation Research",
+    "Your First Three Hours After a LinkedIn Connection Matter for Outreach Success — CX Today"
   ],
   "sections": [
     {
@@ -25,48 +25,63 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce and Anthropic Announce ‘Claudeforce’ in Q2 ‘27 Earnings",
-          "url": "https://www.salesforceben.com/salesforce-and-anthropic-announce-claudeforce-in-q2-27-earnings/",
+          "title": "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You",
+          "url": "https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/",
           "source": "Salesforce Ben",
-          "date": "2026-08-28T13:32:06.000Z",
-          "summary": "Salesforce and Anthropic have announced ‘Claudeforce’ – a partnership which brings Claude and Salesforce closer together.",
-          "score": 84.1,
+          "date": "2026-08-31T11:00:00.000Z",
+          "summary": "If you’re a Salesforce customer with Foundations or an Agentforce 1 Edition licence in your org, a change is coming by the end of this month that you may not even know about.",
+          "score": 129.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic partnership makes Salesforce’s interface optional",
-          "url": "https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/",
-          "source": "MarTech",
-          "date": "2026-08-28T12:28:00.000Z",
-          "summary": "Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software.",
-          "score": 49.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why More Than 20 Employees Are Returning to Salesforce from OpenAI",
-          "url": "https://www.salesforceben.com/why-more-than-20-employees-are-returning-to-salesforce-from-openai/",
+          "title": "Will Salesforce Lose Platform Dominance in 2027?",
+          "url": "https://www.salesforceben.com/will-salesforce-lose-platform-dominance-in-2027/",
           "source": "Salesforce Ben",
-          "date": "2026-08-28T12:35:06.000Z",
-          "summary": "Although for many, the tech market is largely an employer’s market, for the top talent – and AI talent especially – the demand for expertise is sky-high.",
-          "score": 45.5,
+          "date": "2026-08-31T14:33:18.000Z",
+          "summary": "No matter your opinions on Salesforce, it’s difficult to downplay its sheer platform dominance. The SaaS giant has been named the number one CRM provider by IDC since 2012, surpassing the market…",
+          "score": 79.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Dreamforce 2026: Usher and Gwen Stefani Announced as Headliners for Dreamfest",
-          "url": "https://www.salesforceben.com/dreamforce-2026-usher-and-gwen-stefani-announced-as-headliners-for-dreamfest/",
+          "title": "Skip the Agent: Use Prompt Templates for AI-Powered Workflows in Salesforce",
+          "url": "https://www.salesforceben.com/skip-the-agent-use-prompt-templates-for-ai-powered-workflows-in-salesforce/",
           "source": "Salesforce Ben",
-          "date": "2026-08-28T11:55:45.000Z",
-          "summary": "Gwen Stefani and Usher have been announced as the headlining acts for this year’s Dreamforce. The ‘Hollaback Girl’ hitmaker and ‘Yeah!’ singer will be performing in San Francisco for Dreamfest – the…",
-          "score": 44.1,
+          "date": "2026-08-31T06:00:00.000Z",
+          "summary": "If you look at Salesforce product marketing or visit any of their events, you’ll see AI agents everywhere.",
+          "score": 75,
           "alsoCoveredBy": []
         },
         {
-          "title": "Big CX News From Salesforce, Zoom, Meta and Google",
-          "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
+          "title": "The End of Per-Seat SaaS: How Microsoft, Salesforce, and Zoom Are Rewriting CX Economics",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/the-end-of-per-seat-saas-how-microsoft-salesforce-and-zoom-are-rewriting-cx-economics/",
           "source": "CX Today",
-          "date": "2026-08-28T11:30:42.000Z",
-          "summary": "From Salesforce and Zoom’s latest quarterly earnings, to Meta’s 18 billion settlement, here are extracts from this week’s most popular news stories.",
-          "score": 33.1,
+          "date": "2026-08-31T11:09:09.000Z",
+          "summary": "The commercial logic of enterprise customer experience technology is fracturing. For the past decade, the enterprise software model was simple: companies bought seats, and humans occupied them.",
+          "score": 40,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Three Perfect Days at Dreamforce — A Marketer’s Guide",
+          "url": "https://www.salesforce.com/blog/three-perfect-days-at-dreamforce-a-marketers-guide/",
+          "source": "Salesforce Blog",
+          "date": "2026-08-28T17:53:42.000Z",
+          "summary": "Looking to make the most out of Dreamforce 2026? Then this guide is for you. See how Marketer's can spend three perfect days at Dreamforce - what to see, what not to miss, and tips to maximize your…",
+          "score": 10,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "Your First Three Hours After a LinkedIn Connection Matter for Outreach Success",
+          "url": "https://www.cxtoday.com/marketing-sales-technology/linkedin-outreach-follow-up-first-three-hours/",
+          "source": "CX Today",
+          "date": "2026-08-31T08:00:25.000Z",
+          "summary": "The first three hours after a prospect accepts a LinkedIn connection could determine whether that interaction develops into a sales conversation or quietly goes cold.",
+          "score": 17.5,
           "alsoCoveredBy": []
         }
       ]
@@ -76,45 +91,30 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Marketers know AI is using bad data to make decisions",
-          "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/",
+          "title": "Best-in-class martech depends on your business context",
+          "url": "https://martech.org/best-in-class-martech-depends-on-your-business-context/",
           "source": "MarTech",
-          "date": "2026-08-28T12:55:00.000Z",
-          "summary": "Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes.",
-          "score": 12,
+          "date": "2026-08-31T13:08:38.000Z",
+          "summary": "Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better.",
+          "score": 64,
           "alsoCoveredBy": []
         },
         {
-          "title": "Stop measuring your brand and start listening",
-          "url": "https://martech.org/stop-measuring-your-brand-and-start-listening/",
+          "title": "The terrifying loophole in your autonomous tech stack",
+          "url": "https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/",
           "source": "MarTech",
-          "date": "2026-08-28T12:45:00.000Z",
-          "summary": "The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience.",
-          "score": 8.7,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "data",
-      "label": "Data Platforms",
-      "items": [
-        {
-          "title": "How Indra unified EV charging data on Databricks",
-          "url": "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks",
-          "source": "Databricks Blog",
-          "date": "2026-08-28T17:30:00.000Z",
-          "summary": "When data grows faster than the systems around it, complexity becomes the default....",
-          "score": 12.6,
+          "date": "2026-08-31T12:08:00.000Z",
+          "summary": "AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures",
+          "score": 26.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Tokenomics - \"It was never about tokenmaxxing,\" insists Snowflake CEO Sridhar Ramaswamy",
-          "url": "https://diginomica.com/tokenomics-it-was-never-about-tokenmaxxing-insists-snowflake-ceo-sridhar-ramaswamy",
-          "source": "Diginomica",
-          "date": "2026-08-28T09:35:01.000Z",
-          "summary": "Look beyond tokenomics and tokenmaxxing and start thinking about cost vs value.",
-          "score": 10.4,
+          "title": "The only way to know what your ads really did",
+          "url": "https://martech.org/the-only-way-to-know-what-your-ads-really-did/",
+          "source": "MarTech",
+          "date": "2026-08-31T13:43:58.000Z",
+          "summary": "Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated.",
+          "score": 17.4,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +124,48 @@
       "label": "AI",
       "items": [
         {
+          "title": "Oracle: Takeaways on AI value, outcome pricing, managing AI spend",
+          "url": "https://www.constellationr.com/insights/news/oracle-takeaways-ai-value-outcome-pricing-managing-ai-spend",
+          "source": "Constellation Research",
+          "date": "2026-08-31T10:27:56.000Z",
+          "summary": "",
+          "score": 55.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "A New Way to Look at Enterprise Technology in 2027+",
+          "url": "https://www.constellationr.com/research/blog/new-way-look-enterprise-technology-2027",
+          "source": "Constellation Research",
+          "date": "2026-08-30T22:51:37.000Z",
+          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
+          "score": 51.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Top Innovations in the Winter ’27 Release: AI Agents Run the Work, Freeing the Enterprise to Work Smarter and Faster",
+          "url": "https://www.salesforce.com/news/stories/winter-2027-product-release-announcement/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-08-31T12:00:00.000Z",
+          "summary": "The Winter ’27 Release marks a fundamental shift in how AI agents operate within the enterprise. Instead of assisting employees one task at a time, agents now run entire workflows — qualifying…",
+          "score": 47.4,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Quantum computing: Where we stand in 2026",
           "url": "https://www.constellationr.com/insights/news/quantum-computing-where-we-stand-2026",
           "source": "Constellation Research",
           "date": "2026-08-30T10:00:00.000Z",
           "summary": "",
-          "score": 65.9,
+          "score": 46.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Elastic's bets on context pay off as AI agents need to be more accurate, cost effective",
-          "url": "https://www.constellationr.com/insights/news/elastics-bets-context-pay-ai-agents-need-be-more-accurate-cost-effective",
-          "source": "Constellation Research",
-          "date": "2026-08-28T11:45:40.000Z",
-          "summary": "",
-          "score": 51.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
-          "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
-          "source": "Constellation Research",
-          "date": "2026-08-28T19:10:11.000Z",
-          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
-          "score": 41,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce’s Claudeforce Deal With Anthropic Points to What Comes After the CRM UI",
-          "url": "https://www.cxtoday.com/crm/salesforces-claudeforce-deal-with-anthropic-points-to-what-comes-after-the-crm-ui/",
-          "source": "CX Today",
-          "date": "2026-08-27T17:12:51.000Z",
-          "summary": "Salesforce and Anthropic have launched Claudeforce, bringing the Claude family of large language models (LLMs) directly into the systems enterprises use to manage customers, data and workflows.",
-          "score": 34.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "source": "TechCrunch AI",
-          "date": "2026-08-29T18:41:59.000Z",
-          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-          "score": 33.8,
+          "title": "Workday rethinks the enterprise workflow for AI agents",
+          "url": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-08-31T17:11:26.000Z",
+          "summary": "Enterprise AI agents promise to simplify everyday work, but delivering that experience requires far more than embedding AI into existing enterprise applications.",
+          "score": 43.8,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "What Happened to Trailhead’s Popularity?",
-      "url": "https://www.salesforceben.com/what-happened-to-trailheads-popularity/",
+      "title": "Winter ‘27 Release: New Logic Split Elements for Salesforce Flow",
+      "url": "https://www.salesforceben.com/winter-27-release-new-logic-split-elements-for-salesforce-flow/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Workday Q2 strong, says AI attracting more wallet share",
-      "url": "https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share",
+      "title": "Next Generation Salesforce DevOps Center: Get Hands-On",
+      "url": "https://www.salesforceben.com/next-generation-salesforce-devops-center-get-hands-on/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "How to Audit a Salesforce Integration You Didn’t Build",
+      "url": "https://www.salesforceben.com/how-to-audit-a-salesforce-integration-you-didnt-build/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Four safeguards to stop your AI agents from going rogue",
+      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
+      "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
       "source": "Constellation Research"
     },
     {
-      "title": "Can Crescendo’s AI Agents Really Run the Whole CX Operation?",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
-      "source": "CX Today"
+      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most",
+      "url": "https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/",
+      "source": "ZDNet Enterprise Software"
     },
     {
-      "title": "Court rules Pentagon can’t ban Anthropic’s AI models",
-      "url": "https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/",
+      "title": "OpenClaw just gave everyone version 2.0 and it comes with major updates",
+      "url": "https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates/",
       "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Top 10 Claude Tips and Tricks for Salesforce Admins",
-      "url": "https://www.salesforceben.com/top-10-claude-tips-and-tricks-for-salesforce-admins/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Anthropic previews MHS standard for AI agents that operate machines",
-      "url": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Three Perfect Days at Dreamforce — A Marketer’s Guide",
-      "url": "https://www.salesforce.com/blog/three-perfect-days-at-dreamforce-a-marketers-guide/",
-      "source": "Salesforce Blog"
-    },
-    {
-      "title": "What Does Salesforce Do?",
-      "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
-      "source": "Salesforce Blog"
     }
   ]
 }
