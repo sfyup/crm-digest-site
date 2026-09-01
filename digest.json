@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-31T17:45:10.516Z",
+  "generatedAt": "2026-09-01T15:18:05.060Z",
   "stats": {
-    "considered": 2376,
-    "relevant": 26,
+    "considered": 2338,
+    "relevant": 40,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 23,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 661,
-    "minutes": 2.754166666666667,
+    "words": 663,
+    "minutes": 2.7625,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You — Salesforce Ben",
+    "How Boomi is Advancing AI & ML Platforms for the Agentic Enterprise — Constellation Research",
     "Best-in-class martech depends on your business context — MarTech",
-    "Oracle: Takeaways on AI value, outcome pricing, managing AI spend — Constellation Research",
     "Your First Three Hours After a LinkedIn Connection Matter for Outreach Success — CX Today"
   ],
   "sections": [
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-31T11:00:00.000Z",
           "summary": "If you’re a Salesforce customer with Foundations or an Agentforce 1 Edition licence in your org, a change is coming by the end of this month that you may not even know about.",
-          "score": 129.7,
+          "score": 98.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-08-31T14:33:18.000Z",
           "summary": "No matter your opinions on Salesforce, it’s difficult to downplay its sheer platform dominance. The SaaS giant has been named the number one CRM provider by IDC since 2012, surpassing the market…",
-          "score": 79.8,
+          "score": 61.2,
           "alsoCoveredBy": []
         },
         {
@@ -48,25 +48,25 @@
           "source": "Salesforce Ben",
           "date": "2026-08-31T06:00:00.000Z",
           "summary": "If you look at Salesforce product marketing or visit any of their events, you’ll see AI agents everywhere.",
-          "score": 75,
+          "score": 55.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "The End of Per-Seat SaaS: How Microsoft, Salesforce, and Zoom Are Rewriting CX Economics",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/the-end-of-per-seat-saas-how-microsoft-salesforce-and-zoom-are-rewriting-cx-economics/",
-          "source": "CX Today",
-          "date": "2026-08-31T11:09:09.000Z",
-          "summary": "The commercial logic of enterprise customer experience technology is fracturing. For the past decade, the enterprise software model was simple: companies bought seats, and humans occupied them.",
-          "score": 40,
+          "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Healthcare Provider Industry Cloud Platforms",
+          "url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-healthcare-provider-industry-cloud-platforms-2026/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-01T13:00:00.000Z",
+          "summary": "Agentforce Health helps health systems unify patient data and deploy autonomous AI agents to deliver faster, more personalized care.",
+          "score": 53.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Three Perfect Days at Dreamforce — A Marketer’s Guide",
-          "url": "https://www.salesforce.com/blog/three-perfect-days-at-dreamforce-a-marketers-guide/",
-          "source": "Salesforce Blog",
-          "date": "2026-08-28T17:53:42.000Z",
-          "summary": "Looking to make the most out of Dreamforce 2026? Then this guide is for you. See how Marketer's can spend three perfect days at Dreamforce - what to see, what not to miss, and tips to maximize your…",
-          "score": 10,
+          "title": "Enterprise hits and misses - Salesforce and Workday defuse the SaaSpocalypse, tokenomics is a turning point, and prompt injections are a drag",
+          "url": "https://diginomica.com/enterprise-hits-and-misses-salesforce-and-workday-defuse-saaspocalypse-tokenomics-turning-point-and",
+          "source": "Diginomica",
+          "date": "2026-08-31T18:35:33.000Z",
+          "summary": "This week - Salesforce and Workday undermine the SaaSpocalypse with solid earnings and salty comments. Tokenomics is still a thing, but is it also an opportunity to shift?",
+          "score": 43.8,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +81,7 @@
           "source": "CX Today",
           "date": "2026-08-31T08:00:25.000Z",
           "summary": "The first three hours after a prospect accepts a LinkedIn connection could determine whether that interaction develops into a sales conversation or quietly goes cold.",
-          "score": 17.5,
+          "score": 13.1,
           "alsoCoveredBy": []
         }
       ]
@@ -96,7 +96,7 @@
           "source": "MarTech",
           "date": "2026-08-31T13:08:38.000Z",
           "summary": "Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better.",
-          "score": 64,
+          "score": 48.9,
           "alsoCoveredBy": []
         },
         {
@@ -105,16 +105,16 @@
           "source": "MarTech",
           "date": "2026-08-31T12:08:00.000Z",
           "summary": "AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures",
-          "score": 26.4,
+          "score": 20.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "The only way to know what your ads really did",
-          "url": "https://martech.org/the-only-way-to-know-what-your-ads-really-did/",
+          "title": "Stop treating lead quality and volume as opposites",
+          "url": "https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/",
           "source": "MarTech",
-          "date": "2026-08-31T13:43:58.000Z",
-          "summary": "Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated.",
-          "score": 17.4,
+          "date": "2026-09-01T13:44:02.000Z",
+          "summary": "Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first.",
+          "score": 17.9,
           "alsoCoveredBy": []
         }
       ]
@@ -124,21 +124,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "How Boomi is Advancing AI & ML Platforms for the Agentic Enterprise | ShortList Spotlight",
+          "url": "https://www.constellationr.com/video/shortlist-spotlights/how-boomi-advancing-ai-ml-platforms-agentic-enterprise-shortlist",
+          "source": "Constellation Research",
+          "date": "2026-08-31T20:34:11.000Z",
+          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
+          "score": 78.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Z.ai reports first half results, sales surge",
+          "url": "https://www.constellationr.com/insights/news/zai-reports-first-half-results-sales-surge",
+          "source": "Constellation Research",
+          "date": "2026-09-01T10:08:08.000Z",
+          "summary": "",
+          "score": 47.7,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Oracle: Takeaways on AI value, outcome pricing, managing AI spend",
           "url": "https://www.constellationr.com/insights/news/oracle-takeaways-ai-value-outcome-pricing-managing-ai-spend",
           "source": "Constellation Research",
           "date": "2026-08-31T10:27:56.000Z",
           "summary": "",
-          "score": 55.4,
+          "score": 42,
           "alsoCoveredBy": []
         },
         {
-          "title": "A New Way to Look at Enterprise Technology in 2027+",
-          "url": "https://www.constellationr.com/research/blog/new-way-look-enterprise-technology-2027",
-          "source": "Constellation Research",
-          "date": "2026-08-30T22:51:37.000Z",
-          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
-          "score": 51.1,
+          "title": "CBTS launches Forge Agents to build custom AI agents in days",
+          "url": "https://siliconangle.com/2026/09/01/cbts-launches-forge-agents-to-build-custom-ai-agents-in-days/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-01T13:00:29.000Z",
+          "summary": "Information technology services company CBTS Technology Solutions LLC today launched Forge Agents, a platform that turns a plain-language description of a job into a working artificial intelligence…",
+          "score": 36.9,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +165,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-08-31T12:00:00.000Z",
           "summary": "The Winter ’27 Release marks a fundamental shift in how AI agents operate within the enterprise. Instead of assisting employees one task at a time, agents now run entire workflows — qualifying…",
-          "score": 47.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Quantum computing: Where we stand in 2026",
-          "url": "https://www.constellationr.com/insights/news/quantum-computing-where-we-stand-2026",
-          "source": "Constellation Research",
-          "date": "2026-08-30T10:00:00.000Z",
-          "summary": "",
-          "score": 46.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Workday rethinks the enterprise workflow for AI agents",
-          "url": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-08-31T17:11:26.000Z",
-          "summary": "Enterprise AI agents promise to simplify everyday work, but delivering that experience requires far more than embedding AI into existing enterprise applications.",
-          "score": 43.8,
+          "score": 36.1,
           "alsoCoveredBy": []
         }
       ]
@@ -183,33 +183,33 @@
       "source": "Salesforce Ben"
     },
     {
+      "title": "A New Way to Look at Enterprise Technology in 2027+",
+      "url": "https://www.constellationr.com/research/blog/new-way-look-enterprise-technology-2027",
+      "source": "Constellation Research"
+    },
+    {
       "title": "How to Audit a Salesforce Integration You Didn’t Build",
       "url": "https://www.salesforceben.com/how-to-audit-a-salesforce-integration-you-didnt-build/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Four safeguards to stop your AI agents from going rogue",
-      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+      "title": "Workday rethinks the enterprise workflow for AI agents",
+      "url": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450",
-      "url": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
+      "title": "Quantum computing: Where we stand in 2026",
+      "url": "https://www.constellationr.com/insights/news/quantum-computing-where-we-stand-2026",
       "source": "Constellation Research"
     },
     {
-      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most",
-      "url": "https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/",
-      "source": "ZDNet Enterprise Software"
+      "title": "The End of Per-Seat SaaS: How Microsoft, Salesforce, and Zoom Are Rewriting CX Economics",
+      "url": "https://www.cxtoday.com/ai-automation-in-cx/the-end-of-per-seat-saas-how-microsoft-salesforce-and-zoom-are-rewriting-cx-economics/",
+      "source": "CX Today"
     },
     {
-      "title": "OpenClaw just gave everyone version 2.0 and it comes with major updates",
-      "url": "https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates/",
+      "title": "Agentic AI blows up the attack surface as security moves into the infrastructure layer",
+      "url": "https://siliconangle.com/2026/08/31/cloud-infrastructure-becomes-security-front-line-agentic-ai-vmwareexplore/",
       "source": "SiliconANGLE AI"
     }
   ]
