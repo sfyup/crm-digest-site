@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-01T15:18:05.060Z",
+  "generatedAt": "2026-09-02T14:47:48.560Z",
   "stats": {
-    "considered": 2338,
-    "relevant": 40,
+    "considered": 2365,
+    "relevant": 77,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 21,
+    "sourcesOk": 22,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 663,
-    "minutes": 2.7625,
+    "words": 567,
+    "minutes": 2.3625,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You — Salesforce Ben",
-    "How Boomi is Advancing AI & ML Platforms for the Agentic Enterprise — Constellation Research",
-    "Best-in-class martech depends on your business context — MarTech",
-    "Your First Three Hours After a LinkedIn Connection Matter for Outreach Success — CX Today"
+    "Reinventing Salesforce’s Biggest Strength – The New CRM Ecosystem — Salesforce Ben",
+    "Cybersecurity vendors ride Mythos-inspired spending wave — Constellation Research",
+    "Announcing Claude Fable 5.1 on Snowflake Cortex AI — Snowflake Blog",
+    "Best-in-class martech depends on your business context — MarTech"
   ],
   "sections": [
     {
@@ -25,30 +25,30 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You",
-          "url": "https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/",
+          "title": "Reinventing Salesforce’s Biggest Strength – The New CRM Ecosystem",
+          "url": "https://www.salesforceben.com/reinventing-salesforces-biggest-strength-the-new-crm-ecosystem/",
           "source": "Salesforce Ben",
-          "date": "2026-08-31T11:00:00.000Z",
-          "summary": "If you’re a Salesforce customer with Foundations or an Agentforce 1 Edition licence in your org, a change is coming by the end of this month that you may not even know about.",
-          "score": 98.4,
+          "date": "2026-09-02T12:28:14.000Z",
+          "summary": "Salesforce has spent much of its existence convincing its customer base that its products work better together.",
+          "score": 127.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Will Salesforce Lose Platform Dominance in 2027?",
-          "url": "https://www.salesforceben.com/will-salesforce-lose-platform-dominance-in-2027/",
+          "title": "New Salesforce Ecosystem Jobs of 2026",
+          "url": "https://www.salesforceben.com/new-salesforce-ecosystem-jobs-of-2026/",
           "source": "Salesforce Ben",
-          "date": "2026-08-31T14:33:18.000Z",
-          "summary": "No matter your opinions on Salesforce, it’s difficult to downplay its sheer platform dominance. The SaaS giant has been named the number one CRM provider by IDC since 2012, surpassing the market…",
-          "score": 61.2,
+          "date": "2026-09-02T14:29:17.000Z",
+          "summary": "The Salesforce ecosystem is changing – the jobs of yesteryear are evolving, thanks to the widespread disruption brought about by artificial intelligence tools.",
+          "score": 73.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Skip the Agent: Use Prompt Templates for AI-Powered Workflows in Salesforce",
-          "url": "https://www.salesforceben.com/skip-the-agent-use-prompt-templates-for-ai-powered-workflows-in-salesforce/",
+          "title": "How Much Are Broken Document Workflows Costing Your Salesforce Team?",
+          "url": "https://www.salesforceben.com/how-much-are-broken-document-workflows-costing-your-salesforce-team/",
           "source": "Salesforce Ben",
-          "date": "2026-08-31T06:00:00.000Z",
-          "summary": "If you look at Salesforce product marketing or visit any of their events, you’ll see AI agents everywhere.",
-          "score": 55.8,
+          "date": "2026-09-02T13:45:58.000Z",
+          "summary": "Every revenue motion begins inside Salesforce. An opportunity is created, a quote is generated, a contract is assembled, an onboarding package is prepared, and a procurement request is initiated.",
+          "score": 66.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,31 +57,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-09-01T13:00:00.000Z",
           "summary": "Agentforce Health helps health systems unify patient data and deploy autonomous AI agents to deliver faster, more personalized care.",
-          "score": 53.3,
+          "score": 39.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Enterprise hits and misses - Salesforce and Workday defuse the SaaSpocalypse, tokenomics is a turning point, and prompt injections are a drag",
-          "url": "https://diginomica.com/enterprise-hits-and-misses-salesforce-and-workday-defuse-saaspocalypse-tokenomics-turning-point-and",
+          "title": "Marc Benioff says the 'UI is the AI' - so whose AI is the UI?",
+          "url": "https://diginomica.com/marc-benioff-says-ui-ai-so-whose-ai-ui",
           "source": "Diginomica",
-          "date": "2026-08-31T18:35:33.000Z",
-          "summary": "This week - Salesforce and Workday undermine the SaaSpocalypse with solid earnings and salty comments. Tokenomics is still a thing, but is it also an opportunity to shift?",
-          "score": 43.8,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "Your First Three Hours After a LinkedIn Connection Matter for Outreach Success",
-          "url": "https://www.cxtoday.com/marketing-sales-technology/linkedin-outreach-follow-up-first-three-hours/",
-          "source": "CX Today",
-          "date": "2026-08-31T08:00:25.000Z",
-          "summary": "The first three hours after a prospect accepts a LinkedIn connection could determine whether that interaction develops into a sales conversation or quietly goes cold.",
-          "score": 13.1,
+          "date": "2026-09-02T08:42:04.000Z",
+          "summary": "With the announcement of Claudeforce, Salesforce continues its strong agent-native push. But as its platform becomes increasingly agent-legible, Ian Thomas want to know who gets to capture the value…",
+          "score": 30.4,
           "alsoCoveredBy": []
         }
       ]
@@ -96,25 +81,40 @@
           "source": "MarTech",
           "date": "2026-08-31T13:08:38.000Z",
           "summary": "Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better.",
-          "score": 48.9,
+          "score": 32.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "The terrifying loophole in your autonomous tech stack",
-          "url": "https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/",
+          "title": "Marketers are media measurement’s biggest problem",
+          "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
           "source": "MarTech",
-          "date": "2026-08-31T12:08:00.000Z",
-          "summary": "AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures",
-          "score": 20.1,
+          "date": "2026-09-02T12:50:00.000Z",
+          "summary": "Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead.",
+          "score": 23.3,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "data",
+      "label": "Data Platforms",
+      "items": [
+        {
+          "title": "Announcing Claude Fable 5.1 on Snowflake Cortex AI",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-fable-5-1-snowflake-cortex-ai",
+          "source": "Snowflake Blog",
+          "date": "2026-09-01T16:37:31.000Z",
+          "summary": "Claude Fable 5.1 is now available in private preview on Snowflake Cortex AI, bringing its advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
+          "score": 45.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Stop treating lead quality and volume as opposites",
-          "url": "https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/",
-          "source": "MarTech",
-          "date": "2026-09-01T13:44:02.000Z",
-          "summary": "Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first.",
-          "score": 17.9,
+          "title": "Announcing the Databricks Big Book of AgentOps",
+          "url": "https://www.databricks.com/blog/announcing-databricks-big-book-agentops",
+          "source": "Databricks Blog",
+          "date": "2026-09-02T01:30:00.000Z",
+          "summary": "What is AgentOps?AgentOps is the operating discipline for building, deploying and...",
+          "score": 20.7,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +124,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "How Boomi is Advancing AI & ML Platforms for the Agentic Enterprise | ShortList Spotlight",
-          "url": "https://www.constellationr.com/video/shortlist-spotlights/how-boomi-advancing-ai-ml-platforms-agentic-enterprise-shortlist",
+          "title": "Cybersecurity vendors ride Mythos-inspired spending wave",
+          "url": "https://www.constellationr.com/insights/news/cybersecurity-vendors-ride-mythos-inspired-spending-wave",
           "source": "Constellation Research",
-          "date": "2026-08-31T20:34:11.000Z",
-          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
-          "score": 78.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Z.ai reports first half results, sales surge",
-          "url": "https://www.constellationr.com/insights/news/zai-reports-first-half-results-sales-surge",
-          "source": "Constellation Research",
-          "date": "2026-09-01T10:08:08.000Z",
+          "date": "2026-09-02T10:48:56.000Z",
           "summary": "",
-          "score": 47.7,
+          "score": 119.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Oracle: Takeaways on AI value, outcome pricing, managing AI spend",
-          "url": "https://www.constellationr.com/insights/news/oracle-takeaways-ai-value-outcome-pricing-managing-ai-spend",
+          "title": "Anthropic's Claude Fable 5.1, Mythos 5.1 launch addresses price and data retention concerns",
+          "url": "https://www.constellationr.com/insights/news/anthropics-claude-fable-51-mythos-51-launch-addresses-price-and-data-retention",
           "source": "Constellation Research",
-          "date": "2026-08-31T10:27:56.000Z",
+          "date": "2026-09-01T19:39:37.000Z",
           "summary": "",
-          "score": 42,
+          "score": 113.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "CBTS launches Forge Agents to build custom AI agents in days",
-          "url": "https://siliconangle.com/2026/09/01/cbts-launches-forge-agents-to-build-custom-ai-agents-in-days/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-01T13:00:29.000Z",
-          "summary": "Information technology services company CBTS Technology Solutions LLC today launched Forge Agents, a platform that turns a plain-language description of a job into a working artificial intelligence…",
-          "score": 36.9,
+          "title": "Palo Alto Networks delivers strong Q4, sets outlook",
+          "url": "https://www.constellationr.com/insights/news/palo-alto-networks-delivers-strong-q4-sets-outlook",
+          "source": "Constellation Research",
+          "date": "2026-09-01T20:42:56.000Z",
+          "summary": "",
+          "score": 93.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Top Innovations in the Winter ’27 Release: AI Agents Run the Work, Freeing the Enterprise to Work Smarter and Faster",
-          "url": "https://www.salesforce.com/news/stories/winter-2027-product-release-announcement/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-08-31T12:00:00.000Z",
-          "summary": "The Winter ’27 Release marks a fundamental shift in how AI agents operate within the enterprise. Instead of assisting employees one task at a time, agents now run entire workflows — qualifying…",
-          "score": 36.1,
+          "title": "OpenAI’s audacious ad revenue claim",
+          "url": "https://martech.org/openais-audacious-claim-about-ad-revenue/",
+          "source": "MarTech",
+          "date": "2026-09-02T12:26:00.000Z",
+          "summary": "OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030.",
+          "score": 51.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Where Does the CDP Fit in an Agentic AI Strategy?",
+          "url": "https://www.cxtoday.com/crm/where-does-the-cdp-fit-in-an-agentic-ai-strategy-contentguru-cs-0225/",
+          "source": "CX Today",
+          "date": "2026-09-01T11:03:26.000Z",
+          "summary": "In this CX Today interview, Nicole Willing speaks with Richard Manthorpe, Director of Product Management at Content Guru, about the changing role of customer data, customer relationship management…",
+          "score": 51.8,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Winter ‘27 Release: New Logic Split Elements for Salesforce Flow",
-      "url": "https://www.salesforceben.com/winter-27-release-new-logic-split-elements-for-salesforce-flow/",
+      "title": "Salesforce to Auto-Enable Agentforce in Winter ‘27: What That Means for You",
+      "url": "https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Next Generation Salesforce DevOps Center: Get Hands-On",
-      "url": "https://www.salesforceben.com/next-generation-salesforce-devops-center-get-hands-on/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "A New Way to Look at Enterprise Technology in 2027+",
-      "url": "https://www.constellationr.com/research/blog/new-way-look-enterprise-technology-2027",
+      "title": "How Boomi is Advancing AI & ML Platforms for the Agentic Enterprise | ShortList Spotlight",
+      "url": "https://www.constellationr.com/video/shortlist-spotlights/how-boomi-advancing-ai-ml-platforms-agentic-enterprise-shortlist",
       "source": "Constellation Research"
     },
     {
-      "title": "How to Audit a Salesforce Integration You Didn’t Build",
-      "url": "https://www.salesforceben.com/how-to-audit-a-salesforce-integration-you-didnt-build/",
+      "title": "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
+      "url": "https://siliconangle.com/2026/09/01/anthropic-launches-claude-fable-5-1-inking-35b-cloud-deal-with-lambda/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Will Salesforce Lose Platform Dominance in 2027?",
+      "url": "https://www.salesforceben.com/will-salesforce-lose-platform-dominance-in-2027/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Workday rethinks the enterprise workflow for AI agents",
-      "url": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
-      "source": "SiliconANGLE AI"
+      "title": "Salesforce Architects Are Chasing a CTA Certification They Don’t Fully Trust",
+      "url": "https://www.salesforceben.com/salesforce-architects-are-chasing-a-cta-certification-they-dont-fully-trust/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "Quantum computing: Where we stand in 2026",
-      "url": "https://www.constellationr.com/insights/news/quantum-computing-where-we-stand-2026",
+      "title": "Ultimate Guide to Einstein Activity Capture: Sync Email as Activity and More",
+      "url": "https://www.salesforceben.com/ultimate-guide-to-einstein-activity-capture-sync-email-as-activity-and-more/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Z.ai reports first half results, sales surge",
+      "url": "https://www.constellationr.com/insights/news/zai-reports-first-half-results-sales-surge",
       "source": "Constellation Research"
     },
     {
-      "title": "The End of Per-Seat SaaS: How Microsoft, Salesforce, and Zoom Are Rewriting CX Economics",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/the-end-of-per-seat-saas-how-microsoft-salesforce-and-zoom-are-rewriting-cx-economics/",
-      "source": "CX Today"
-    },
-    {
-      "title": "Agentic AI blows up the attack surface as security moves into the infrastructure layer",
-      "url": "https://siliconangle.com/2026/08/31/cloud-infrastructure-becomes-security-front-line-agentic-ai-vmwareexplore/",
-      "source": "SiliconANGLE AI"
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch AI"
     }
   ]
 }
