@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Friday, September 4, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Saturday, September 5, 2026 · 2–3 min read · 14 stories from 20 sources*
 
 ## The 60-second version
 
+- ServiceNow ‘Acquires Sweep in Deal Worth Hundreds of Millions’ — Salesforce Ben
 - Anthropic Says It Won’t Destroy SaaS, But Is Salesforce Safe? — Salesforce Ben
 - Will enterprises learn to love Meta AI models again? — Constellation Research
-- Snowflake Q2 growth surges on AI and data demand — Constellation Research
-- The next CDP decision goes beyond the CDP — MarTech
+- Snowflake Ventures: Investing in Enterprise AI Infrastructure — Snowflake Blog
 
 ## Salesforce
 
@@ -19,36 +19,36 @@ Salesforce and Anthropic have been moving closer together for a while now, but C
 You may have heard about Anthropic’s relatively new certification program, but not be sure exactly what it looks like.
 <sub>Salesforce Ben · Sep 4</sub>
 
-**[Salesforce Announces 3 Replacement Editions, Bundling AI, Slack, and Security](https://www.salesforceben.com/salesforce-announces-3-replacement-editions-bundling-ai-slack-and-security/)**
-Salesforce has announced three new editions: Core, Advanced, and Max, for Agentforce Sales, Agentforce Service, and Agentforce Industries.
-<sub>Salesforce Ben · Sep 3</sub>
-
 **[New Salesforce Editions Bundle Everything Businesses Need for Agentic Transformation](https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/)**
 New editions bundle Slack, Tableau Next, the Premier Success Plan, enterprise-grade security, and out-of-the-box AI built for every role into every edition The new Max edition alone delivers 60% more…
 <sub>Salesforce Newsroom · Sep 3</sub>
 
-**[10 Salesforce Winter ’27 updates marketers need to know](https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/)**
-From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams.
-<sub>MarTech · Sep 4</sub>
+**[Agentforce Marketing: A Practical Framework for Successful Implementation](https://www.salesforce.com/blog/agentforce-marketing-a-practical-framework-for-successful-implementation/)**
+A practical framework for choosing where to start with Agentforce Marketing, getting the foundations right, and tying every agent you launch to a business outcome.
+<sub>Salesforce Blog · Sep 4</sub>
 
-## Marketing Tech
+**[Insurance at Dreamforce: Your Guide to Three Perfect Days](https://www.salesforce.com/blog/insurance-dreamforce-preview/)**
+Dreamforce is back, September 15–17, in San Francisco and streaming free on Salesforce+ For insurance leaders, this is the year to see how AI proves its value.
+<sub>Salesforce Blog · Sep 4</sub>
 
-**[The next CDP decision goes beyond the CDP](https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/)**
-As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live.
-<sub>MarTech · Sep 4</sub>
+## CRM Platforms
 
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing.
-<sub>MarTech · Sep 3</sub>
+**[ServiceNow ‘Acquires Sweep in Deal Worth Hundreds of Millions’](https://www.salesforceben.com/servicenow-acquires-sweep-in-deal-worth-hundreds-of-millions/)**
+ServiceNow has reportedly bought Israeli AI startup Sweep in a deal worth hundreds of millions of dollars.
+<sub>Salesforce Ben · Sep 4</sub>
+
+**[Workforce management meets AI: WEM MCP tools for Dynamics 365 Service Agent](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/03/dynamics-365-workforce-engagement-management-mcp-tools/)**
+Workforce Engagement Management (WEM) MCP tools for Dynamics 365 Service Agent bring workforce actions into Copilot, Microsoft Teams, and Outlook.
+<sub>MS Dynamics 365 Blog · Sep 3</sub>
 
 ## Data Platforms
 
+**[Snowflake Ventures: Investing in Enterprise AI Infrastructure](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ventures-investing-enterprise-ai)**
+Snowflake Ventures backs Dust and Gray Swan to build the trusted, secure infrastructure enterprises need to move AI agents from pilots to production.
+<sub>Snowflake Blog · Sep 8</sub>
+
 **[Snowflake Q2 growth surges on AI and data demand](https://www.constellationr.com/insights/news/snowflake-q2-growth-surges-ai-and-data-demand)**
 <sub>Constellation Research · Sep 2</sub>
-
-**[Grok 4.6 Now Available on Snowflake Cortex AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/announcing-grok-4-6-snowflake-cortex-ai)**
-Grok 4.6, xAI's latest frontier model, is now in private preview on Snowflake Cortex AI. Run long-running agents and agentic pipelines with your data inside Snowflake's secure perimeter.
-<sub>Snowflake Blog · Sep 3</sub>
 
 ## AI
 
@@ -58,29 +58,29 @@ Grok 4.6, xAI's latest frontier model, is now in private preview on Snowflake Co
 **[OpenAI launches GPT-6 Astra](https://www.constellationr.com/insights/news/openai-launches-gpt-6-astra)**
 <sub>Constellation Research · Sep 3</sub>
 
+**[Anthropic uses Claude to formalize proof of Fermat’s Last Theorem](https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/)**
+Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today.
+<sub>SiliconANGLE AI · Sep 5</sub>
+
+**[Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)**
+It's the latest failure of OpenAI's internal monitoring and security systems.
+<sub>TechCrunch AI · Sep 4</sub>
+
 **[What Does the OpenAI Hack Mean for Salesforce and other CRM Communities?](https://www.cxtoday.com/community-social-engagement/salesforce-experience-cloud-b2b-customer-communities/)**
 A reported cyber incident involving OpenAI agents and the AI-development platform Hugging Face has made an abstract concern about autonomous AI feel more immediate.
 <sub>CX Today · Sep 3</sub>
 
-**[OpenAI starts rolling out its next-generation GPT-6 Astra model](https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/)**
-OpenAI Group PBC today started opening access to GPT-6 Astra, its newest and most capable large language model.
-<sub>SiliconANGLE AI · Sep 3</sub>
-
-**[Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026](https://www.cxtoday.com/ai-automation-in-cx/genesys-ai-control-plane-xperience-2026/)**
-Genesys has unveiled a new set of AI orchestration capabilities at Xperience 2026, including an AI Control Plane, upgrades to its Agentic Virtual Agent, and persistent customer-context tooling.
-<sub>CX Today · Sep 3</sub>
-
 ## Also worth a click
 
+- [Salesforce Announces 3 Replacement Editions, Bundling AI, Slack, and Security](https://www.salesforceben.com/salesforce-announces-3-replacement-editions-bundling-ai-slack-and-security/) — *Salesforce Ben*
 - [Salesforce Flow Demonstrates Why Vibe Coding Isn’t Enough](https://www.salesforceben.com/salesforce-flow-demonstrates-why-vibe-coding-isnt-enough/) — *Salesforce Ben*
 - [Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/) — *Salesforce Ben*
-- [Cybersecurity vendors ride Mythos-inspired spending wave](https://www.constellationr.com/insights/news/cybersecurity-vendors-ride-mythos-inspired-spending-wave) — *Constellation Research*
+- [Experian expands into AI agents with ServiceNow partnership](https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/) — *SiliconANGLE AI*
 - [Smarsh Scales Salesforce’s Agentforce After Delivering Strong Customer Support Results](https://www.salesforce.com/news/linked-content/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results/) — *Salesforce Newsroom*
-- [Broadcom reports strong Q3, sees AI chip revenue accelerating in Q4](https://www.constellationr.com/insights/news/broadcom-reports-strong-q3-sees-ai-chip-revenue-accelerating-q4) — *Constellation Research*
+- [Trust & Security at Dreamforce 2026](https://www.salesforce.com/blog/trust-security-at-dreamforce-2026/) — *Salesforce Blog*
 - [ChatGPT Is Down: More Than 10,000 Report Issues With OpenAI](https://www.salesforceben.com/chatgpt-is-down-more-than-10000-report-issues-with-openai/) — *Salesforce Ben*
-- [Agentforce Marketing: A Practical Framework for Successful Implementation](https://www.salesforce.com/blog/agentforce-marketing-a-practical-framework-for-successful-implementation/) — *Salesforce Blog*
-- [Adobe names Chakravarthy CEO](https://www.constellationr.com/insights/news/adobe-names-chakravarthy-ceo) — *Constellation Research*
+- [OpenAI starts rolling out its next-generation GPT-6 Astra model](https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2367 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2358 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
