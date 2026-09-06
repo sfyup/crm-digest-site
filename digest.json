@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-05T13:36:14.729Z",
+  "generatedAt": "2026-09-06T13:50:56.233Z",
   "stats": {
-    "considered": 2358,
-    "relevant": 74,
+    "considered": 2368,
+    "relevant": 55,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 573,
-    "minutes": 2.3875,
+    "words": 576,
+    "minutes": 2.4,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Why you should arbitrage your AI models like your vendors do — Constellation Research",
     "ServiceNow ‘Acquires Sweep in Deal Worth Hundreds of Millions’ — Salesforce Ben",
     "Anthropic Says It Won’t Destroy SaaS, But Is Salesforce Safe? — Salesforce Ben",
-    "Will enterprises learn to love Meta AI models again? — Constellation Research",
     "Snowflake Ventures: Investing in Enterprise AI Infrastructure — Snowflake Blog"
   ],
   "sections": [
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-04T14:17:09.000Z",
           "summary": "Salesforce and Anthropic have been moving closer together for a while now, but Claudeforce makes that relationship much more concrete.",
-          "score": 88.6,
+          "score": 59,
           "alsoCoveredBy": []
         },
         {
@@ -39,25 +39,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-04T14:30:00.000Z",
           "summary": "You may have heard about Anthropic’s relatively new certification program, but not be sure exactly what it looks like.",
-          "score": 85.4,
+          "score": 57,
           "alsoCoveredBy": []
         },
         {
-          "title": "New Salesforce Editions Bundle Everything Businesses Need for Agentic Transformation",
-          "url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-03T13:00:00.000Z",
-          "summary": "New editions bundle Slack, Tableau Next, the Premier Success Plan, enterprise-grade security, and out-of-the-box AI built for every role into every edition The new Max edition alone delivers 60% more…",
-          "score": 56.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Agentforce Marketing: A Practical Framework for Successful Implementation",
-          "url": "https://www.salesforce.com/blog/agentforce-marketing-a-practical-framework-for-successful-implementation/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-04T13:56:12.000Z",
-          "summary": "A practical framework for choosing where to start with Agentforce Marketing, getting the foundations right, and tying every agent you launch to a business outcome.",
-          "score": 33.2,
+          "title": "10 Salesforce Winter ’27 updates marketers need to know",
+          "url": "https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/",
+          "source": "MarTech",
+          "date": "2026-09-04T12:53:00.000Z",
+          "summary": "From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams.",
+          "score": 30.9,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +57,16 @@
           "source": "Salesforce Blog",
           "date": "2026-09-04T21:04:39.000Z",
           "summary": "Dreamforce is back, September 15–17, in San Francisco and streaming free on Salesforce+ For insurance leaders, this is the year to see how AI proves its value.",
-          "score": 32.8,
+          "score": 22.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Agentforce Marketing: A Practical Framework for Successful Implementation",
+          "url": "https://www.salesforce.com/blog/agentforce-marketing-a-practical-framework-for-successful-implementation/",
+          "source": "Salesforce Blog",
+          "date": "2026-09-04T13:56:12.000Z",
+          "summary": "A practical framework for choosing where to start with Agentforce Marketing, getting the foundations right, and tying every agent you launch to a business outcome.",
+          "score": 22,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +81,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-04T14:51:07.000Z",
           "summary": "ServiceNow has reportedly bought Israeli AI startup Sweep in a deal worth hundreds of millions of dollars.",
-          "score": 96.1,
+          "score": 64.3,
           "alsoCoveredBy": []
         },
         {
@@ -90,7 +90,22 @@
           "source": "MS Dynamics 365 Blog",
           "date": "2026-09-03T19:55:42.000Z",
           "summary": "Workforce Engagement Management (WEM) MCP tools for Dynamics 365 Service Agent bring workforce actions into Copilot, Microsoft Teams, and Outlook.",
-          "score": 33,
+          "score": 18.3,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "The next CDP decision goes beyond the CDP",
+          "url": "https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/",
+          "source": "MarTech",
+          "date": "2026-09-04T12:04:00.000Z",
+          "summary": "As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live.",
+          "score": 30.3,
           "alsoCoveredBy": []
         }
       ]
@@ -107,15 +122,6 @@
           "summary": "Snowflake Ventures backs Dust and Gray Swan to build the trusted, secure infrastructure enterprises need to move AI agents from pilots to production.",
           "score": 37,
           "alsoCoveredBy": []
-        },
-        {
-          "title": "Snowflake Q2 growth surges on AI and data demand",
-          "url": "https://www.constellationr.com/insights/news/snowflake-q2-growth-surges-ai-and-data-demand",
-          "source": "Constellation Research",
-          "date": "2026-09-02T20:44:44.000Z",
-          "summary": "",
-          "score": 37,
-          "alsoCoveredBy": []
         }
       ]
     },
@@ -124,12 +130,12 @@
       "label": "AI",
       "items": [
         {
-          "title": "Will enterprises learn to love Meta AI models again?",
-          "url": "https://www.constellationr.com/insights/news/will-enterprises-learn-love-meta-ai-models-again",
+          "title": "Why you should arbitrage your AI models like your vendors do",
+          "url": "https://www.constellationr.com/insights/news/why-you-should-arbitrage-your-ai-models-your-vendors-do",
           "source": "Constellation Research",
-          "date": "2026-09-03T11:11:30.000Z",
+          "date": "2026-09-06T10:00:00.000Z",
           "summary": "",
-          "score": 73.5,
+          "score": 144,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +144,7 @@
           "source": "Constellation Research",
           "date": "2026-09-03T20:12:43.000Z",
           "summary": "",
-          "score": 64.8,
+          "score": 36.1,
           "alsoCoveredBy": []
         },
         {
@@ -147,7 +153,16 @@
           "source": "SiliconANGLE AI",
           "date": "2026-09-05T00:41:41.000Z",
           "summary": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today.",
-          "score": 43.6,
+          "score": 30.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-05T18:05:27.000Z",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "score": 28.8,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +171,7 @@
           "source": "TechCrunch AI",
           "date": "2026-09-04T16:21:11.000Z",
           "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-          "score": 40.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "What Does the OpenAI Hack Mean for Salesforce and other CRM Communities?",
-          "url": "https://www.cxtoday.com/community-social-engagement/salesforce-experience-cloud-b2b-customer-communities/",
-          "source": "CX Today",
-          "date": "2026-09-03T09:48:42.000Z",
-          "summary": "A reported cyber incident involving OpenAI agents and the AI-development platform Hugging Face has made an abstract concern about autonomous AI feel more immediate.",
-          "score": 39.5,
+          "score": 27.2,
           "alsoCoveredBy": []
         }
       ]
@@ -183,19 +189,14 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Official 2026 Dreamforce Parties and Events Guide",
-      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
-      "source": "Salesforce Ben"
-    },
-    {
       "title": "Experian expands into AI agents with ServiceNow partnership",
       "url": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Smarsh Scales Salesforce’s Agentforce After Delivering Strong Customer Support Results",
-      "url": "https://www.salesforce.com/news/linked-content/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results/",
-      "source": "Salesforce Newsroom"
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Trust & Security at Dreamforce 2026",
@@ -203,9 +204,14 @@
       "source": "Salesforce Blog"
     },
     {
-      "title": "ChatGPT Is Down: More Than 10,000 Report Issues With OpenAI",
-      "url": "https://www.salesforceben.com/chatgpt-is-down-more-than-10000-report-issues-with-openai/",
-      "source": "Salesforce Ben"
+      "title": "4 Flow Types for Marketers Getting Started with Salesforce Flow",
+      "url": "https://www.salesforce.com/blog/4-flow-types-for-marketers-getting-started-with-salesforce-flow/",
+      "source": "Salesforce Blog"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
