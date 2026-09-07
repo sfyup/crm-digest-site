@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-06T13:50:56.233Z",
+  "generatedAt": "2026-09-07T16:11:11.037Z",
   "stats": {
-    "considered": 2368,
-    "relevant": 55,
-    "featured": 14,
+    "considered": 2371,
+    "relevant": 24,
+    "featured": 12,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 576,
-    "minutes": 2.4,
+    "words": 557,
+    "minutes": 2.3208333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Salesforce Admin’s Guide to Model Context Protocol (MCP) — Salesforce Ben",
     "Why you should arbitrage your AI models like your vendors do — Constellation Research",
-    "ServiceNow ‘Acquires Sweep in Deal Worth Hundreds of Millions’ — Salesforce Ben",
-    "Anthropic Says It Won’t Destroy SaaS, But Is Salesforce Safe? — Salesforce Ben",
-    "Snowflake Ventures: Investing in Enterprise AI Infrastructure — Snowflake Blog"
+    "Snowflake Ventures: Investing in Enterprise AI Infrastructure — Snowflake Blog",
+    "Your Three Year Salesforce Backlog Is Now This Week’s Sprint — Salesforce Ben"
   ],
   "sections": [
     {
@@ -25,30 +25,30 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Anthropic Says It Won’t Destroy SaaS, But Is Salesforce Safe?",
-          "url": "https://www.salesforceben.com/anthropic-says-it-wont-destroy-saas-but-is-salesforce-safe/",
+          "title": "Salesforce Admin’s Guide to Model Context Protocol (MCP)",
+          "url": "https://www.salesforceben.com/salesforce-admins-guide-to-model-context-protocol-mcp/",
           "source": "Salesforce Ben",
-          "date": "2026-09-04T14:17:09.000Z",
-          "summary": "Salesforce and Anthropic have been moving closer together for a while now, but Claudeforce makes that relationship much more concrete.",
-          "score": 59,
+          "date": "2026-09-07T08:55:37.000Z",
+          "summary": "If you’ve been following the world of AI and Agents, you’ve probably come across the term MCP, or Model Context Protocol.",
+          "score": 104,
           "alsoCoveredBy": []
         },
         {
-          "title": "Should You Get Anthropic Certified as a Salesforce Professional?",
-          "url": "https://www.salesforceben.com/should-you-get-anthropic-certified-as-a-salesforce-professional/",
+          "title": "Your Three Year Salesforce Backlog Is Now This Week’s Sprint",
+          "url": "https://www.salesforceben.com/your-three-year-salesforce-backlog-is-now-this-weeks-sprint/",
           "source": "Salesforce Ben",
-          "date": "2026-09-04T14:30:00.000Z",
-          "summary": "You may have heard about Anthropic’s relatively new certification program, but not be sure exactly what it looks like.",
-          "score": 57,
+          "date": "2026-09-07T14:00:00.000Z",
+          "summary": "Agentic coding tools have changed how people work with software. Claude Code and Cursor are becoming the one interface people sit in all day, with email, Slack, Jira, and Salesforce behind them…",
+          "score": 85,
           "alsoCoveredBy": []
         },
         {
-          "title": "10 Salesforce Winter ’27 updates marketers need to know",
-          "url": "https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/",
-          "source": "MarTech",
-          "date": "2026-09-04T12:53:00.000Z",
-          "summary": "From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams.",
-          "score": 30.9,
+          "title": "Are Salesforce Customers Overpaying?",
+          "url": "https://www.salesforceben.com/are-salesforce-customers-overpaying/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-07T11:00:00.000Z",
+          "summary": "Salesforce is the clear leader in the CRM market, and it isn’t even close. It boasts of having more than 150,000 customers, and the company holds around 24% of the global CRM market share.",
+          "score": 78,
           "alsoCoveredBy": []
         },
         {
@@ -57,55 +57,16 @@
           "source": "Salesforce Blog",
           "date": "2026-09-04T21:04:39.000Z",
           "summary": "Dreamforce is back, September 15–17, in San Francisco and streaming free on Salesforce+ For insurance leaders, this is the year to see how AI proves its value.",
-          "score": 22.8,
+          "score": 11.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Agentforce Marketing: A Practical Framework for Successful Implementation",
-          "url": "https://www.salesforce.com/blog/agentforce-marketing-a-practical-framework-for-successful-implementation/",
+          "title": "Trust & Security at Dreamforce 2026",
+          "url": "https://www.salesforce.com/blog/trust-security-at-dreamforce-2026/",
           "source": "Salesforce Blog",
-          "date": "2026-09-04T13:56:12.000Z",
-          "summary": "A practical framework for choosing where to start with Agentforce Marketing, getting the foundations right, and tying every agent you launch to a business outcome.",
-          "score": 22,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "ServiceNow ‘Acquires Sweep in Deal Worth Hundreds of Millions’",
-          "url": "https://www.salesforceben.com/servicenow-acquires-sweep-in-deal-worth-hundreds-of-millions/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-04T14:51:07.000Z",
-          "summary": "ServiceNow has reportedly bought Israeli AI startup Sweep in a deal worth hundreds of millions of dollars.",
-          "score": 64.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Workforce management meets AI: WEM MCP tools for Dynamics 365 Service Agent",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/03/dynamics-365-workforce-engagement-management-mcp-tools/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-09-03T19:55:42.000Z",
-          "summary": "Workforce Engagement Management (WEM) MCP tools for Dynamics 365 Service Agent bring workforce actions into Copilot, Microsoft Teams, and Outlook.",
-          "score": 18.3,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "martech",
-      "label": "Marketing Tech",
-      "items": [
-        {
-          "title": "The next CDP decision goes beyond the CDP",
-          "url": "https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/",
-          "source": "MarTech",
-          "date": "2026-09-04T12:04:00.000Z",
-          "summary": "As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live.",
-          "score": 30.3,
+          "date": "2026-09-04T17:40:24.000Z",
+          "summary": "Discover how to secure the agentic enterprise with hands-on training, expert guidance, and Security Keynote in San Francisco and on Salesforce+.",
+          "score": 10.8,
           "alsoCoveredBy": []
         }
       ]
@@ -122,6 +83,15 @@
           "summary": "Snowflake Ventures backs Dust and Gray Swan to build the trusted, secure infrastructure enterprises need to move AI agents from pilots to production.",
           "score": 37,
           "alsoCoveredBy": []
+        },
+        {
+          "title": "CoCo: Snowflake's AI Coding Agent for Data Engineers",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-data-engineering",
+          "source": "Snowflake Blog",
+          "date": "2026-09-04T19:58:00.000Z",
+          "summary": "Learn how data engineers use Snowflake's AI coding agent CoCo to build reproducible pipelines — covering setup, Skills, Plugins, and best practices.",
+          "score": 8.7,
+          "alsoCoveredBy": []
         }
       ]
     },
@@ -135,25 +105,25 @@
           "source": "Constellation Research",
           "date": "2026-09-06T10:00:00.000Z",
           "summary": "",
-          "score": 144,
+          "score": 102.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI launches GPT-6 Astra",
-          "url": "https://www.constellationr.com/insights/news/openai-launches-gpt-6-astra",
-          "source": "Constellation Research",
-          "date": "2026-09-03T20:12:43.000Z",
-          "summary": "",
-          "score": 36.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
-          "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+          "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
+          "url": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-05T00:41:41.000Z",
-          "summary": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today.",
-          "score": 30.9,
+          "date": "2026-09-06T22:33:26.000Z",
+          "summary": "OpenAI Group PBC acknowledged Saturday that it did not publicly disclose an episode in which its artificial intelligence agents wrote to outside websites and said it will publish a framework in the…",
+          "score": 22.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "date": "2026-09-06T08:00:00.000Z",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "score": 20.7,
           "alsoCoveredBy": []
         },
         {
@@ -162,16 +132,16 @@
           "source": "TechCrunch AI",
           "date": "2026-09-05T18:05:27.000Z",
           "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-          "score": 28.8,
+          "score": 18.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
           "source": "TechCrunch AI",
-          "date": "2026-09-04T16:21:11.000Z",
-          "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-          "score": 27.2,
+          "date": "2026-09-06T20:47:37.000Z",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "score": 18.4,
           "alsoCoveredBy": []
         }
       ]
@@ -179,18 +149,18 @@
   ],
   "quickLinks": [
     {
-      "title": "Salesforce Announces 3 Replacement Editions, Bundling AI, Slack, and Security",
-      "url": "https://www.salesforceben.com/salesforce-announces-3-replacement-editions-bundling-ai-slack-and-security/",
+      "title": "Winter ‘27 Release: Organize Your Salesforce Flows With Tags and Categories",
+      "url": "https://www.salesforceben.com/winter-27-release-organize-your-salesforce-flows-with-tags-and-categories/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce Flow Demonstrates Why Vibe Coding Isn’t Enough",
-      "url": "https://www.salesforceben.com/salesforce-flow-demonstrates-why-vibe-coding-isnt-enough/",
+      "title": "Salesforce Developer Console Just Disappeared: Here’s What’s Actually Happening",
+      "url": "https://www.salesforceben.com/salesforce-developer-console-just-disappeared-heres-whats-actually-happening/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Experian expands into AI agents with ServiceNow partnership",
-      "url": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/",
+      "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
+      "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
       "source": "SiliconANGLE AI"
     },
     {
@@ -199,14 +169,14 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Trust & Security at Dreamforce 2026",
-      "url": "https://www.salesforce.com/blog/trust-security-at-dreamforce-2026/",
-      "source": "Salesforce Blog"
+      "title": "Public sector leadership is crucial for UK AI adoption, argues US giant AWS",
+      "url": "https://diginomica.com/public-sector-leadership-crucial-uk-ai-adoption-argues-us-giant-aws",
+      "source": "Diginomica"
     },
     {
-      "title": "4 Flow Types for Marketers Getting Started with Salesforce Flow",
-      "url": "https://www.salesforce.com/blog/4-flow-types-for-marketers-getting-started-with-salesforce-flow/",
-      "source": "Salesforce Blog"
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -214,9 +184,9 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
-      "url": "https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/",
-      "source": "SiliconANGLE AI"
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch AI"
     }
   ]
 }
