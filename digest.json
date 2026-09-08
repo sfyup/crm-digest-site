@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-07T16:11:11.037Z",
+  "generatedAt": "2026-09-08T14:49:00.177Z",
   "stats": {
-    "considered": 2371,
-    "relevant": 24,
-    "featured": 12,
+    "considered": 2375,
+    "relevant": 27,
+    "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 557,
-    "minutes": 2.3208333333333333,
+    "words": 629,
+    "minutes": 2.620833333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Mistral said it raised €3 billion in Series D funding — Constellation Research",
     "Salesforce Admin’s Guide to Model Context Protocol (MCP) — Salesforce Ben",
-    "Why you should arbitrage your AI models like your vendors do — Constellation Research",
     "Snowflake Ventures: Investing in Enterprise AI Infrastructure — Snowflake Blog",
-    "Your Three Year Salesforce Backlog Is Now This Week’s Sprint — Salesforce Ben"
+    "The data trust crisis: Why your customer data is getting worse — MarTech"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-07T08:55:37.000Z",
           "summary": "If you’ve been following the world of AI and Agents, you’ve probably come across the term MCP, or Model Context Protocol.",
-          "score": 104,
+          "score": 77.5,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-07T14:00:00.000Z",
           "summary": "Agentic coding tools have changed how people work with software. Claude Code and Cursor are becoming the one interface people sit in all day, with email, Slack, Jira, and Salesforce behind them…",
-          "score": 85,
+          "score": 64.5,
           "alsoCoveredBy": []
         },
         {
@@ -48,25 +48,64 @@
           "source": "Salesforce Ben",
           "date": "2026-09-07T11:00:00.000Z",
           "summary": "Salesforce is the clear leader in the CRM market, and it isn’t even close. It boasts of having more than 150,000 customers, and the company holds around 24% of the global CRM market share.",
-          "score": 78,
+          "score": 58.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Insurance at Dreamforce: Your Guide to Three Perfect Days",
-          "url": "https://www.salesforce.com/blog/insurance-dreamforce-preview/",
+          "title": "Salesforce Unveils Proactive Intelligence for Life Sciences, Uniting Content, Compliance, and Care Signals on Any Surface",
+          "url": "https://www.salesforce.com/blog/proactive-intelligence-life-sciences/",
           "source": "Salesforce Blog",
-          "date": "2026-09-04T21:04:39.000Z",
-          "summary": "Dreamforce is back, September 15–17, in San Francisco and streaming free on Salesforce+ For insurance leaders, this is the year to see how AI proves its value.",
-          "score": 11.9,
+          "date": "2026-09-08T12:00:00.000Z",
+          "summary": "Organizations across life sciences are losing critical time across the entire business by operating reactively.",
+          "score": 25.6,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "The Prompt Gap: Why Keyword-Based AI Search Tracking Misses What Customers Actually Ask",
+          "url": "https://www.cxtoday.com/customer-analytics-intelligence/the-prompt-gap-why-keyword-based-ai-search-tracking-misses-what-customers-actually-ask-sprinklr-cs-0195/",
+          "source": "CX Today",
+          "date": "2026-09-07T12:29:50.000Z",
+          "summary": "In this CX Today interview, Rob Wilkinson speaks with Sean Jackson, Lead AI Architect at Sprinklr, about how AI-generated answers are changing customer discovery, brand comparison, and buyer…",
+          "score": 12.3,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "The data trust crisis: Why your customer data is getting worse",
+          "url": "https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/",
+          "source": "MarTech",
+          "date": "2026-09-08T14:19:51.000Z",
+          "summary": "Unreliable customer data threatens your personalization and ROI. At the MarTech Conference we discussed how to navigate data decay and build a high-trust measurement framework.",
+          "score": 32,
           "alsoCoveredBy": []
         },
         {
-          "title": "Trust & Security at Dreamforce 2026",
-          "url": "https://www.salesforce.com/blog/trust-security-at-dreamforce-2026/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-04T17:40:24.000Z",
-          "summary": "Discover how to secure the agentic enterprise with hands-on training, expert guidance, and Security Keynote in San Francisco and on Salesforce+.",
-          "score": 10.8,
+          "title": "Your 2027 CTV budget needs evidence now",
+          "url": "https://martech.org/your-2027-ctv-budget-needs-evidence-now/",
+          "source": "MarTech",
+          "date": "2026-09-08T12:07:00.000Z",
+          "summary": "Run a narrow test now to learn what CTV costs against your actual accounts and whether the channel is worth funding next year.",
+          "score": 21.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Why AI hasn’t solved marketing’s time problem",
+          "url": "https://martech.org/why-ai-hasnt-solved-marketings-time-problem/",
+          "source": "MarTech",
+          "date": "2026-09-08T12:27:00.000Z",
+          "summary": "AI makes it easier to produce marketing content, but faster production doesn’t mean more time for strategy, planning, or better work.",
+          "score": 17.8,
           "alsoCoveredBy": []
         }
       ]
@@ -83,15 +122,6 @@
           "summary": "Snowflake Ventures backs Dust and Gray Swan to build the trusted, secure infrastructure enterprises need to move AI agents from pilots to production.",
           "score": 37,
           "alsoCoveredBy": []
-        },
-        {
-          "title": "CoCo: Snowflake's AI Coding Agent for Data Engineers",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-data-engineering",
-          "source": "Snowflake Blog",
-          "date": "2026-09-04T19:58:00.000Z",
-          "summary": "Learn how data engineers use Snowflake's AI coding agent CoCo to build reproducible pipelines — covering setup, Skills, Plugins, and best practices.",
-          "score": 8.7,
-          "alsoCoveredBy": []
         }
       ]
     },
@@ -100,54 +130,59 @@
       "label": "AI",
       "items": [
         {
+          "title": "Mistral said it raised €3 billion in Series D funding",
+          "url": "https://www.constellationr.com/insights/news/mistral-said-it-raised-eur3-billion-series-d-funding",
+          "source": "Constellation Research",
+          "date": "2026-09-08T10:11:54.000Z",
+          "summary": "",
+          "score": 90.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How Oracle Is Reinventing the Database for the AI Era",
+          "url": "https://www.constellationr.com/video/how-oracle-reinventing-database-ai-era",
+          "source": "Constellation Research",
+          "date": "2026-09-08T14:38:44.000Z",
+          "summary": "Ray's new book about Digital Giants and the future of business, titled, Everybody Wants to Rule The World was released in July 2021.",
+          "score": 85,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Why you should arbitrage your AI models like your vendors do",
           "url": "https://www.constellationr.com/insights/news/why-you-should-arbitrage-your-ai-models-your-vendors-do",
           "source": "Constellation Research",
           "date": "2026-09-06T10:00:00.000Z",
           "summary": "",
-          "score": 102.8,
+          "score": 67.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
-          "url": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki/",
+          "title": "Lightsage gets $4M in funding to help software makers sell directly to autonomous AI agents",
+          "url": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-06T22:33:26.000Z",
-          "summary": "OpenAI Group PBC acknowledged Saturday that it did not publicly disclose an episode in which its artificial intelligence agents wrote to outside websites and said it will publish a framework in the…",
-          "score": 22.8,
+          "date": "2026-09-08T12:00:02.000Z",
+          "summary": "Lightsage, an early-stage startup that’s helping software companies to sell their products to artificial intelligence agents, said today it has raised $4 million to spark a new era of “agent-led…",
+          "score": 34.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
           "source": "OpenAI News",
-          "date": "2026-09-06T08:00:00.000Z",
-          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-          "score": 20.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-05T18:05:27.000Z",
-          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-          "score": 18.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-06T20:47:37.000Z",
-          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-          "score": 18.4,
+          "date": "2026-09-08T00:00:00.000Z",
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+          "score": 28.4,
           "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
+    {
+      "title": "Arm steps up physical AI efforts, bridges edge, cloud AI",
+      "url": "https://www.constellationr.com/insights/news/arm-steps-physical-ai-efforts-bridges-edge-cloud-ai",
+      "source": "Constellation Research"
+    },
     {
       "title": "Winter ‘27 Release: Organize Your Salesforce Flows With Tags and Categories",
       "url": "https://www.salesforceben.com/winter-27-release-organize-your-salesforce-flows-with-tags-and-categories/",
@@ -159,34 +194,29 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
-      "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+      "title": "UJET Says Contact Center AI Adoption Is Moving Too Fast, Which Creates New Risks",
+      "url": "https://www.cxtoday.com/ai-automation-in-cx/ujet-says-contact-center-ai-adoption-is-moving-too-fast-which-creates-new-risks-ujet-cs-0190/",
+      "source": "CX Today"
+    },
+    {
+      "title": "OpenAI chief scientist argues for AI research slowdown",
+      "url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch AI"
+      "title": "Why growing restaurant chains win at local search and AI visibility by SOCi",
+      "url": "https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/",
+      "source": "MarTech"
     },
     {
-      "title": "Public sector leadership is crucial for UK AI adoption, argues US giant AWS",
-      "url": "https://diginomica.com/public-sector-leadership-crucial-uk-ai-adoption-argues-us-giant-aws",
-      "source": "Diginomica"
+      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
+      "url": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch AI"
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News"
     }
   ]
 }
