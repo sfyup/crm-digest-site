@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-09T14:53:44.195Z",
+  "generatedAt": "2026-09-10T14:41:37.042Z",
   "stats": {
-    "considered": 2379,
-    "relevant": 65,
+    "considered": 2383,
+    "relevant": 81,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 655,
-    "minutes": 2.7291666666666665,
+    "words": 644,
+    "minutes": 2.683333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Dreamforce Predictions, Pragmatic AI, and the Rise of Decision Intelligence — Constellation Research",
     "Certinia launches System of Action, scales Veda AI agents, intelligent actions — Constellation Research",
-    "Is Claudeforce Enough? What the Dreamforce ’26 Announcement Might Be — Salesforce Ben",
-    "5 Questions to Ask Before You Buy an AI-Ready Customer Data Platform — CX Today",
-    "Evaluation-First AI Agents: How Zepto Scales Customer Support on Databricks and MLflow — Databricks Blog"
+    "OpenAI GPT-6 Astra Now on Snowflake Cortex AI — Snowflake Blog",
+    "The answer to your martech problem depends on the problem — MarTech"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Dreamforce Predictions, Pragmatic AI, and the Rise of Decision Intelligence | CRTV Episode 138",
+          "url": "https://www.constellationr.com/video/constellationtv/dreamforce-predictions-pragmatic-ai-and-rise-decision-intelligence-crtv",
+          "source": "Constellation Research",
+          "date": "2026-09-09T16:34:06.000Z",
+          "summary": "Mason also manages surveys and produces Constellation’s video collateral, including ConstellationTV. Her role ensures that the Constellation brand is communicated with clarity, creativity, and…",
+          "score": 159.8,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Is Claudeforce Enough? What the Dreamforce ’26 Announcement Might Be",
           "url": "https://www.salesforceben.com/is-claudeforce-enough-what-the-dreamforce-26-announcement-might-be/",
           "source": "Salesforce Ben",
           "date": "2026-09-09T14:43:01.000Z",
           "summary": "Dreamforce is next week. As ever, the community’s eyes and ears will be open for whatever big new announcement is going to shake the Salesforce ecosystem, setting the tone for the coming year.",
-          "score": 127.3,
+          "score": 95.7,
           "alsoCoveredBy": []
         },
         {
@@ -39,25 +48,25 @@
           "source": "Salesforce Ben",
           "date": "2026-09-09T12:12:12.000Z",
           "summary": "Claudeforce is already set to be one of the biggest announcements of Salesforce’s year, but could an existing licensing problem stop the product from reaching its full potential?",
-          "score": 109.3,
+          "score": 81.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "What Is Salesforce Agentforce?",
-          "url": "https://www.salesforceben.com/how-does-salesforces-agentforce-work/",
+          "title": "Official 2026 Dreamforce Parties and Events Guide",
+          "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
           "source": "Salesforce Ben",
-          "date": "2026-09-09T12:19:03.000Z",
-          "summary": "Salesforce Agentforce has quickly become one of the biggest parts of Salesforce’s AI strategy, but if you’ve only heard the name, it can be difficult to work out what Agentforce actually is, what it…",
-          "score": 102.2,
+          "date": "2026-09-10T09:26:15.000Z",
+          "summary": "The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.",
+          "score": 80.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Service at Dreamforce: Your 5-Minute Guide to Making the Most of Your Experience",
-          "url": "https://www.salesforce.com/blog/service-dreamforce-preview/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-08T16:36:42.000Z",
-          "summary": "Dreamforce (Sept. 15–17) is your opportunity to see the latest Agentforce Service innovations in action, hear from customers, get the inside scoop on new launches, and explore what’s next for service…",
-          "score": 35.5,
+          "title": "Salesforce Completes Acquisition of Fin",
+          "url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-10T13:00:00.000Z",
+          "summary": "Fin’s customer agent platform joins Salesforce, giving companies faster, more flexible ways to automate customer service and deliver measurable outcomes SAN FRANCISCO, CA — September 10, 2026 —…",
+          "score": 74.3,
           "alsoCoveredBy": []
         }
       ]
@@ -67,21 +76,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "The answer to your martech problem depends on the problem",
+          "url": "https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/",
+          "source": "MarTech",
+          "date": "2026-09-10T13:28:00.000Z",
+          "summary": "Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons.",
+          "score": 56.7,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "5 Questions to Ask Before You Buy an AI-Ready Customer Data Platform",
           "url": "https://www.cxtoday.com/crm/5-questions-to-ask-before-you-buy-an-ai-ready-customer-data-platform-contentguru-cs-0225/",
           "source": "CX Today",
           "date": "2026-09-09T12:20:19.000Z",
           "summary": "The appeal of an “AI-ready customer data platform” is easy to understand. Organizations want more joined-up customer journeys, faster service, better recommendations and a clearer path into agentic…",
-          "score": 50.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Tealium Customer Data Hub Roadmap 2026: Is Governed AI Context the New CDP Battleground?",
-          "url": "https://www.cxtoday.com/crm/tealium-customer-data-hub/",
-          "source": "CX Today",
-          "date": "2026-09-08T15:52:28.000Z",
-          "summary": "A clever AI agent with bad or outdated customer data is still a liability. It can recommend the wrong product, ignore a recent complaint, or contact someone who withdrew consent five minutes earlier.",
-          "score": 29.6,
+          "score": 37.7,
           "alsoCoveredBy": []
         }
       ]
@@ -91,30 +100,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Evaluation-First AI Agents: How Zepto Scales Customer Support on Databricks and MLflow",
-          "url": "https://www.databricks.com/blog/evaluation-first-ai-agents-how-zepto-scales-customer-support-databricks-and-mlflow",
-          "source": "Databricks Blog",
-          "date": "2026-09-09T03:00:00.000Z",
-          "summary": "Zepto's Push for Reliable, Real-Time Customer SupportZepto is one of India's fastest-growing...",
-          "score": 39.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Databricks adds adaptive search model to speed agent retrieval",
-          "url": "https://siliconangle.com/2026/09/09/databricks-adds-adaptive-search-model-to-speed-agent-retrieval/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-09T14:00:10.000Z",
-          "summary": "Databricks Inc. today expanded its Adaptive Instructed-Retriever search model to speed up response times for requests from artificial intelligence agents that require multiple rounds of retrieval.",
-          "score": 32.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The GTM Leader's Blueprint for AI Transformation | Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-blueprint-gtm-transformation",
+          "title": "OpenAI GPT-6 Astra Now on Snowflake Cortex AI",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-6-astra-snowflake-cortex-ai",
           "source": "Snowflake Blog",
-          "date": "2026-09-10T05:55:00.000Z",
-          "summary": "Learn how Snowflake's sales and marketing teams closed the AI-to-revenue gap. Get the RAMP framework to turn AI pilots into measurable pipeline impact.",
-          "score": 30,
+          "date": "2026-09-09T16:00:00.000Z",
+          "summary": "OpenAI's GPT-6 Astra is now in private preview on Snowflake Cortex AI. Use its frontier reasoning and computer use across Snowflake CoCo, CoWork, Cortex Agents, AI Functions and Cortex Inference —…",
+          "score": 61.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Snowflake Partner Network Updates: Building the Agentic Enterprise Together",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-partner-network-agentic-enterprise",
+          "source": "Snowflake Blog",
+          "date": "2026-09-09T12:55:00.000Z",
+          "summary": "Snowflake unveils the biggest Snowflake Partner Network update in years, with over $120M in ecosystem investment, expanded build resources, comarketing support and a global tier framework to help…",
+          "score": 46.8,
           "alsoCoveredBy": []
         }
       ]
@@ -129,43 +129,43 @@
           "source": "Constellation Research",
           "date": "2026-09-09T12:00:00.000Z",
           "summary": "",
-          "score": 175.7,
+          "score": 130.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Microsoft adds native app building to Copilot Studio",
-          "url": "https://www.constellationr.com/insights/news/microsoft-adds-native-app-building-copilot-studio",
+          "title": "SAP CEO Klein: Our AI agents want to solve the complex business processes",
+          "url": "https://www.constellationr.com/insights/news/sap-ceo-klein-our-ai-agents-want-solve-complex-business-processes",
           "source": "Constellation Research",
-          "date": "2026-09-08T15:00:00.000Z",
+          "date": "2026-09-10T11:18:16.000Z",
           "summary": "",
-          "score": 75.7,
+          "score": 121.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Mistral said it raised €3 billion in Series D funding",
-          "url": "https://www.constellationr.com/insights/news/mistral-said-it-raised-eur3-billion-series-d-funding",
-          "source": "Constellation Research",
-          "date": "2026-09-08T10:11:54.000Z",
-          "summary": "",
-          "score": 66.5,
+          "title": "AI-native CRM startup Lightfield raises $47M to build an AI agent-ready replacement for Salesforce",
+          "url": "https://siliconangle.com/2026/09/09/ai-native-crm-startup-lightfield-raises-47m-to-build-an-ai-agent-ready-replacement-for-salesforce/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-09T23:44:45.000Z",
+          "summary": "Lightfield, an artificial intelligence-native customer relationship management startup, has ambitions to take on industry giants such as Salesforce Inc. and Hubspot Inc.",
+          "score": 84.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents",
-          "url": "https://diginomica.com/uniper-feeds-celonis-context-microsoft-copilot-energize-hr-ai-agents",
-          "source": "Diginomica",
-          "date": "2026-09-09T09:12:12.000Z",
-          "summary": "German energy giant Uniper is taking a pragmatic approach to the adoption of agentic AI - assessing the partners it has already, thinking about context enablement with Celonis, and bringing the…",
-          "score": 57.5,
+          "title": "Pioneering Salesforce Engineering’s Agentic Shift: Part 2",
+          "url": "https://www.salesforce.com/news/stories/agentic-shift-for-salesforce-engineers/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-09T15:00:00.000Z",
+          "summary": "In May, Srinivas Tallapragada shared what happened when Salesforce Engineering went agentic. This is the story of how we scaled that work across 15,000 engineers.",
+          "score": 72.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Treating AI agents like employees doesn't work - here's why!",
-          "url": "https://diginomica.com/treating-ai-agents-employees-doesnt-work-heres-why",
-          "source": "Diginomica",
-          "date": "2026-09-09T08:35:01.000Z",
-          "summary": "Despite all the recent debate about whether anthropomorphizing AI agents is the way forward, it appears that doing so can end up being more trouble than it is worth.",
-          "score": 34,
+          "title": "Exclusive: Cfo.ai launches an agentic CFO for business founders",
+          "url": "https://siliconangle.com/2026/09/10/exclusive-ai-finance-cfo-ai-launches-an-agentic-cfo-for-business-founders/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-10T13:00:23.000Z",
+          "summary": "Artificial intelligence startup Runway Financial Inc. said today it has decided to pivot away from accounting software and rebrand itself as cfo.ai.",
+          "score": 43.3,
           "alsoCoveredBy": []
         }
       ]
@@ -173,9 +173,19 @@
   ],
   "quickLinks": [
     {
+      "title": "What Is Salesforce Agentforce?",
+      "url": "https://www.salesforceben.com/how-does-salesforces-agentforce-work/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "7 Decisions to Make Before Activating AI Agents in Marketing Cloud Next",
       "url": "https://www.salesforceben.com/7-decisions-to-make-before-activating-ai-agents-in-marketing-cloud-next/",
       "source": "Salesforce Ben"
+    },
+    {
+      "title": "Beyond the Final.Final.Really_Final Version: 3 Steps to Rethinking Documents and Enterprise Knowledge",
+      "url": "https://www.constellationr.com/research/blog/beyond-finalfinalreallyfinal-version-3-steps-rethinking-documents-and-enterprise",
+      "source": "Constellation Research"
     },
     {
       "title": "13 Must-Attend Dreamforce 2026 Sessions",
@@ -183,34 +193,24 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "How Oracle Is Reinventing the Database for the AI Era",
-      "url": "https://www.constellationr.com/video/how-oracle-reinventing-database-ai-era",
+      "title": "Nvidia's supply chain integrates Palantir",
+      "url": "https://www.constellationr.com/insights/news/nvidias-supply-chain-integrates-palantir",
       "source": "Constellation Research"
     },
     {
-      "title": "Palantir, Nebius forge sovereign AI, data pact",
-      "url": "https://www.constellationr.com/insights/news/palantir-nebius-forge-sovereign-ai-data-pact",
+      "title": "Qualtrics big plan: Digital twins of real customers to simulate, predict experiences",
+      "url": "https://www.constellationr.com/insights/news/qualtrics-big-plan-digital-twins-real-customers-simulate-predict-experiences",
       "source": "Constellation Research"
     },
     {
-      "title": "Salesforce Admin’s Guide to Model Context Protocol (MCP)",
-      "url": "https://www.salesforceben.com/salesforce-admins-guide-to-model-context-protocol-mcp/",
-      "source": "Salesforce Ben"
+      "title": "Salesforce Introduces the Trusted Enterprise AI Harness",
+      "url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/",
+      "source": "Salesforce Newsroom"
     },
     {
-      "title": "Your Three Year Salesforce Backlog Is Now This Week’s Sprint",
-      "url": "https://www.salesforceben.com/your-three-year-salesforce-backlog-is-now-this-weeks-sprint/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Are Salesforce Customers Overpaying?",
-      "url": "https://www.salesforceben.com/are-salesforce-customers-overpaying/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "CFOs taking on more AI oversight, says Deloitte",
-      "url": "https://www.constellationr.com/insights/news/cfos-taking-more-ai-oversight-says-deloitte",
-      "source": "Constellation Research"
+      "title": "Salesforce throws down the gauntlet on the enterprise AI harness",
+      "url": "https://diginomica.com/salesforce-throws-down-gauntlet-enterprise-ai-harness",
+      "source": "Diginomica"
     }
   ]
 }
