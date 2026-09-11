@@ -1,45 +1,45 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Thursday, September 10, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Friday, September 11, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Dreamforce Predictions, Pragmatic AI, and the Rise of Decision Intelligence — Constellation Research
-- Certinia launches System of Action, scales Veda AI agents, intelligent actions — Constellation Research
+- Is Agentforce Still Relevant Now That Salesforce Has Claudeforce? — Salesforce Ben
+- BT150 zeitgeist: SaaS pricing, AI agent looming questions, organizational design — Constellation Research
+- The latest AI-powered martech news and releases — MarTech
 - OpenAI GPT-6 Astra Now on Snowflake Cortex AI — Snowflake Blog
-- The answer to your martech problem depends on the problem — MarTech
 
 ## Salesforce
+
+**[Is Agentforce Still Relevant Now That Salesforce Has Claudeforce?](https://www.salesforceben.com/is-agentforce-still-relevant-now-that-salesforce-has-claudeforce/)**
+If you feel like you’ve been hearing a lot about Claudeforce lately, be prepared for that trend to continue.
+<sub>Salesforce Ben · Sep 11</sub>
 
 **[Dreamforce Predictions, Pragmatic AI, and the Rise of Decision Intelligence | CRTV Episode 138](https://www.constellationr.com/video/constellationtv/dreamforce-predictions-pragmatic-ai-and-rise-decision-intelligence-crtv)**
 Mason also manages surveys and produces Constellation’s video collateral, including ConstellationTV. Her role ensures that the Constellation brand is communicated with clarity, creativity, and…
 <sub>Constellation Research · Sep 9</sub>
 
-**[Is Claudeforce Enough? What the Dreamforce ’26 Announcement Might Be](https://www.salesforceben.com/is-claudeforce-enough-what-the-dreamforce-26-announcement-might-be/)**
-Dreamforce is next week. As ever, the community’s eyes and ears will be open for whatever big new announcement is going to shake the Salesforce ecosystem, setting the tone for the coming year.
-<sub>Salesforce Ben · Sep 9</sub>
+**[Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work](https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/)**
+New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances…
+<sub>Salesforce Newsroom · Sep 11</sub>
 
-**[Why Salesforce’s Licensing Problem May Damage Claudeforce’s Adoption Numbers](https://www.salesforceben.com/why-salesforces-licensing-problem-may-damage-claudeforces-adoption-numbers/)**
-Claudeforce is already set to be one of the biggest announcements of Salesforce’s year, but could an existing licensing problem stop the product from reaching its full potential?
-<sub>Salesforce Ben · Sep 9</sub>
-
-**[Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/)**
-The biggest event in the Salesforce calendar is fast approaching, with Dreamforce kicking off on September 15.
-<sub>Salesforce Ben · Sep 10</sub>
-
-**[Salesforce Completes Acquisition of Fin](https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/)**
-Fin’s customer agent platform joins Salesforce, giving companies faster, more flexible ways to automate customer service and deliver measurable outcomes SAN FRANCISCO, CA — September 10, 2026 —…
+**[Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE](https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/)**
+Salesforce becomes the Title Sponsor and Technological partner of FIDE. Partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering…
 <sub>Salesforce Newsroom · Sep 10</sub>
 
+**[Agentforce Permissions Explained: Agent Users, Access, and Security](https://www.salesforceben.com/agentforce-permissions-explained-agent-users-access-and-security/)**
+When you set up an Agentforce agent, it doesn’t really feel like you’re onboarding someone new. You’re configuring topics, actions, or maybe writing a few instructions.
+<sub>Salesforce Ben · Sep 11</sub>
+
 ## Marketing Tech
+
+**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
+Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way.
+<sub>MarTech · Sep 10</sub>
 
 **[The answer to your martech problem depends on the problem](https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/)**
 Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons.
 <sub>MarTech · Sep 10</sub>
-
-**[5 Questions to Ask Before You Buy an AI-Ready Customer Data Platform](https://www.cxtoday.com/crm/5-questions-to-ask-before-you-buy-an-ai-ready-customer-data-platform-contentguru-cs-0225/)**
-The appeal of an “AI-ready customer data platform” is easy to understand. Organizations want more joined-up customer journeys, faster service, better recommendations and a clearer path into agentic…
-<sub>CX Today · Sep 9</sub>
 
 ## Data Platforms
 
@@ -48,13 +48,13 @@ OpenAI's GPT-6 Astra is now in private preview on Snowflake Cortex AI. Use its f
 <sub>Snowflake Blog · Sep 9</sub>
 
 **[Snowflake Partner Network Updates: Building the Agentic Enterprise Together](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-partner-network-agentic-enterprise)**
-Snowflake unveils the biggest Snowflake Partner Network update in years, with over $120M in ecosystem investment, expanded build resources, comarketing support and a global tier framework to help…
+Snowflake unveils the biggest Snowflake Partner Network update in years, with expanded build resources, comarketing support and a global tier framework to help partners scale in the agentic era.
 <sub>Snowflake Blog · Sep 9</sub>
 
 ## AI
 
-**[Certinia launches System of Action, scales Veda AI agents, intelligent actions](https://www.constellationr.com/insights/news/certinia-launches-system-action-scales-veda-ai-agents-intelligent-actions)**
-<sub>Constellation Research · Sep 9</sub>
+**[BT150 zeitgeist: SaaS pricing, AI agent looming questions, organizational design](https://www.constellationr.com/insights/news/bt150-zeitgeist-saas-pricing-ai-agent-looming-questions-organizational-design)**
+<sub>Constellation Research · Sep 11</sub>
 
 **[SAP CEO Klein: Our AI agents want to solve the complex business processes](https://www.constellationr.com/insights/news/sap-ceo-klein-our-ai-agents-want-solve-complex-business-processes)**
 <sub>Constellation Research · Sep 10</sub>
@@ -67,21 +67,21 @@ Lightfield, an artificial intelligence-native customer relationship management s
 In May, Srinivas Tallapragada shared what happened when Salesforce Engineering went agentic. This is the story of how we scaled that work across 15,000 engineers.
 <sub>Salesforce Newsroom · Sep 9</sub>
 
-**[Exclusive: Cfo.ai launches an agentic CFO for business founders](https://siliconangle.com/2026/09/10/exclusive-ai-finance-cfo-ai-launches-an-agentic-cfo-for-business-founders/)**
-Artificial intelligence startup Runway Financial Inc. said today it has decided to pivot away from accounting software and rebrand itself as cfo.ai.
-<sub>SiliconANGLE AI · Sep 10</sub>
+**[The Next CX Security Risk May Be the AI Agent You Gave Access](https://www.cxtoday.com/security-privacy-compliance/ai-agent-security-cx-risk/)**
+Enterprise AI is gaining access to the systems that make customer experiences work, while security teams are deploying AI agents of their own to defend those environments.
+<sub>CX Today · Sep 10</sub>
 
 ## Also worth a click
 
+- [Oracle Q1 strong and so is capital expenditures](https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures) — *Constellation Research*
+- [Is Claudeforce Enough? What the Dreamforce ’26 Announcement Might Be](https://www.salesforceben.com/is-claudeforce-enough-what-the-dreamforce-26-announcement-might-be/) — *Salesforce Ben*
+- [Official 2026 Dreamforce Parties and Events Guide](https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/) — *Salesforce Ben*
+- [Top Celebrities and Thought Leaders at Dreamforce ‘26](https://www.salesforceben.com/top-celebrities-and-thought-leaders-at-dreamforce-26/) — *Salesforce Ben*
+- [Salesforce Completes Acquisition of Fin](https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/) — *Salesforce Newsroom*
+- [Why Salesforce’s Licensing Problem May Damage Claudeforce’s Adoption Numbers](https://www.salesforceben.com/why-salesforces-licensing-problem-may-damage-claudeforces-adoption-numbers/) — *Salesforce Ben*
+- [How to Build Secure Salesforce Webhook Integrations on the Public Cloud](https://www.salesforceben.com/how-to-build-secure-salesforce-webhook-integrations-on-the-public-cloud/) — *Salesforce Ben*
 - [What Is Salesforce Agentforce?](https://www.salesforceben.com/how-does-salesforces-agentforce-work/) — *Salesforce Ben*
-- [7 Decisions to Make Before Activating AI Agents in Marketing Cloud Next](https://www.salesforceben.com/7-decisions-to-make-before-activating-ai-agents-in-marketing-cloud-next/) — *Salesforce Ben*
-- [Beyond the Final.Final.Really_Final Version: 3 Steps to Rethinking Documents and Enterprise Knowledge](https://www.constellationr.com/research/blog/beyond-finalfinalreallyfinal-version-3-steps-rethinking-documents-and-enterprise) — *Constellation Research*
-- [13 Must-Attend Dreamforce 2026 Sessions](https://www.salesforceben.com/13-must-attend-dreamforce-2026-sessions/) — *Salesforce Ben*
-- [Nvidia's supply chain integrates Palantir](https://www.constellationr.com/insights/news/nvidias-supply-chain-integrates-palantir) — *Constellation Research*
-- [Qualtrics big plan: Digital twins of real customers to simulate, predict experiences](https://www.constellationr.com/insights/news/qualtrics-big-plan-digital-twins-real-customers-simulate-predict-experiences) — *Constellation Research*
-- [Salesforce Introduces the Trusted Enterprise AI Harness](https://www.salesforce.com/news/stories/enterprise-ai-harness/) — *Salesforce Newsroom*
-- [Salesforce throws down the gauntlet on the enterprise AI harness](https://diginomica.com/salesforce-throws-down-gauntlet-enterprise-ai-harness) — *Diginomica*
 
 ---
 
-<sub>Every headline links to its original source. 2383 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2389 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
