@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-11T14:41:16.226Z",
+  "generatedAt": "2026-09-12T13:48:03.326Z",
   "stats": {
-    "considered": 2389,
-    "relevant": 104,
+    "considered": 2392,
+    "relevant": 94,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 640,
-    "minutes": 2.6666666666666665,
+    "words": 614,
+    "minutes": 2.558333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
@@ -30,16 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-11T12:13:25.000Z",
           "summary": "If you feel like you’ve been hearing a lot about Claudeforce lately, be prepared for that trend to continue.",
-          "score": 156.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Dreamforce Predictions, Pragmatic AI, and the Rise of Decision Intelligence | CRTV Episode 138",
-          "url": "https://www.constellationr.com/video/constellationtv/dreamforce-predictions-pragmatic-ai-and-rise-decision-intelligence-crtv",
-          "source": "Constellation Research",
-          "date": "2026-09-09T16:34:06.000Z",
-          "summary": "Mason also manages surveys and produces Constellation’s video collateral, including ConstellationTV. Her role ensures that the Constellation brand is communicated with clarity, creativity, and…",
-          "score": 107.9,
+          "score": 117.7,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +39,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-09-11T12:00:00.000Z",
           "summary": "New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances…",
-          "score": 104.8,
+          "score": 78.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +48,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-09-10T16:00:00.000Z",
           "summary": "Salesforce becomes the Title Sponsor and Technological partner of FIDE. Partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering…",
-          "score": 87.7,
+          "score": 60,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "7 Must-See Dreamforce ’26 Keynotes to Stream at Home",
+          "url": "https://www.salesforceben.com/7-must-see-dreamforce-keynotes-to-stream-at-home/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-11T15:44:48.000Z",
+          "summary": "Dreamforce is almost here, and the agenda builder is now live! There are 55 keynotes this year – don’t worry if you can’t make it to San Francisco – many are available to stream on Salesforce+.",
+          "score": 58.9,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +66,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-11T10:10:59.000Z",
           "summary": "When you set up an Agentforce agent, it doesn’t really feel like you’re onboarding someone new. You’re configuring topics, actions, or maybe writing a few instructions.",
-          "score": 78.6,
+          "score": 58.8,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +81,7 @@
           "source": "MarTech",
           "date": "2026-09-10T16:45:09.000Z",
           "summary": "Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way.",
-          "score": 60.5,
+          "score": 41.6,
           "alsoCoveredBy": []
         },
         {
@@ -90,7 +90,16 @@
           "source": "MarTech",
           "date": "2026-09-10T13:28:00.000Z",
           "summary": "Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons.",
-          "score": 42.3,
+          "score": 28.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Lost in translation: Why content and data teams can’t speak the same language",
+          "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
+          "source": "MarTech",
+          "date": "2026-09-11T14:27:40.000Z",
+          "summary": "At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes.",
+          "score": 21.2,
           "alsoCoveredBy": []
         }
       ]
@@ -105,16 +114,7 @@
           "source": "Snowflake Blog",
           "date": "2026-09-09T16:00:00.000Z",
           "summary": "OpenAI's GPT-6 Astra is now in private preview on Snowflake Cortex AI. Use its frontier reasoning and computer use across Snowflake CoCo, CoWork, Cortex Agents, AI Functions and Cortex Inference —…",
-          "score": 41.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Snowflake Partner Network Updates: Building the Agentic Enterprise Together",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-partner-network-agentic-enterprise",
-          "source": "Snowflake Blog",
-          "date": "2026-09-09T12:55:00.000Z",
-          "summary": "Snowflake unveils the biggest Snowflake Partner Network update in years, with expanded build resources, comarketing support and a global tier framework to help partners scale in the agentic era.",
-          "score": 30.8,
+          "score": 21.8,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +129,16 @@
           "source": "Constellation Research",
           "date": "2026-09-11T12:04:32.000Z",
           "summary": "",
-          "score": 149.4,
+          "score": 112.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Oracle Q1 strong and so is capital expenditures",
+          "url": "https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures",
+          "source": "Constellation Research",
+          "date": "2026-09-10T20:44:00.000Z",
+          "summary": "",
+          "score": 62.5,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +147,7 @@
           "source": "Constellation Research",
           "date": "2026-09-10T11:18:16.000Z",
           "summary": "",
-          "score": 90.1,
+          "score": 59.7,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +156,16 @@
           "source": "SiliconANGLE AI",
           "date": "2026-09-09T23:44:45.000Z",
           "summary": "Lightfield, an artificial intelligence-native customer relationship management startup, has ambitions to take on industry giants such as Salesforce Inc. and Hubspot Inc.",
-          "score": 59.4,
+          "score": 35.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Pioneering Salesforce Engineering’s Agentic Shift: Part 2",
-          "url": "https://www.salesforce.com/news/stories/agentic-shift-for-salesforce-engineers/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-09T15:00:00.000Z",
-          "summary": "In May, Srinivas Tallapragada shared what happened when Salesforce Engineering went agentic. This is the story of how we scaled that work across 15,000 engineers.",
-          "score": 48.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The Next CX Security Risk May Be the AI Agent You Gave Access",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/ai-agent-security-cx-risk/",
-          "source": "CX Today",
-          "date": "2026-09-10T18:07:42.000Z",
-          "summary": "Enterprise AI is gaining access to the systems that make customer experiences work, while security teams are deploying AI agents of their own to defend those environments.",
-          "score": 41.9,
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-11T18:41:49.000Z",
+          "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”.",
+          "score": 30.8,
           "alsoCoveredBy": []
         }
       ]
@@ -173,18 +173,13 @@
   ],
   "quickLinks": [
     {
-      "title": "Oracle Q1 strong and so is capital expenditures",
-      "url": "https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures",
-      "source": "Constellation Research"
+      "title": "Salesforce introduces new AI agents to automate sales, support tasks",
+      "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "Is Claudeforce Enough? What the Dreamforce ’26 Announcement Might Be",
-      "url": "https://www.salesforceben.com/is-claudeforce-enough-what-the-dreamforce-26-announcement-might-be/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Official 2026 Dreamforce Parties and Events Guide",
-      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
+      "title": "A Salesforce Professional’s Guide to OpenClaw 2.0 Multiplayer Support",
+      "url": "https://www.salesforceben.com/a-salesforce-professionals-guide-to-openclaw-2-0-multiplayer-support/",
       "source": "Salesforce Ben"
     },
     {
@@ -193,13 +188,8 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce Completes Acquisition of Fin",
-      "url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
-      "source": "Salesforce Newsroom"
-    },
-    {
-      "title": "Why Salesforce’s Licensing Problem May Damage Claudeforce’s Adoption Numbers",
-      "url": "https://www.salesforceben.com/why-salesforces-licensing-problem-may-damage-claudeforces-adoption-numbers/",
+      "title": "Official 2026 Dreamforce Parties and Events Guide",
+      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
       "source": "Salesforce Ben"
     },
     {
@@ -208,9 +198,19 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "What Is Salesforce Agentforce?",
-      "url": "https://www.salesforceben.com/how-does-salesforces-agentforce-work/",
-      "source": "Salesforce Ben"
+      "title": "Salesforce Completes Acquisition of Fin",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
+      "source": "Salesforce Newsroom"
+    },
+    {
+      "title": "Leading Through Turbulence: Empathy, AI Workflow Economics, and the New IT Playbook | DisrupTV Ep. 451",
+      "url": "https://www.constellationr.com/video/disruptv/leading-through-turbulence-empathy-ai-workflow-economics-and-new-it-playbook",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Your Dreamforce ’26 Resource for Financial Services",
+      "url": "https://www.salesforce.com/blog/financial-services-dreamforce-resources/",
+      "source": "Salesforce Blog"
     }
   ]
 }
