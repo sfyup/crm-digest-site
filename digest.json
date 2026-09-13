@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-12T13:48:03.326Z",
+  "generatedAt": "2026-09-13T14:43:50.358Z",
   "stats": {
-    "considered": 2392,
-    "relevant": 94,
-    "featured": 14,
+    "considered": 2382,
+    "relevant": 58,
+    "featured": 13,
     "quickLinks": 8,
-    "sourcesOk": 21,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 614,
-    "minutes": 2.558333333333333,
+    "words": 583,
+    "minutes": 2.4291666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Is Agentforce Still Relevant Now That Salesforce Has Claudeforce? — Salesforce Ben",
+    "Salesforce still has pricing work to do — Constellation Research",
     "BT150 zeitgeist: SaaS pricing, AI agent looming questions, organizational design — Constellation Research",
-    "The latest AI-powered martech news and releases — MarTech",
-    "OpenAI GPT-6 Astra Now on Snowflake Cortex AI — Snowflake Blog"
+    "AI-Native Accounts Payable: How InvoiceIQ Runs on Snowflake — Snowflake Blog",
+    "Contact Center Weekly Roundup: Zendesk Targets Language Barriers as AI Control Wars Heat Up — CX Today"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce still has pricing work to do",
+          "url": "https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do",
+          "source": "Constellation Research",
+          "date": "2026-09-13T10:00:00.000Z",
+          "summary": "",
+          "score": 184.8,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Is Agentforce Still Relevant Now That Salesforce Has Claudeforce?",
           "url": "https://www.salesforceben.com/is-agentforce-still-relevant-now-that-salesforce-has-claudeforce/",
           "source": "Salesforce Ben",
           "date": "2026-09-11T12:13:25.000Z",
           "summary": "If you feel like you’ve been hearing a lot about Claudeforce lately, be prepared for that trend to continue.",
-          "score": 117.7,
+          "score": 76.1,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +48,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-09-11T12:00:00.000Z",
           "summary": "New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances…",
-          "score": 78.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE",
-          "url": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-10T16:00:00.000Z",
-          "summary": "Salesforce becomes the Title Sponsor and Technological partner of FIDE. Partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering…",
-          "score": 60,
+          "score": 50.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,49 +57,31 @@
           "source": "Salesforce Ben",
           "date": "2026-09-11T15:44:48.000Z",
           "summary": "Dreamforce is almost here, and the agenda builder is now live! There are 55 keynotes this year – don’t worry if you can’t make it to San Francisco – many are available to stream on Salesforce+.",
-          "score": 58.9,
+          "score": 39.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Agentforce Permissions Explained: Agent Users, Access, and Security",
-          "url": "https://www.salesforceben.com/agentforce-permissions-explained-agent-users-access-and-security/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-11T10:10:59.000Z",
-          "summary": "When you set up an Agentforce agent, it doesn’t really feel like you’re onboarding someone new. You’re configuring topics, actions, or maybe writing a few instructions.",
-          "score": 58.8,
+          "title": "Salesforce introduces new AI agents to automate sales, support tasks",
+          "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-11T23:40:26.000Z",
+          "summary": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive.",
+          "score": 38.4,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "martech",
-      "label": "Marketing Tech",
+      "key": "crm",
+      "label": "CRM Platforms",
       "items": [
         {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-09-10T16:45:09.000Z",
-          "summary": "Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way.",
-          "score": 41.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The answer to your martech problem depends on the problem",
-          "url": "https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/",
-          "source": "MarTech",
-          "date": "2026-09-10T13:28:00.000Z",
-          "summary": "Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons.",
-          "score": 28.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Lost in translation: Why content and data teams can’t speak the same language",
-          "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
-          "source": "MarTech",
-          "date": "2026-09-11T14:27:40.000Z",
-          "summary": "At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes.",
-          "score": 21.2,
+          "title": "Contact Center Weekly Roundup: Zendesk Targets Language Barriers as AI Control Wars Heat Up",
+          "url": "https://www.cxtoday.com/contact-center/contact-center-news-zendesk-genesys-ringcentral-verint/",
+          "source": "CX Today",
+          "date": "2026-09-10T15:13:17.000Z",
+          "summary": "The contact center AI race is increasingly focused on what happens during the conversation, not simply before it reaches an agent.",
+          "score": 6,
           "alsoCoveredBy": []
         }
       ]
@@ -109,12 +91,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "OpenAI GPT-6 Astra Now on Snowflake Cortex AI",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-6-astra-snowflake-cortex-ai",
+          "title": "AI-Native Accounts Payable: How InvoiceIQ Runs on Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-native-accounts-payable-snowflake",
           "source": "Snowflake Blog",
-          "date": "2026-09-09T16:00:00.000Z",
-          "summary": "OpenAI's GPT-6 Astra is now in private preview on Snowflake Cortex AI. Use its frontier reasoning and computer use across Snowflake CoCo, CoWork, Cortex Agents, AI Functions and Cortex Inference —…",
-          "score": 21.8,
+          "date": "2026-09-10T21:09:00.000Z",
+          "summary": "Snowflake built InvoiceIQ, an AI-native accounts payable app running natively on Snowflake, to turn messy invoices into finance-ready ERP records — reducing manual processing and streamlining AP…",
+          "score": 11.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Unifying governance across engines and catalogs in the Open Lakehouse",
+          "url": "https://www.databricks.com/blog/unifying-governance-across-engines-and-catalogs-open-lakehouse",
+          "source": "Databricks Blog",
+          "date": "2026-09-10T15:05:10.000Z",
+          "summary": "In our previous posts, we showed how open table formats, open APIs and unified governance...",
+          "score": 5.3,
           "alsoCoveredBy": []
         }
       ]
@@ -129,43 +120,43 @@
           "source": "Constellation Research",
           "date": "2026-09-11T12:04:32.000Z",
           "summary": "",
-          "score": 112.4,
+          "score": 72.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Oracle Q1 strong and so is capital expenditures",
-          "url": "https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures",
+          "title": "Solutions and Empathy, Not Fear: When Companies Might Be Spreading Terror Instead of Remedies",
+          "url": "https://www.constellationr.com/research/blog/solutions-and-empathy-not-fear-when-companies-might-be-spreading-terror-instead",
           "source": "Constellation Research",
-          "date": "2026-09-10T20:44:00.000Z",
-          "summary": "",
-          "score": 62.5,
+          "date": "2026-09-12T22:51:12.000Z",
+          "summary": "David Bray Sat, 12 Sep 2026 - 15:51 Dr. David Bray Distinguished Chair of the Accelerator & Principal/CEO Stimson Center & LeadDoAdapt Ventures Business Insider named Dr. David A.",
+          "score": 59.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "SAP CEO Klein: Our AI agents want to solve the complex business processes",
-          "url": "https://www.constellationr.com/insights/news/sap-ceo-klein-our-ai-agents-want-solve-complex-business-processes",
-          "source": "Constellation Research",
-          "date": "2026-09-10T11:18:16.000Z",
-          "summary": "",
-          "score": 59.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI-native CRM startup Lightfield raises $47M to build an AI agent-ready replacement for Salesforce",
-          "url": "https://siliconangle.com/2026/09/09/ai-native-crm-startup-lightfield-raises-47m-to-build-an-ai-agent-ready-replacement-for-salesforce/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-09T23:44:45.000Z",
-          "summary": "Lightfield, an artificial intelligence-native customer relationship management startup, has ambitions to take on industry giants such as Salesforce Inc. and Hubspot Inc.",
-          "score": 35.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
           "source": "TechCrunch AI",
-          "date": "2026-09-11T18:41:49.000Z",
-          "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”.",
-          "score": 30.8,
+          "date": "2026-09-12T19:34:44.000Z",
+          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "score": 27.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-12T20:19:16.000Z",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "score": 26.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "date": "2026-09-14T00:00:00.000Z",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "score": 21.6,
           "alsoCoveredBy": []
         }
       ]
@@ -173,9 +164,14 @@
   ],
   "quickLinks": [
     {
-      "title": "Salesforce introduces new AI agents to automate sales, support tasks",
-      "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
-      "source": "SiliconANGLE AI"
+      "title": "Agentforce Permissions Explained: Agent Users, Access, and Security",
+      "url": "https://www.salesforceben.com/agentforce-permissions-explained-agent-users-access-and-security/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Oracle Q1 strong and so is capital expenditures",
+      "url": "https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures",
+      "source": "Constellation Research"
     },
     {
       "title": "A Salesforce Professional’s Guide to OpenClaw 2.0 Multiplayer Support",
@@ -183,23 +179,8 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Top Celebrities and Thought Leaders at Dreamforce ‘26",
-      "url": "https://www.salesforceben.com/top-celebrities-and-thought-leaders-at-dreamforce-26/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Official 2026 Dreamforce Parties and Events Guide",
-      "url": "https://www.salesforceben.com/official-dreamforce-parties-and-events-guide/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "How to Build Secure Salesforce Webhook Integrations on the Public Cloud",
-      "url": "https://www.salesforceben.com/how-to-build-secure-salesforce-webhook-integrations-on-the-public-cloud/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Completes Acquisition of Fin",
-      "url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
+      "title": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/",
       "source": "Salesforce Newsroom"
     },
     {
@@ -208,9 +189,19 @@
       "source": "Constellation Research"
     },
     {
+      "title": "How to Build Secure Salesforce Webhook Integrations on the Public Cloud",
+      "url": "https://www.salesforceben.com/how-to-build-secure-salesforce-webhook-integrations-on-the-public-cloud/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Your Dreamforce ’26 Resource for Financial Services",
       "url": "https://www.salesforce.com/blog/financial-services-dreamforce-resources/",
       "source": "Salesforce Blog"
+    },
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch AI"
     }
   ]
 }
