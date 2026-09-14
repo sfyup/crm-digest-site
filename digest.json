@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-13T14:43:50.358Z",
+  "generatedAt": "2026-09-14T16:40:50.678Z",
   "stats": {
-    "considered": 2382,
-    "relevant": 58,
-    "featured": 13,
+    "considered": 2420,
+    "relevant": 43,
+    "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 22,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 583,
-    "minutes": 2.4291666666666667,
+    "words": 657,
+    "minutes": 2.7375,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce still has pricing work to do — Constellation Research",
-    "BT150 zeitgeist: SaaS pricing, AI agent looming questions, organizational design — Constellation Research",
-    "AI-Native Accounts Payable: How InvoiceIQ Runs on Snowflake — Snowflake Blog",
-    "Contact Center Weekly Roundup: Zendesk Targets Language Barriers as AI Control Wars Heat Up — CX Today"
+    "Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26 — Salesforce Ben",
+    "CRM’s Next Challenge Is Making Customer Context Useful to AI Agents — CX Today",
+    "Who owns your AI agents after they launch? — MarTech",
+    "Snowflake Data Connectivity Proxy for Private Data — Snowflake Blog"
   ],
   "sections": [
     {
@@ -25,48 +25,48 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26",
+          "url": "https://www.salesforceben.com/salesforce-unveils-slackforce-surfaces-at-dreamforce-26/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-14T13:26:16.000Z",
+          "summary": "Salesforce has announced ‘Slackforce Surfaces’, the latest evolution of its ‘Slack CRM’ project. The new capabilities mean you can now transform Salesforce data into interactive visualizations inside…",
+          "score": 133.3,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Salesforce still has pricing work to do",
           "url": "https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do",
           "source": "Constellation Research",
           "date": "2026-09-13T10:00:00.000Z",
           "summary": "",
-          "score": 184.8,
+          "score": 132.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Is Agentforce Still Relevant Now That Salesforce Has Claudeforce?",
-          "url": "https://www.salesforceben.com/is-agentforce-still-relevant-now-that-salesforce-has-claudeforce/",
+          "title": "Who Is Salesforce Data 360 (Formerly Data Cloud) Actually For?",
+          "url": "https://www.salesforceben.com/who-is-salesforce-data-360-formerly-data-cloud-actually-for/",
           "source": "Salesforce Ben",
-          "date": "2026-09-11T12:13:25.000Z",
-          "summary": "If you feel like you’ve been hearing a lot about Claudeforce lately, be prepared for that trend to continue.",
-          "score": 76.1,
+          "date": "2026-09-14T13:58:49.000Z",
+          "summary": "Data 360 has been around for a few years now and has seen a handful of name changes too. Salesforce made a big deal of their Salesforce Genie announcement at Dreamforce ‘22, and it quickly became…",
+          "score": 119.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work",
-          "url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
+          "title": "Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era",
+          "url": "https://www.salesforce.com/news/stories/missionforce-military-fellowship-announcement/",
           "source": "Salesforce Newsroom",
-          "date": "2026-09-11T12:00:00.000Z",
-          "summary": "New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances…",
-          "score": 50.8,
+          "date": "2026-09-14T12:00:00.000Z",
+          "summary": "As government agencies accelerate the adoption of AI and other emerging technologies, building the workforce to put those technologies to work is becoming an increasingly important part of national…",
+          "score": 78.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "7 Must-See Dreamforce ’26 Keynotes to Stream at Home",
-          "url": "https://www.salesforceben.com/7-must-see-dreamforce-keynotes-to-stream-at-home/",
+          "title": "Is Salesforce the One Being Disrupted in the AI Era?",
+          "url": "https://www.salesforceben.com/is-salesforce-the-one-being-disrupted-in-the-ai-era/",
           "source": "Salesforce Ben",
-          "date": "2026-09-11T15:44:48.000Z",
-          "summary": "Dreamforce is almost here, and the agenda builder is now live! There are 55 keynotes this year – don’t worry if you can’t make it to San Francisco – many are available to stream on Salesforce+.",
-          "score": 39.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce introduces new AI agents to automate sales, support tasks",
-          "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-11T23:40:26.000Z",
-          "summary": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive.",
-          "score": 38.4,
+          "date": "2026-09-14T14:46:32.000Z",
+          "summary": "When Salesforce was first launched in 1999, the company had one main goal: to introduce the world to cloud-based CRM and business systems, moving away from legacy tools like Oracle that required…",
+          "score": 76.5,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,27 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Contact Center Weekly Roundup: Zendesk Targets Language Barriers as AI Control Wars Heat Up",
-          "url": "https://www.cxtoday.com/contact-center/contact-center-news-zendesk-genesys-ringcentral-verint/",
+          "title": "CRM’s Next Challenge Is Making Customer Context Useful to AI Agents",
+          "url": "https://www.cxtoday.com/crm/ai-crm-modernization-intelligent-enterprise/",
           "source": "CX Today",
-          "date": "2026-09-10T15:13:17.000Z",
-          "summary": "The contact center AI race is increasingly focused on what happens during the conversation, not simply before it reaches an agent.",
-          "score": 6,
+          "date": "2026-09-14T13:23:40.000Z",
+          "summary": "CRM has been declared dead more than once. AI agents are giving the prediction a new lease of life, but the bigger story may be that CRM is being rewritten rather than replaced.",
+          "score": 80.4,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "The AI performance shake-up: What’s really driving results across channels now",
+          "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+          "source": "MarTech",
+          "date": "2026-09-14T13:35:51.000Z",
+          "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth.",
+          "score": 27.1,
           "alsoCoveredBy": []
         }
       ]
@@ -91,21 +106,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "AI-Native Accounts Payable: How InvoiceIQ Runs on Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-native-accounts-payable-snowflake",
+          "title": "Snowflake Data Connectivity Proxy for Private Data",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-connectivity-proxy-openflow",
           "source": "Snowflake Blog",
-          "date": "2026-09-10T21:09:00.000Z",
-          "summary": "Snowflake built InvoiceIQ, an AI-native accounts payable app running natively on Snowflake, to turn messy invoices into finance-ready ERP records — reducing manual processing and streamlining AP…",
-          "score": 11.4,
+          "date": "2026-09-14T19:58:00.000Z",
+          "summary": "Connect private data sources to Snowflake Openflow without changing network rules. Data Connectivity Proxy offers secure, inbound-free integration.",
+          "score": 30,
           "alsoCoveredBy": []
         },
         {
-          "title": "Unifying governance across engines and catalogs in the Open Lakehouse",
-          "url": "https://www.databricks.com/blog/unifying-governance-across-engines-and-catalogs-open-lakehouse",
-          "source": "Databricks Blog",
-          "date": "2026-09-10T15:05:10.000Z",
-          "summary": "In our previous posts, we showed how open table formats, open APIs and unified governance...",
-          "score": 5.3,
+          "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+          "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+          "source": "AWS Machine Learning",
+          "date": "2026-09-14T15:42:06.000Z",
+          "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast.",
+          "score": 26.9,
           "alsoCoveredBy": []
         }
       ]
@@ -115,48 +130,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "BT150 zeitgeist: SaaS pricing, AI agent looming questions, organizational design",
-          "url": "https://www.constellationr.com/insights/news/bt150-zeitgeist-saas-pricing-ai-agent-looming-questions-organizational-design",
-          "source": "Constellation Research",
-          "date": "2026-09-11T12:04:32.000Z",
-          "summary": "",
-          "score": 72.6,
+          "title": "Who owns your AI agents after they launch?",
+          "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/",
+          "source": "MarTech",
+          "date": "2026-09-14T12:49:00.000Z",
+          "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement.",
+          "score": 69.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Solutions and Empathy, Not Fear: When Companies Might Be Spreading Terror Instead of Remedies",
-          "url": "https://www.constellationr.com/research/blog/solutions-and-empathy-not-fear-when-companies-might-be-spreading-terror-instead",
-          "source": "Constellation Research",
-          "date": "2026-09-12T22:51:12.000Z",
-          "summary": "David Bray Sat, 12 Sep 2026 - 15:51 Dr. David Bray Distinguished Chair of the Accelerator & Principal/CEO Stimson Center & LeadDoAdapt Ventures Business Insider named Dr. David A.",
-          "score": 59.1,
+          "title": "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
+          "url": "https://siliconangle.com/2026/09/14/copado-extends-agentia-agentic-ai-devops-platform-for-salesforce-with-headless-automation/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-14T13:00:18.000Z",
+          "summary": "Copado Inc., a low-code DevOps solution provider for Salesforce, today announced it’s extending its Agentia platform with Headless, bringing it directly into developer tools and operational…",
+          "score": 55.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "title": "Pegasystems Has Put a Price on Agentic Customer Service. Buyers Need the Fine Print",
+          "url": "https://www.cxtoday.com/contact-center/pega-customer-service/",
+          "source": "CX Today",
+          "date": "2026-09-14T16:25:00.000Z",
+          "summary": "Pega Customer Service is moving toward a governed workflow layer beneath the contact center, with Infinity 26 adding MCP connectivity, agentic service capabilities, and Predictable AI pricing while…",
+          "score": 48,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+          "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
           "source": "TechCrunch AI",
-          "date": "2026-09-12T19:34:44.000Z",
-          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-          "score": 27.3,
+          "date": "2026-09-14T14:45:44.000Z",
+          "summary": "Fathom said that it has over 400,000 monthly active users.",
+          "score": 46.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-12T20:19:16.000Z",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-          "score": 26.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "date": "2026-09-14T00:00:00.000Z",
-          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-          "score": 21.6,
+          "title": "New AI Agent Ace Helps the TSA Support Travelers as They Navigate Airport Security",
+          "url": "https://www.salesforce.com/news/press-releases/2026/09/14/tsa-improves-travel-experience-agentforce/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-14T13:00:00.000Z",
+          "summary": "Ace, a new AI agent, handles 100,000 traveler conversations each month and resolves 96% of routine inquiries without escalation",
+          "score": 45.8,
           "alsoCoveredBy": []
         }
       ]
@@ -164,44 +179,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Agentforce Permissions Explained: Agent Users, Access, and Security",
-      "url": "https://www.salesforceben.com/agentforce-permissions-explained-agent-users-access-and-security/",
+      "title": "How to Orchestrate Queueable Apex With Platform Events in Salesforce",
+      "url": "https://www.salesforceben.com/how-to-orchestrate-queueable-apex-with-platform-events-in-salesforce/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Oracle Q1 strong and so is capital expenditures",
-      "url": "https://www.constellationr.com/insights/news/oracle-q1-strong-and-so-capital-expenditures",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "A Salesforce Professional’s Guide to OpenClaw 2.0 Multiplayer Support",
-      "url": "https://www.salesforceben.com/a-salesforce-professionals-guide-to-openclaw-2-0-multiplayer-support/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE",
-      "url": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/",
+      "title": "Salesforce Announces $27 Million in New Education Grants, Deepening Support for Public Schools and Educators",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/14/27-million-in-new-education-grants-announcement/",
       "source": "Salesforce Newsroom"
     },
     {
-      "title": "Leading Through Turbulence: Empathy, AI Workflow Economics, and the New IT Playbook | DisrupTV Ep. 451",
-      "url": "https://www.constellationr.com/video/disruptv/leading-through-turbulence-empathy-ai-workflow-economics-and-new-it-playbook",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "How to Build Secure Salesforce Webhook Integrations on the Public Cloud",
-      "url": "https://www.salesforceben.com/how-to-build-secure-salesforce-webhook-integrations-on-the-public-cloud/",
+      "title": "Salesforce Platform App Builder Certification Guide & Tips",
+      "url": "https://www.salesforceben.com/platform-app-builder-certification-guide-tips/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Your Dreamforce ’26 Resource for Financial Services",
-      "url": "https://www.salesforce.com/blog/financial-services-dreamforce-resources/",
+      "title": "Salesforce Winter ’27 Release: Everything You Need to Know Before Go‑Live",
+      "url": "https://www.salesforceben.com/salesforce-winter-27-release-everything-you-need-to-know-before-go-live/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Enterprise hits and misses - are AI agents employees, or not? Are enterprise harnesses ready, and are transfomer loops a security fail?",
+      "url": "https://diginomica.com/enterprise-hits-and-misses-are-ai-agents-employees-or-not-are-enterprise-harnesses-ready-and-are",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Solutions and Empathy, Not Fear: When Companies Might Be Spreading Terror Instead of Remedies",
+      "url": "https://www.constellationr.com/research/blog/solutions-and-empathy-not-fear-when-companies-might-be-spreading-terror-instead",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Introducing the New Salesforce Well-Architected Framework",
+      "url": "https://www.salesforce.com/blog/new-well-architected-framework/",
       "source": "Salesforce Blog"
     },
     {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch AI"
+      "title": "The Dreamstore runs on Salesforce: How we built a retail experience for 40K attendees in just two months",
+      "url": "https://www.salesforce.com/blog/dreamstore-runs-on-salesforce/",
+      "source": "Salesforce Blog"
     }
   ]
 }
