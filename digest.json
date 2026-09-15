@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-14T16:40:50.678Z",
+  "generatedAt": "2026-09-15T15:20:38.314Z",
   "stats": {
-    "considered": 2420,
-    "relevant": 43,
+    "considered": 2410,
+    "relevant": 63,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 22,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 657,
-    "minutes": 2.7375,
+    "words": 608,
+    "minutes": 2.533333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26 — Salesforce Ben",
+    "Salesforce launches AIforce, fleshes out platform play — Constellation Research",
+    "The next martech strategy starts with the operating environment — MarTech",
     "CRM’s Next Challenge Is Making Customer Context Useful to AI Agents — CX Today",
-    "Who owns your AI agents after they launch? — MarTech",
-    "Snowflake Data Connectivity Proxy for Private Data — Snowflake Blog"
+    "Who owns your AI agents after they launch? — MarTech"
   ],
   "sections": [
     {
@@ -25,48 +25,53 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26",
-          "url": "https://www.salesforceben.com/salesforce-unveils-slackforce-surfaces-at-dreamforce-26/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-14T13:26:16.000Z",
-          "summary": "Salesforce has announced ‘Slackforce Surfaces’, the latest evolution of its ‘Slack CRM’ project. The new capabilities mean you can now transform Salesforce data into interactive visualizations inside…",
-          "score": 133.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce still has pricing work to do",
-          "url": "https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do",
+          "title": "Salesforce launches AIforce, fleshes out platform play",
+          "url": "https://www.constellationr.com/insights/news/salesforce-launches-aiforce-fleshes-out-platform-play",
           "source": "Constellation Research",
-          "date": "2026-09-13T10:00:00.000Z",
+          "date": "2026-09-15T12:50:26.000Z",
           "summary": "",
-          "score": 132.3,
+          "score": 271.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Who Is Salesforce Data 360 (Formerly Data Cloud) Actually For?",
-          "url": "https://www.salesforceben.com/who-is-salesforce-data-360-formerly-data-cloud-actually-for/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-14T13:58:49.000Z",
-          "summary": "Data 360 has been around for a few years now and has seen a handful of name changes too. Salesforce made a big deal of their Salesforce Genie announcement at Dreamforce ‘22, and it quickly became…",
-          "score": 119.5,
-          "alsoCoveredBy": []
+          "title": "Salesforce launches Koa CRM reasoning model built on Nvidia's Nemotron",
+          "url": "https://www.constellationr.com/insights/news/salesforce-launches-koa-crm-reasoning-model-built-nvidias-nemotron",
+          "source": "Constellation Research",
+          "date": "2026-09-15T12:00:00.000Z",
+          "summary": "",
+          "score": 208.5,
+          "alsoCoveredBy": [
+            {
+              "source": "Salesforce Newsroom",
+              "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"
+            }
+          ]
         },
         {
-          "title": "Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era",
-          "url": "https://www.salesforce.com/news/stories/missionforce-military-fellowship-announcement/",
+          "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day",
+          "url": "https://www.salesforce.com/news/stories/aws-salesforce-enterprise-ai-expansion/",
           "source": "Salesforce Newsroom",
-          "date": "2026-09-14T12:00:00.000Z",
-          "summary": "As government agencies accelerate the adoption of AI and other emerging technologies, building the workforce to put those technologies to work is becoming an increasingly important part of national…",
-          "score": 78.6,
+          "date": "2026-09-15T12:00:00.000Z",
+          "summary": "New integrations bring Salesforce data, context, and actions into Amazon Quick, AWS agents into Slack, and Agent2Agent (A2A) support for real-time, bidirectional voice between Agentforce Voice and…",
+          "score": 110.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Is Salesforce the One Being Disrupted in the AI Era?",
-          "url": "https://www.salesforceben.com/is-salesforce-the-one-being-disrupted-in-the-ai-era/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-14T14:46:32.000Z",
-          "summary": "When Salesforce was first launched in 1999, the company had one main goal: to introduce the world to cloud-based CRM and business systems, moving away from legacy tools like Oracle that required…",
-          "score": 76.5,
+          "title": "Dreamforce 2026 - what Salesforce's AWU experiment means for agentic licensing",
+          "url": "https://diginomica.com/dreamforce-2026-what-salesforces-awu-experiment-means-agentic-licensing",
+          "source": "Diginomica",
+          "date": "2026-09-15T12:01:39.000Z",
+          "summary": "Salesforce’s Agentic Work Units initiative is a new way of measuring the metrics around agentic adoption. Is it going to catch on? Here’s my opinion.",
+          "score": 96.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce bets CRM experience can give its AI an edge",
+          "url": "https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/",
+          "source": "MarTech",
+          "date": "2026-09-15T15:08:48.000Z",
+          "summary": "Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions.",
+          "score": 95,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +86,16 @@
           "source": "CX Today",
           "date": "2026-09-14T13:23:40.000Z",
           "summary": "CRM has been declared dead more than once. AI agents are giving the prediction a new lease of life, but the bigger story may be that CRM is being rewritten rather than replaced.",
-          "score": 80.4,
+          "score": 60.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "5 Professional Service CRMs To Consider For Your Growing Consulting Firm",
+          "url": "https://www.salesforce.com/blog/small-business/professional-service-crms-for-small-firms/",
+          "source": "Salesforce Blog",
+          "date": "2026-09-15T13:00:00.000Z",
+          "summary": "The right professional services CRM keeps your lean team working like a much larger one.",
+          "score": 27.9,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +105,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The AI performance shake-up: What’s really driving results across channels now",
-          "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/",
+          "title": "The next martech strategy starts with the operating environment",
+          "url": "https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/",
           "source": "MarTech",
-          "date": "2026-09-14T13:35:51.000Z",
-          "summary": "When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth.",
-          "score": 27.1,
+          "date": "2026-09-15T12:49:00.000Z",
+          "summary": "The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore.",
+          "score": 65.4,
           "alsoCoveredBy": []
         }
       ]
@@ -111,16 +125,7 @@
           "source": "Snowflake Blog",
           "date": "2026-09-14T19:58:00.000Z",
           "summary": "Connect private data sources to Snowflake Openflow without changing network rules. Data Connectivity Proxy offers secure, inbound-free integration.",
-          "score": 30,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-          "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
-          "source": "AWS Machine Learning",
-          "date": "2026-09-14T15:42:06.000Z",
-          "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast.",
-          "score": 26.9,
+          "score": 23.9,
           "alsoCoveredBy": []
         }
       ]
@@ -135,7 +140,25 @@
           "source": "MarTech",
           "date": "2026-09-14T12:49:00.000Z",
           "summary": "AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement.",
-          "score": 69.9,
+          "score": 52.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-15T13:00:00.000Z",
+          "summary": "",
+          "score": 48.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Constellation Research Brings AI Forum to New York City on September 24",
+          "url": "https://www.constellationr.com/press-release/constellation-research-brings-ai-forum-new-york-city-september-24",
+          "source": "Constellation Research",
+          "date": "2026-09-15T14:47:27.000Z",
+          "summary": "The one-day executive event will explore the decisions organizations face as AI moves beyond copilots and recommendations toward systems that can make decisions, take action, and operate with…",
+          "score": 44.1,
           "alsoCoveredBy": []
         },
         {
@@ -144,7 +167,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-09-14T13:00:18.000Z",
           "summary": "Copado Inc., a low-code DevOps solution provider for Salesforce, today announced it’s extending its Agentia platform with Headless, bringing it directly into developer tools and operational…",
-          "score": 55.4,
+          "score": 41.8,
           "alsoCoveredBy": []
         },
         {
@@ -153,25 +176,7 @@
           "source": "CX Today",
           "date": "2026-09-14T16:25:00.000Z",
           "summary": "Pega Customer Service is moving toward a governed workflow layer beneath the contact center, with Infinity 26 adding MCP connectivity, agentic service capabilities, and Predictable AI pricing while…",
-          "score": 48,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-          "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-14T14:45:44.000Z",
-          "summary": "Fathom said that it has over 400,000 monthly active users.",
-          "score": 46.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "New AI Agent Ace Helps the TSA Support Travelers as They Navigate Airport Security",
-          "url": "https://www.salesforce.com/news/press-releases/2026/09/14/tsa-improves-travel-experience-agentforce/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-14T13:00:00.000Z",
-          "summary": "Ace, a new AI agent, handles 100,000 traveler conversations each month and resolves 96% of routine inquiries without escalation",
-          "score": 45.8,
+          "score": 36.6,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +184,44 @@
   ],
   "quickLinks": [
     {
-      "title": "How to Orchestrate Queueable Apex With Platform Events in Salesforce",
-      "url": "https://www.salesforceben.com/how-to-orchestrate-queueable-apex-with-platform-events-in-salesforce/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Announces $27 Million in New Education Grants, Deepening Support for Public Schools and Educators",
-      "url": "https://www.salesforce.com/news/press-releases/2026/09/14/27-million-in-new-education-grants-announcement/",
+      "title": "Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/15/siemens-agentforce-redefine-industrial-sales-service/",
       "source": "Salesforce Newsroom"
     },
     {
-      "title": "Salesforce Platform App Builder Certification Guide & Tips",
-      "url": "https://www.salesforceben.com/platform-app-builder-certification-guide-tips/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Winter ’27 Release: Everything You Need to Know Before Go‑Live",
-      "url": "https://www.salesforceben.com/salesforce-winter-27-release-everything-you-need-to-know-before-go-live/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Enterprise hits and misses - are AI agents employees, or not? Are enterprise harnesses ready, and are transfomer loops a security fail?",
-      "url": "https://diginomica.com/enterprise-hits-and-misses-are-ai-agents-employees-or-not-are-enterprise-harnesses-ready-and-are",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Solutions and Empathy, Not Fear: When Companies Might Be Spreading Terror Instead of Remedies",
-      "url": "https://www.constellationr.com/research/blog/solutions-and-empathy-not-fear-when-companies-might-be-spreading-terror-instead",
+      "title": "Salesforce still has pricing work to do",
+      "url": "https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do",
       "source": "Constellation Research"
     },
     {
-      "title": "Introducing the New Salesforce Well-Architected Framework",
-      "url": "https://www.salesforce.com/blog/new-well-architected-framework/",
-      "source": "Salesforce Blog"
+      "title": "Dreamforce 2026 - what the State of Salesforce tells us about user priorities around agentic deployment",
+      "url": "https://diginomica.com/dreamforce-2026-what-state-salesforce-tells-us-about-user-priorities-around-agentic-deployment",
+      "source": "Diginomica"
     },
     {
-      "title": "The Dreamstore runs on Salesforce: How we built a retail experience for 40K attendees in just two months",
-      "url": "https://www.salesforce.com/blog/dreamstore-runs-on-salesforce/",
-      "source": "Salesforce Blog"
+      "title": "Experience Data Is Getting a New Job: From Measurement to Decision Context",
+      "url": "https://www.constellationr.com/research/blog/experience-data-getting-new-job-measurement-decision-context",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Salesforce and Google Cloud Unify Infrastructure and Agents for One Connected AI Stack",
+      "url": "https://www.salesforce.com/news/stories/salesforce-google-cloud-unify-infrastructure-and-agents/",
+      "source": "Salesforce Newsroom"
+    },
+    {
+      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
+      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface",
+      "url": "https://www.salesforce.com/news/stories/aiforce-announcement/",
+      "source": "Salesforce Newsroom"
+    },
+    {
+      "title": "20 Years of The Trailblazer Community: Building the Agentic Enterprise",
+      "url": "https://www.salesforce.com/news/stories/trailblazers-twentieth-anniversary/",
+      "source": "Salesforce Newsroom"
     }
   ]
 }

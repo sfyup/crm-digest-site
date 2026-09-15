@@ -1,34 +1,33 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Monday, September 14, 2026 · 2–3 min read · 14 stories from 22 sources*
+*Tuesday, September 15, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26 — Salesforce Ben
+- Salesforce launches AIforce, fleshes out platform play — Constellation Research
+- The next martech strategy starts with the operating environment — MarTech
 - CRM’s Next Challenge Is Making Customer Context Useful to AI Agents — CX Today
 - Who owns your AI agents after they launch? — MarTech
-- Snowflake Data Connectivity Proxy for Private Data — Snowflake Blog
 
 ## Salesforce
 
-**[Salesforce Unveils ‘Slackforce Surfaces’ at Dreamforce ‘26](https://www.salesforceben.com/salesforce-unveils-slackforce-surfaces-at-dreamforce-26/)**
-Salesforce has announced ‘Slackforce Surfaces’, the latest evolution of its ‘Slack CRM’ project. The new capabilities mean you can now transform Salesforce data into interactive visualizations inside…
-<sub>Salesforce Ben · Sep 14</sub>
+**[Salesforce launches AIforce, fleshes out platform play](https://www.constellationr.com/insights/news/salesforce-launches-aiforce-fleshes-out-platform-play)**
+<sub>Constellation Research · Sep 15</sub>
 
-**[Salesforce still has pricing work to do](https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do)**
-<sub>Constellation Research · Sep 13</sub>
+**[Salesforce launches Koa CRM reasoning model built on Nvidia's Nemotron](https://www.constellationr.com/insights/news/salesforce-launches-koa-crm-reasoning-model-built-nvidias-nemotron)**
+<sub>Constellation Research · Sep 15 — also: [Salesforce Newsroom](https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/)</sub>
 
-**[Who Is Salesforce Data 360 (Formerly Data Cloud) Actually For?](https://www.salesforceben.com/who-is-salesforce-data-360-formerly-data-cloud-actually-for/)**
-Data 360 has been around for a few years now and has seen a handful of name changes too. Salesforce made a big deal of their Salesforce Genie announcement at Dreamforce ‘22, and it quickly became…
-<sub>Salesforce Ben · Sep 14</sub>
+**[AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day](https://www.salesforce.com/news/stories/aws-salesforce-enterprise-ai-expansion/)**
+New integrations bring Salesforce data, context, and actions into Amazon Quick, AWS agents into Slack, and Agent2Agent (A2A) support for real-time, bidirectional voice between Agentforce Voice and…
+<sub>Salesforce Newsroom · Sep 15</sub>
 
-**[Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era](https://www.salesforce.com/news/stories/missionforce-military-fellowship-announcement/)**
-As government agencies accelerate the adoption of AI and other emerging technologies, building the workforce to put those technologies to work is becoming an increasingly important part of national…
-<sub>Salesforce Newsroom · Sep 14</sub>
+**[Dreamforce 2026 - what Salesforce's AWU experiment means for agentic licensing](https://diginomica.com/dreamforce-2026-what-salesforces-awu-experiment-means-agentic-licensing)**
+Salesforce’s Agentic Work Units initiative is a new way of measuring the metrics around agentic adoption. Is it going to catch on? Here’s my opinion.
+<sub>Diginomica · Sep 15</sub>
 
-**[Is Salesforce the One Being Disrupted in the AI Era?](https://www.salesforceben.com/is-salesforce-the-one-being-disrupted-in-the-ai-era/)**
-When Salesforce was first launched in 1999, the company had one main goal: to introduce the world to cloud-based CRM and business systems, moving away from legacy tools like Oracle that required…
-<sub>Salesforce Ben · Sep 14</sub>
+**[Salesforce bets CRM experience can give its AI an edge](https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/)**
+Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions.
+<sub>MarTech · Sep 15</sub>
 
 ## CRM Platforms
 
@@ -36,11 +35,15 @@ When Salesforce was first launched in 1999, the company had one main goal: to in
 CRM has been declared dead more than once. AI agents are giving the prediction a new lease of life, but the bigger story may be that CRM is being rewritten rather than replaced.
 <sub>CX Today · Sep 14</sub>
 
+**[5 Professional Service CRMs To Consider For Your Growing Consulting Firm](https://www.salesforce.com/blog/small-business/professional-service-crms-for-small-firms/)**
+The right professional services CRM keeps your lean team working like a much larger one.
+<sub>Salesforce Blog · Sep 15</sub>
+
 ## Marketing Tech
 
-**[The AI performance shake-up: What’s really driving results across channels now](https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/)**
-When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth.
-<sub>MarTech · Sep 14</sub>
+**[The next martech strategy starts with the operating environment](https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/)**
+The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore.
+<sub>MarTech · Sep 15</sub>
 
 ## Data Platforms
 
@@ -48,15 +51,18 @@ When algorithms hide your campaign levers, tracking true impact gets tricky. At 
 Connect private data sources to Snowflake Openflow without changing network rules. Data Connectivity Proxy offers secure, inbound-free integration.
 <sub>Snowflake Blog · Sep 14</sub>
 
-**[Automate replenishment with MMF, Databricks Genie, and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/)**
-Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast.
-<sub>AWS Machine Learning · Sep 14</sub>
-
 ## AI
 
 **[Who owns your AI agents after they launch?](https://martech.org/who-owns-your-ai-agents-after-they-launch/)**
 AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement.
 <sub>MarTech · Sep 14</sub>
+
+**[Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/)**
+<sub>TechCrunch AI · Sep 15</sub>
+
+**[Constellation Research Brings AI Forum to New York City on September 24](https://www.constellationr.com/press-release/constellation-research-brings-ai-forum-new-york-city-september-24)**
+The one-day executive event will explore the decisions organizations face as AI moves beyond copilots and recommendations toward systems that can make decisions, take action, and operate with…
+<sub>Constellation Research · Sep 15</sub>
 
 **[Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation](https://siliconangle.com/2026/09/14/copado-extends-agentia-agentic-ai-devops-platform-for-salesforce-with-headless-automation/)**
 Copado Inc., a low-code DevOps solution provider for Salesforce, today announced it’s extending its Agentia platform with Headless, bringing it directly into developer tools and operational…
@@ -66,25 +72,17 @@ Copado Inc., a low-code DevOps solution provider for Salesforce, today announced
 Pega Customer Service is moving toward a governed workflow layer beneath the contact center, with Infinity 26 adding MCP connectivity, agentic service capabilities, and Predictable AI pricing while…
 <sub>CX Today · Sep 14</sub>
 
-**[Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/)**
-Fathom said that it has over 400,000 monthly active users.
-<sub>TechCrunch AI · Sep 14</sub>
-
-**[New AI Agent Ace Helps the TSA Support Travelers as They Navigate Airport Security](https://www.salesforce.com/news/press-releases/2026/09/14/tsa-improves-travel-experience-agentforce/)**
-Ace, a new AI agent, handles 100,000 traveler conversations each month and resolves 96% of routine inquiries without escalation
-<sub>Salesforce Newsroom · Sep 14</sub>
-
 ## Also worth a click
 
-- [How to Orchestrate Queueable Apex With Platform Events in Salesforce](https://www.salesforceben.com/how-to-orchestrate-queueable-apex-with-platform-events-in-salesforce/) — *Salesforce Ben*
-- [Salesforce Announces $27 Million in New Education Grants, Deepening Support for Public Schools and Educators](https://www.salesforce.com/news/press-releases/2026/09/14/27-million-in-new-education-grants-announcement/) — *Salesforce Newsroom*
-- [Salesforce Platform App Builder Certification Guide & Tips](https://www.salesforceben.com/platform-app-builder-certification-guide-tips/) — *Salesforce Ben*
-- [Salesforce Winter ’27 Release: Everything You Need to Know Before Go‑Live](https://www.salesforceben.com/salesforce-winter-27-release-everything-you-need-to-know-before-go-live/) — *Salesforce Ben*
-- [Enterprise hits and misses - are AI agents employees, or not? Are enterprise harnesses ready, and are transfomer loops a security fail?](https://diginomica.com/enterprise-hits-and-misses-are-ai-agents-employees-or-not-are-enterprise-harnesses-ready-and-are) — *Diginomica*
-- [Solutions and Empathy, Not Fear: When Companies Might Be Spreading Terror Instead of Remedies](https://www.constellationr.com/research/blog/solutions-and-empathy-not-fear-when-companies-might-be-spreading-terror-instead) — *Constellation Research*
-- [Introducing the New Salesforce Well-Architected Framework](https://www.salesforce.com/blog/new-well-architected-framework/) — *Salesforce Blog*
-- [The Dreamstore runs on Salesforce: How we built a retail experience for 40K attendees in just two months](https://www.salesforce.com/blog/dreamstore-runs-on-salesforce/) — *Salesforce Blog*
+- [Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service](https://www.salesforce.com/news/press-releases/2026/09/15/siemens-agentforce-redefine-industrial-sales-service/) — *Salesforce Newsroom*
+- [Salesforce still has pricing work to do](https://www.constellationr.com/insights/news/salesforce-still-has-pricing-work-do) — *Constellation Research*
+- [Dreamforce 2026 - what the State of Salesforce tells us about user priorities around agentic deployment](https://diginomica.com/dreamforce-2026-what-state-salesforce-tells-us-about-user-priorities-around-agentic-deployment) — *Diginomica*
+- [Experience Data Is Getting a New Job: From Measurement to Decision Context](https://www.constellationr.com/research/blog/experience-data-getting-new-job-measurement-decision-context) — *Constellation Research*
+- [Salesforce and Google Cloud Unify Infrastructure and Agents for One Connected AI Stack](https://www.salesforce.com/news/stories/salesforce-google-cloud-unify-infrastructure-and-agents/) — *Salesforce Newsroom*
+- [Salesforce debuts Koa, a specialized model built to reason about CRM data](https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/) — *SiliconANGLE AI*
+- [Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface](https://www.salesforce.com/news/stories/aiforce-announcement/) — *Salesforce Newsroom*
+- [20 Years of The Trailblazer Community: Building the Agentic Enterprise](https://www.salesforce.com/news/stories/trailblazers-twentieth-anniversary/) — *Salesforce Newsroom*
 
 ---
 
-<sub>Every headline links to its original source. 2420 items scanned from 22/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2410 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
