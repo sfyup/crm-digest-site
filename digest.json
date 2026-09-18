@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-17T15:21:30.205Z",
+  "generatedAt": "2026-09-18T14:41:50.233Z",
   "stats": {
-    "considered": 2433,
-    "relevant": 91,
+    "considered": 2435,
+    "relevant": 88,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 22,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 566,
-    "minutes": 2.3583333333333334,
+    "words": 598,
+    "minutes": 2.4916666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Salesforce lays out growth plans: What customers need to know — Constellation Research",
-    "OpenAI's new misalignment disclosure framework a solid start — Constellation Research",
-    "What happens to martech when the CMO disappears? — MarTech",
-    "Build custom commerce experiences with Dynamics 365 Commerce — MS Dynamics 365 Blog"
+    "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels — Constellation Research",
+    "Your marketing automation needs more context — MarTech",
+    "Snowflake Integrates with STACKIT for EU Data Sovereignty — Snowflake Blog"
   ],
   "sections": [
     {
@@ -30,16 +30,7 @@
           "source": "Constellation Research",
           "date": "2026-09-17T12:02:13.000Z",
           "summary": "",
-          "score": 179.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce launches AIforce, fleshes out platform play",
-          "url": "https://www.constellationr.com/insights/news/salesforce-launches-aiforce-fleshes-out-platform-play",
-          "source": "Constellation Research",
-          "date": "2026-09-15T12:50:26.000Z",
-          "summary": "",
-          "score": 134.7,
+          "score": 134.3,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +39,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-17T13:30:02.000Z",
           "summary": "Rahul Auradkar, President and GM, Data 360 at Salesforce, took to the stage to address an audience that was eager to",
-          "score": 130.9,
+          "score": 98.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Developer Features and Announcements from Dreamforce ’26",
+          "url": "https://www.salesforceben.com/developer-features-and-announcements-from-dreamforce-26/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-18T08:18:31.000Z",
+          "summary": "The Dreamforce 2026 Developer Keynote was practical, instructive, and focused on key features and tools for developers to find their way in the age of agentic coding and projects for Salesforce…",
+          "score": 89.6,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-16T12:49:29.000Z",
           "summary": "Salesforce announced its first CRM reasoning model for Agentforce named ‘Koa’, built on NVIDIA Nemotron.",
-          "score": 130.2,
+          "score": 86.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Complete Roundup of the Agentforce Keynote at Dreamforce ’26",
-          "url": "https://www.salesforceben.com/complete-roundup-of-the-agentforce-keynote-at-dreamforce-26/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-16T21:07:50.000Z",
-          "summary": "Dreamforce 2026 has already delivered some major Salesforce AI announcements. The main keynote revealed AIforce, shared that Claudeforce has moved into open beta, and brought Agentforce Coworker into…",
-          "score": 85.9,
+          "title": "Dreamforce 2026 - the wrap! Last word to Benioff on enterprise transformation, unreal views of what customers need, and why Salesforce has to stay number one in CRM",
+          "url": "https://diginomica.com/dreamforce-2026-wrap-last-word-benioff-enterprise-transformation-unreal-views-what-customers-need",
+          "source": "Diginomica",
+          "date": "2026-09-17T20:20:17.000Z",
+          "summary": "It’s been a busy week at Dreamforce, but CEO Marc Benioff exits the annual jamboree with a clear sense of having imparted a tectonic transformational message to the Ohana. Will it land?",
+          "score": 81,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,12 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Build custom commerce experiences with Dynamics 365 Commerce",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/15/dynamics-365-commerce-composable-architecture/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-09-15T15:30:00.000Z",
-          "summary": "Microsoft Dynamics 365 Commerce provides a composable, API-first architecture that separates the experience layer from the commerce engine.",
-          "score": 34.2,
+          "title": "ServiceNow's answer to AI-speed attacks will sound familiar - consolidate the mess",
+          "url": "https://diginomica.com/servicenows-answer-ai-speed-attacks-will-sound-familiar-consolidate-mess",
+          "source": "Diginomica",
+          "date": "2026-09-18T13:29:01.000Z",
+          "summary": "ServiceNow’s success has largely been found in simplifying work for enterprise buyers - where others see mess, it sees opportunity. Security is the latest clean-up target.",
+          "score": 20.5,
           "alsoCoveredBy": []
         }
       ]
@@ -91,21 +91,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "Your marketing automation needs more context",
+          "url": "https://martech.org/your-marketing-automation-needs-more-context/",
+          "source": "MarTech",
+          "date": "2026-09-18T12:00:00.000Z",
+          "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
+          "score": 62.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "What happens to martech when the CMO disappears?",
           "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
           "source": "MarTech",
           "date": "2026-09-17T12:11:00.000Z",
           "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver.",
-          "score": 65,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-09-17T12:45:00.000Z",
-          "summary": "Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era.",
-          "score": 55.8,
+          "score": 48.6,
           "alsoCoveredBy": []
         }
       ]
@@ -115,12 +115,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "HP ties sustainability data governance to business decisions in the AI era",
-          "url": "https://siliconangle.com/2026/09/17/hp-ties-sustainability-data-governance-to-business-decisions-in-the-ai-era-amplify/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-17T14:50:34.000Z",
-          "summary": "Sustainability data helps companies assess climate risks, guide investments and support customers’ environmental goals.",
-          "score": 26.9,
+          "title": "Snowflake Integrates with STACKIT for EU Data Sovereignty",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-integration-stackit-data-sovereignty",
+          "source": "Snowflake Blog",
+          "date": "2026-09-17T19:58:00.000Z",
+          "summary": "The integration of Snowflake with STACKIT brings sovereign data and AI to Germany's regulated industries.",
+          "score": 24.1,
           "alsoCoveredBy": []
         }
       ]
@@ -130,12 +130,30 @@
       "label": "AI",
       "items": [
         {
+          "title": "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels",
+          "url": "https://www.constellationr.com/insights/news/three-researchers-three-days-and-about-3000-landed-openais-crown-code-jewels",
+          "source": "Constellation Research",
+          "date": "2026-09-18T10:55:47.000Z",
+          "summary": "",
+          "score": 117.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "OpenAI's new misalignment disclosure framework a solid start",
           "url": "https://www.constellationr.com/insights/news/openais-new-misalignment-disclosure-framework-solid-start",
           "source": "Constellation Research",
           "date": "2026-09-17T10:41:26.000Z",
           "summary": "",
-          "score": 146.1,
+          "score": 108.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-18T14:00:14.000Z",
+          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+          "score": 67.7,
           "alsoCoveredBy": []
         },
         {
@@ -144,34 +162,16 @@
           "source": "MarTech",
           "date": "2026-09-16T14:26:59.000Z",
           "summary": "A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need.",
-          "score": 79.8,
+          "score": 53.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
-          "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
+          "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research",
+          "url": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-16T23:45:27.000Z",
-          "summary": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork.",
-          "score": 51.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event",
-          "url": "https://siliconangle.com/2026/09/15/ai-progress-and-responsibility-nvidia-anthropic-and-openai-ceos-weigh-in-at-salesforces-annual-event/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-15T23:46:34.000Z",
-          "summary": "If a measure of one firm’s impact is based on the company it keeps, then Salesforce Inc. has made a significant leap into the artificial intelligence conversation for 2026.",
-          "score": 48.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-16T21:07:24.000Z",
-          "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence,…",
-          "score": 41,
+          "date": "2026-09-17T23:17:25.000Z",
+          "summary": "OpenAI Group PBC today launched Astra for Law, a version of its GPT-6 Astra model set up for legal research and drafting. Astra for Law is not a new model.",
+          "score": 47.6,
           "alsoCoveredBy": []
         }
       ]
@@ -179,14 +179,14 @@
   ],
   "quickLinks": [
     {
-      "title": "Anthropic CEO Amodei: Think of AI safety like car safety",
-      "url": "https://www.constellationr.com/insights/news/anthropic-ceo-amodei-think-ai-safety-car-safety",
-      "source": "Constellation Research"
+      "title": "The Biggest Salesforce Admin Updates from Dreamforce ’26",
+      "url": "https://www.salesforceben.com/the-biggest-salesforce-admin-updates-from-dreamforce-26/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "HubSpot revamps Breeze Assistant with context, actions",
-      "url": "https://www.constellationr.com/insights/news/hubspot-revamps-breeze-assistant-context-actions",
-      "source": "Constellation Research"
+      "title": "Dreamforce 2026 in Pictures: Day 2",
+      "url": "https://www.salesforceben.com/dreamforce-2026-in-pictures-day-2/",
+      "source": "Salesforce Ben"
     },
     {
       "title": "New Well-Architected Framework and Agent Revealed at Dreamforce ‘26",
@@ -194,29 +194,29 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Salesforce launches Koa CRM reasoning model built on Nvidia's Nemotron",
-      "url": "https://www.constellationr.com/insights/news/salesforce-launches-koa-crm-reasoning-model-built-nvidias-nemotron",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On",
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/",
-      "source": "CX Today"
-    },
-    {
-      "title": "Salesforce Hit by Global Service Disruption During Dreamforce 2026",
-      "url": "https://www.salesforceben.com/salesforce-hit-by-global-service-disruption-during-dreamforce-2026/",
+      "title": "Complete Roundup of the Agentforce Keynote at Dreamforce ’26",
+      "url": "https://www.salesforceben.com/complete-roundup-of-the-agentforce-keynote-at-dreamforce-26/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Dreamforce 2026 - Salesforce UKI CTO Paul O’Sullivan on why immersive AI golf is killer asset for agentic evangelism",
-      "url": "https://diginomica.com/dreamforce-2026-salesforce-uki-cto-paul-osullivan-why-immersive-ai-golf-killer-asset-agentic",
-      "source": "Diginomica"
+      "title": "HubSpot revamps Breeze Assistant with context, actions",
+      "url": "https://www.constellationr.com/insights/news/hubspot-revamps-breeze-assistant-context-actions",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Anthropic CEO Amodei: Think of AI safety like car safety",
+      "url": "https://www.constellationr.com/insights/news/anthropic-ceo-amodei-think-ai-safety-car-safety",
+      "source": "Constellation Research"
     },
     {
       "title": "Why every AI agent should be treated like an insider threat",
       "url": "https://www.constellationr.com/insights/news/why-every-ai-agent-should-be-treated-insider-threat",
       "source": "Constellation Research"
+    },
+    {
+      "title": "What Does Salesforce Do?",
+      "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
+      "source": "Salesforce Blog"
     }
   ]
 }
