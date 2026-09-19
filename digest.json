@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-18T14:41:50.233Z",
+  "generatedAt": "2026-09-19T14:02:26.205Z",
   "stats": {
-    "considered": 2435,
-    "relevant": 88,
+    "considered": 2437,
+    "relevant": 68,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 22,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 598,
-    "minutes": 2.4916666666666667,
+    "words": 619,
+    "minutes": 2.5791666666666666,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
@@ -30,16 +30,16 @@
           "source": "Constellation Research",
           "date": "2026-09-17T12:02:13.000Z",
           "summary": "",
-          "score": 134.3,
+          "score": 89.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Top Salesforce Data Cloud Updates from Dreamforce ’26",
-          "url": "https://www.salesforceben.com/top-salesforce-data-cloud-updates-from-dreamforce-26/",
+          "title": "Ultimate Guide to AIforce: Salesforce’s New Agentic Integration Layer",
+          "url": "https://www.salesforceben.com/ultimate-guide-to-aiforce-salesforces-new-agentic-integration-layer/",
           "source": "Salesforce Ben",
-          "date": "2026-09-17T13:30:02.000Z",
-          "summary": "Rahul Auradkar, President and GM, Data 360 at Salesforce, took to the stage to address an audience that was eager to",
-          "score": 98.5,
+          "date": "2026-09-18T15:07:23.000Z",
+          "summary": "One of the stars of the show at Dreamforce ‘26 is the all-new AIforce. Salesforce touts it as a new interface layer that sits over the top of the metadata-driven Salesforce platform and allows users…",
+          "score": 67.9,
           "alsoCoveredBy": []
         },
         {
@@ -48,16 +48,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-18T08:18:31.000Z",
           "summary": "The Dreamforce 2026 Developer Keynote was practical, instructive, and focused on key features and tools for developers to find their way in the age of agentic coding and projects for Salesforce…",
-          "score": 89.6,
+          "score": 66.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce’s First CRM Reasoning Model ‘Koa’ Is Revealed at Dreamforce ‘26",
-          "url": "https://www.salesforceben.com/salesforces-first-crm-reasoning-model-koa-is-revealed-at-dreamforce-26/",
+          "title": "Top Salesforce Data Cloud Updates from Dreamforce ’26",
+          "url": "https://www.salesforceben.com/top-salesforce-data-cloud-updates-from-dreamforce-26/",
           "source": "Salesforce Ben",
-          "date": "2026-09-16T12:49:29.000Z",
-          "summary": "Salesforce announced its first CRM reasoning model for Agentforce named ‘Koa’, built on NVIDIA Nemotron.",
-          "score": 86.5,
+          "date": "2026-09-17T13:30:02.000Z",
+          "summary": "Rahul Auradkar, President and GM, Data 360 at Salesforce, took to the stage to address an audience that was eager to",
+          "score": 66,
           "alsoCoveredBy": []
         },
         {
@@ -66,22 +66,7 @@
           "source": "Diginomica",
           "date": "2026-09-17T20:20:17.000Z",
           "summary": "It’s been a busy week at Dreamforce, but CEO Marc Benioff exits the annual jamboree with a clear sense of having imparted a tectonic transformational message to the Ohana. Will it land?",
-          "score": 81,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "ServiceNow's answer to AI-speed attacks will sound familiar - consolidate the mess",
-          "url": "https://diginomica.com/servicenows-answer-ai-speed-attacks-will-sound-familiar-consolidate-mess",
-          "source": "Diginomica",
-          "date": "2026-09-18T13:29:01.000Z",
-          "summary": "ServiceNow’s success has largely been found in simplifying work for enterprise buyers - where others see mess, it sees opportunity. Security is the latest clean-up target.",
-          "score": 20.5,
+          "score": 56.6,
           "alsoCoveredBy": []
         }
       ]
@@ -96,7 +81,7 @@
           "source": "MarTech",
           "date": "2026-09-18T12:00:00.000Z",
           "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
-          "score": 62.6,
+          "score": 46.9,
           "alsoCoveredBy": []
         },
         {
@@ -105,7 +90,16 @@
           "source": "MarTech",
           "date": "2026-09-17T12:11:00.000Z",
           "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver.",
-          "score": 48.6,
+          "score": 32.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How to evaluate composable versus packaged CDP",
+          "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
+          "source": "MarTech",
+          "date": "2026-09-18T17:46:00.000Z",
+          "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture.",
+          "score": 29.4,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +114,7 @@
           "source": "Snowflake Blog",
           "date": "2026-09-17T19:58:00.000Z",
           "summary": "The integration of Snowflake with STACKIT brings sovereign data and AI to Germany's regulated industries.",
-          "score": 24.1,
+          "score": 16.9,
           "alsoCoveredBy": []
         }
       ]
@@ -135,7 +129,7 @@
           "source": "Constellation Research",
           "date": "2026-09-18T10:55:47.000Z",
           "summary": "",
-          "score": 117.6,
+          "score": 87.8,
           "alsoCoveredBy": []
         },
         {
@@ -144,7 +138,7 @@
           "source": "Constellation Research",
           "date": "2026-09-17T10:41:26.000Z",
           "summary": "",
-          "score": 108.8,
+          "score": 71.4,
           "alsoCoveredBy": []
         },
         {
@@ -153,16 +147,7 @@
           "source": "TechCrunch AI",
           "date": "2026-09-18T14:00:14.000Z",
           "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-          "score": 67.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "HubSpot rebuilds its platform around AI agents",
-          "url": "https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/",
-          "source": "MarTech",
-          "date": "2026-09-16T14:26:59.000Z",
-          "summary": "A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need.",
-          "score": 53.6,
+          "score": 51.1,
           "alsoCoveredBy": []
         },
         {
@@ -171,7 +156,16 @@
           "source": "SiliconANGLE AI",
           "date": "2026-09-17T23:17:25.000Z",
           "summary": "OpenAI Group PBC today launched Astra for Law, a version of its GPT-6 Astra model set up for legal research and drafting. Astra for Law is not a new model.",
-          "score": 47.6,
+          "score": 33.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-18T17:33:50.000Z",
+          "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals,…",
+          "score": 29.4,
           "alsoCoveredBy": []
         }
       ]
@@ -184,8 +178,8 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Dreamforce 2026 in Pictures: Day 2",
-      "url": "https://www.salesforceben.com/dreamforce-2026-in-pictures-day-2/",
+      "title": "20,000 Salesforce Employees Are Now in Roles That Didn’t Exist a Year Ago",
+      "url": "https://www.salesforceben.com/20000-salesforce-employees-are-now-in-roles-that-didnt-exist-a-year-ago/",
       "source": "Salesforce Ben"
     },
     {
@@ -194,29 +188,29 @@
       "source": "Salesforce Ben"
     },
     {
+      "title": "Dreamforce 2026 in Pictures: Day 2",
+      "url": "https://www.salesforceben.com/dreamforce-2026-in-pictures-day-2/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Complete Roundup of the Agentforce Keynote at Dreamforce ’26",
       "url": "https://www.salesforceben.com/complete-roundup-of-the-agentforce-keynote-at-dreamforce-26/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "HubSpot revamps Breeze Assistant with context, actions",
-      "url": "https://www.constellationr.com/insights/news/hubspot-revamps-breeze-assistant-context-actions",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Anthropic CEO Amodei: Think of AI safety like car safety",
-      "url": "https://www.constellationr.com/insights/news/anthropic-ceo-amodei-think-ai-safety-car-safety",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Why every AI agent should be treated like an insider threat",
-      "url": "https://www.constellationr.com/insights/news/why-every-ai-agent-should-be-treated-insider-threat",
-      "source": "Constellation Research"
-    },
-    {
       "title": "What Does Salesforce Do?",
       "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
       "source": "Salesforce Blog"
+    },
+    {
+      "title": "Anthropic opens AI-powered biology research lab",
+      "url": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Building the Agentic Enterprise: Secrets from Early Adopters",
+      "url": "https://www.salesforce.com/news/stories/video/building-the-agentic-enterprise-secrets-from-early-adopters/",
+      "source": "Salesforce Newsroom"
     }
   ]
 }
