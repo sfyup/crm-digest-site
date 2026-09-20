@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-19T14:02:26.205Z",
+  "generatedAt": "2026-09-20T14:22:40.210Z",
   "stats": {
     "considered": 2437,
-    "relevant": 68,
+    "relevant": 53,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 22,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 619,
-    "minutes": 2.5791666666666666,
+    "words": 661,
+    "minutes": 2.754166666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce lays out growth plans: What customers need to know — Constellation Research",
-    "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels — Constellation Research",
+    "Nvidia’s Nemotron hit enterprise AI inflection point — Constellation Research",
+    "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface — SiliconANGLE AI",
     "Your marketing automation needs more context — MarTech",
-    "Snowflake Integrates with STACKIT for EU Data Sovereignty — Snowflake Blog"
+    "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes — TechCrunch AI"
   ],
   "sections": [
     {
@@ -25,12 +25,12 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce lays out growth plans: What customers need to know",
-          "url": "https://www.constellationr.com/insights/news/salesforce-lays-out-growth-plans-what-customers-need-know",
-          "source": "Constellation Research",
-          "date": "2026-09-17T12:02:13.000Z",
-          "summary": "",
-          "score": 89.1,
+          "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface",
+          "url": "https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-19T17:38:16.000Z",
+          "summary": "Salesforce Inc.’s next growth opportunity just may come from customers spending less time in its interface, and having artificial intelligence agents do more of the work.",
+          "score": 64.2,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-18T15:07:23.000Z",
           "summary": "One of the stars of the show at Dreamforce ‘26 is the all-new AIforce. Salesforce touts it as a new interface layer that sits over the top of the metadata-driven Salesforce platform and allows users…",
-          "score": 67.9,
+          "score": 45.3,
           "alsoCoveredBy": []
         },
         {
@@ -48,16 +48,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-18T08:18:31.000Z",
           "summary": "The Dreamforce 2026 Developer Keynote was practical, instructive, and focused on key features and tools for developers to find their way in the age of agentic coding and projects for Salesforce…",
-          "score": 66.3,
+          "score": 41.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Top Salesforce Data Cloud Updates from Dreamforce ’26",
-          "url": "https://www.salesforceben.com/top-salesforce-data-cloud-updates-from-dreamforce-26/",
+          "title": "20,000 Salesforce Employees Are Now in Roles That Didn’t Exist a Year Ago",
+          "url": "https://www.salesforceben.com/20000-salesforce-employees-are-now-in-roles-that-didnt-exist-a-year-ago/",
           "source": "Salesforce Ben",
-          "date": "2026-09-17T13:30:02.000Z",
-          "summary": "Rahul Auradkar, President and GM, Data 360 at Salesforce, took to the stage to address an audience that was eager to",
-          "score": 66,
+          "date": "2026-09-18T15:05:23.000Z",
+          "summary": "Salesforce has undergone significant restructuring and redeployment over the last year, much like many of its Big Tech competitors.",
+          "score": 36.5,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +66,7 @@
           "source": "Diginomica",
           "date": "2026-09-17T20:20:17.000Z",
           "summary": "It’s been a busy week at Dreamforce, but CEO Marc Benioff exits the annual jamboree with a clear sense of having imparted a tectonic transformational message to the Ohana. Will it land?",
-          "score": 56.6,
+          "score": 31.2,
           "alsoCoveredBy": []
         }
       ]
@@ -81,16 +81,7 @@
           "source": "MarTech",
           "date": "2026-09-18T12:00:00.000Z",
           "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
-          "score": 46.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "What happens to martech when the CMO disappears?",
-          "url": "https://martech.org/what-happens-to-martech-when-the-cmo-disappears/",
-          "source": "MarTech",
-          "date": "2026-09-17T12:11:00.000Z",
-          "summary": "Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver.",
-          "score": 32.3,
+          "score": 30.6,
           "alsoCoveredBy": []
         },
         {
@@ -99,7 +90,16 @@
           "source": "MarTech",
           "date": "2026-09-18T17:46:00.000Z",
           "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture.",
-          "score": 29.4,
+          "score": 19.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AI is telling consumers not to buy your product",
+          "url": "https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/",
+          "source": "MarTech",
+          "date": "2026-09-18T14:33:30.000Z",
+          "summary": "Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance.",
+          "score": 11.2,
           "alsoCoveredBy": []
         }
       ]
@@ -109,12 +109,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Snowflake Integrates with STACKIT for EU Data Sovereignty",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-integration-stackit-data-sovereignty",
-          "source": "Snowflake Blog",
-          "date": "2026-09-17T19:58:00.000Z",
-          "summary": "The integration of Snowflake with STACKIT brings sovereign data and AI to Germany's regulated industries.",
-          "score": 16.9,
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-19T15:00:00.000Z",
+          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features…",
+          "score": 15,
           "alsoCoveredBy": []
         }
       ]
@@ -124,39 +124,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "Nvidia’s Nemotron hit enterprise AI inflection point",
+          "url": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
+          "source": "Constellation Research",
+          "date": "2026-09-20T11:16:51.000Z",
+          "summary": "",
+          "score": 140.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels",
           "url": "https://www.constellationr.com/insights/news/three-researchers-three-days-and-about-3000-landed-openais-crown-code-jewels",
           "source": "Constellation Research",
           "date": "2026-09-18T10:55:47.000Z",
           "summary": "",
-          "score": 87.8,
+          "score": 56.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI's new misalignment disclosure framework a solid start",
-          "url": "https://www.constellationr.com/insights/news/openais-new-misalignment-disclosure-framework-solid-start",
-          "source": "Constellation Research",
-          "date": "2026-09-17T10:41:26.000Z",
-          "summary": "",
-          "score": 71.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-18T14:00:14.000Z",
-          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-          "score": 51.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research",
-          "url": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/",
+          "title": "At AGNTCon Europe, ensuring AI agents don’t kill us all",
+          "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-17T23:17:25.000Z",
-          "summary": "OpenAI Group PBC today launched Astra for Law, a version of its GPT-6 Astra model set up for legal research and drafting. Astra for Law is not a new model.",
-          "score": 33.8,
+          "date": "2026-09-19T18:41:24.000Z",
+          "summary": "At this past week’s AGNTCon + MCPCon Europe 2026 conference in Amsterdam, the buzz around agentic artificial intelligence was palpable – but nobody was particularly worried that AI was going to kill…",
+          "score": 29.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic opens AI-powered biology research lab",
+          "url": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-09-18T20:15:41.000Z",
+          "summary": "Anthropic PBC has opened a wet lab, a facility dedicated to biology research, in the San Francisco Bay Area.",
+          "score": 20.2,
           "alsoCoveredBy": []
         },
         {
@@ -165,7 +165,7 @@
           "source": "TechCrunch AI",
           "date": "2026-09-18T17:33:50.000Z",
           "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals,…",
-          "score": 29.4,
+          "score": 19.9,
           "alsoCoveredBy": []
         }
       ]
@@ -178,24 +178,24 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "20,000 Salesforce Employees Are Now in Roles That Didn’t Exist a Year Ago",
-      "url": "https://www.salesforceben.com/20000-salesforce-employees-are-now-in-roles-that-didnt-exist-a-year-ago/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "New Well-Architected Framework and Agent Revealed at Dreamforce ‘26",
-      "url": "https://www.salesforceben.com/new-well-architected-framework-and-agent-revealed-at-dreamforce-26/",
-      "source": "Salesforce Ben"
-    },
-    {
       "title": "Dreamforce 2026 in Pictures: Day 2",
       "url": "https://www.salesforceben.com/dreamforce-2026-in-pictures-day-2/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Complete Roundup of the Agentforce Keynote at Dreamforce ’26",
-      "url": "https://www.salesforceben.com/complete-roundup-of-the-agentforce-keynote-at-dreamforce-26/",
-      "source": "Salesforce Ben"
+      "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research",
+      "url": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "AI governance moves from observability to provable control",
+      "url": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "What Does Salesforce Do?",
@@ -203,14 +203,14 @@
       "source": "Salesforce Blog"
     },
     {
-      "title": "Anthropic opens AI-powered biology research lab",
-      "url": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab/",
-      "source": "SiliconANGLE AI"
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Building the Agentic Enterprise: Secrets from Early Adopters",
-      "url": "https://www.salesforce.com/news/stories/video/building-the-agentic-enterprise-secrets-from-early-adopters/",
-      "source": "Salesforce Newsroom"
+      "title": "Dreamforce 2026 - how Chief Operating and Finance Officer Robin Washington makes AI add up operationally within Salesforce",
+      "url": "https://diginomica.com/dreamforce-2026-how-chief-operating-and-finance-officer-robin-washington-makes-ai-add-operationally",
+      "source": "Diginomica"
     }
   ]
 }
