@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-21T16:41:20.720Z",
+  "generatedAt": "2026-09-22T15:14:43.216Z",
   "stats": {
-    "considered": 2439,
-    "relevant": 37,
-    "featured": 14,
+    "considered": 2385,
+    "relevant": 49,
+    "featured": 12,
     "quickLinks": 8,
-    "sourcesOk": 22,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 649,
-    "minutes": 2.7041666666666666,
+    "words": 575,
+    "minutes": 2.3958333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Salesforce Will Charge Flex Credits for Agentic MCP and API Calls — Salesforce Ben",
     "Top Service Cloud Announcements at Dreamforce ’26 — Salesforce Ben",
     "CRM’s Great Escape: Salesforce, HubSpot, Zeotap, and Zendesk Redraw the Data Battle — CX Today",
-    "Nvidia’s Nemotron hit enterprise AI inflection point — Constellation Research",
-    "Your site migration needs a paid search playbook — MarTech"
+    "QAD | Redzone launches Manufacturing Intelligence, outlines how AI agents go to the shop floor — Constellation Research"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-21T13:23:57.000Z",
           "summary": "It’s been a year since I asked, “Service Cloud No More?” at Dreamforce 2025’s Service Keynote. That was when Salesforce put Agentforce Service on the Dreamforce stage as the next evolution of Service…",
-          "score": 137.6,
+          "score": 104.1,
           "alsoCoveredBy": []
         },
         {
@@ -39,34 +39,34 @@
           "source": "Salesforce Ben",
           "date": "2026-09-21T13:45:00.000Z",
           "summary": "Salesforce introduced the Lightning Experience in 2015 after what is now known as the Classic UI had aged quite significantly. Now, a decade on, Salesforce is changing its UI once more.",
-          "score": 126.5,
+          "score": 95.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "The Very Best of Dreamforce ’26 in Pictures",
-          "url": "https://www.salesforceben.com/the-very-best-of-dreamforce-26-in-pictures/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-21T15:03:30.000Z",
-          "summary": "Dreamforce is the highlight of the year for many Salesforce professionals (including us at SF Ben). This year, the announcements coming out of the conference reflect a cohesive strategy from…",
-          "score": 100.3,
+          "title": "Dreamforce 2026 Roundup: Salesforce Has an ‘Easy Button’ for AI. But CX Leaders Still Face the Hard Decisions.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-roundup-salesforce-has-an-easy-button-for-ai-but-cx-leaders-still-face-the-hard-decisions/",
+          "source": "CX Today",
+          "date": "2026-09-22T14:00:37.000Z",
+          "summary": "Dreamforce 2026 has been a show of big claims, big screens, and an even bigger vision for how AI will reshape enterprise work.",
+          "score": 65.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale goes public",
+          "title": "From Prebuilt Agents to Vibe Coding: Salesforce’s New CX Playbook",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/from-prebuilt-agents-to-vibe-coding-salesforces-new-cx-playbook/",
+          "source": "CX Today",
+          "date": "2026-09-22T08:16:39.000Z",
+          "summary": "Salesforce has spent Dreamforce making a bold case for the future of enterprise interaction: CRM should no longer be a destination employees have to visit.",
+          "score": 63.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale files to go public",
           "url": "https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/",
           "source": "SiliconANGLE AI",
           "date": "2026-09-21T16:03:58.000Z",
           "summary": "Salesforce Inc. keeps putting all of its eggs in the agent basket — but the strategy appears to be paying off so far.",
-          "score": 72.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface",
-          "url": "https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-19T17:38:16.000Z",
-          "summary": "Salesforce Inc.’s next growth opportunity just may come from customers spending less time in its interface, and having artificial intelligence agents do more of the work.",
-          "score": 41.8,
+          "score": 55.3,
           "alsoCoveredBy": []
         }
       ]
@@ -81,45 +81,16 @@
           "source": "CX Today",
           "date": "2026-09-21T15:51:25.000Z",
           "summary": "CRM has traditionally been a place where employees go to update records, check account history, and find the information they need. But is that still the case?",
-          "score": 108.3,
+          "score": 82.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "HubSpot Unbound - the product story",
-          "url": "https://diginomica.com/hubspot-unbound-product-story",
+          "title": "HubSpot Unbound - the strategy story",
+          "url": "https://diginomica.com/hubspot-inbound-strategy-story",
           "source": "Diginomica",
-          "date": "2026-09-21T08:35:02.000Z",
-          "summary": "HubSpot’s Unbound 2026 brought some new product news for the HubSpot Customer Platform, including a self-updating CRM, new Marketing Studio, a re-vamped Breeze Assistant, and more.",
-          "score": 52.1,
-          "alsoCoveredBy": [
-            {
-              "source": "Diginomica",
-              "url": "https://diginomica.com/hubspot-inbound-strategy-story"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "martech",
-      "label": "Marketing Tech",
-      "items": [
-        {
-          "title": "Your site migration needs a paid search playbook",
-          "url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook/",
-          "source": "MarTech",
-          "date": "2026-09-21T12:59:00.000Z",
-          "summary": "Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates.",
-          "score": 17.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Do you really need so much marketing?",
-          "url": "https://martech.org/do-you-really-need-so-much-marketing/",
-          "source": "MarTech",
-          "date": "2026-09-21T12:05:00.000Z",
-          "summary": "Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output.",
-          "score": 17.3,
+          "date": "2026-09-21T09:05:01.000Z",
+          "summary": "The outcomes era is here and that means re-thinking and re-inventing CRM.",
+          "score": 20.5,
           "alsoCoveredBy": []
         }
       ]
@@ -129,54 +100,59 @@
       "label": "AI",
       "items": [
         {
+          "title": "Salesforce Will Charge Flex Credits for Agentic MCP and API Calls",
+          "url": "https://www.salesforceben.com/salesforce-will-charge-flex-credits-for-agentic-mcp-and-api-calls/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-22T12:38:33.000Z",
+          "summary": "Salesforce is preparing to introduce a new billing model for agentic access to its platform, with successful MCP and direct API calls made by registered agents set to consume Flex Credits.",
+          "score": 137.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "QAD | Redzone launches Manufacturing Intelligence, outlines how AI agents go to the shop floor",
+          "url": "https://www.constellationr.com/insights/news/qad-redzone-launches-manufacturing-intelligence-outlines-how-ai-agents-go-shop-floor",
+          "source": "Constellation Research",
+          "date": "2026-09-22T12:00:00.000Z",
+          "summary": "",
+          "score": 109,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Nvidia’s Nemotron hit enterprise AI inflection point",
           "url": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
           "source": "Constellation Research",
           "date": "2026-09-20T11:16:51.000Z",
           "summary": "",
-          "score": 100.7,
+          "score": 66.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Workforce and Organization: Experienced Judgment Is the Constraint",
-          "url": "https://www.constellationr.com/research/blog/workforce-and-organization-experienced-judgment-constraint",
-          "source": "Constellation Research",
-          "date": "2026-09-20T15:47:40.000Z",
-          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
-          "score": 56,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Building an AI governance framework for marketing",
-          "url": "https://martech.org/building-an-ai-governance-framework-for-marketing/",
-          "source": "MarTech",
-          "date": "2026-09-21T12:25:00.000Z",
-          "summary": "Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks.",
-          "score": 44.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Stop Prompting, Start Employing: A Blueprint for the Agentic Enterprise",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/stop-prompting-start-employing-agentic-enterprise",
-          "source": "Snowflake Blog",
-          "date": "2026-09-21T16:00:00.000Z",
-          "summary": "Enterprises are moving from prompting agents to employing them. Learn the three-step blueprint — hire deliberately, prepare the data handbook, manage actively — that separates production-ready…",
-          "score": 33.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment",
-          "url": "https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/",
+          "title": "With $35M in early funding, Baselayer is building the trust layer for the agentic economy",
+          "url": "https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-21T16:00:49.000Z",
-          "summary": "Amazon Web Services Inc. says it’s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent…",
-          "score": 32.2,
+          "date": "2026-09-22T13:00:03.000Z",
+          "summary": "Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today.",
+          "score": 51.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Splunk Reimagines Observability in the AI Era",
+          "url": "https://www.constellationr.com/video/event-update/splunk-reimagines-observability-ai-era",
+          "source": "Constellation Research",
+          "date": "2026-09-21T18:11:48.000Z",
+          "summary": "With over 25 years of experience, he has built, shipped, marketed, and sold successful enterprise SaaS products and solutions across startups, mid-size, and large companies.",
+          "score": 45.9,
           "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
+    {
+      "title": "The Very Best of Dreamforce ’26 in Pictures",
+      "url": "https://www.salesforceben.com/the-very-best-of-dreamforce-26-in-pictures/",
+      "source": "Salesforce Ben"
+    },
     {
       "title": "‘This Drives Us Nuts Too’: Salesforce Faces the Renaming Question at True to the Core",
       "url": "https://www.salesforceben.com/this-drives-us-nuts-too-salesforce-faces-the-renaming-question-at-true-to-the-core/",
@@ -188,34 +164,29 @@
       "source": "Salesforce Ben"
     },
     {
+      "title": "What’s up doc? How Dr Martens re-invented Customer Service with Salesforce",
+      "url": "https://diginomica.com/whats-doc-how-dr-martens-re-invented-customer-service-salesforce",
+      "source": "Diginomica"
+    },
+    {
       "title": "Salesforce Winter ‘27: Hands-On With New Flow Features",
       "url": "https://www.salesforceben.com/salesforce-winter-27-hands-on-with-new-flow-features/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Dreamforce Takeaways: Small Teams, Big Summit — Even Bigger Future",
-      "url": "https://www.salesforce.com/blog/small-business/dreamforce-takeways-for-small-teams-2026/",
-      "source": "Salesforce Blog"
+      "title": "Workforce and Organization: Experienced Judgment Is the Constraint",
+      "url": "https://www.constellationr.com/research/blog/workforce-and-organization-experienced-judgment-constraint",
+      "source": "Constellation Research"
     },
     {
-      "title": "Enterprise hits and misses - AI needs more than ROI - it needs buyer trust. AI leadership needs a rethink, and Dreamforce is a wrap",
-      "url": "https://diginomica.com/enterprise-hits-and-misses-ai-needs-more-roi-it-needs-buyer-trust-ai-leadership-needs-rethink-and",
-      "source": "Diginomica"
+      "title": "The Weakest Security Link in Customer Data May Be Hiding Outside the CRM",
+      "url": "https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/",
+      "source": "CX Today"
     },
     {
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Goal! How Tottenham Hotspur football club makes sure the fan experience isn't a game of two halves with Salesforce",
-      "url": "https://diginomica.com/goal-how-tottenham-hotspur-football-club-makes-sure-fan-experience-isnt-game-two-halves-salesforce",
-      "source": "Diginomica"
-    },
-    {
-      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning"
+      "title": "Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally",
+      "url": "https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }

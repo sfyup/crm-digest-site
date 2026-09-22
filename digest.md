@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Monday, September 21, 2026 · 2–3 min read · 14 stories from 22 sources*
+*Tuesday, September 22, 2026 · 2–3 min read · 12 stories from 20 sources*
 
 ## The 60-second version
 
+- Salesforce Will Charge Flex Credits for Agentic MCP and API Calls — Salesforce Ben
 - Top Service Cloud Announcements at Dreamforce ’26 — Salesforce Ben
 - CRM’s Great Escape: Salesforce, HubSpot, Zeotap, and Zendesk Redraw the Data Battle — CX Today
-- Nvidia’s Nemotron hit enterprise AI inflection point — Constellation Research
-- Your site migration needs a paid search playbook — MarTech
+- QAD | Redzone launches Manufacturing Intelligence, outlines how AI agents go to the shop floor — Constellation Research
 
 ## Salesforce
 
@@ -19,17 +19,17 @@ It’s been a year since I asked, “Service Cloud No More?” at Dreamforce 202
 Salesforce introduced the Lightning Experience in 2015 after what is now known as the Classic UI had aged quite significantly. Now, a decade on, Salesforce is changing its UI once more.
 <sub>Salesforce Ben · Sep 21</sub>
 
-**[The Very Best of Dreamforce ’26 in Pictures](https://www.salesforceben.com/the-very-best-of-dreamforce-26-in-pictures/)**
-Dreamforce is the highlight of the year for many Salesforce professionals (including us at SF Ben). This year, the announcements coming out of the conference reflect a cohesive strategy from…
-<sub>Salesforce Ben · Sep 21</sub>
+**[Dreamforce 2026 Roundup: Salesforce Has an ‘Easy Button’ for AI. But CX Leaders Still Face the Hard Decisions.](https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-roundup-salesforce-has-an-easy-button-for-ai-but-cx-leaders-still-face-the-hard-decisions/)**
+Dreamforce 2026 has been a show of big claims, big screens, and an even bigger vision for how AI will reshape enterprise work.
+<sub>CX Today · Sep 22</sub>
 
-**[On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale goes public](https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/)**
+**[From Prebuilt Agents to Vibe Coding: Salesforce’s New CX Playbook](https://www.cxtoday.com/ai-automation-in-cx/from-prebuilt-agents-to-vibe-coding-salesforces-new-cx-playbook/)**
+Salesforce has spent Dreamforce making a bold case for the future of enterprise interaction: CRM should no longer be a destination employees have to visit.
+<sub>CX Today · Sep 22</sub>
+
+**[On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale files to go public](https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/)**
 Salesforce Inc. keeps putting all of its eggs in the agent basket — but the strategy appears to be paying off so far.
 <sub>SiliconANGLE AI · Sep 21</sub>
-
-**[Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface](https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/)**
-Salesforce Inc.’s next growth opportunity just may come from customers spending less time in its interface, and having artificial intelligence agents do more of the work.
-<sub>SiliconANGLE AI · Sep 19</sub>
 
 ## CRM Platforms
 
@@ -37,52 +37,41 @@ Salesforce Inc.’s next growth opportunity just may come from customers spendin
 CRM has traditionally been a place where employees go to update records, check account history, and find the information they need. But is that still the case?
 <sub>CX Today · Sep 21</sub>
 
-**[HubSpot Unbound - the product story](https://diginomica.com/hubspot-unbound-product-story)**
-HubSpot’s Unbound 2026 brought some new product news for the HubSpot Customer Platform, including a self-updating CRM, new Marketing Studio, a re-vamped Breeze Assistant, and more.
-<sub>Diginomica · Sep 21 — also: [Diginomica](https://diginomica.com/hubspot-inbound-strategy-story)</sub>
-
-## Marketing Tech
-
-**[Your site migration needs a paid search playbook](https://martech.org/your-site-migration-needs-a-paid-search-playbook/)**
-Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates.
-<sub>MarTech · Sep 21</sub>
-
-**[Do you really need so much marketing?](https://martech.org/do-you-really-need-so-much-marketing/)**
-Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output.
-<sub>MarTech · Sep 21</sub>
+**[HubSpot Unbound - the strategy story](https://diginomica.com/hubspot-inbound-strategy-story)**
+The outcomes era is here and that means re-thinking and re-inventing CRM.
+<sub>Diginomica · Sep 21</sub>
 
 ## AI
+
+**[Salesforce Will Charge Flex Credits for Agentic MCP and API Calls](https://www.salesforceben.com/salesforce-will-charge-flex-credits-for-agentic-mcp-and-api-calls/)**
+Salesforce is preparing to introduce a new billing model for agentic access to its platform, with successful MCP and direct API calls made by registered agents set to consume Flex Credits.
+<sub>Salesforce Ben · Sep 22</sub>
+
+**[QAD | Redzone launches Manufacturing Intelligence, outlines how AI agents go to the shop floor](https://www.constellationr.com/insights/news/qad-redzone-launches-manufacturing-intelligence-outlines-how-ai-agents-go-shop-floor)**
+<sub>Constellation Research · Sep 22</sub>
 
 **[Nvidia’s Nemotron hit enterprise AI inflection point](https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point)**
 <sub>Constellation Research · Sep 20</sub>
 
-**[Workforce and Organization: Experienced Judgment Is the Constraint](https://www.constellationr.com/research/blog/workforce-and-organization-experienced-judgment-constraint)**
-In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…
-<sub>Constellation Research · Sep 20</sub>
+**[With $35M in early funding, Baselayer is building the trust layer for the agentic economy](https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/)**
+Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today.
+<sub>SiliconANGLE AI · Sep 22</sub>
 
-**[Building an AI governance framework for marketing](https://martech.org/building-an-ai-governance-framework-for-marketing/)**
-Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks.
-<sub>MarTech · Sep 21</sub>
-
-**[Stop Prompting, Start Employing: A Blueprint for the Agentic Enterprise](https://www.snowflake.com/content/snowflake-site/global/en/blog/stop-prompting-start-employing-agentic-enterprise)**
-Enterprises are moving from prompting agents to employing them. Learn the three-step blueprint — hire deliberately, prepare the data handbook, manage actively — that separates production-ready…
-<sub>Snowflake Blog · Sep 21</sub>
-
-**[AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment](https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/)**
-Amazon Web Services Inc. says it’s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent…
-<sub>SiliconANGLE AI · Sep 21</sub>
+**[Splunk Reimagines Observability in the AI Era](https://www.constellationr.com/video/event-update/splunk-reimagines-observability-ai-era)**
+With over 25 years of experience, he has built, shipped, marketed, and sold successful enterprise SaaS products and solutions across startups, mid-size, and large companies.
+<sub>Constellation Research · Sep 21</sub>
 
 ## Also worth a click
 
+- [The Very Best of Dreamforce ’26 in Pictures](https://www.salesforceben.com/the-very-best-of-dreamforce-26-in-pictures/) — *Salesforce Ben*
 - [‘This Drives Us Nuts Too’: Salesforce Faces the Renaming Question at True to the Core](https://www.salesforceben.com/this-drives-us-nuts-too-salesforce-faces-the-renaming-question-at-true-to-the-core/) — *Salesforce Ben*
 - [Foolproof Ways to Improve Salesforce Data in Professional Services Firms](https://www.salesforceben.com/foolproof-ways-to-improve-salesforce-data-in-professional-services-firms/) — *Salesforce Ben*
+- [What’s up doc? How Dr Martens re-invented Customer Service with Salesforce](https://diginomica.com/whats-doc-how-dr-martens-re-invented-customer-service-salesforce) — *Diginomica*
 - [Salesforce Winter ‘27: Hands-On With New Flow Features](https://www.salesforceben.com/salesforce-winter-27-hands-on-with-new-flow-features/) — *Salesforce Ben*
-- [Dreamforce Takeaways: Small Teams, Big Summit — Even Bigger Future](https://www.salesforce.com/blog/small-business/dreamforce-takeways-for-small-teams-2026/) — *Salesforce Blog*
-- [Enterprise hits and misses - AI needs more than ROI - it needs buyer trust. AI leadership needs a rethink, and Dreamforce is a wrap](https://diginomica.com/enterprise-hits-and-misses-ai-needs-more-roi-it-needs-buyer-trust-ai-leadership-needs-rethink-and) — *Diginomica*
-- [How V7 gives AI agents institutional memory](https://openai.com/index/v7) — *OpenAI News*
-- [Goal! How Tottenham Hotspur football club makes sure the fan experience isn't a game of two halves with Salesforce](https://diginomica.com/goal-how-tottenham-hotspur-football-club-makes-sure-fan-experience-isnt-game-two-halves-salesforce) — *Diginomica*
-- [How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/) — *AWS Machine Learning*
+- [Workforce and Organization: Experienced Judgment Is the Constraint](https://www.constellationr.com/research/blog/workforce-and-organization-experienced-judgment-constraint) — *Constellation Research*
+- [The Weakest Security Link in Customer Data May Be Hiding Outside the CRM](https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/) — *CX Today*
+- [Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2439 items scanned from 22/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2385 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
