@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-26T14:48:24.491Z",
+  "generatedAt": "2026-09-27T15:26:56.388Z",
   "stats": {
     "considered": 2453,
-    "relevant": 71,
+    "relevant": 52,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 594,
-    "minutes": 2.475,
+    "words": 601,
+    "minutes": 2.504166666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Trailhead for Claude? Anthropic Launches New Learning Platform — Salesforce Ben",
+    "Enterprise AI projects mature: What you need to know now — Constellation Research",
     "Is Salesforce Giving Anthropic Too Much Power? — Salesforce Ben",
     "The martech skills you need to survive — MarTech",
-    "Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities — MS Dynamics 365 Blog"
+    "Evidence Shows Enterprises Use of Open Weight Models is Mainstream — Constellation Research"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-25T11:00:47.000Z",
           "summary": "Back in 1999, Oracle CEO Larry Ellison backed Marc Benioff when Salesforce was just an idea. Ellison reportedly put in $2M, joined the board, and supported Benioff while he built a company that would…",
-          "score": 79.9,
+          "score": 51.1,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-25T14:12:55.000Z",
           "summary": "Cybersecurity experts discovered a way to pull sensitive account data from Agentforce without ever logging in or requiring the victim to click anything.",
-          "score": 69.2,
+          "score": 45.3,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Diginomica",
           "date": "2026-09-25T12:36:18.000Z",
           "summary": "A deep dive into the challenges for SIs of Salesforce's evolving pricing models.",
-          "score": 36.9,
+          "score": 23.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,7 @@
           "source": "Salesforce Blog",
           "date": "2026-09-25T17:43:55.000Z",
           "summary": "Learn how to move from fragmented data to coordinated action with insights from the Life Sciences Keynote at Dreamforce 2026.",
-          "score": 29.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Five Big Ideas Coming Out of Dreamforce 2026",
-          "url": "https://www.salesforce.com/news/stories/five-dreamforce-2026-takeaways/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-24T15:00:00.000Z",
-          "summary": "In the leadup to Dreamforce 2026, dozens of announcements outlined what enterprises look like when software meets AI, but the event itself filled in the picture. Organizations are being transformed.",
-          "score": 22.5,
+          "score": 19.6,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +67,21 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/23/build-the-future-of-agentic-erp-with-new-microsoft-dynamics-365-capabilities/",
+          "title": "Evidence Shows Enterprises Use of Open Weight Models is Mainstream",
+          "url": "https://www.constellationr.com/research/blog/evidence-shows-enterprises-use-open-weight-models-mainstream",
+          "source": "Constellation Research",
+          "date": "2026-09-26T22:21:09.000Z",
+          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
+          "score": 19.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Work IQ: Business and workplace intelligence in the flow of work",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/25/work-iq-business-and-workplace-intelligence-in-the-flow-of-work/",
           "source": "MS Dynamics 365 Blog",
-          "date": "2026-09-23T16:00:00.000Z",
-          "summary": "Discover what’s next for Microsoft Dynamics 365 ERP, from new capabilities across Finance, Supply Chain Management, Commerce, and more to the foundation for agentic ERP.",
-          "score": 32.6,
+          "date": "2026-09-25T12:00:00.000Z",
+          "summary": "Work IQ now grounds Microsoft Copilot and agents in your core business data from Microsoft Dynamics 365 and Microsoft Power Platform.",
+          "score": 17.9,
           "alsoCoveredBy": []
         }
       ]
@@ -96,25 +96,31 @@
           "source": "MarTech",
           "date": "2026-09-25T12:08:00.000Z",
           "summary": "Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes.",
-          "score": 41.5,
+          "score": 26.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Martech category labels don’t mean anything anymore",
-          "url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore/",
-          "source": "MarTech",
-          "date": "2026-09-24T12:16:00.000Z",
-          "summary": "Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product.",
-          "score": 31.8,
+          "title": "Customer Journey Observability: From Impact to Root Cause",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/customer-journey-observability-impact-root-cause",
+          "source": "Snowflake Blog",
+          "date": "2026-09-25T19:58:00.000Z",
+          "summary": "See how companies are using customer journey graphs in Observe by Snowflake to start incident investigation at business impact and reach root cause faster.",
+          "score": 13.1,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "data",
+      "label": "Data Platforms",
+      "items": [
         {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-09-24T14:07:20.000Z",
-          "summary": "A new Chrome extension uses AI to identify and hide LinkedIn slop — including the kind written by humans.",
-          "score": 28.3,
+          "title": "From Data to Dialogue: How S&P Global Energy Made Its Structured Data Estate Conversational with Databricks Genie Agents and MCP",
+          "url": "https://www.databricks.com/blog/data-dialogue-how-sp-global-energy-made-its-structured-data-estate-conversational-databricks",
+          "source": "Databricks Blog",
+          "date": "2026-09-25T16:00:00.000Z",
+          "summary": "S&amp;P Global's goal was to fundamentally improve how customers discover and consume...",
+          "score": 12.1,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +130,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "Enterprise AI projects mature: What you need to know now",
+          "url": "https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now",
+          "source": "Constellation Research",
+          "date": "2026-09-27T10:00:00.000Z",
+          "summary": "",
+          "score": 86,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Trailhead for Claude? Anthropic Launches New Learning Platform",
           "url": "https://www.salesforceben.com/trailhead-for-claude-anthropic-launches-new-learning-platform/",
           "source": "Salesforce Ben",
           "date": "2026-09-25T14:20:55.000Z",
           "summary": "Anthropic has launched Claude Academy, a free learning platform for Claude, AI fluency, and building with Anthropic’s models.",
-          "score": 115.1,
+          "score": 75.5,
           "alsoCoveredBy": []
         },
         {
@@ -138,7 +153,7 @@
           "source": "Constellation Research",
           "date": "2026-09-25T14:14:55.000Z",
           "summary": "",
-          "score": 100,
+          "score": 65.5,
           "alsoCoveredBy": []
         },
         {
@@ -147,7 +162,7 @@
           "source": "TechCrunch AI",
           "date": "2026-09-25T18:22:47.000Z",
           "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
-          "score": 58,
+          "score": 39.1,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +171,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-09-25T20:38:07.000Z",
           "summary": "At Dreamforce 2026, AI agents are being judged less on what they can say and more on what they get done.",
-          "score": 56.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Agentic AI deployments: What you should, and shouldn't do",
-          "url": "https://www.constellationr.com/insights/news/agentic-ai-deployments-what-you-should-and-shouldnt-do",
-          "source": "Constellation Research",
-          "date": "2026-09-24T15:03:19.000Z",
-          "summary": "",
-          "score": 50.7,
+          "score": 38.4,
           "alsoCoveredBy": []
         }
       ]
@@ -175,11 +181,6 @@
     {
       "title": "Biggest Dreamforce ’26 Announcements: Everything in a Nutshell",
       "url": "https://www.salesforceben.com/biggest-dreamforce-26-announcements-everything-in-a-nutshell/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Will Charge Flex Credits for Agentic MCP and API Calls",
-      "url": "https://www.salesforceben.com/salesforce-will-charge-flex-credits-for-agentic-mcp-and-api-calls/",
       "source": "Salesforce Ben"
     },
     {
@@ -198,18 +199,23 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Why you need to stop treating LLMs like people",
-      "url": "https://martech.org/why-you-need-to-stop-treating-llms-like-people/",
-      "source": "MarTech"
-    },
-    {
       "title": "3 Must-Haves for Scaling Agentic AI in Health",
       "url": "https://www.salesforce.com/blog/3-must-haves-for-scaling-agentic-ai-in-health/",
       "source": "Salesforce Blog"
     },
     {
-      "title": "UiPath aims to bridge gap between process, agentic AI, orchestration",
-      "url": "https://www.constellationr.com/insights/news/uipath-aims-bridge-gap-between-process-agentic-ai-orchestration-0",
+      "title": "Why you need to stop treating LLMs like people",
+      "url": "https://martech.org/why-you-need-to-stop-treating-llms-like-people/",
+      "source": "MarTech"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "TCS' Bajaj: Corporate structures will need to be rewritten due to AI",
+      "url": "https://www.constellationr.com/insights/news/tcs-bajaj-corporate-structures-will-need-be-rewritten-due-ai",
       "source": "Constellation Research"
     }
   ]
