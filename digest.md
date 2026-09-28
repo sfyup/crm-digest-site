@@ -1,47 +1,37 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Sunday, September 27, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Monday, September 28, 2026 · 2–3 min read · 12 stories from 20 sources*
 
 ## The 60-second version
 
-- Enterprise AI projects mature: What you need to know now — Constellation Research
-- Is Salesforce Giving Anthropic Too Much Power? — Salesforce Ben
-- The martech skills you need to survive — MarTech
-- Evidence Shows Enterprises Use of Open Weight Models is Mainstream — Constellation Research
+- Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate — Salesforce Ben
+- Nvidia launches Open Agent Safety Platform to secure AI agents — Constellation Research
+- Customer Journey Observability: From Impact to Root Cause — Snowflake Blog
+- AI in M&A: Accelerating Due Diligence and Integration — Snowflake Blog
 
 ## Salesforce
 
-**[Is Salesforce Giving Anthropic Too Much Power?](https://www.salesforceben.com/is-salesforce-giving-claude-too-much-power/)**
-Back in 1999, Oracle CEO Larry Ellison backed Marc Benioff when Salesforce was just an idea. Ellison reportedly put in $2M, joined the board, and supported Benioff while he built a company that would…
-<sub>Salesforce Ben · Sep 25</sub>
+**[Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate](https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/)**
+Dreamforce ‘26 introduced AIforce, Salesforce’s new interface layer that sits on top of Agentforce, Customer 360, and Data 360.
+<sub>Salesforce Ben · Sep 28</sub>
 
-**[Lab Exposes New Agentforce Data Exploit](https://www.salesforceben.com/lab-exposes-new-agentforce-data-exploit/)**
-Cybersecurity experts discovered a way to pull sensitive account data from Agentforce without ever logging in or requiring the victim to click anything.
-<sub>Salesforce Ben · Sep 25</sub>
+**[Salesforce Pricing Keeps Changing – Can Customers Keep Up?](https://www.salesforceben.com/salesforce-pricing-keeps-changing-can-customers-keep-up/)**
+When you’re as deep into the AI race as Salesforce is, the pace of innovation needs to be fast. We keep hearing that if you don’t keep up, you will fall behind, and it’s safe to say that Salesforce…
+<sub>Salesforce Ben · Sep 28</sub>
 
-**[Salesforce and the SI - partners want pricing clarity as the FDE Partner Network becomes established](https://diginomica.com/salesforce-and-si-partners-want-pricing-clarity-fde-partner-network-becomes-established)**
-A deep dive into the challenges for SIs of Salesforce's evolving pricing models.
-<sub>Diginomica · Sep 25</sub>
+**[Is Your Salesforce Doc Gen Solution Causing Technical Debt?](https://www.salesforceben.com/is-your-salesforce-doc-gen-solution-causing-technical-debt/)**
+Document generation is one of the oldest product categories on the AppExchange. Creating quotes, contracts, and invoices from Salesforce data remains one of the first use cases that goes into almost…
+<sub>Salesforce Ben · Sep 28</sub>
 
-**[Rewriting the Script for Life Sciences: 3 Ways Salesforce Turns Healthcare Complexity Into Action](https://www.salesforce.com/blog/rewriting-the-script-for-life-sciences/)**
-Learn how to move from fragmented data to coordinated action with insights from the Life Sciences Keynote at Dreamforce 2026.
-<sub>Salesforce Blog · Sep 25</sub>
+**[21 Things We Announced at Dreamforce 2026](https://www.salesforce.com/blog/dreamforce-2026-announcements/)**
+From agents that tackle long-term goals to new tools for optimizing your Agentforce, Dreamforce 2026 was all about taking production agents to the next level.
+<sub>Salesforce Blog · Sep 28</sub>
 
-## CRM Platforms
-
-**[Evidence Shows Enterprises Use of Open Weight Models is Mainstream](https://www.constellationr.com/research/blog/evidence-shows-enterprises-use-open-weight-models-mainstream)**
-In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…
-<sub>Constellation Research · Sep 26</sub>
-
-**[Work IQ: Business and workplace intelligence in the flow of work](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/25/work-iq-business-and-workplace-intelligence-in-the-flow-of-work/)**
-Work IQ now grounds Microsoft Copilot and agents in your core business data from Microsoft Dynamics 365 and Microsoft Power Platform.
-<sub>MS Dynamics 365 Blog · Sep 25</sub>
+**[Extending Admin Control to the Runtime Layer with NVIDIA OpenShell and Slack](https://www.salesforce.com/blog/extending-admin-control-to-the-runtime-layer-with-nvidia-openshell-and-slack/)**
+As AI agents take on longer-running work across enterprise systems, they need broader access to tools, data, credentials, and services to get that work done.
+<sub>Salesforce Blog · Sep 28</sub>
 
 ## Marketing Tech
-
-**[The martech skills you need to survive](https://martech.org/the-martech-skills-you-need-to-survive/)**
-Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes.
-<sub>MarTech · Sep 25</sub>
 
 **[Customer Journey Observability: From Impact to Root Cause](https://www.snowflake.com/content/snowflake-site/global/en/blog/customer-journey-observability-impact-root-cause)**
 See how companies are using customer journey graphs in Observe by Snowflake to start incident investigation at business impact and reach root cause faster.
@@ -49,41 +39,41 @@ See how companies are using customer journey graphs in Observe by Snowflake to s
 
 ## Data Platforms
 
-**[From Data to Dialogue: How S&P Global Energy Made Its Structured Data Estate Conversational with Databricks Genie Agents and MCP](https://www.databricks.com/blog/data-dialogue-how-sp-global-energy-made-its-structured-data-estate-conversational-databricks)**
-S&amp;P Global's goal was to fundamentally improve how customers discover and consume...
-<sub>Databricks Blog · Sep 25</sub>
+**[AI in M&A: Accelerating Due Diligence and Integration](https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-in-m-a-accelerating-due-diligence-and-integration)**
+Learn how Accenture and Snowflake use AI and a unified data platform to accelerate M&A due diligence, de-risk integration and drive deal value.
+<sub>Snowflake Blog · Sep 25</sub>
 
 ## AI
+
+**[Nvidia launches Open Agent Safety Platform to secure AI agents](https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents)**
+<sub>Constellation Research · Sep 28</sub>
+
+**[Why AI Agents Need Context, Not Just Data | Semantics & Context Management ShortList](https://www.constellationr.com/video/shortlist-spotlights/why-ai-agents-need-context-not-just-data-semantics-context-management)**
+Ni’s research examines how enterprises operationalize AI, automate decision-making, and integrate data management and analytics into core business processes.
+<sub>Constellation Research · Sep 28</sub>
+
+**[Autoheal raises $7.9M to evaluate and fix AI agents with… AI agents](https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/)**
+Autoheal AI Inc., an artificial intelligence-native platform engineering startup that’s trying to pioneer the concept of “self-improving software factories,” said today it has raised $7.9 million in…
+<sub>SiliconANGLE AI · Sep 28</sub>
 
 **[Enterprise AI projects mature: What you need to know now](https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now)**
 <sub>Constellation Research · Sep 27</sub>
 
-**[Trailhead for Claude? Anthropic Launches New Learning Platform](https://www.salesforceben.com/trailhead-for-claude-anthropic-launches-new-learning-platform/)**
-Anthropic has launched Claude Academy, a free learning platform for Claude, AI fluency, and building with Anthropic’s models.
-<sub>Salesforce Ben · Sep 25</sub>
-
-**[Personal AI assistants to proliferate and so will the governance headaches](https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches)**
-<sub>Constellation Research · Sep 25</sub>
-
-**[Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/)**
-When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?
-<sub>TechCrunch AI · Sep 25</sub>
-
-**[4 insights from Dreamforce: AI agents move from demos to measurable outcomes](https://siliconangle.com/2026/09/25/ai-agents-dreamforce-2026-from-demos-outcomes-dreamforce/)**
-At Dreamforce 2026, AI agents are being judged less on what they can say and more on what they get done.
-<sub>SiliconANGLE AI · Sep 25</sub>
+**[Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model](https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/)**
+Anthropic PBC today announced the launch of Claude Sonnet 5.5, the most capable mid-tier model in the company’s AI family, designed for everyday tasks and a clear upgrade over the previous…
+<sub>SiliconANGLE AI · Sep 28</sub>
 
 ## Also worth a click
 
-- [Biggest Dreamforce ’26 Announcements: Everything in a Nutshell](https://www.salesforceben.com/biggest-dreamforce-26-announcements-everything-in-a-nutshell/) — *Salesforce Ben*
-- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — *TechCrunch AI*
-- [GTM teams are losing track of their AI agents](https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/) — *MarTech*
-- [Akamai lands big Anthropic deal valued up to $20 billion](https://www.constellationr.com/insights/news/akamai-lands-big-anthropic-deal-valued-20-billion) — *Constellation Research*
-- [3 Must-Haves for Scaling Agentic AI in Health](https://www.salesforce.com/blog/3-must-haves-for-scaling-agentic-ai-in-health/) — *Salesforce Blog*
-- [Why you need to stop treating LLMs like people](https://martech.org/why-you-need-to-stop-treating-llms-like-people/) — *MarTech*
-- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — *TechCrunch AI*
-- [TCS' Bajaj: Corporate structures will need to be rewritten due to AI](https://www.constellationr.com/insights/news/tcs-bajaj-corporate-structures-will-need-be-rewritten-due-ai) — *Constellation Research*
+- [Salesforce’s Ultimate Moat: You Can’t Vibe Code Infrastructure](https://www.salesforceben.com/salesforces-ultimate-moat-you-cant-vibe-code-infrastructure/) — *Salesforce Ben*
+- [Meta launches Meta Enterprise Platform led by CJ Desai](https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai) — *Constellation Research*
+- [Enterprises hits and misses - are knowledge graphs the missing piece in AI context, and is agentic security broken, or just mismanaged?](https://diginomica.com/enterprises-hits-and-misses-are-knowledge-graphs-missing-piece-ai-context-and-agentic-security) — *Diginomica*
+- [Viral AI agent Instinct raises $1B Series C at a $10B valuation](https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/) — *TechCrunch AI*
+- [Momentic debuts Mo AI agent to automate software testing without scripts](https://siliconangle.com/2026/09/28/momentic-debuts-mo-ai-agent-to-automate-software-testing-without-scripts/) — *SiliconANGLE AI*
+- [The Five-Year Salesforce Career Audit](https://www.salesforceben.com/the-five-year-salesforce-career-audit/) — *Salesforce Ben*
+- [Researcher links 16,000 scans of a UN statistics portal to OpenAI agents](https://siliconangle.com/2026/09/27/researcher-links-16000-scans-of-a-u-n-statistics-portal-to-openai-agents/) — *SiliconANGLE AI*
+- [Agentic AI security pushes vendors toward shared safeguards](https://siliconangle.com/2026/09/28/okta-advances-shared-architecture-agentic-ai-security-oktane/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2453 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2445 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
