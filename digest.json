@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-28T18:18:10.404Z",
+  "generatedAt": "2026-09-29T16:41:12.376Z",
   "stats": {
-    "considered": 2445,
-    "relevant": 47,
-    "featured": 12,
+    "considered": 2459,
+    "relevant": 70,
+    "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 576,
-    "minutes": 2.4,
+    "words": 664,
+    "minutes": 2.7666666666666666,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate — Salesforce Ben",
     "Nvidia launches Open Agent Safety Platform to secure AI agents — Constellation Research",
-    "Customer Journey Observability: From Impact to Root Cause — Snowflake Blog",
-    "AI in M&A: Accelerating Due Diligence and Integration — Snowflake Blog"
+    "Braze expands AI from content creation to campaign operations — MarTech",
+    "Announcing Claude Sonnet 5.5 on Snowflake Cortex AI — Snowflake Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-28T12:41:56.000Z",
           "summary": "Dreamforce ‘26 introduced AIforce, Salesforce’s new interface layer that sits on top of Agentforce, Customer 360, and Data 360.",
-          "score": 148.3,
+          "score": 111.6,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-28T10:37:57.000Z",
           "summary": "When you’re as deep into the AI race as Salesforce is, the pace of innovation needs to be fast. We keep hearing that if you don’t keep up, you will fall behind, and it’s safe to say that Salesforce…",
-          "score": 81.4,
+          "score": 60.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Dreamforce 2026: 5 Ways Marketing Cloud Is Building a New Model for Growth",
+          "url": "https://www.salesforce.com/blog/dreamforce-2026-5-ways-marketing-cloud-is-building-a-new-model-for-growth/",
+          "source": "Salesforce Blog",
+          "date": "2026-09-29T15:51:01.000Z",
+          "summary": "From shaping how AI represents your brand to campaigns that keep improving after launch, see what’s new in Marketing Cloud and what it means for marketers.",
+          "score": 50.2,
           "alsoCoveredBy": []
         },
         {
@@ -48,25 +57,16 @@
           "source": "Salesforce Ben",
           "date": "2026-09-28T13:45:09.000Z",
           "summary": "Document generation is one of the oldest product categories on the AppExchange. Creating quotes, contracts, and invoices from Salesforce data remains one of the first use cases that goes into almost…",
-          "score": 64.3,
+          "score": 48.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "21 Things We Announced at Dreamforce 2026",
-          "url": "https://www.salesforce.com/blog/dreamforce-2026-announcements/",
+          "title": "What an Unforgettable Dreamforce 2026: Unleashing IT & HR Service Innovation",
+          "url": "https://www.salesforce.com/blog/dreamforce-2026-it-hr-innovation/",
           "source": "Salesforce Blog",
-          "date": "2026-09-28T13:00:00.000Z",
-          "summary": "From agents that tackle long-term goals to new tools for optimizing your Agentforce, Dreamforce 2026 was all about taking production agents to the next level.",
-          "score": 27.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Extending Admin Control to the Runtime Layer with NVIDIA OpenShell and Slack",
-          "url": "https://www.salesforce.com/blog/extending-admin-control-to-the-runtime-layer-with-nvidia-openshell-and-slack/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-28T13:46:29.000Z",
-          "summary": "As AI agents take on longer-running work across enterprise systems, they need broader access to tools, data, credentials, and services to get that work done.",
-          "score": 19.9,
+          "date": "2026-09-28T19:10:07.000Z",
+          "summary": "What an incredible week at Dreamforce 2026! Having the opportunity to connect with so many visionary leaders, innovators, and partners in person is always a highlight and honor, but this past week…",
+          "score": 25.6,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Customer Journey Observability: From Impact to Root Cause",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/customer-journey-observability-impact-root-cause",
-          "source": "Snowflake Blog",
-          "date": "2026-09-25T19:58:00.000Z",
-          "summary": "See how companies are using customer journey graphs in Observe by Snowflake to start incident investigation at business impact and reach root cause faster.",
-          "score": 6.4,
+          "title": "Braze expands AI from content creation to campaign operations",
+          "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
+          "source": "MarTech",
+          "date": "2026-09-29T13:42:52.000Z",
+          "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude.",
+          "score": 63.8,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +91,30 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "AI in M&A: Accelerating Due Diligence and Integration",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-in-m-a-accelerating-due-diligence-and-integration",
+          "title": "Announcing Claude Sonnet 5.5 on Snowflake Cortex AI",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-5-snowflake-cortex-ai",
           "source": "Snowflake Blog",
-          "date": "2026-09-25T19:58:00.000Z",
-          "summary": "Learn how Accenture and Snowflake use AI and a unified data platform to accelerate M&A due diligence, de-risk integration and drive deal value.",
-          "score": 3.2,
+          "date": "2026-09-28T19:21:22.000Z",
+          "summary": "Claude Sonnet 5.5 is coming to Cortex Inference in public preview, with Cortex AI Functions, Snowflake CoWork, Snowflake CoCo, and Cortex Agents coming soon.",
+          "score": 42,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "GPT-6 Sol and Luna on Snowflake Cortex AI",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-6-sol-luna-snowflake-cortex-ai",
+          "source": "Snowflake Blog",
+          "date": "2026-09-28T18:13:07.000Z",
+          "summary": "GPT-6 Sol and Luna are now in public preview through Cortex AI Functions and Cortex Inference, and coming soon to Snowflake CoCo, Snowflake CoWork, and Cortex Agents.",
+          "score": 41.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys",
+          "url": "https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/",
+          "source": "MarTech",
+          "date": "2026-09-28T12:17:00.000Z",
+          "summary": "From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline.",
+          "score": 36.5,
           "alsoCoveredBy": []
         }
       ]
@@ -111,7 +129,25 @@
           "source": "Constellation Research",
           "date": "2026-09-28T09:00:00.000Z",
           "summary": "",
-          "score": 143.1,
+          "score": 106.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA",
+          "url": "https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga",
+          "source": "Constellation Research",
+          "date": "2026-09-29T12:30:00.000Z",
+          "summary": "",
+          "score": 78,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+          "source": "TechCrunch AI",
+          "date": "2026-09-29T12:45:05.000Z",
+          "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+          "score": 52.7,
           "alsoCoveredBy": []
         },
         {
@@ -120,34 +156,16 @@
           "source": "Constellation Research",
           "date": "2026-09-28T17:47:54.000Z",
           "summary": "Ni’s research examines how enterprises operationalize AI, automate decision-making, and integrate data management and analytics into core business processes.",
-          "score": 68,
+          "score": 52.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Autoheal raises $7.9M to evaluate and fix AI agents with… AI agents",
-          "url": "https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/",
+          "title": "Omnissa debuts AI agents for IT, a managed cloud PC service and Elara for AI governance",
+          "url": "https://siliconangle.com/2026/09/29/omnissa-debuts-ai-agents-for-it-a-managed-cloud-pc-service-and-elara-for-ai-governance/",
           "source": "SiliconANGLE AI",
-          "date": "2026-09-28T12:00:16.000Z",
-          "summary": "Autoheal AI Inc., an artificial intelligence-native platform engineering startup that’s trying to pioneer the concept of “self-improving software factories,” said today it has raised $7.9 million in…",
-          "score": 63.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Enterprise AI projects mature: What you need to know now",
-          "url": "https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now",
-          "source": "Constellation Research",
-          "date": "2026-09-27T10:00:00.000Z",
-          "summary": "",
-          "score": 60.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model",
-          "url": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-28T18:00:39.000Z",
-          "summary": "Anthropic PBC today announced the launch of Claude Sonnet 5.5, the most capable mid-tier model in the company’s AI family, designed for everyday tasks and a clear upgrade over the previous…",
-          "score": 55.6,
+          "date": "2026-09-29T13:25:55.000Z",
+          "summary": "Digital workspace company Omnissa LLC today unveiled new artificial intelligence agents for information technology teams and virtual desktop users, a managed cloud PC service and an AI governance…",
+          "score": 51.3,
           "alsoCoveredBy": []
         }
       ]
@@ -155,9 +173,34 @@
   ],
   "quickLinks": [
     {
+      "title": "Autoheal raises $7.9M to evaluate and fix AI agents with… AI agents",
+      "url": "https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/",
+      "source": "SiliconANGLE AI"
+    },
+    {
       "title": "Salesforce’s Ultimate Moat: You Can’t Vibe Code Infrastructure",
       "url": "https://www.salesforceben.com/salesforces-ultimate-moat-you-cant-vibe-code-infrastructure/",
       "source": "Salesforce Ben"
+    },
+    {
+      "title": "ServiceNow calls for a measured response to rogue AI agents",
+      "url": "https://siliconangle.com/2026/09/28/servicenow-ties-agent-containment-business-context-oktane/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model",
+      "url": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "AI agent identity security demands layered defenses, Omdia says",
+      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "source": "SiliconANGLE AI"
     },
     {
       "title": "Meta launches Meta Enterprise Platform led by CJ Desai",
@@ -165,34 +208,9 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Enterprises hits and misses - are knowledge graphs the missing piece in AI context, and is agentic security broken, or just mismanaged?",
-      "url": "https://diginomica.com/enterprises-hits-and-misses-are-knowledge-graphs-missing-piece-ai-context-and-agentic-security",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Momentic debuts Mo AI agent to automate software testing without scripts",
-      "url": "https://siliconangle.com/2026/09/28/momentic-debuts-mo-ai-agent-to-automate-software-testing-without-scripts/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "The Five-Year Salesforce Career Audit",
-      "url": "https://www.salesforceben.com/the-five-year-salesforce-career-audit/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Researcher links 16,000 scans of a UN statistics portal to OpenAI agents",
-      "url": "https://siliconangle.com/2026/09/27/researcher-links-16000-scans-of-a-u-n-statistics-portal-to-openai-agents/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Agentic AI security pushes vendors toward shared safeguards",
-      "url": "https://siliconangle.com/2026/09/28/okta-advances-shared-architecture-agentic-ai-security-oktane/",
-      "source": "SiliconANGLE AI"
+      "title": "Enterprise AI projects mature: What you need to know now",
+      "url": "https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now",
+      "source": "Constellation Research"
     }
   ]
 }
