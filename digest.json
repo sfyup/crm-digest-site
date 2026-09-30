@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-29T16:41:12.376Z",
+  "generatedAt": "2026-09-30T16:32:53.613Z",
   "stats": {
-    "considered": 2459,
-    "relevant": 70,
+    "considered": 2464,
+    "relevant": 95,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 664,
-    "minutes": 2.7666666666666666,
+    "words": 580,
+    "minutes": 2.4166666666666665,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate — Salesforce Ben",
-    "Nvidia launches Open Agent Safety Platform to secure AI agents — Constellation Research",
-    "Braze expands AI from content creation to campaign operations — MarTech",
-    "Announcing Claude Sonnet 5.5 on Snowflake Cortex AI — Snowflake Blog"
+    "OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise? — Constellation Research",
+    "Salesforce Acquires AI Customer Research Company Listen Labs — Salesforce Ben",
+    "Stop building strategy around your martech stack — MarTech",
+    "OpenTelemetry as an Enterprise Data Asset — Snowflake Blog"
   ],
   "sections": [
     {
@@ -25,48 +25,48 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate",
-          "url": "https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/",
+          "title": "Salesforce Acquires AI Customer Research Company Listen Labs",
+          "url": "https://www.salesforceben.com/salesforce-acquires-ai-customer-research-company-listen-labs/",
           "source": "Salesforce Ben",
-          "date": "2026-09-28T12:41:56.000Z",
-          "summary": "Dreamforce ‘26 introduced AIforce, Salesforce’s new interface layer that sits on top of Agentforce, Customer 360, and Data 360.",
-          "score": 111.6,
+          "date": "2026-09-30T09:45:04.000Z",
+          "summary": "Salesforce has signed a definitive agreement to acquire AI customer research company Listen Labs for an undisclosed amount.",
+          "score": 104.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Pricing Keeps Changing – Can Customers Keep Up?",
-          "url": "https://www.salesforceben.com/salesforce-pricing-keeps-changing-can-customers-keep-up/",
+          "title": "Marc Benioff’s Suit and the Dawn of Salesforce Bureaucracy",
+          "url": "https://www.salesforceben.com/marc-benioffs-suit-and-the-dawn-of-salesforce-bureaucracy/",
           "source": "Salesforce Ben",
-          "date": "2026-09-28T10:37:57.000Z",
-          "summary": "When you’re as deep into the AI race as Salesforce is, the pace of innovation needs to be fast. We keep hearing that if you don’t keep up, you will fall behind, and it’s safe to say that Salesforce…",
-          "score": 60.8,
+          "date": "2026-09-30T12:10:09.000Z",
+          "summary": "There was once a time when Silicon Valley CEOs seemed determined to convince us that they were nothing like politicians.",
+          "score": 91.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Dreamforce 2026: 5 Ways Marketing Cloud Is Building a New Model for Growth",
-          "url": "https://www.salesforce.com/blog/dreamforce-2026-5-ways-marketing-cloud-is-building-a-new-model-for-growth/",
+          "title": "Salesforce buys AI customer research startup Listen Labs",
+          "url": "https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/",
+          "source": "MarTech",
+          "date": "2026-09-30T14:13:40.000Z",
+          "summary": "The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents.",
+          "score": 75.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+          "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-29T20:00:00.000Z",
+          "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform.",
+          "score": 55,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Agentic AI and the Future of Work: What It Means for Salesforce Practitioners",
+          "url": "https://www.salesforce.com/blog/agentic-ai-and-the-future-of-work-salesforce-practitioners/",
           "source": "Salesforce Blog",
-          "date": "2026-09-29T15:51:01.000Z",
-          "summary": "From shaping how AI represents your brand to campaigns that keep improving after launch, see what’s new in Marketing Cloud and what it means for marketers.",
-          "score": 50.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Is Your Salesforce Doc Gen Solution Causing Technical Debt?",
-          "url": "https://www.salesforceben.com/is-your-salesforce-doc-gen-solution-causing-technical-debt/",
-          "source": "Salesforce Ben",
-          "date": "2026-09-28T13:45:09.000Z",
-          "summary": "Document generation is one of the oldest product categories on the AppExchange. Creating quotes, contracts, and invoices from Salesforce data remains one of the first use cases that goes into almost…",
-          "score": 48.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "What an Unforgettable Dreamforce 2026: Unleashing IT & HR Service Innovation",
-          "url": "https://www.salesforce.com/blog/dreamforce-2026-it-hr-innovation/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-28T19:10:07.000Z",
-          "summary": "What an incredible week at Dreamforce 2026! Having the opportunity to connect with so many visionary leaders, innovators, and partners in person is always a highlight and honor, but this past week…",
-          "score": 25.6,
+          "date": "2026-09-29T17:38:30.000Z",
+          "summary": "Technology is changing fast. Follow the work to see where your role goes next.",
+          "score": 37.7,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "Stop building strategy around your martech stack",
+          "url": "https://martech.org/stop-building-strategy-around-your-martech-stack/",
+          "source": "MarTech",
+          "date": "2026-09-30T12:07:00.000Z",
+          "summary": "A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool.",
+          "score": 64.1,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Braze expands AI from content creation to campaign operations",
           "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
           "source": "MarTech",
           "date": "2026-09-29T13:42:52.000Z",
           "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude.",
-          "score": 63.8,
+          "score": 47.4,
           "alsoCoveredBy": []
         }
       ]
@@ -91,30 +100,21 @@
       "label": "Data Platforms",
       "items": [
         {
+          "title": "OpenTelemetry as an Enterprise Data Asset | Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/opentelemetry-enterprise-data-asset",
+          "source": "Snowflake Blog",
+          "date": "2026-09-29T19:58:00.000Z",
+          "summary": "Learn how to turn telemetry into a governed enterprise data asset. See how Observe by Snowflake and the Snowflake AI Data Cloud help teams connect operational signals with business context for…",
+          "score": 32.2,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Announcing Claude Sonnet 5.5 on Snowflake Cortex AI",
           "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-5-snowflake-cortex-ai",
           "source": "Snowflake Blog",
           "date": "2026-09-28T19:21:22.000Z",
           "summary": "Claude Sonnet 5.5 is coming to Cortex Inference in public preview, with Cortex AI Functions, Snowflake CoWork, Snowflake CoCo, and Cortex Agents coming soon.",
-          "score": 42,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "GPT-6 Sol and Luna on Snowflake Cortex AI",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-6-sol-luna-snowflake-cortex-ai",
-          "source": "Snowflake Blog",
-          "date": "2026-09-28T18:13:07.000Z",
-          "summary": "GPT-6 Sol and Luna are now in public preview through Cortex AI Functions and Cortex Inference, and coming soon to Snowflake CoCo, Snowflake CoWork, and Cortex Agents.",
-          "score": 41.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys",
-          "url": "https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/",
-          "source": "MarTech",
-          "date": "2026-09-28T12:17:00.000Z",
-          "summary": "From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline.",
-          "score": 36.5,
+          "score": 28.6,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +124,30 @@
       "label": "AI",
       "items": [
         {
-          "title": "Nvidia launches Open Agent Safety Platform to secure AI agents",
-          "url": "https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents",
+          "title": "OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise?",
+          "url": "https://www.constellationr.com/insights/news/openais-dev-day-features-dots-ultrafast-gpt-6-sol-can-it-woo-enterprise",
           "source": "Constellation Research",
-          "date": "2026-09-28T09:00:00.000Z",
+          "date": "2026-09-29T17:53:17.000Z",
           "summary": "",
-          "score": 106.1,
+          "score": 110,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Multiplayer Agents: The Next Wave of Collaborative Agentic AI",
+          "url": "https://www.salesforceben.com/multiplayer-agents-the-next-wave-of-collaborative-agentic-ai/",
+          "source": "Salesforce Ben",
+          "date": "2026-09-30T12:00:36.000Z",
+          "summary": "First, there were AI chatbots. Then, we got AI assistants. Next, we saw the rise of the agentic enterprise. The latest trend is the emergence of multiplayer AI agents.",
+          "score": 101.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "CoreWeave launches CoreWeave Forge: Here's a look at the strategy",
+          "url": "https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy",
+          "source": "Constellation Research",
+          "date": "2026-09-30T13:00:00.000Z",
+          "summary": "",
+          "score": 85.5,
           "alsoCoveredBy": []
         },
         {
@@ -138,34 +156,16 @@
           "source": "Constellation Research",
           "date": "2026-09-29T12:30:00.000Z",
           "summary": "",
-          "score": 78,
+          "score": 57.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
           "source": "TechCrunch AI",
-          "date": "2026-09-29T12:45:05.000Z",
-          "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-          "score": 52.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why AI Agents Need Context, Not Just Data | Semantics & Context Management ShortList",
-          "url": "https://www.constellationr.com/video/shortlist-spotlights/why-ai-agents-need-context-not-just-data-semantics-context-management",
-          "source": "Constellation Research",
-          "date": "2026-09-28T17:47:54.000Z",
-          "summary": "Ni’s research examines how enterprises operationalize AI, automate decision-making, and integrate data management and analytics into core business processes.",
-          "score": 52.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Omnissa debuts AI agents for IT, a managed cloud PC service and Elara for AI governance",
-          "url": "https://siliconangle.com/2026/09/29/omnissa-debuts-ai-agents-for-it-a-managed-cloud-pc-service-and-elara-for-ai-governance/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-09-29T13:25:55.000Z",
-          "summary": "Digital workspace company Omnissa LLC today unveiled new artificial intelligence agents for information technology teams and virtual desktop users, a managed cloud PC service and an AI governance…",
-          "score": 51.3,
+          "date": "2026-09-29T17:15:00.000Z",
+          "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep…",
+          "score": 55,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Autoheal raises $7.9M to evaluate and fix AI agents with… AI agents",
-      "url": "https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Salesforce’s Ultimate Moat: You Can’t Vibe Code Infrastructure",
-      "url": "https://www.salesforceben.com/salesforces-ultimate-moat-you-cant-vibe-code-infrastructure/",
+      "title": "Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate",
+      "url": "https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "ServiceNow calls for a measured response to rogue AI agents",
-      "url": "https://siliconangle.com/2026/09/28/servicenow-ties-agent-containment-business-context-oktane/",
+      "title": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
+      "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model",
-      "url": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
-      "source": "SiliconANGLE AI"
+      "title": "The Tableau Knowledge Engine: How We Built Trustworthy Agentic Analytics",
+      "url": "https://www.salesforce.com/blog/knowledge-engine-how-we-built-trustworthy-agentic-analytics/",
+      "source": "Salesforce Blog"
     },
     {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "title": "How one \"boring\" Salesforce use case became a game-changing agentic AI push for Adecco Group",
+      "url": "https://diginomica.com/how-one-boring-salesforce-use-case-became-game-changing-agentic-ai-push-adecco-group",
+      "source": "Diginomica"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "AI agent identity security demands layered defenses, Omdia says",
-      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "title": "How to Tell if Your Salesforce App Is Really Native – And Why It Matters",
+      "url": "https://www.salesforceben.com/how-to-tell-if-your-salesforce-app-is-really-native-and-why-it-matters/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price",
+      "url": "https://siliconangle.com/2026/09/29/openais-gpt-6-1-sol-delivers-astra-like-performance-at-a-dramatically-lower-price/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Meta launches Meta Enterprise Platform led by CJ Desai",
-      "url": "https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Enterprise AI projects mature: What you need to know now",
-      "url": "https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now",
-      "source": "Constellation Research"
+      "title": "Is AI Going to Kill Us? The Regulation Debate",
+      "url": "https://www.salesforceben.com/is-ai-going-to-kill-us-the-regulation-debate/",
+      "source": "Salesforce Ben"
     }
   ]
 }

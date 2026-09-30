@@ -1,37 +1,41 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Tuesday, September 29, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Wednesday, September 30, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate — Salesforce Ben
-- Nvidia launches Open Agent Safety Platform to secure AI agents — Constellation Research
-- Braze expands AI from content creation to campaign operations — MarTech
-- Announcing Claude Sonnet 5.5 on Snowflake Cortex AI — Snowflake Blog
+- OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise? — Constellation Research
+- Salesforce Acquires AI Customer Research Company Listen Labs — Salesforce Ben
+- Stop building strategy around your martech stack — MarTech
+- OpenTelemetry as an Enterprise Data Asset — Snowflake Blog
 
 ## Salesforce
 
-**[Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate](https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/)**
-Dreamforce ‘26 introduced AIforce, Salesforce’s new interface layer that sits on top of Agentforce, Customer 360, and Data 360.
-<sub>Salesforce Ben · Sep 28</sub>
+**[Salesforce Acquires AI Customer Research Company Listen Labs](https://www.salesforceben.com/salesforce-acquires-ai-customer-research-company-listen-labs/)**
+Salesforce has signed a definitive agreement to acquire AI customer research company Listen Labs for an undisclosed amount.
+<sub>Salesforce Ben · Sep 30</sub>
 
-**[Salesforce Pricing Keeps Changing – Can Customers Keep Up?](https://www.salesforceben.com/salesforce-pricing-keeps-changing-can-customers-keep-up/)**
-When you’re as deep into the AI race as Salesforce is, the pace of innovation needs to be fast. We keep hearing that if you don’t keep up, you will fall behind, and it’s safe to say that Salesforce…
-<sub>Salesforce Ben · Sep 28</sub>
+**[Marc Benioff’s Suit and the Dawn of Salesforce Bureaucracy](https://www.salesforceben.com/marc-benioffs-suit-and-the-dawn-of-salesforce-bureaucracy/)**
+There was once a time when Silicon Valley CEOs seemed determined to convince us that they were nothing like politicians.
+<sub>Salesforce Ben · Sep 30</sub>
 
-**[Dreamforce 2026: 5 Ways Marketing Cloud Is Building a New Model for Growth](https://www.salesforce.com/blog/dreamforce-2026-5-ways-marketing-cloud-is-building-a-new-model-for-growth/)**
-From shaping how AI represents your brand to campaigns that keep improving after launch, see what’s new in Marketing Cloud and what it means for marketers.
+**[Salesforce buys AI customer research startup Listen Labs](https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/)**
+The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents.
+<sub>MarTech · Sep 30</sub>
+
+**[Salesforce Signs Definitive Agreement to Acquire Listen Labs](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/)**
+Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform.
+<sub>Salesforce Newsroom · Sep 29</sub>
+
+**[Agentic AI and the Future of Work: What It Means for Salesforce Practitioners](https://www.salesforce.com/blog/agentic-ai-and-the-future-of-work-salesforce-practitioners/)**
+Technology is changing fast. Follow the work to see where your role goes next.
 <sub>Salesforce Blog · Sep 29</sub>
 
-**[Is Your Salesforce Doc Gen Solution Causing Technical Debt?](https://www.salesforceben.com/is-your-salesforce-doc-gen-solution-causing-technical-debt/)**
-Document generation is one of the oldest product categories on the AppExchange. Creating quotes, contracts, and invoices from Salesforce data remains one of the first use cases that goes into almost…
-<sub>Salesforce Ben · Sep 28</sub>
-
-**[What an Unforgettable Dreamforce 2026: Unleashing IT & HR Service Innovation](https://www.salesforce.com/blog/dreamforce-2026-it-hr-innovation/)**
-What an incredible week at Dreamforce 2026! Having the opportunity to connect with so many visionary leaders, innovators, and partners in person is always a highlight and honor, but this past week…
-<sub>Salesforce Blog · Sep 28</sub>
-
 ## Marketing Tech
+
+**[Stop building strategy around your martech stack](https://martech.org/stop-building-strategy-around-your-martech-stack/)**
+A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool.
+<sub>MarTech · Sep 30</sub>
 
 **[Braze expands AI from content creation to campaign operations](https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/)**
 New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude.
@@ -39,49 +43,44 @@ New tools give marketers easier access to AI decisioning, automate campaign chec
 
 ## Data Platforms
 
+**[OpenTelemetry as an Enterprise Data Asset | Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/opentelemetry-enterprise-data-asset)**
+Learn how to turn telemetry into a governed enterprise data asset. See how Observe by Snowflake and the Snowflake AI Data Cloud help teams connect operational signals with business context for…
+<sub>Snowflake Blog · Sep 29</sub>
+
 **[Announcing Claude Sonnet 5.5 on Snowflake Cortex AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-5-snowflake-cortex-ai)**
 Claude Sonnet 5.5 is coming to Cortex Inference in public preview, with Cortex AI Functions, Snowflake CoWork, Snowflake CoCo, and Cortex Agents coming soon.
 <sub>Snowflake Blog · Sep 28</sub>
 
-**[GPT-6 Sol and Luna on Snowflake Cortex AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-6-sol-luna-snowflake-cortex-ai)**
-GPT-6 Sol and Luna are now in public preview through Cortex AI Functions and Cortex Inference, and coming soon to Snowflake CoCo, Snowflake CoWork, and Cortex Agents.
-<sub>Snowflake Blog · Sep 28</sub>
-
-**[6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys](https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/)**
-From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline.
-<sub>MarTech · Sep 28</sub>
-
 ## AI
 
-**[Nvidia launches Open Agent Safety Platform to secure AI agents](https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents)**
-<sub>Constellation Research · Sep 28</sub>
+**[OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise?](https://www.constellationr.com/insights/news/openais-dev-day-features-dots-ultrafast-gpt-6-sol-can-it-woo-enterprise)**
+<sub>Constellation Research · Sep 29</sub>
+
+**[Multiplayer Agents: The Next Wave of Collaborative Agentic AI](https://www.salesforceben.com/multiplayer-agents-the-next-wave-of-collaborative-agentic-ai/)**
+First, there were AI chatbots. Then, we got AI assistants. Next, we saw the rise of the agentic enterprise. The latest trend is the emergence of multiplayer AI agents.
+<sub>Salesforce Ben · Sep 30</sub>
+
+**[CoreWeave launches CoreWeave Forge: Here's a look at the strategy](https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy)**
+<sub>Constellation Research · Sep 30</sub>
 
 **[MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA](https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga)**
 <sub>Constellation Research · Sep 29</sub>
 
-**[OpenAI apologizes to Australia after its AI agents breached government sites](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)**
-The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.
+**[OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)**
+OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep…
 <sub>TechCrunch AI · Sep 29</sub>
-
-**[Why AI Agents Need Context, Not Just Data | Semantics & Context Management ShortList](https://www.constellationr.com/video/shortlist-spotlights/why-ai-agents-need-context-not-just-data-semantics-context-management)**
-Ni’s research examines how enterprises operationalize AI, automate decision-making, and integrate data management and analytics into core business processes.
-<sub>Constellation Research · Sep 28</sub>
-
-**[Omnissa debuts AI agents for IT, a managed cloud PC service and Elara for AI governance](https://siliconangle.com/2026/09/29/omnissa-debuts-ai-agents-for-it-a-managed-cloud-pc-service-and-elara-for-ai-governance/)**
-Digital workspace company Omnissa LLC today unveiled new artificial intelligence agents for information technology teams and virtual desktop users, a managed cloud PC service and an AI governance…
-<sub>SiliconANGLE AI · Sep 29</sub>
 
 ## Also worth a click
 
-- [Autoheal raises $7.9M to evaluate and fix AI agents with… AI agents](https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/) — *SiliconANGLE AI*
-- [Salesforce’s Ultimate Moat: You Can’t Vibe Code Infrastructure](https://www.salesforceben.com/salesforces-ultimate-moat-you-cant-vibe-code-infrastructure/) — *Salesforce Ben*
-- [ServiceNow calls for a measured response to rogue AI agents](https://siliconangle.com/2026/09/28/servicenow-ties-agent-containment-business-context-oktane/) — *SiliconANGLE AI*
-- [Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model](https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/) — *SiliconANGLE AI*
-- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/) — *TechCrunch AI*
-- [AI agent identity security demands layered defenses, Omdia says](https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/) — *SiliconANGLE AI*
-- [Meta launches Meta Enterprise Platform led by CJ Desai](https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai) — *Constellation Research*
-- [Enterprise AI projects mature: What you need to know now](https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now) — *Constellation Research*
+- [Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate](https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/) — *Salesforce Ben*
+- [OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers](https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/) — *SiliconANGLE AI*
+- [The Tableau Knowledge Engine: How We Built Trustworthy Agentic Analytics](https://www.salesforce.com/blog/knowledge-engine-how-we-built-trustworthy-agentic-analytics/) — *Salesforce Blog*
+- [How one "boring" Salesforce use case became a game-changing agentic AI push for Adecco Group](https://diginomica.com/how-one-boring-salesforce-use-case-became-game-changing-agentic-ai-push-adecco-group) — *Diginomica*
+- [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/) — *TechCrunch AI*
+- [How to Tell if Your Salesforce App Is Really Native – And Why It Matters](https://www.salesforceben.com/how-to-tell-if-your-salesforce-app-is-really-native-and-why-it-matters/) — *Salesforce Ben*
+- [OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price](https://siliconangle.com/2026/09/29/openais-gpt-6-1-sol-delivers-astra-like-performance-at-a-dramatically-lower-price/) — *SiliconANGLE AI*
+- [Is AI Going to Kill Us? The Regulation Debate](https://www.salesforceben.com/is-ai-going-to-kill-us-the-regulation-debate/) — *Salesforce Ben*
 
 ---
 
-<sub>Every headline links to its original source. 2459 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2464 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
