@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-30T16:32:53.613Z",
+  "generatedAt": "2026-10-01T17:10:42.589Z",
   "stats": {
-    "considered": 2464,
-    "relevant": 95,
+    "considered": 2466,
+    "relevant": 87,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 580,
-    "minutes": 2.4166666666666665,
+    "words": 537,
+    "minutes": 2.2375,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise? — Constellation Research",
+    "How Capital One evaluates, governs its AI agents — Constellation Research",
     "Salesforce Acquires AI Customer Research Company Listen Labs — Salesforce Ben",
-    "Stop building strategy around your martech stack — MarTech",
-    "OpenTelemetry as an Enterprise Data Asset — Snowflake Blog"
+    "The latest AI-powered martech news and releases — MarTech",
+    "Adapt Dynamics 365 Commerce faster with AI-assisted extensibility — MS Dynamics 365 Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-30T09:45:04.000Z",
           "summary": "Salesforce has signed a definitive agreement to acquire AI customer research company Listen Labs for an undisclosed amount.",
-          "score": 104.5,
+          "score": 75.7,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-09-30T12:10:09.000Z",
           "summary": "There was once a time when Silicon Valley CEOs seemed determined to convince us that they were nothing like politicians.",
-          "score": 91.6,
+          "score": 67,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,16 @@
           "source": "MarTech",
           "date": "2026-09-30T14:13:40.000Z",
           "summary": "The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents.",
-          "score": 75.1,
+          "score": 55.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
+          "url": "https://www.salesforce.com/news/linked-content/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-09-30T17:00:06.000Z",
+          "summary": "",
+          "score": 47.1,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +66,31 @@
           "source": "Salesforce Newsroom",
           "date": "2026-09-29T20:00:00.000Z",
           "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform.",
-          "score": 55,
+          "score": 37.1,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "Adapt Dynamics 365 Commerce faster with AI-assisted extensibility",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/30/adapt-dynamics-365-commerce-faster-with-ai-assisted-extensibility/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-09-30T18:34:49.000Z",
+          "summary": "Dynamics 365 Commerce 10.0.49 introduces AI-powered extension skills that help developers translate business requirements into working commerce extensions faster.",
+          "score": 40.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Agentic AI and the Future of Work: What It Means for Salesforce Practitioners",
-          "url": "https://www.salesforce.com/blog/agentic-ai-and-the-future-of-work-salesforce-practitioners/",
-          "source": "Salesforce Blog",
-          "date": "2026-09-29T17:38:30.000Z",
-          "summary": "Technology is changing fast. Follow the work to see where your role goes next.",
-          "score": 37.7,
+          "title": "ServiceNow launches conversational interface to its service desk",
+          "url": "https://siliconangle.com/2026/10/01/servicenow-launches-conversational-interface-to-its-service-desk/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-01T13:00:45.000Z",
+          "summary": "ServiceNow Inc. is enhancing the artificial intelligence features in its service desk offering with Flow, a feature that handles employee requests via a natural language interface with extensive…",
+          "score": 29.3,
           "alsoCoveredBy": []
         }
       ]
@@ -76,45 +100,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-01T13:59:39.000Z",
+          "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years.",
+          "score": 55.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Stop building strategy around your martech stack",
           "url": "https://martech.org/stop-building-strategy-around-your-martech-stack/",
           "source": "MarTech",
           "date": "2026-09-30T12:07:00.000Z",
           "summary": "A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool.",
-          "score": 64.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Braze expands AI from content creation to campaign operations",
-          "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
-          "source": "MarTech",
-          "date": "2026-09-29T13:42:52.000Z",
-          "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude.",
-          "score": 47.4,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "data",
-      "label": "Data Platforms",
-      "items": [
-        {
-          "title": "OpenTelemetry as an Enterprise Data Asset | Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/opentelemetry-enterprise-data-asset",
-          "source": "Snowflake Blog",
-          "date": "2026-09-29T19:58:00.000Z",
-          "summary": "Learn how to turn telemetry into a governed enterprise data asset. See how Observe by Snowflake and the Snowflake AI Data Cloud help teams connect operational signals with business context for…",
-          "score": 32.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Announcing Claude Sonnet 5.5 on Snowflake Cortex AI",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-5-snowflake-cortex-ai",
-          "source": "Snowflake Blog",
-          "date": "2026-09-28T19:21:22.000Z",
-          "summary": "Claude Sonnet 5.5 is coming to Cortex Inference in public preview, with Cortex AI Functions, Snowflake CoWork, Snowflake CoCo, and Cortex Agents coming soon.",
-          "score": 28.6,
+          "score": 46.9,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +124,21 @@
       "label": "AI",
       "items": [
         {
-          "title": "OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise?",
-          "url": "https://www.constellationr.com/insights/news/openais-dev-day-features-dots-ultrafast-gpt-6-sol-can-it-woo-enterprise",
+          "title": "How Capital One evaluates, governs its AI agents",
+          "url": "https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents",
           "source": "Constellation Research",
-          "date": "2026-09-29T17:53:17.000Z",
+          "date": "2026-09-30T20:29:46.000Z",
           "summary": "",
-          "score": 110,
+          "score": 91.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Eli Lilly: Lessons from running an AI factory",
+          "url": "https://www.constellationr.com/insights/news/eli-lilly-lessons-running-ai-factory",
+          "source": "Constellation Research",
+          "date": "2026-10-01T15:52:49.000Z",
+          "summary": "",
+          "score": 76.9,
           "alsoCoveredBy": []
         },
         {
@@ -138,34 +147,25 @@
           "source": "Salesforce Ben",
           "date": "2026-09-30T12:00:36.000Z",
           "summary": "First, there were AI chatbots. Then, we got AI assistants. Next, we saw the rise of the agentic enterprise. The latest trend is the emergence of multiplayer AI agents.",
-          "score": 101.5,
+          "score": 74.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "CoreWeave launches CoreWeave Forge: Here's a look at the strategy",
-          "url": "https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy",
+          "title": "OpenAI's Dev Day features dots, Ultrafast, GPT-6 Sol, but can it woo the enterprise?",
+          "url": "https://www.constellationr.com/insights/news/openais-dev-day-features-dots-ultrafast-gpt-6-sol-can-it-woo-enterprise",
           "source": "Constellation Research",
-          "date": "2026-09-30T13:00:00.000Z",
+          "date": "2026-09-29T17:53:17.000Z",
           "summary": "",
-          "score": 85.5,
+          "score": 73.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA",
-          "url": "https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga",
-          "source": "Constellation Research",
-          "date": "2026-09-29T12:30:00.000Z",
-          "summary": "",
-          "score": 57.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-          "source": "TechCrunch AI",
-          "date": "2026-09-29T17:15:00.000Z",
-          "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep…",
-          "score": 55,
+          "title": "DigitalOcean wants to make AI agent pricing feel like the original Droplet - one price, start building",
+          "url": "https://diginomica.com/digitalocean-wants-make-ai-agent-pricing-feel-original-droplet-one-price-start-building",
+          "source": "Diginomica",
+          "date": "2026-10-01T12:15:30.000Z",
+          "summary": "DigitalOcean bundles compute, inference and tool access into $50 and $200 monthly agent subscriptions.",
+          "score": 38.2,
           "alsoCoveredBy": []
         }
       ]
@@ -173,24 +173,24 @@
   ],
   "quickLinks": [
     {
-      "title": "Agentforce Coworker: A Technical Deep Dive into Salesforce’s New AI Teammate",
-      "url": "https://www.salesforceben.com/agentforce-coworker-a-technical-deep-dive-into-salesforces-new-ai-teammate/",
-      "source": "Salesforce Ben"
+      "title": "Google launches Gemini 4 Argon",
+      "url": "https://www.constellationr.com/insights/news/google-launches-gemini-4-argon",
+      "source": "Constellation Research"
     },
     {
-      "title": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
-      "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
-      "source": "SiliconANGLE AI"
+      "title": "CoreWeave launches CoreWeave Forge: Here's a look at the strategy",
+      "url": "https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "ServiceNow launches Flow, targets first-time ITSM users",
+      "url": "https://www.constellationr.com/insights/news/servicenow-launches-flow-targets-first-time-itsm-users",
+      "source": "Constellation Research"
     },
     {
       "title": "The Tableau Knowledge Engine: How We Built Trustworthy Agentic Analytics",
       "url": "https://www.salesforce.com/blog/knowledge-engine-how-we-built-trustworthy-agentic-analytics/",
       "source": "Salesforce Blog"
-    },
-    {
-      "title": "How one \"boring\" Salesforce use case became a game-changing agentic AI push for Adecco Group",
-      "url": "https://diginomica.com/how-one-boring-salesforce-use-case-became-game-changing-agentic-ai-push-adecco-group",
-      "source": "Diginomica"
     },
     {
       "title": "DoorDash launches an AI agent you can text to order food",
@@ -203,14 +203,14 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price",
-      "url": "https://siliconangle.com/2026/09/29/openais-gpt-6-1-sol-delivers-astra-like-performance-at-a-dramatically-lower-price/",
+      "title": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
+      "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Is AI Going to Kill Us? The Regulation Debate",
-      "url": "https://www.salesforceben.com/is-ai-going-to-kill-us-the-regulation-debate/",
-      "source": "Salesforce Ben"
+      "title": "Caterpillar's AI autonomy efforts accelerate, but domain knowledge drives returns",
+      "url": "https://www.constellationr.com/insights/news/caterpillars-ai-autonomy-efforts-accelerate-domain-knowledge-drives-returns",
+      "source": "Constellation Research"
     }
   ]
 }
