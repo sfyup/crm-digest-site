@@ -1,15 +1,18 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Friday, October 2, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Saturday, October 3, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
+- Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On — Salesforce Newsroom
+- From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center — MS Dynamics 365 Blog
 - McDonald’s strategy bets on AI, digital capabilities — Constellation Research
-- Would Salesforce Careers Survive an AI Bubble Burst? — Salesforce Ben
 - The latest AI-powered martech news and releases — MarTech
-- Adapt Dynamics 365 Commerce faster with AI-assisted extensibility — MS Dynamics 365 Blog
 
 ## Salesforce
+
+**[Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On](https://www.salesforce.com/news/linked-content/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/)**
+<sub>Salesforce Newsroom · Oct 2</sub>
 
 **[Would Salesforce Careers Survive an AI Bubble Burst?](https://www.salesforceben.com/would-salesforce-careers-survive-an-ai-bubble-burst/)**
 Is anyone else getting a little fatigued by the narrative that AI could one day take everything from you – your earning power, your ability to do your job, maybe even your life?
@@ -23,18 +26,15 @@ Are you the admin of an org that has already been penetration-tested? If your an
 Winter ‘27 was an absolutely huge release, full of new features and improvements. I wrote extensively about some of the new features coming to Flow, and I encourage you to check out the full article…
 <sub>Salesforce Ben · Oct 2</sub>
 
-**[Salesforce buys AI customer research startup Listen Labs](https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/)**
-The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents.
-<sub>MarTech · Sep 30</sub>
-
-**[Salesforce has built the TSA a new AI agent to make travelling less awful for everyone](https://www.salesforce.com/news/linked-content/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone/)**
-<sub>Salesforce Newsroom · Sep 30</sub>
+**[Unpacking Dreamforce: Why Your AI Needs Trusted Context](https://www.salesforce.com/blog/why-your-ai-needs-trusted-context-data-360/)**
+Imagine asking an AI agent to prepare an offer for a loyal customer. It finds their purchase history, spots an opportunity, and recommends the next product. But it misses the service case they’ve…
+<sub>Salesforce Blog · Oct 2</sub>
 
 ## CRM Platforms
 
-**[Adapt Dynamics 365 Commerce faster with AI-assisted extensibility](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/30/adapt-dynamics-365-commerce-faster-with-ai-assisted-extensibility/)**
-Dynamics 365 Commerce 10.0.49 introduces AI-powered extension skills that help developers translate business requirements into working commerce extensions faster.
-<sub>MS Dynamics 365 Blog · Sep 30</sub>
+**[From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/02/real-time-streaming-analytics-in-dynamics-365-contact-cente/)**
+What if supervisors could act on operational issues before customers feel the impact? New real-time streaming analytics in Dynamics 365 Contact Center provide live insights into queues,…
+<sub>MS Dynamics 365 Blog · Oct 2</sub>
 
 ## Marketing Tech
 
@@ -46,40 +46,42 @@ Payments, identity, authorization, infrastructure, and trust could keep autonomo
 New CMO Council and Martech Tribe research argues that buying best-of-breed technology does not guarantee better results.
 <sub>Diginomica · Oct 2</sub>
 
-**[Stop building strategy around your martech stack](https://martech.org/stop-building-strategy-around-your-martech-stack/)**
-A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool.
-<sub>MarTech · Sep 30</sub>
+## Data Platforms
+
+**[Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks](https://www.databricks.com/blog/real-time-retail-intelligence-building-e-commerce-recommendations-lakebase-and-ai-search)**
+The opportunity: Personalization as a revenue engineEvery second a shopper spends...
+<sub>Databricks Blog · Oct 2</sub>
 
 ## AI
 
 **[McDonald’s strategy bets on AI, digital capabilities](https://www.constellationr.com/insights/news/mcdonalds-strategy-bets-ai-digital-capabilities)**
 <sub>Constellation Research · Oct 2</sub>
 
-**[How Capital One evaluates, governs its AI agents](https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents)**
-<sub>Constellation Research · Sep 30</sub>
+**[NetApp hands storage operations to AI agents, but humans still draw the boundaries](https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/)**
+Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the…
+<sub>SiliconANGLE AI · Oct 2</sub>
 
 **[Eli Lilly: Lessons from running an AI factory](https://www.constellationr.com/insights/news/eli-lilly-lessons-running-ai-factory)**
 <sub>Constellation Research · Oct 1</sub>
 
-**[MACH X - now the checkout is on social media - what agentic commerce means for brands](https://diginomica.com/mach-x-checkout-social-media-what-agentic-commerce-means-brands)**
-At MACH X, JD Sports Fashion outlines how replacing a monolithic, homegrown e-commerce system with a MACH-compliant composable platform has positioned it for sweeping changes in how people shop with…
-<sub>Diginomica · Oct 2</sub>
+**[All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/)**
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+<sub>TechCrunch AI · Oct 3</sub>
 
-**[Always-on AI agents turn infrastructure into a continuous learning loop](https://siliconangle.com/2026/10/01/cognition-scales-ai-agent-infrastructure-coreweave-fullyconnected/)**
-AI agent infrastructure is evolving to support systems that move continuously among inference, feedback and training.
-<sub>SiliconANGLE AI · Oct 1</sub>
+**[How Capital One evaluates, governs its AI agents](https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents)**
+<sub>Constellation Research · Sep 30</sub>
 
 ## Also worth a click
 
+- [CoreWeave'e AI Cloud: From Infrastructure to the AI Loop](https://www.constellationr.com/video/coreweavee-ai-cloud-infrastructure-ai-loop) — *Constellation Research*
 - [Google launches Gemini 4 Argon](https://www.constellationr.com/insights/news/google-launches-gemini-4-argon) — *Constellation Research*
-- [Salesforce Acquires AI Customer Research Company Listen Labs](https://www.salesforceben.com/salesforce-acquires-ai-customer-research-company-listen-labs/) — *Salesforce Ben*
-- [Multiplayer Agents: The Next Wave of Collaborative Agentic AI](https://www.salesforceben.com/multiplayer-agents-the-next-wave-of-collaborative-agentic-ai/) — *Salesforce Ben*
-- [Marc Benioff’s Suit and the Dawn of Salesforce Bureaucracy](https://www.salesforceben.com/marc-benioffs-suit-and-the-dawn-of-salesforce-bureaucracy/) — *Salesforce Ben*
-- [CoreWeave launches CoreWeave Forge: Here's a look at the strategy](https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy) — *Constellation Research*
+- [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — *TechCrunch AI*
+- [MACH X - now the checkout is on social media - what agentic commerce means for brands](https://diginomica.com/mach-x-checkout-social-media-what-agentic-commerce-means-brands) — *Diginomica*
 - [ServiceNow launches Flow, targets first-time ITSM users](https://www.constellationr.com/insights/news/servicenow-launches-flow-targets-first-time-itsm-users) — *Constellation Research*
+- [Always-on AI agents turn infrastructure into a continuous learning loop](https://siliconangle.com/2026/10/01/cognition-scales-ai-agent-infrastructure-coreweave-fullyconnected/) — *SiliconANGLE AI*
 - [Accenture's Q4 results indicate enterprise AI broadening](https://www.constellationr.com/insights/news/accentures-q4-results-indicate-enterprise-ai-broadening) — *Constellation Research*
 - [Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI’s ‘existential risks’](https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2470 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2472 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>

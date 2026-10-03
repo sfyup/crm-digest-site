@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-02T16:24:26.376Z",
+  "generatedAt": "2026-10-03T14:58:57.562Z",
   "stats": {
-    "considered": 2470,
-    "relevant": 84,
+    "considered": 2472,
+    "relevant": 63,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 550,
-    "minutes": 2.2916666666666665,
+    "words": 592,
+    "minutes": 2.466666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On — Salesforce Newsroom",
+    "From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center — MS Dynamics 365 Blog",
     "McDonald’s strategy bets on AI, digital capabilities — Constellation Research",
-    "Would Salesforce Careers Survive an AI Bubble Burst? — Salesforce Ben",
-    "The latest AI-powered martech news and releases — MarTech",
-    "Adapt Dynamics 365 Commerce faster with AI-assisted extensibility — MS Dynamics 365 Blog"
+    "The latest AI-powered martech news and releases — MarTech"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On",
+          "url": "https://www.salesforce.com/news/linked-content/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-02T17:00:58.000Z",
+          "summary": "",
+          "score": 68,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Would Salesforce Careers Survive an AI Bubble Burst?",
           "url": "https://www.salesforceben.com/would-salesforce-careers-survive-an-ai-bubble-burst/",
           "source": "Salesforce Ben",
           "date": "2026-10-02T14:30:43.000Z",
           "summary": "Is anyone else getting a little fatigued by the narrative that AI could one day take everything from you – your earning power, your ability to do your job, maybe even your life?",
-          "score": 66.2,
+          "score": 50.3,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-02T11:59:47.000Z",
           "summary": "Are you the admin of an org that has already been penetration-tested? If your answer is yes, then that’s all good!",
-          "score": 64.4,
+          "score": 48.5,
           "alsoCoveredBy": []
         },
         {
@@ -48,25 +57,16 @@
           "source": "Salesforce Ben",
           "date": "2026-10-02T14:11:21.000Z",
           "summary": "Winter ‘27 was an absolutely huge release, full of new features and improvements. I wrote extensively about some of the new features coming to Flow, and I encourage you to check out the full article…",
-          "score": 63,
+          "score": 47.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce buys AI customer research startup Listen Labs",
-          "url": "https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/",
-          "source": "MarTech",
-          "date": "2026-09-30T14:13:40.000Z",
-          "summary": "The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents.",
-          "score": 36.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
-          "url": "https://www.salesforce.com/news/linked-content/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-09-30T17:00:06.000Z",
-          "summary": "",
-          "score": 31.9,
+          "title": "Unpacking Dreamforce: Why Your AI Needs Trusted Context",
+          "url": "https://www.salesforce.com/blog/why-your-ai-needs-trusted-context-data-360/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-02T20:08:36.000Z",
+          "summary": "Imagine asking an AI agent to prepare an offer for a loyal customer. It finds their purchase history, spots an opportunity, and recommends the next product. But it misses the service case they’ve…",
+          "score": 27.4,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,12 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Adapt Dynamics 365 Commerce faster with AI-assisted extensibility",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/30/adapt-dynamics-365-commerce-faster-with-ai-assisted-extensibility/",
+          "title": "From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/02/real-time-streaming-analytics-in-dynamics-365-contact-cente/",
           "source": "MS Dynamics 365 Blog",
-          "date": "2026-09-30T18:34:49.000Z",
-          "summary": "Dynamics 365 Commerce 10.0.49 introduces AI-powered extension skills that help developers translate business requirements into working commerce extensions faster.",
-          "score": 27.6,
+          "date": "2026-10-02T15:21:54.000Z",
+          "summary": "What if supervisors could act on operational issues before customers feel the impact? New real-time streaming analytics in Dynamics 365 Contact Center provide live insights into queues,…",
+          "score": 59.7,
           "alsoCoveredBy": []
         }
       ]
@@ -96,7 +96,7 @@
           "source": "MarTech",
           "date": "2026-10-01T13:59:39.000Z",
           "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years.",
-          "score": 41.6,
+          "score": 28.1,
           "alsoCoveredBy": []
         },
         {
@@ -105,16 +105,22 @@
           "source": "Diginomica",
           "date": "2026-10-02T07:35:01.000Z",
           "summary": "New CMO Council and Martech Tribe research argues that buying best-of-breed technology does not guarantee better results.",
-          "score": 33.1,
+          "score": 24.5,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "data",
+      "label": "Data Platforms",
+      "items": [
         {
-          "title": "Stop building strategy around your martech stack",
-          "url": "https://martech.org/stop-building-strategy-around-your-martech-stack/",
-          "source": "MarTech",
-          "date": "2026-09-30T12:07:00.000Z",
-          "summary": "A bloated martech stack can create more noise than capability. Identify the gaps worth solving before buying another tool.",
-          "score": 30.6,
+          "title": "Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks",
+          "url": "https://www.databricks.com/blog/real-time-retail-intelligence-building-e-commerce-recommendations-lakebase-and-ai-search",
+          "source": "Databricks Blog",
+          "date": "2026-10-02T11:00:00.000Z",
+          "summary": "The opportunity: Personalization as a revenue engineEvery second a shopper spends...",
+          "score": 19.1,
           "alsoCoveredBy": []
         }
       ]
@@ -129,16 +135,16 @@
           "source": "Constellation Research",
           "date": "2026-10-02T10:00:00.000Z",
           "summary": "",
-          "score": 75,
+          "score": 56.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "How Capital One evaluates, governs its AI agents",
-          "url": "https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents",
-          "source": "Constellation Research",
-          "date": "2026-09-30T20:29:46.000Z",
-          "summary": "",
-          "score": 63.2,
+          "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
+          "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-02T20:27:48.000Z",
+          "summary": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the…",
+          "score": 40,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +153,25 @@
           "source": "Constellation Research",
           "date": "2026-10-01T15:52:49.000Z",
           "summary": "",
-          "score": 58.1,
+          "score": 39.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "MACH X - now the checkout is on social media - what agentic commerce means for brands",
-          "url": "https://diginomica.com/mach-x-checkout-social-media-what-agentic-commerce-means-brands",
-          "source": "Diginomica",
-          "date": "2026-10-02T14:23:04.000Z",
-          "summary": "At MACH X, JD Sports Fashion outlines how replacing a monolithic, homegrown e-commerce system with a MACH-compliant composable platform has positioned it for sweeping changes in how people shop with…",
-          "score": 35.6,
+          "title": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-03T14:00:00.000Z",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "score": 37,
           "alsoCoveredBy": []
         },
         {
-          "title": "Always-on AI agents turn infrastructure into a continuous learning loop",
-          "url": "https://siliconangle.com/2026/10/01/cognition-scales-ai-agent-infrastructure-coreweave-fullyconnected/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-01T19:12:01.000Z",
-          "summary": "AI agent infrastructure is evolving to support systems that move continuously among inference, feedback and training.",
-          "score": 35.1,
+          "title": "How Capital One evaluates, governs its AI agents",
+          "url": "https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents",
+          "source": "Constellation Research",
+          "date": "2026-09-30T20:29:46.000Z",
+          "summary": "",
+          "score": 35.8,
           "alsoCoveredBy": []
         }
       ]
@@ -173,34 +179,34 @@
   ],
   "quickLinks": [
     {
+      "title": "CoreWeave'e AI Cloud: From Infrastructure to the AI Loop",
+      "url": "https://www.constellationr.com/video/coreweavee-ai-cloud-infrastructure-ai-loop",
+      "source": "Constellation Research"
+    },
+    {
       "title": "Google launches Gemini 4 Argon",
       "url": "https://www.constellationr.com/insights/news/google-launches-gemini-4-argon",
       "source": "Constellation Research"
     },
     {
-      "title": "Salesforce Acquires AI Customer Research Company Listen Labs",
-      "url": "https://www.salesforceben.com/salesforce-acquires-ai-customer-research-company-listen-labs/",
-      "source": "Salesforce Ben"
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Multiplayer Agents: The Next Wave of Collaborative Agentic AI",
-      "url": "https://www.salesforceben.com/multiplayer-agents-the-next-wave-of-collaborative-agentic-ai/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Marc Benioff’s Suit and the Dawn of Salesforce Bureaucracy",
-      "url": "https://www.salesforceben.com/marc-benioffs-suit-and-the-dawn-of-salesforce-bureaucracy/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "CoreWeave launches CoreWeave Forge: Here's a look at the strategy",
-      "url": "https://www.constellationr.com/insights/news/coreweave-launches-coreweave-forge-heres-look-strategy",
-      "source": "Constellation Research"
+      "title": "MACH X - now the checkout is on social media - what agentic commerce means for brands",
+      "url": "https://diginomica.com/mach-x-checkout-social-media-what-agentic-commerce-means-brands",
+      "source": "Diginomica"
     },
     {
       "title": "ServiceNow launches Flow, targets first-time ITSM users",
       "url": "https://www.constellationr.com/insights/news/servicenow-launches-flow-targets-first-time-itsm-users",
       "source": "Constellation Research"
+    },
+    {
+      "title": "Always-on AI agents turn infrastructure into a continuous learning loop",
+      "url": "https://siliconangle.com/2026/10/01/cognition-scales-ai-agent-infrastructure-coreweave-fullyconnected/",
+      "source": "SiliconANGLE AI"
     },
     {
       "title": "Accenture's Q4 results indicate enterprise AI broadening",
