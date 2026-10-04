@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-03T14:58:57.562Z",
+  "generatedAt": "2026-10-04T15:32:51.294Z",
   "stats": {
-    "considered": 2472,
-    "relevant": 63,
-    "featured": 14,
+    "considered": 2463,
+    "relevant": 40,
+    "featured": 12,
     "quickLinks": 8,
-    "sourcesOk": 21,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 592,
-    "minutes": 2.466666666666667,
+    "words": 546,
+    "minutes": 2.275,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "The great enterprise AI rewrite is starting — Constellation Research",
     "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On — Salesforce Newsroom",
-    "From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center — MS Dynamics 365 Blog",
-    "McDonald’s strategy bets on AI, digital capabilities — Constellation Research",
-    "The latest AI-powered martech news and releases — MarTech"
+    "Why CMOs should stop chasing best-of-breed Martech and start buying best-aligned — Diginomica",
+    "Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks — Databricks Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-02T17:00:58.000Z",
           "summary": "",
-          "score": 68,
+          "score": 45.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-02T14:30:43.000Z",
           "summary": "Is anyone else getting a little fatigued by the narrative that AI could one day take everything from you – your earning power, your ability to do your job, maybe even your life?",
-          "score": 50.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Red Team Agent: Native Penetration Testing Is Coming",
-          "url": "https://www.salesforceben.com/salesforce-red-team-agent-native-penetration-testing-is-coming/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-02T11:59:47.000Z",
-          "summary": "Are you the admin of an org that has already been penetration-tested? If your answer is yes, then that’s all good!",
-          "score": 48.5,
+          "score": 33,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +48,16 @@
           "source": "Salesforce Ben",
           "date": "2026-10-02T14:11:21.000Z",
           "summary": "Winter ‘27 was an absolutely huge release, full of new features and improvements. I wrote extensively about some of the new features coming to Flow, and I encourage you to check out the full article…",
-          "score": 47.8,
+          "score": 31.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Red Team Agent: Native Penetration Testing Is Coming",
+          "url": "https://www.salesforceben.com/salesforce-red-team-agent-native-penetration-testing-is-coming/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-02T11:59:47.000Z",
+          "summary": "Are you the admin of an org that has already been penetration-tested? If your answer is yes, then that’s all good!",
+          "score": 31.3,
           "alsoCoveredBy": []
         },
         {
@@ -66,22 +66,7 @@
           "source": "Salesforce Blog",
           "date": "2026-10-02T20:08:36.000Z",
           "summary": "Imagine asking an AI agent to prepare an offer for a loyal customer. It finds their purchase history, spots an opportunity, and recommends the next product. But it misses the service case they’ve…",
-          "score": 27.4,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/02/real-time-streaming-analytics-in-dynamics-365-contact-cente/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-10-02T15:21:54.000Z",
-          "summary": "What if supervisors could act on operational issues before customers feel the impact? New real-time streaming analytics in Dynamics 365 Contact Center provide live insights into queues,…",
-          "score": 59.7,
+          "score": 18.7,
           "alsoCoveredBy": []
         }
       ]
@@ -91,21 +76,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-10-01T13:59:39.000Z",
-          "summary": "Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years.",
-          "score": 28.1,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "Why CMOs should stop chasing best-of-breed Martech and start buying best-aligned",
           "url": "https://diginomica.com/why-cmos-should-stop-chasing-best-breed-martech-and-start-buying-best-aligned",
           "source": "Diginomica",
           "date": "2026-10-02T07:35:01.000Z",
           "summary": "New CMO Council and Martech Tribe research argues that buying best-of-breed technology does not guarantee better results.",
-          "score": 24.5,
+          "score": 15.2,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +96,7 @@
           "source": "Databricks Blog",
           "date": "2026-10-02T11:00:00.000Z",
           "summary": "The opportunity: Personalization as a revenue engineEvery second a shopper spends...",
-          "score": 19.1,
+          "score": 12.2,
           "alsoCoveredBy": []
         }
       ]
@@ -130,30 +106,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "The great enterprise AI rewrite is starting",
+          "url": "https://www.constellationr.com/insights/news/great-enterprise-ai-rewrite-starting",
+          "source": "Constellation Research",
+          "date": "2026-10-04T10:00:00.000Z",
+          "summary": "",
+          "score": 59.9,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "McDonald’s strategy bets on AI, digital capabilities",
           "url": "https://www.constellationr.com/insights/news/mcdonalds-strategy-bets-ai-digital-capabilities",
           "source": "Constellation Research",
           "date": "2026-10-02T10:00:00.000Z",
           "summary": "",
-          "score": 56.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
-          "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-02T20:27:48.000Z",
-          "summary": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the…",
-          "score": 40,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Eli Lilly: Lessons from running an AI factory",
-          "url": "https://www.constellationr.com/insights/news/eli-lilly-lessons-running-ai-factory",
-          "source": "Constellation Research",
-          "date": "2026-10-01T15:52:49.000Z",
-          "summary": "",
-          "score": 39.7,
+          "score": 35.6,
           "alsoCoveredBy": []
         },
         {
@@ -162,16 +129,25 @@
           "source": "TechCrunch AI",
           "date": "2026-10-03T14:00:00.000Z",
           "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "score": 37,
+          "score": 27.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "How Capital One evaluates, governs its AI agents",
-          "url": "https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents",
+          "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
+          "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-02T20:27:48.000Z",
+          "summary": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the…",
+          "score": 27.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Executive Exchange - Agentic AI Best Practices - London",
+          "url": "https://www.constellationr.com/event/2026/executive-exchange-agentic-ai-best-practices-london",
           "source": "Constellation Research",
-          "date": "2026-09-30T20:29:46.000Z",
-          "summary": "",
-          "score": 35.8,
+          "date": "2026-10-03T04:35:39.000Z",
+          "summary": "With over 85% of the Fortune 500 growing in just single digits, AI presents not only an incredible opportunity for bottom line savings, but also a game changing opening for top line growth.",
+          "score": 22.4,
           "alsoCoveredBy": []
         }
       ]
@@ -184,8 +160,8 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Google launches Gemini 4 Argon",
-      "url": "https://www.constellationr.com/insights/news/google-launches-gemini-4-argon",
+      "title": "Eli Lilly: Lessons from running an AI factory",
+      "url": "https://www.constellationr.com/insights/news/eli-lilly-lessons-running-ai-factory",
       "source": "Constellation Research"
     },
     {
@@ -199,13 +175,13 @@
       "source": "Diginomica"
     },
     {
-      "title": "ServiceNow launches Flow, targets first-time ITSM users",
-      "url": "https://www.constellationr.com/insights/news/servicenow-launches-flow-targets-first-time-itsm-users",
-      "source": "Constellation Research"
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Always-on AI agents turn infrastructure into a continuous learning loop",
-      "url": "https://siliconangle.com/2026/10/01/cognition-scales-ai-agent-infrastructure-coreweave-fullyconnected/",
+      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
       "source": "SiliconANGLE AI"
     },
     {
@@ -214,9 +190,9 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI’s ‘existential risks’",
-      "url": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/",
-      "source": "SiliconANGLE AI"
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News"
     }
   ]
 }
