@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-04T15:32:51.294Z",
+  "generatedAt": "2026-10-06T16:58:58.400Z",
   "stats": {
-    "considered": 2463,
-    "relevant": 40,
-    "featured": 12,
+    "considered": 2466,
+    "relevant": 50,
+    "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 546,
-    "minutes": 2.275,
+    "words": 644,
+    "minutes": 2.683333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "The great enterprise AI rewrite is starting — Constellation Research",
-    "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On — Salesforce Newsroom",
-    "Why CMOs should stop chasing best-of-breed Martech and start buying best-aligned — Diginomica",
-    "Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks — Databricks Blog"
+    "SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf — Constellation Research",
+    "‘How Do We Even Start?’: The Agentforce Question That Dominated Dreamforce — Salesforce Ben",
+    "Hackers Threaten to Leak ASOS Snowflake Instance — Salesforce Ben",
+    "AI Doesn't Just Need More Data. It Needs Business Context. — Constellation Research"
   ],
   "sections": [
     {
@@ -25,63 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On",
-          "url": "https://www.salesforce.com/news/linked-content/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-02T17:00:58.000Z",
-          "summary": "",
-          "score": 45.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Would Salesforce Careers Survive an AI Bubble Burst?",
-          "url": "https://www.salesforceben.com/would-salesforce-careers-survive-an-ai-bubble-burst/",
+          "title": "‘How Do We Even Start?’: The Agentforce Question That Dominated Dreamforce",
+          "url": "https://www.salesforceben.com/how-do-we-even-start-the-agentforce-question-that-dominated-dreamforce/",
           "source": "Salesforce Ben",
-          "date": "2026-10-02T14:30:43.000Z",
-          "summary": "Is anyone else getting a little fatigued by the narrative that AI could one day take everything from you – your earning power, your ability to do your job, maybe even your life?",
-          "score": 33,
+          "date": "2026-10-05T12:35:56.000Z",
+          "summary": "Within the tech space, and by extension, the AI space, there are so many gaps acting as the proverbial potholes in the road to success. The AI skills gap. The AI ethics gap.",
+          "score": 79.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Winter ‘27 Release: Trigger Salesforce Flows With Multiple Records",
-          "url": "https://www.salesforceben.com/winter-27-release-trigger-salesforce-flows-with-multiple-records/",
+          "title": "Salesforce Winter ’27 Is Live: 10 Features to Share With Your Users",
+          "url": "https://www.salesforceben.com/salesforce-winter-27-is-live-10-features-to-share-with-your-users/",
           "source": "Salesforce Ben",
-          "date": "2026-10-02T14:11:21.000Z",
-          "summary": "Winter ‘27 was an absolutely huge release, full of new features and improvements. I wrote extensively about some of the new features coming to Flow, and I encourage you to check out the full article…",
-          "score": 31.3,
+          "date": "2026-10-05T10:26:03.000Z",
+          "summary": "Salesforce’s Winter ’27 release is now live, so most orgs have made it through their deployment weekends, and your users are already starting to see some of the changes.",
+          "score": 56.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Red Team Agent: Native Penetration Testing Is Coming",
-          "url": "https://www.salesforceben.com/salesforce-red-team-agent-native-penetration-testing-is-coming/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-02T11:59:47.000Z",
-          "summary": "Are you the admin of an org that has already been penetration-tested? If your answer is yes, then that’s all good!",
-          "score": 31.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Unpacking Dreamforce: Why Your AI Needs Trusted Context",
-          "url": "https://www.salesforce.com/blog/why-your-ai-needs-trusted-context-data-360/",
+          "title": "Building Your Slack-First Communication Policy: A Guide for Growing Teams",
+          "url": "https://www.salesforce.com/blog/small-business/slack-first-communication-policy/",
           "source": "Salesforce Blog",
-          "date": "2026-10-02T20:08:36.000Z",
-          "summary": "Imagine asking an AI agent to prepare an offer for a loyal customer. It finds their purchase history, spots an opportunity, and recommends the next product. But it misses the service case they’ve…",
-          "score": 18.7,
+          "date": "2026-10-06T13:00:00.000Z",
+          "summary": "Communication with Slack gives your growing team alignment, so they can move faster, and actually enjoy working together.",
+          "score": 14.8,
           "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "martech",
-      "label": "Marketing Tech",
-      "items": [
+        },
         {
-          "title": "Why CMOs should stop chasing best-of-breed Martech and start buying best-aligned",
-          "url": "https://diginomica.com/why-cmos-should-stop-chasing-best-breed-martech-and-start-buying-best-aligned",
-          "source": "Diginomica",
-          "date": "2026-10-02T07:35:01.000Z",
-          "summary": "New CMO Council and Martech Tribe research argues that buying best-of-breed technology does not guarantee better results.",
-          "score": 15.2,
+          "title": "Trustworthy, Explainable, and Accountable: How to Give AI Autonomy Without Letting It Run Wild",
+          "url": "https://www.salesforce.com/news/stories/giving-ai-autonomy-without-running-wild/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-06T15:00:00.000Z",
+          "summary": "Salesforce Principal Architect of Ethical AI Practice Kathy Baxter explains how pairing a probabilistic model with deterministic logic gives agents the ability to take action — without giving up the…",
+          "score": 11.5,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +67,48 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks",
-          "url": "https://www.databricks.com/blog/real-time-retail-intelligence-building-e-commerce-recommendations-lakebase-and-ai-search",
+          "title": "Hackers Threaten to Leak ASOS Snowflake Instance",
+          "url": "https://www.salesforceben.com/hackers-threaten-to-leak-asos-snowflake-instance/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-06T15:50:46.000Z",
+          "summary": "Hackers are threatening to leak ASOS’s Snowflake instance if the online fashion retailer does not engage with them.",
+          "score": 75.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Scaling and Operating a Large dbt Project on Databricks: IFCO's Data Team on Performance, Visibility, and Debugging",
+          "url": "https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging",
           "source": "Databricks Blog",
-          "date": "2026-10-02T11:00:00.000Z",
-          "summary": "The opportunity: Personalization as a revenue engineEvery second a shopper spends...",
-          "score": 12.2,
+          "date": "2026-10-06T16:00:00.000Z",
+          "summary": "AbstractIFCO runs one of the world's largest reusable packaging pools with hundreds of millions of crates and pallets...",
+          "score": 35.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AI Gateway for Advertising: Governed AI Agents | Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-in-advertising",
+          "source": "Snowflake Blog",
+          "date": "2026-10-05T15:00:00.000Z",
+          "summary": "AI Gateway for Advertising (preview) brings governed MCP integrations for Meta and TikTok to Cortex Agents — combining enterprise data with live platform signals.",
+          "score": 32.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Meta’s ads MCP server comes to Databricks: Put your customer intelligence to work in advertising campaigns",
+          "url": "https://www.databricks.com/blog/meta-ads-mcp-databricks",
+          "source": "Databricks Blog",
+          "date": "2026-10-06T12:45:00.000Z",
+          "summary": "Here’s a familiar scenario for enterprise advertisers: the data team has done real...",
+          "score": 22.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How Genie Ontology powers product development at Databricks",
+          "url": "https://www.databricks.com/blog/how-genie-ontology-powers-product-development-databricks",
+          "source": "Databricks Blog",
+          "date": "2026-10-05T15:07:02.000Z",
+          "summary": "General-purpose AI agents are good at searching the web, reasoning, and writing code....",
+          "score": 22.6,
           "alsoCoveredBy": []
         }
       ]
@@ -106,48 +118,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "The great enterprise AI rewrite is starting",
-          "url": "https://www.constellationr.com/insights/news/great-enterprise-ai-rewrite-starting",
+          "title": "SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf",
+          "url": "https://www.constellationr.com/insights/news/sap-highlights-its-autonomous-enterprise-joule-agent-vision-acquires-techwolf",
           "source": "Constellation Research",
-          "date": "2026-10-04T10:00:00.000Z",
+          "date": "2026-10-06T11:30:00.000Z",
           "summary": "",
-          "score": 59.9,
+          "score": 87.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "McDonald’s strategy bets on AI, digital capabilities",
-          "url": "https://www.constellationr.com/insights/news/mcdonalds-strategy-bets-ai-digital-capabilities",
+          "title": "AI Doesn't Just Need More Data. It Needs Business Context.",
+          "url": "https://www.constellationr.com/research/blog/ai-doesnt-just-need-more-data-it-needs-business-context",
           "source": "Constellation Research",
-          "date": "2026-10-02T10:00:00.000Z",
+          "date": "2026-10-06T03:02:31.000Z",
+          "summary": "It Needs Business Context. Michael Ni Mon, 5 Oct 2026 - 20:02 Michael Ni Vice President and Principal Analyst Constellation Research Michael Ni is Vice President and Principal Analyst at…",
+          "score": 61.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "CarMax aims to advance AI and bridge digital and store experiences",
+          "url": "https://www.constellationr.com/insights/news/carmax-aims-advance-ai-and-bridge-digital-and-store-experiences",
+          "source": "Constellation Research",
+          "date": "2026-10-05T10:00:00.000Z",
           "summary": "",
-          "score": 35.6,
+          "score": 58.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "All the AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-03T14:00:00.000Z",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "score": 27.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
-          "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
+          "title": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M",
+          "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
           "source": "SiliconANGLE AI",
-          "date": "2026-10-02T20:27:48.000Z",
-          "summary": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the…",
-          "score": 27.3,
+          "date": "2026-10-06T00:43:54.000Z",
+          "summary": "Artificial intelligence hardware startup Ghost AI said today it has raised $11 million in funding to build what it believes is the first personal computer that’s dedicated to running personal AI…",
+          "score": 40.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Executive Exchange - Agentic AI Best Practices - London",
-          "url": "https://www.constellationr.com/event/2026/executive-exchange-agentic-ai-best-practices-london",
-          "source": "Constellation Research",
-          "date": "2026-10-03T04:35:39.000Z",
-          "summary": "With over 85% of the Fortune 500 growing in just single digits, AI presents not only an incredible opportunity for bottom line savings, but also a game changing opening for top line growth.",
-          "score": 22.4,
+          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-06T16:00:00.000Z",
+          "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+          "score": 35.9,
           "alsoCoveredBy": []
         }
       ]
@@ -155,44 +167,44 @@
   ],
   "quickLinks": [
     {
-      "title": "CoreWeave'e AI Cloud: From Infrastructure to the AI Loop",
-      "url": "https://www.constellationr.com/video/coreweavee-ai-cloud-infrastructure-ai-loop",
-      "source": "Constellation Research"
+      "title": "Why AI Fluency Could Soon Outrank Your Salesforce Certifications",
+      "url": "https://www.salesforceben.com/why-ai-fluency-could-soon-outrank-your-salesforce-certifications/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "Eli Lilly: Lessons from running an AI factory",
-      "url": "https://www.constellationr.com/insights/news/eli-lilly-lessons-running-ai-factory",
-      "source": "Constellation Research"
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "MACH X - now the checkout is on social media - what agentic commerce means for brands",
-      "url": "https://diginomica.com/mach-x-checkout-social-media-what-agentic-commerce-means-brands",
-      "source": "Diginomica"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
-      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+      "title": "SAP expands Joule into an agentic work layer as Autonomous Enterprise goes live",
+      "url": "https://siliconangle.com/2026/10/06/sap-expands-joule-into-an-agentic-work-layer-as-autonomous-enterprise-goes-live/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Accenture's Q4 results indicate enterprise AI broadening",
-      "url": "https://www.constellationr.com/insights/news/accentures-q4-results-indicate-enterprise-ai-broadening",
+      "title": "Is a Salesforce Career Gap Career Suicide?",
+      "url": "https://www.salesforceben.com/is-a-salesforce-career-gap-career-suicide/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "How Citizens Bank is investing in the agentic revolution for its third century",
+      "url": "https://diginomica.com/how-citizens-bank-investing-agentic-revolution-its-third-century",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Schneider Electric buys PTC for $22.6 billion as it eyes industrial AI, energy data flywheel",
+      "url": "https://www.constellationr.com/insights/news/schneider-electric-buys-ptc-226-billion-it-eyes-industrial-ai-energy-data-flywheel",
       "source": "Constellation Research"
     },
     {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News"
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Exclusive: Iterate.ai’s Lifeboat runs up to six times more AI agent sessions per GPU",
+      "url": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
