@@ -1,37 +1,43 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Tuesday, October 6, 2026 · 2–3 min read · 14 stories from 20 sources*
+*Wednesday, October 7, 2026 · 2–3 min read · 14 stories from 20 sources*
 
 ## The 60-second version
 
-- SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf — Constellation Research
-- ‘How Do We Even Start?’: The Agentforce Question That Dominated Dreamforce — Salesforce Ben
-- Hackers Threaten to Leak ASOS Snowflake Instance — Salesforce Ben
-- AI Doesn't Just Need More Data. It Needs Business Context. — Constellation Research
+- Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business — Constellation Research
+- Classic marketing automation is dead: What’s next? — MarTech
+- Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization — Databricks Blog
+- A Seller Pain Point, Small Squad, and a Solution That Shipped in Weeks — Salesforce Blog
 
 ## Salesforce
 
-**[‘How Do We Even Start?’: The Agentforce Question That Dominated Dreamforce](https://www.salesforceben.com/how-do-we-even-start-the-agentforce-question-that-dominated-dreamforce/)**
-Within the tech space, and by extension, the AI space, there are so many gaps acting as the proverbial potholes in the road to success. The AI skills gap. The AI ethics gap.
-<sub>Salesforce Ben · Oct 5</sub>
-
-**[Salesforce Winter ’27 Is Live: 10 Features to Share With Your Users](https://www.salesforceben.com/salesforce-winter-27-is-live-10-features-to-share-with-your-users/)**
-Salesforce’s Winter ’27 release is now live, so most orgs have made it through their deployment weekends, and your users are already starting to see some of the changes.
-<sub>Salesforce Ben · Oct 5</sub>
-
-**[Building Your Slack-First Communication Policy: A Guide for Growing Teams](https://www.salesforce.com/blog/small-business/slack-first-communication-policy/)**
-Communication with Slack gives your growing team alignment, so they can move faster, and actually enjoy working together.
+**[A Seller Pain Point, Small Squad, and a Solution That Shipped in Weeks](https://www.salesforce.com/blog/how-salesforce-built-a-seller-experience-in-slack/)**
+Salesforce used AI coding agents, Slack, and a small cross-functional squad to turn customer signals into seller action. Here’s how Customer Zero built a seller experience in weeks, not quarters.
 <sub>Salesforce Blog · Oct 6</sub>
 
-**[Trustworthy, Explainable, and Accountable: How to Give AI Autonomy Without Letting It Run Wild](https://www.salesforce.com/news/stories/giving-ai-autonomy-without-running-wild/)**
-Salesforce Principal Architect of Ethical AI Practice Kathy Baxter explains how pairing a probabilistic model with deterministic logic gives agents the ability to take action — without giving up the…
-<sub>Salesforce Newsroom · Oct 6</sub>
+## Marketing Tech
+
+**[Classic marketing automation is dead: What’s next?](https://martech.org/classic-marketing-automation-is-dead-whats-next/)**
+Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes.
+<sub>MarTech · Oct 7</sub>
+
+**[When marketing automation moves too fast](https://martech.org/when-marketing-automation-moves-too-fast/)**
+Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line.
+<sub>MarTech · Oct 7</sub>
+
+**[Treasure AI takes on two martech headaches at once](https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/)**
+Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement.
+<sub>MarTech · Oct 6</sub>
 
 ## Data Platforms
 
-**[Hackers Threaten to Leak ASOS Snowflake Instance](https://www.salesforceben.com/hackers-threaten-to-leak-asos-snowflake-instance/)**
-Hackers are threatening to leak ASOS’s Snowflake instance if the online fashion retailer does not engage with them.
-<sub>Salesforce Ben · Oct 6</sub>
+**[Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization](https://www.databricks.com/blog/now-ga-building-permission-aware-databricks-apps-behalf-user-authorization)**
+Databricks Apps lets developers build and deploy data and AI applications directly on the Databricks platform...
+<sub>Databricks Blog · Oct 7</sub>
+
+**[The lakehouse is a better data warehouse: 2026 benchmarks and proof](https://www.databricks.com/blog/lakehouse-better-data-warehouse-2026-benchmarks-and-proof)**
+The warehouse was the right answer for 20 yearsThe data warehouse earned its place. For two decades...
+<sub>Databricks Blog · Oct 6</sub>
 
 **[Scaling and Operating a Large dbt Project on Databricks: IFCO's Data Team on Performance, Visibility, and Debugging](https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging)**
 AbstractIFCO runs one of the world's largest reusable packaging pools with hundreds of millions of crates and pallets...
@@ -41,45 +47,40 @@ AbstractIFCO runs one of the world's largest reusable packaging pools with hundr
 AI Gateway for Advertising (preview) brings governed MCP integrations for Meta and TikTok to Cortex Agents — combining enterprise data with live platform signals.
 <sub>Snowflake Blog · Oct 5</sub>
 
-**[Meta’s ads MCP server comes to Databricks: Put your customer intelligence to work in advertising campaigns](https://www.databricks.com/blog/meta-ads-mcp-databricks)**
-Here’s a familiar scenario for enterprise advertisers: the data team has done real...
-<sub>Databricks Blog · Oct 6</sub>
-
-**[How Genie Ontology powers product development at Databricks](https://www.databricks.com/blog/how-genie-ontology-powers-product-development-databricks)**
-General-purpose AI agents are good at searching the web, reasoning, and writing code....
-<sub>Databricks Blog · Oct 5</sub>
+**[Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)**
+Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.
+<sub>TechCrunch AI · Oct 7</sub>
 
 ## AI
+
+**[Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business](https://www.constellationr.com/insights/news/meta-sierra-pitch-personal-agent-protocol-govern-how-personal-ai-agents-deal-business)**
+<sub>Constellation Research · Oct 7</sub>
+
+**[Kore.ai's AI agent optimization engine Autoloop available](https://www.constellationr.com/insights/news/koreais-ai-agent-optimization-engine-autoloop-available)**
+<sub>Constellation Research · Oct 7</sub>
 
 **[SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf](https://www.constellationr.com/insights/news/sap-highlights-its-autonomous-enterprise-joule-agent-vision-acquires-techwolf)**
 <sub>Constellation Research · Oct 6</sub>
 
-**[AI Doesn't Just Need More Data. It Needs Business Context.](https://www.constellationr.com/research/blog/ai-doesnt-just-need-more-data-it-needs-business-context)**
-It Needs Business Context. Michael Ni Mon, 5 Oct 2026 - 20:02 Michael Ni Vice President and Principal Analyst Constellation Research Michael Ni is Vice President and Principal Analyst at…
-<sub>Constellation Research · Oct 6</sub>
+**[Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live](https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/)**
+Enterprise artificial intelligence platform company Kore.ai Inc. today launched Autoloop, an optimization engine for the AI agents that customers build on its Kore.ai Agent Platform.
+<sub>SiliconANGLE AI · Oct 7</sub>
 
-**[CarMax aims to advance AI and bridge digital and store experiences](https://www.constellationr.com/insights/news/carmax-aims-advance-ai-and-bridge-digital-and-store-experiences)**
-<sub>Constellation Research · Oct 5</sub>
-
-**[AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M](https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/)**
-Artificial intelligence hardware startup Ghost AI said today it has raised $11 million in funding to build what it believes is the first personal computer that’s dedicated to running personal AI…
-<sub>SiliconANGLE AI · Oct 6</sub>
-
-**[Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)**
-"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."
-<sub>TechCrunch AI · Oct 6</sub>
+**[Why HG Insights is betting on Contextual Intelligence to make agentic AI useful for go-to-market teams](https://diginomica.com/why-hg-insights-betting-contextual-intelligence-make-agentic-ai-useful-go-market-teams)**
+HG Insights is launching a Contextual Intelligence platform that turns fragmented company, buyer, and market signals into actionable intelligence for go-to-market (GTM) teams and AI agents.
+<sub>Diginomica · Oct 7</sub>
 
 ## Also worth a click
 
-- [Why AI Fluency Could Soon Outrank Your Salesforce Certifications](https://www.salesforceben.com/why-ai-fluency-could-soon-outrank-your-salesforce-certifications/) — *Salesforce Ben*
-- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) — *OpenAI News*
-- [SAP expands Joule into an agentic work layer as Autonomous Enterprise goes live](https://siliconangle.com/2026/10/06/sap-expands-joule-into-an-agentic-work-layer-as-autonomous-enterprise-goes-live/) — *SiliconANGLE AI*
-- [Is a Salesforce Career Gap Career Suicide?](https://www.salesforceben.com/is-a-salesforce-career-gap-career-suicide/) — *Salesforce Ben*
-- [How Citizens Bank is investing in the agentic revolution for its third century](https://diginomica.com/how-citizens-bank-investing-agentic-revolution-its-third-century) — *Diginomica*
-- [Schneider Electric buys PTC for $22.6 billion as it eyes industrial AI, energy data flywheel](https://www.constellationr.com/insights/news/schneider-electric-buys-ptc-226-billion-it-eyes-industrial-ai-energy-data-flywheel) — *Constellation Research*
-- [Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/) — *TechCrunch AI*
-- [Exclusive: Iterate.ai’s Lifeboat runs up to six times more AI agent sessions per GPU](https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/) — *SiliconANGLE AI*
+- [Mistral makes its open model case with Mistral Large 4](https://www.constellationr.com/insights/news/mistral-makes-its-open-model-case-mistral-large-4) — *Constellation Research*
+- [Is Meta an Enterprise Player? + Enterprise Rebranding & AI Architecture | CRTV Episode 140](https://www.constellationr.com/video/constellationtv/meta-enterprise-player-enterprise-rebranding-ai-architecture-crtv-episode-140) — *Constellation Research*
+- [AI Doesn't Just Need More Data. It Needs Business Context.](https://www.constellationr.com/research/blog/ai-doesnt-just-need-more-data-it-needs-business-context) — *Constellation Research*
+- [Atlassian lays groundwork for humans and AI agents to work side by side](https://siliconangle.com/2026/10/07/atlassian-lays-the-groundwork-for-humans-and-ai-agents-to-work-side-by-side/) — *SiliconANGLE AI*
+- [Vast uses tiered storage to ease AI agent memory demands](https://siliconangle.com/2026/10/06/ai-agent-memory-belongs-storage-says-vast-data-cto-fullyconnected/) — *SiliconANGLE AI*
+- [OpenAI adds visuals to ChatGPT ads](https://martech.org/openai-ads-visuals-to-chatgpt-ad/) — *MarTech*
+- [Meta teams up with Bret Taylor’s Sierra Technologies on new standards for AI agent commerce](https://siliconangle.com/2026/10/06/meta-teams-up-with-bret-taylors-sierra-technologies-on-new-standards-for-ai-agent-commerce/) — *SiliconANGLE AI*
+- [OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots](https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2466 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2470 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
