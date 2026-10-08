@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-07T17:35:54.023Z",
+  "generatedAt": "2026-10-08T17:38:41.178Z",
   "stats": {
-    "considered": 2470,
-    "relevant": 74,
+    "considered": 2475,
+    "relevant": 72,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 603,
-    "minutes": 2.5125,
+    "words": 606,
+    "minutes": 2.525,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business — Constellation Research",
-    "Classic marketing automation is dead: What’s next? — MarTech",
-    "Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization — Databricks Blog",
-    "A Seller Pain Point, Small Squad, and a Solution That Shipped in Weeks — Salesforce Blog"
+    "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research",
+    "Google Cloud launches Gemini agent to work across enterprise systems — Constellation Research",
+    "Is Salesforce AI Pricing Encouraging Bad Architecture? — Salesforce Ben",
+    "Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization — Databricks Blog"
   ],
   "sections": [
     {
@@ -25,45 +25,54 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "A Seller Pain Point, Small Squad, and a Solution That Shipped in Weeks",
-          "url": "https://www.salesforce.com/blog/how-salesforce-built-a-seller-experience-in-slack/",
-          "source": "Salesforce Blog",
-          "date": "2026-10-06T20:42:22.000Z",
-          "summary": "Salesforce used AI coding agents, Slack, and a small cross-functional squad to turn customer signals into seller action. Here’s how Customer Zero built a seller experience in weeks, not quarters.",
-          "score": 12,
+          "title": "Is Salesforce AI Pricing Encouraging Bad Architecture?",
+          "url": "https://www.salesforceben.com/is-salesforce-ai-pricing-encouraging-bad-architecture/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-07T08:30:00.000Z",
+          "summary": "Salesforce has spent much of this year making the case that AI agents should interact with its platform in a structured, secure, and governable way.",
+          "score": 76.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "10 Claude Use Cases for Salesforce Admins",
+          "url": "https://www.salesforceben.com/10-claude-use-cases-for-salesforce-admins/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-07T09:46:04.000Z",
+          "summary": "Anthropic’s Claude is currently one of the biggest stars of Salesforce’s show. There’s no question as to why, either.",
+          "score": 70.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Winter ’27 Is Live: 12 Features to Share With Your Team",
+          "url": "https://www.salesforceben.com/salesforce-winter-27-is-live-12-features-to-share-with-your-team/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-07T12:00:00.000Z",
+          "summary": "Winter ’27 has been rolling out to production orgs in waves since September, with the final release weekends landing in early October.",
+          "score": 48.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Marc Benioff on the AI boom, SaaSpocalypse, and future of Slack",
+          "url": "https://www.salesforce.com/news/linked-content/marc-benioff-on-the-ai-boom-saaspocalypse-and-future-of-slack/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-08T17:00:51.000Z",
+          "summary": "",
+          "score": 37.6,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "martech",
-      "label": "Marketing Tech",
+      "key": "crm",
+      "label": "CRM Platforms",
       "items": [
         {
-          "title": "Classic marketing automation is dead: What’s next?",
-          "url": "https://martech.org/classic-marketing-automation-is-dead-whats-next/",
-          "source": "MarTech",
-          "date": "2026-10-07T13:52:00.000Z",
-          "summary": "Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes.",
-          "score": 49.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "When marketing automation moves too fast",
-          "url": "https://martech.org/when-marketing-automation-moves-too-fast/",
-          "source": "MarTech",
-          "date": "2026-10-07T13:06:00.000Z",
-          "summary": "Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line.",
-          "score": 49.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Treasure AI takes on two martech headaches at once",
-          "url": "https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/",
-          "source": "MarTech",
-          "date": "2026-10-06T15:06:01.000Z",
-          "summary": "Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement.",
-          "score": 47.6,
+          "title": "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users",
+          "url": "https://www.constellationr.com/research/blog/microsoft-brings-more-agentic-intelligence-flow-work-crm-users",
+          "source": "Constellation Research",
+          "date": "2026-10-08T17:13:50.000Z",
+          "summary": "The unifying factor has always been both a keen analysis of go-to-market trends, while also having achieved success as a marketing leader.",
+          "score": 137.4,
           "alsoCoveredBy": []
         }
       ]
@@ -78,7 +87,25 @@
           "source": "Databricks Blog",
           "date": "2026-10-07T16:40:00.000Z",
           "summary": "Databricks Apps lets developers build and deploy data and AI applications directly on the Databricks platform...",
-          "score": 35.7,
+          "score": 26.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Snowflake Completes NZISM Restricted Assessment on AWS in New Zealand",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-nzism-restricted-assessment-aws-new-zealand",
+          "source": "Snowflake Blog",
+          "date": "2026-10-07T18:29:58.000Z",
+          "summary": "Snowflake has completed an independent NZISM Restricted assessment on AWS in the Auckland region, helping New Zealand government agencies accelerate certification, unify data and deploy AI with…",
+          "score": 22.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How to Repoint dbt ETL Pipelines to Databricks",
+          "url": "https://www.databricks.com/blog/how-repoint-dbt-etl-pipelines-databricks",
+          "source": "Databricks Blog",
+          "date": "2026-10-06T18:53:48.000Z",
+          "summary": "More teams are running their dbt transformations on&nbsp;Databricks Lakehouse: an open...",
+          "score": 21.5,
           "alsoCoveredBy": []
         },
         {
@@ -87,34 +114,7 @@
           "source": "Databricks Blog",
           "date": "2026-10-06T16:35:12.000Z",
           "summary": "The warehouse was the right answer for 20 yearsThe data warehouse earned its place. For two decades...",
-          "score": 30.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Scaling and Operating a Large dbt Project on Databricks: IFCO's Data Team on Performance, Visibility, and Debugging",
-          "url": "https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging",
-          "source": "Databricks Blog",
-          "date": "2026-10-06T16:00:00.000Z",
-          "summary": "AbstractIFCO runs one of the world's largest reusable packaging pools with hundreds of millions of crates and pallets...",
-          "score": 26.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI Gateway for Advertising: Governed AI Agents | Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-in-advertising",
-          "source": "Snowflake Blog",
-          "date": "2026-10-05T15:00:00.000Z",
-          "summary": "AI Gateway for Advertising (preview) brings governed MCP integrations for Meta and TikTok to Cortex Agents — combining enterprise data with live platform signals.",
-          "score": 21.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-          "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-07T16:53:46.000Z",
-          "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-          "score": 20.7,
+          "score": 20,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +124,48 @@
       "label": "AI",
       "items": [
         {
+          "title": "Google Cloud launches Gemini agent to work across enterprise systems",
+          "url": "https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
+          "source": "Constellation Research",
+          "date": "2026-10-08T12:00:00.000Z",
+          "summary": "",
+          "score": 122,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business",
           "url": "https://www.constellationr.com/insights/news/meta-sierra-pitch-personal-agent-protocol-govern-how-personal-ai-agents-deal-business",
           "source": "Constellation Research",
           "date": "2026-10-07T10:39:27.000Z",
           "summary": "",
-          "score": 102.4,
+          "score": 74.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Kore.ai's AI agent optimization engine Autoloop available",
-          "url": "https://www.constellationr.com/insights/news/koreais-ai-agent-optimization-engine-autoloop-available",
-          "source": "Constellation Research",
-          "date": "2026-10-07T14:00:00.000Z",
-          "summary": "",
-          "score": 79.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf",
-          "url": "https://www.constellationr.com/insights/news/sap-highlights-its-autonomous-enterprise-joule-agent-vision-acquires-techwolf",
-          "source": "Constellation Research",
-          "date": "2026-10-06T11:30:00.000Z",
-          "summary": "",
-          "score": 63.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live",
-          "url": "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-07T14:00:34.000Z",
-          "summary": "Enterprise artificial intelligence platform company Kore.ai Inc. today launched Autoloop, an optimization engine for the AI agents that customers build on its Kore.ai Agent Platform.",
-          "score": 48.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why HG Insights is betting on Contextual Intelligence to make agentic AI useful for go-to-market teams",
-          "url": "https://diginomica.com/why-hg-insights-betting-contextual-intelligence-make-agentic-ai-useful-go-market-teams",
+          "title": "Are you ready for the fully agentic world? Ready or not, it's just around the corner, according to Salesforce's latest acquisition, Fin",
+          "url": "https://diginomica.com/are-you-ready-fully-agentic-world-ready-or-not-its-just-around-corner-according-salesforces-latest",
           "source": "Diginomica",
-          "date": "2026-10-07T09:28:44.000Z",
-          "summary": "HG Insights is launching a Contextual Intelligence platform that turns fragmented company, buyer, and market signals into actionable intelligence for go-to-market (GTM) teams and AI agents.",
-          "score": 40.5,
+          "date": "2026-10-08T10:04:15.000Z",
+          "summary": "Get behind the future or be left behind, warns Fin's Chief Product Officer, Paul Adams.",
+          "score": 56.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
+          "url": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-07T22:28:07.000Z",
+          "summary": "Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run.",
+          "score": 43.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-08T16:00:00.000Z",
+          "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and…",
+          "score": 38.9,
           "alsoCoveredBy": []
         }
       ]
@@ -173,8 +173,8 @@
   ],
   "quickLinks": [
     {
-      "title": "Mistral makes its open model case with Mistral Large 4",
-      "url": "https://www.constellationr.com/insights/news/mistral-makes-its-open-model-case-mistral-large-4",
+      "title": "Kore.ai's AI agent optimization engine Autoloop available",
+      "url": "https://www.constellationr.com/insights/news/koreais-ai-agent-optimization-engine-autoloop-available",
       "source": "Constellation Research"
     },
     {
@@ -183,34 +183,34 @@
       "source": "Constellation Research"
     },
     {
-      "title": "AI Doesn't Just Need More Data. It Needs Business Context.",
-      "url": "https://www.constellationr.com/research/blog/ai-doesnt-just-need-more-data-it-needs-business-context",
+      "title": "Mistral makes its open model case with Mistral Large 4",
+      "url": "https://www.constellationr.com/insights/news/mistral-makes-its-open-model-case-mistral-large-4",
       "source": "Constellation Research"
     },
     {
-      "title": "Atlassian lays groundwork for humans and AI agents to work side by side",
-      "url": "https://siliconangle.com/2026/10/07/atlassian-lays-the-groundwork-for-humans-and-ai-agents-to-work-side-by-side/",
+      "title": "SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf",
+      "url": "https://www.constellationr.com/insights/news/sap-highlights-its-autonomous-enterprise-joule-agent-vision-acquires-techwolf",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Midwest Wheel builds toward AI agents that fix problems",
+      "url": "https://siliconangle.com/2026/10/07/midwest-wheel-builds-ai-agents-fix-problems-inforvelocity/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Vast uses tiered storage to ease AI agent memory demands",
-      "url": "https://siliconangle.com/2026/10/06/ai-agent-memory-belongs-storage-says-vast-data-cto-fullyconnected/",
-      "source": "SiliconANGLE AI"
+      "title": "Hackers Threaten to Leak ASOS Snowflake Instance",
+      "url": "https://www.salesforceben.com/hackers-threaten-to-leak-asos-snowflake-instance/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "OpenAI adds visuals to ChatGPT ads",
-      "url": "https://martech.org/openai-ads-visuals-to-chatgpt-ad/",
-      "source": "MarTech"
-    },
-    {
-      "title": "Meta teams up with Bret Taylor’s Sierra Technologies on new standards for AI agent commerce",
-      "url": "https://siliconangle.com/2026/10/06/meta-teams-up-with-bret-taylors-sierra-technologies-on-new-standards-for-ai-agent-commerce/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live",
+      "url": "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
