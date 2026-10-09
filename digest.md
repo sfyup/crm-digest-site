@@ -1,26 +1,26 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Thursday, October 8, 2026 · 2–3 min read · 14 stories from 20 sources*
+*Friday, October 9, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research
 - Google Cloud launches Gemini agent to work across enterprise systems — Constellation Research
-- Is Salesforce AI Pricing Encouraging Bad Architecture? — Salesforce Ben
-- Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization — Databricks Blog
+- Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research
+- Agentforce Now Has to Prove It’s Worth the Investment — Salesforce Ben
+- Why HIPAA compliance in martech goes beyond BAAs — MarTech
 
 ## Salesforce
 
+**[Agentforce Now Has to Prove It’s Worth the Investment](https://www.salesforceben.com/agentforce-now-has-to-prove-its-worth-the-investment/)**
+For the last couple of years, the Salesforce AI conversation has largely been centered around adoption. Are people actually using AI? Are companies experimenting with Agentforce?
+<sub>Salesforce Ben · Oct 9</sub>
+
+**[Agentic dog food on the menu - how Salesforce has built Fin into its own support activities and the customer learnings that have emerged](https://diginomica.com/agentic-dog-food-menu-how-salesforce-has-built-fin-its-own-support-activities-and-what-customer)**
+Now that Fin is part of the Salesforce empire, the new parent has been putting the latest addition to the family through its paces, says Emily Winslow, Senior Director of AI Products and Customer…
+<sub>Diginomica · Oct 9</sub>
+
 **[Is Salesforce AI Pricing Encouraging Bad Architecture?](https://www.salesforceben.com/is-salesforce-ai-pricing-encouraging-bad-architecture/)**
 Salesforce has spent much of this year making the case that AI agents should interact with its platform in a structured, secure, and governable way.
-<sub>Salesforce Ben · Oct 7</sub>
-
-**[10 Claude Use Cases for Salesforce Admins](https://www.salesforceben.com/10-claude-use-cases-for-salesforce-admins/)**
-Anthropic’s Claude is currently one of the biggest stars of Salesforce’s show. There’s no question as to why, either.
-<sub>Salesforce Ben · Oct 7</sub>
-
-**[Salesforce Winter ’27 Is Live: 12 Features to Share With Your Team](https://www.salesforceben.com/salesforce-winter-27-is-live-12-features-to-share-with-your-team/)**
-Winter ’27 has been rolling out to production orgs in waves since September, with the final release weekends landing in early October.
 <sub>Salesforce Ben · Oct 7</sub>
 
 **[Marc Benioff on the AI boom, SaaSpocalypse, and future of Slack](https://www.salesforce.com/news/linked-content/marc-benioff-on-the-ai-boom-saaspocalypse-and-future-of-slack/)**
@@ -32,55 +32,55 @@ Winter ’27 has been rolling out to production orgs in waves since September, w
 The unifying factor has always been both a keen analysis of go-to-market trends, while also having achieved success as a marketing leader.
 <sub>Constellation Research · Oct 8</sub>
 
-## Data Platforms
+**[Bring Microsoft Dynamics 365 into the flow of work with 30 new CRM skills](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/08/bring-microsoft-dynamics-365-into-the-flow-of-work-with-30-new-crm-skills/)**
+Bring Dynamics 365 customer context, expertise, and actions into the flow of work with 30 new CRM skills for Microsoft Copilot and custom agents.
+<sub>MS Dynamics 365 Blog · Oct 8</sub>
 
-**[Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization](https://www.databricks.com/blog/now-ga-building-permission-aware-databricks-apps-behalf-user-authorization)**
-Databricks Apps lets developers build and deploy data and AI applications directly on the Databricks platform...
-<sub>Databricks Blog · Oct 7</sub>
+**[Bringing CRM into the flow of work and agents into business process for sales and service teams](https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/)**
+Explore new Dynamics 365 CRM skills and agentic capabilities that bring customer context and actions into the flow of work for sales and service teams.
+<sub>MS Dynamics 365 Blog · Oct 8</sub>
 
-**[Snowflake Completes NZISM Restricted Assessment on AWS in New Zealand](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-nzism-restricted-assessment-aws-new-zealand)**
-Snowflake has completed an independent NZISM Restricted assessment on AWS in the Auckland region, helping New Zealand government agencies accelerate certification, unify data and deploy AI with…
-<sub>Snowflake Blog · Oct 7</sub>
+## Marketing Tech
 
-**[How to Repoint dbt ETL Pipelines to Databricks](https://www.databricks.com/blog/how-repoint-dbt-etl-pipelines-databricks)**
-More teams are running their dbt transformations on&nbsp;Databricks Lakehouse: an open...
-<sub>Databricks Blog · Oct 6</sub>
+**[Why HIPAA compliance in martech goes beyond BAAs](https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/)**
+A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.
+<sub>MarTech · Oct 9</sub>
 
-**[The lakehouse is a better data warehouse: 2026 benchmarks and proof](https://www.databricks.com/blog/lakehouse-better-data-warehouse-2026-benchmarks-and-proof)**
-The warehouse was the right answer for 20 yearsThe data warehouse earned its place. For two decades...
-<sub>Databricks Blog · Oct 6</sub>
+**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
+General AI is generally fine, but a new study shows that for SEO problems you should get a specialist.
+<sub>MarTech · Oct 8</sub>
 
 ## AI
 
 **[Google Cloud launches Gemini agent to work across enterprise systems](https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems)**
 <sub>Constellation Research · Oct 8</sub>
 
-**[Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business](https://www.constellationr.com/insights/news/meta-sierra-pitch-personal-agent-protocol-govern-how-personal-ai-agents-deal-business)**
-<sub>Constellation Research · Oct 7</sub>
+**[Anthropic Launches ‘Cyber Mission’ to Protect Infrastructure From Attackers](https://www.salesforceben.com/anthropic-launches-cyber-mission-to-protect-infrastructure-from-attackers/)**
+Anthropic has launched Cyber Mission, a major cybersecurity initiative using its powerful Claude AI models to identify and fix security vulnerabilities across critical infrastructure and open-source…
+<sub>Salesforce Ben · Oct 9</sub>
 
-**[Are you ready for the fully agentic world? Ready or not, it's just around the corner, according to Salesforce's latest acquisition, Fin](https://diginomica.com/are-you-ready-fully-agentic-world-ready-or-not-its-just-around-corner-according-salesforces-latest)**
-Get behind the future or be left behind, warns Fin's Chief Product Officer, Paul Adams.
-<sub>Diginomica · Oct 8</sub>
+**[Nvidia makes case AI factories, its stack are enduring capital assets](https://www.constellationr.com/insights/news/nvidia-makes-case-ai-factories-its-stack-are-enduring-capital-assets)**
+<sub>Constellation Research · Oct 9</sub>
 
-**[Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices](https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/)**
-Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run.
-<sub>SiliconANGLE AI · Oct 7</sub>
+**[18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed](https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/)**
+AI agents have made identity the front line of enterprise security. Agents now number in the thousands.
+<sub>SiliconANGLE AI · Oct 9</sub>
 
-**[Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost](https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/)**
-Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and…
-<sub>TechCrunch AI · Oct 8</sub>
+**[Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds](https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/)**
+As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic.
+<sub>MarTech · Oct 8</sub>
 
 ## Also worth a click
 
+- [Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business](https://www.constellationr.com/insights/news/meta-sierra-pitch-personal-agent-protocol-govern-how-personal-ai-agents-deal-business) — *Constellation Research*
+- [How to Use AI to Prevent Scope Creep in Salesforce](https://www.salesforceben.com/how-to-use-ai-to-prevent-scope-creep-in-salesforce/) — *Salesforce Ben*
+- [10 Claude Use Cases for Salesforce Admins](https://www.salesforceben.com/10-claude-use-cases-for-salesforce-admins/) — *Salesforce Ben*
 - [Kore.ai's AI agent optimization engine Autoloop available](https://www.constellationr.com/insights/news/koreais-ai-agent-optimization-engine-autoloop-available) — *Constellation Research*
-- [Is Meta an Enterprise Player? + Enterprise Rebranding & AI Architecture | CRTV Episode 140](https://www.constellationr.com/video/constellationtv/meta-enterprise-player-enterprise-rebranding-ai-architecture-crtv-episode-140) — *Constellation Research*
-- [Mistral makes its open model case with Mistral Large 4](https://www.constellationr.com/insights/news/mistral-makes-its-open-model-case-mistral-large-4) — *Constellation Research*
-- [SAP highlights its autonomous enterprise, Joule agent vision, acquires TechWolf](https://www.constellationr.com/insights/news/sap-highlights-its-autonomous-enterprise-joule-agent-vision-acquires-techwolf) — *Constellation Research*
-- [Midwest Wheel builds toward AI agents that fix problems](https://siliconangle.com/2026/10/07/midwest-wheel-builds-ai-agents-fix-problems-inforvelocity/) — *SiliconANGLE AI*
-- [Hackers Threaten to Leak ASOS Snowflake Instance](https://www.salesforceben.com/hackers-threaten-to-leak-asos-snowflake-instance/) — *Salesforce Ben*
-- [Natura’s $99 smart ring puts AI agents on your finger](https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/) — *TechCrunch AI*
-- [Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live](https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/) — *SiliconANGLE AI*
+- [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/) — *TechCrunch AI*
+- [Is Adobe the SaaSpocalypse’s First Victim?](https://www.salesforceben.com/is-adobe-the-saaspocalypses-first-victim/) — *Salesforce Ben*
+- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — *TechCrunch Enterprise*
+- [AI agent developer Manus raises $500M+ at reported $4B valuation](https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2475 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2490 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
