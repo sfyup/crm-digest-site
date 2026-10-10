@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Friday, October 9, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Saturday, October 10, 2026 · 2–3 min read · 14 stories from 20 sources*
 
 ## The 60-second version
 
-- Google Cloud launches Gemini agent to work across enterprise systems — Constellation Research
 - Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research
+- Google Cloud launches Gemini agent to work across enterprise systems — Constellation Research
 - Agentforce Now Has to Prove It’s Worth the Investment — Salesforce Ben
-- Why HIPAA compliance in martech goes beyond BAAs — MarTech
+- How California built its Behavioral Health Public County Profile on Databricks — Databricks Blog
 
 ## Salesforce
 
@@ -19,9 +19,9 @@ For the last couple of years, the Salesforce AI conversation has largely been ce
 Now that Fin is part of the Salesforce empire, the new parent has been putting the latest addition to the family through its paces, says Emily Winslow, Senior Director of AI Products and Customer…
 <sub>Diginomica · Oct 9</sub>
 
-**[Is Salesforce AI Pricing Encouraging Bad Architecture?](https://www.salesforceben.com/is-salesforce-ai-pricing-encouraging-bad-architecture/)**
-Salesforce has spent much of this year making the case that AI agents should interact with its platform in a structured, secure, and governable way.
-<sub>Salesforce Ben · Oct 7</sub>
+**[How to Use AI to Prevent Scope Creep in Salesforce](https://www.salesforceben.com/how-to-use-ai-to-prevent-scope-creep-in-salesforce/)**
+Scope creep is one of those problems that can start almost invisibly in a Salesforce project. A stakeholder wants “just one more field”, or a requirement gets clarified halfway through the build, or…
+<sub>Salesforce Ben · Oct 9</sub>
 
 **[Marc Benioff on the AI boom, SaaSpocalypse, and future of Slack](https://www.salesforce.com/news/linked-content/marc-benioff-on-the-ai-boom-saaspocalypse-and-future-of-slack/)**
 <sub>Salesforce Newsroom · Oct 8</sub>
@@ -40,15 +40,15 @@ Bring Dynamics 365 customer context, expertise, and actions into the flow of wor
 Explore new Dynamics 365 CRM skills and agentic capabilities that bring customer context and actions into the flow of work for sales and service teams.
 <sub>MS Dynamics 365 Blog · Oct 8</sub>
 
-## Marketing Tech
+## Data Platforms
 
-**[Why HIPAA compliance in martech goes beyond BAAs](https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/)**
-A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.
-<sub>MarTech · Oct 9</sub>
+**[How California built its Behavioral Health Public County Profile on Databricks](https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks)**
+The California Department of Health Care Services (DHCS) built the Behavioral Health...
+<sub>Databricks Blog · Oct 9</sub>
 
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-General AI is generally fine, but a new study shows that for SEO problems you should get a specialist.
-<sub>MarTech · Oct 8</sub>
+**[Introducing Funke: Native HL7v2 Parsing on Databricks](https://www.databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks)**
+The HL7v2 problem in the lakehouseHL7v2 is the messaging standard that quietly runs healthcare...
+<sub>Databricks Blog · Oct 8</sub>
 
 ## AI
 
@@ -62,25 +62,25 @@ Anthropic has launched Cyber Mission, a major cybersecurity initiative using its
 **[Nvidia makes case AI factories, its stack are enduring capital assets](https://www.constellationr.com/insights/news/nvidia-makes-case-ai-factories-its-stack-are-enduring-capital-assets)**
 <sub>Constellation Research · Oct 9</sub>
 
-**[18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed](https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/)**
-AI agents have made identity the front line of enterprise security. Agents now number in the thousands.
-<sub>SiliconANGLE AI · Oct 9</sub>
+**[Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)**
+Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+<sub>TechCrunch AI · Oct 10</sub>
 
-**[Agentic media buying needs malware guardrails: A PropellerAds view by PropellerAds](https://martech.org/agentic-media-buying-needs-malware-guardrails-a-propellerads-view/)**
-As AI takes on more campaign decisions, traffic-quality and security signals need to become part of the optimization logic.
-<sub>MarTech · Oct 8</sub>
+**[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)**
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+<sub>TechCrunch AI · Oct 10</sub>
 
 ## Also worth a click
 
-- [Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business](https://www.constellationr.com/insights/news/meta-sierra-pitch-personal-agent-protocol-govern-how-personal-ai-agents-deal-business) — *Constellation Research*
-- [How to Use AI to Prevent Scope Creep in Salesforce](https://www.salesforceben.com/how-to-use-ai-to-prevent-scope-creep-in-salesforce/) — *Salesforce Ben*
-- [10 Claude Use Cases for Salesforce Admins](https://www.salesforceben.com/10-claude-use-cases-for-salesforce-admins/) — *Salesforce Ben*
-- [Kore.ai's AI agent optimization engine Autoloop available](https://www.constellationr.com/insights/news/koreais-ai-agent-optimization-engine-autoloop-available) — *Constellation Research*
+- [18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed](https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/) — *SiliconANGLE AI*
 - [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/) — *TechCrunch AI*
 - [Is Adobe the SaaSpocalypse’s First Victim?](https://www.salesforceben.com/is-adobe-the-saaspocalypses-first-victim/) — *Salesforce Ben*
-- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — *TechCrunch Enterprise*
 - [AI agent developer Manus raises $500M+ at reported $4B valuation](https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/) — *SiliconANGLE AI*
+- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — *TechCrunch Enterprise*
+- [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) — *TechCrunch AI*
+- [AI Agents Don’t Live with Disabilities. People Do](https://www.salesforce.com/blog/accessible-ai-experiences/) — *Salesforce Blog*
+- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) — *OpenAI News*
 
 ---
 
-<sub>Every headline links to its original source. 2490 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2508 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
