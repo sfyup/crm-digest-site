@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-10T15:59:50.039Z",
+  "generatedAt": "2026-10-11T16:27:07.622Z",
   "stats": {
     "considered": 2508,
-    "relevant": 64,
+    "relevant": 42,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 640,
-    "minutes": 2.6666666666666665,
+    "words": 631,
+    "minutes": 2.629166666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research",
-    "Google Cloud launches Gemini agent to work across enterprise systems — Constellation Research",
+    "Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls — Constellation Research",
     "Agentforce Now Has to Prove It’s Worth the Investment — Salesforce Ben",
-    "How California built its Behavioral Health Public County Profile on Databricks — Databricks Blog"
+    "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research",
+    "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13 — SiliconANGLE AI"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-09T12:59:18.000Z",
           "summary": "For the last couple of years, the Salesforce AI conversation has largely been centered around adoption. Are people actually using AI? Are companies experimenting with Agentforce?",
-          "score": 65.8,
+          "score": 42.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Diginomica",
           "date": "2026-10-09T09:52:12.000Z",
           "summary": "Now that Fin is part of the Salesforce empire, the new parent has been putting the latest addition to the family through its paces, says Emily Winslow, Senior Director of AI Products and Customer…",
-          "score": 45.5,
+          "score": 28.6,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-09T11:52:11.000Z",
           "summary": "Scope creep is one of those problems that can start almost invisibly in a Salesforce project. A stakeholder wants “just one more field”, or a requirement gets clarified halfway through the build, or…",
-          "score": 35.6,
+          "score": 22.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +57,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-08T17:00:51.000Z",
           "summary": "",
-          "score": 19.3,
+          "score": 9.7,
           "alsoCoveredBy": []
         }
       ]
@@ -72,25 +72,7 @@
           "source": "Constellation Research",
           "date": "2026-10-08T17:13:50.000Z",
           "summary": "The unifying factor has always been both a keen analysis of go-to-market trends, while also having achieved success as a marketing leader.",
-          "score": 70.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Bring Microsoft Dynamics 365 into the flow of work with 30 new CRM skills",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/08/bring-microsoft-dynamics-365-into-the-flow-of-work-with-30-new-crm-skills/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-10-08T15:00:00.000Z",
-          "summary": "Bring Dynamics 365 customer context, expertise, and actions into the flow of work with 30 new CRM skills for Microsoft Copilot and custom agents.",
-          "score": 54.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-          "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-10-08T15:10:00.000Z",
-          "summary": "Explore new Dynamics 365 CRM skills and agentic capabilities that bring customer context and actions into the flow of work for sales and service teams.",
-          "score": 30.3,
+          "score": 35.6,
           "alsoCoveredBy": []
         }
       ]
@@ -100,12 +82,21 @@
       "label": "Data Platforms",
       "items": [
         {
+          "title": "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13",
+          "url": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-10T22:06:15.000Z",
+          "summary": "The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied…",
+          "score": 18.9,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "How California built its Behavioral Health Public County Profile on Databricks",
           "url": "https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks",
           "source": "Databricks Blog",
           "date": "2026-10-09T21:30:00.000Z",
           "summary": "The California Department of Health Care Services (DHCS) built the Behavioral Health...",
-          "score": 19.4,
+          "score": 13.3,
           "alsoCoveredBy": []
         },
         {
@@ -114,7 +105,16 @@
           "source": "Databricks Blog",
           "date": "2026-10-08T22:00:00.000Z",
           "summary": "The HL7v2 problem in the lakehouseHL7v2 is the messaging standard that quietly runs healthcare...",
-          "score": 18,
+          "score": 9.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Snowflake Decision: A Decision Model in Cortex AI Functions",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-decision-cortex-ai-functions",
+          "source": "Snowflake Blog",
+          "date": "2026-10-08T19:08:27.000Z",
+          "summary": "Snowflake Decision, now in private preview, brings fast, structured classification, scoring and routing to SQL through AI_COMPLETE in Cortex AI Functions.",
+          "score": 8.3,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +124,21 @@
       "label": "AI",
       "items": [
         {
-          "title": "Google Cloud launches Gemini agent to work across enterprise systems",
-          "url": "https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
+          "title": "Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls",
+          "url": "https://www.constellationr.com/insights/news/microsoft-ceo-nadella-agentic-ai-needs-healthy-dose-deterministic-controls",
           "source": "Constellation Research",
-          "date": "2026-10-08T12:00:00.000Z",
+          "date": "2026-10-11T10:28:45.000Z",
           "summary": "",
-          "score": 70.4,
+          "score": 111.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Data ontology: A kinder, gentler form of lock-in",
+          "url": "https://www.constellationr.com/insights/news/data-ontology-kinder-gentler-form-lock",
+          "source": "Constellation Research",
+          "date": "2026-10-11T10:00:00.000Z",
+          "summary": "",
+          "score": 86.2,
           "alsoCoveredBy": []
         },
         {
@@ -138,16 +147,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-09T12:48:27.000Z",
           "summary": "Anthropic has launched Cyber Mission, a major cybersecurity initiative using its powerful Claude AI models to identify and fix security vulnerabilities across critical infrastructure and open-source…",
-          "score": 67.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Nvidia makes case AI factories, its stack are enduring capital assets",
-          "url": "https://www.constellationr.com/insights/news/nvidia-makes-case-ai-factories-its-stack-are-enduring-capital-assets",
-          "source": "Constellation Research",
-          "date": "2026-10-09T10:00:00.000Z",
-          "summary": "",
-          "score": 51.2,
+          "score": 43.7,
           "alsoCoveredBy": []
         },
         {
@@ -156,7 +156,7 @@
           "source": "TechCrunch AI",
           "date": "2026-10-10T00:18:32.000Z",
           "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-          "score": 43.3,
+          "score": 30.1,
           "alsoCoveredBy": []
         },
         {
@@ -165,13 +165,23 @@
           "source": "TechCrunch AI",
           "date": "2026-10-10T14:00:00.000Z",
           "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "score": 36.6,
+          "score": 27.1,
           "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
+    {
+      "title": "Nvidia makes case AI factories, its stack are enduring capital assets",
+      "url": "https://www.constellationr.com/insights/news/nvidia-makes-case-ai-factories-its-stack-are-enduring-capital-assets",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Agentic workloads break assumptions about software testing. Here’s how to cope",
+      "url": "https://siliconangle.com/2026/10/11/agentic-workloads-break-assumptions-about-software-testing-heres-how-to-cope/",
+      "source": "SiliconANGLE AI"
+    },
     {
       "title": "18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed",
       "url": "https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/",
@@ -188,29 +198,19 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "AI agent developer Manus raises $500M+ at reported $4B valuation",
-      "url": "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/",
-      "source": "SiliconANGLE AI"
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Google brings agentic AI to Gemini, starting with businesses",
       "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch Enterprise"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "source": "TechCrunch AI"
     },
     {
       "title": "AI Agents Don’t Live with Disabilities. People Do",
       "url": "https://www.salesforce.com/blog/accessible-ai-experiences/",
       "source": "Salesforce Blog"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI News"
     }
   ]
 }
