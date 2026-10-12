@@ -1,86 +1,87 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Sunday, October 11, 2026 · 2–3 min read · 14 stories from 20 sources*
+*Monday, October 12, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
+- 85% of Customers Have Tried Agentforce, But Demand Hasn’t Picked Up. Why? — Salesforce Ben
 - Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls — Constellation Research
-- Agentforce Now Has to Prove It’s Worth the Investment — Salesforce Ben
-- Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users — Constellation Research
-- What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13 — SiliconANGLE AI
+- How Flo Health built safer, more useful open models with Databricks AI Runtime — Databricks Blog
+- The state of AI in marketing: Q4 2026 — MarTech
 
 ## Salesforce
 
-**[Agentforce Now Has to Prove It’s Worth the Investment](https://www.salesforceben.com/agentforce-now-has-to-prove-its-worth-the-investment/)**
-For the last couple of years, the Salesforce AI conversation has largely been centered around adoption. Are people actually using AI? Are companies experimenting with Agentforce?
-<sub>Salesforce Ben · Oct 9</sub>
+**[85% of Customers Have Tried Agentforce, But Demand Hasn’t Picked Up. Why?](https://www.salesforceben.com/85-of-customers-have-tried-agentforce-but-demand-hasnt-picked-up-why/)**
+On the surface, Agentforce’s numbers keep getting bigger and better. With over 29,000 paid deals, over $1B in AI revenue, and plastered over nearly every promotional bit of material Salesforce has…
+<sub>Salesforce Ben · Oct 12</sub>
 
-**[Agentic dog food on the menu - how Salesforce has built Fin into its own support activities and the customer learnings that have emerged](https://diginomica.com/agentic-dog-food-menu-how-salesforce-has-built-fin-its-own-support-activities-and-what-customer)**
-Now that Fin is part of the Salesforce empire, the new parent has been putting the latest addition to the family through its paces, says Emily Winslow, Senior Director of AI Products and Customer…
-<sub>Diginomica · Oct 9</sub>
+**[Salesforce Renames AIforce to ‘SIforce’ After Trump Order](https://www.salesforceben.com/salesforce-renames-aiforce-to-siforce-after-trump-order/)**
+Salesforce has renamed AIforce, its new agentic integration layer, to SIforce, according to the company’s CEO, Marc Benioff.
+<sub>Salesforce Ben · Oct 12</sub>
 
-**[How to Use AI to Prevent Scope Creep in Salesforce](https://www.salesforceben.com/how-to-use-ai-to-prevent-scope-creep-in-salesforce/)**
-Scope creep is one of those problems that can start almost invisibly in a Salesforce project. A stakeholder wants “just one more field”, or a requirement gets clarified halfway through the build, or…
-<sub>Salesforce Ben · Oct 9</sub>
+**[Piper: The Uncanny Valley Future of Agentforce?](https://www.salesforceben.com/piper-the-uncanny-valley-future-of-agentforce/)**
+If you’ve been on any of Salesforce’s official webpages over the last few months, or you paid attention at Dreamforce 2026, you’d know that Salesforce has introduced Piper, its new AI Sales…
+<sub>Salesforce Ben · Oct 12</sub>
 
-**[Marc Benioff on the AI boom, SaaSpocalypse, and future of Slack](https://www.salesforce.com/news/linked-content/marc-benioff-on-the-ai-boom-saaspocalypse-and-future-of-slack/)**
-<sub>Salesforce Newsroom · Oct 8</sub>
+**[Salesforce Signs Definitive Agreement to Acquire Loops](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/)**
+Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Loops, an AI-powered analytics platform that continuously monitors business performance, explains why key…
+<sub>Salesforce Newsroom · Oct 12</sub>
 
-## CRM Platforms
+**[How Tableau Built Agentic Analytics at Salesforce: A Four-Part Framework](https://www.salesforce.com/blog/tableau-agentic-analytics-at-salesforce-customer-zero/)**
+How Slackbot skills, semantic governance, AI content controls, cost management, and operational visibility power trustworthy agentic analytics at scale.
+<sub>Salesforce Blog · Oct 12</sub>
 
-**[Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users](https://www.constellationr.com/research/blog/microsoft-brings-more-agentic-intelligence-flow-work-crm-users)**
-The unifying factor has always been both a keen analysis of go-to-market trends, while also having achieved success as a marketing leader.
-<sub>Constellation Research · Oct 8</sub>
+## Marketing Tech
+
+**[The state of AI in marketing: Q4 2026](https://martech.org/the-state-of-ai-in-marketing-q4-2026/)**
+Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value.
+<sub>MarTech · Oct 12</sub>
+
+**[Your social media following isn’t the asset you think it is](https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/)**
+Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships.
+<sub>MarTech · Oct 12</sub>
 
 ## Data Platforms
 
-**[What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13](https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/)**
-The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied…
-<sub>SiliconANGLE AI · Oct 10</sub>
+**[How Flo Health built safer, more useful open models with Databricks AI Runtime](https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime)**
+For Flo Health, the bar for generative AI is unusually high. With 81 million monthly...
+<sub>Databricks Blog · Oct 12</sub>
 
-**[How California built its Behavioral Health Public County Profile on Databricks](https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks)**
-The California Department of Health Care Services (DHCS) built the Behavioral Health...
-<sub>Databricks Blog · Oct 9</sub>
-
-**[Introducing Funke: Native HL7v2 Parsing on Databricks](https://www.databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks)**
-The HL7v2 problem in the lakehouseHL7v2 is the messaging standard that quietly runs healthcare...
-<sub>Databricks Blog · Oct 8</sub>
-
-**[Snowflake Decision: A Decision Model in Cortex AI Functions](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-decision-cortex-ai-functions)**
-Snowflake Decision, now in private preview, brings fast, structured classification, scoring and routing to SQL through AI_COMPLETE in Cortex AI Functions.
-<sub>Snowflake Blog · Oct 8</sub>
+**[Introducing Semantic Studio: The Semantic View IDE](https://www.snowflake.com/content/snowflake-site/global/en/blog/semantic-studio-ga)**
+Semantic Studio is now GA. Author, debug, and deploy semantic views in Snowflake Workspaces — with Snowflake CoCo, git versioning and CI/CD in one place.
+<sub>Snowflake Blog · Oct 12</sub>
 
 ## AI
 
 **[Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls](https://www.constellationr.com/insights/news/microsoft-ceo-nadella-agentic-ai-needs-healthy-dose-deterministic-controls)**
 <sub>Constellation Research · Oct 11</sub>
 
-**[Data ontology: A kinder, gentler form of lock-in](https://www.constellationr.com/insights/news/data-ontology-kinder-gentler-form-lock)**
-<sub>Constellation Research · Oct 11</sub>
+**[Trust, Identity & Control: Every Action Earns Authority](https://www.constellationr.com/research/blog/trust-identity-control-every-action-earns-authority)**
+In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…
+<sub>Constellation Research · Oct 12</sub>
 
-**[Anthropic Launches ‘Cyber Mission’ to Protect Infrastructure From Attackers](https://www.salesforceben.com/anthropic-launches-cyber-mission-to-protect-infrastructure-from-attackers/)**
-Anthropic has launched Cyber Mission, a major cybersecurity initiative using its powerful Claude AI models to identify and fix security vulnerabilities across critical infrastructure and open-source…
-<sub>Salesforce Ben · Oct 9</sub>
+**[UKG outlines headless platform strategy](https://www.constellationr.com/insights/news/ukg-outlines-headless-platform-strategy)**
+<sub>Constellation Research · Oct 12</sub>
 
-**[Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)**
-Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
-<sub>TechCrunch AI · Oct 10</sub>
+**[How MOps teams are restructuring for autonomous AI agents](https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/)**
+Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight.
+<sub>MarTech · Oct 12</sub>
 
-**[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)**
-We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-<sub>TechCrunch AI · Oct 10</sub>
+**[Phasis develops platform for agentic orientation using World APIs and reality layers](https://siliconangle.com/2026/10/12/orienting-ai-agents-phasis-thecube-models-neo4jdatatoknowledge/)**
+When the founders at Phasis Inc. sought to develop a platform for orienting AI agents, they turned to graphs as a way to obtain a measurement of culture.
+<sub>SiliconANGLE AI · Oct 12</sub>
 
 ## Also worth a click
 
-- [Nvidia makes case AI factories, its stack are enduring capital assets](https://www.constellationr.com/insights/news/nvidia-makes-case-ai-factories-its-stack-are-enduring-capital-assets) — *Constellation Research*
-- [Agentic workloads break assumptions about software testing. Here’s how to cope](https://siliconangle.com/2026/10/11/agentic-workloads-break-assumptions-about-software-testing-heres-how-to-cope/) — *SiliconANGLE AI*
-- [18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed](https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/) — *SiliconANGLE AI*
-- [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/) — *TechCrunch AI*
-- [Is Adobe the SaaSpocalypse’s First Victim?](https://www.salesforceben.com/is-adobe-the-saaspocalypses-first-victim/) — *Salesforce Ben*
-- [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) — *TechCrunch AI*
-- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — *TechCrunch AI*
-- [AI Agents Don’t Live with Disabilities. People Do](https://www.salesforce.com/blog/accessible-ai-experiences/) — *Salesforce Blog*
+- [The MRI Scan Every Salesforce Admin Toolkit Needs](https://www.salesforceben.com/the-mri-scan-every-salesforce-admin-toolkit-needs/) — *Salesforce Ben*
+- [Microsoft to launch Maia 300 inference chip in 2027](https://www.constellationr.com/insights/news/microsoft-launch-maia-300-inference-chip-2027) — *Constellation Research*
+- [Data ontology: A kinder, gentler form of lock-in](https://www.constellationr.com/insights/news/data-ontology-kinder-gentler-form-lock) — *Constellation Research*
+- [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/) — *AWS Machine Learning*
+- [Agentic AI in Manufacturing: Scale From Pilot to Production](https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-in-manufacturing-pilot-to-production) — *Snowflake Blog*
+- [The New Rules of Trust, Work & Leadership | DisrupTV Episode 452](https://www.constellationr.com/video/disruptv/new-rules-trust-work-leadership-disruptv-episode-452) — *Constellation Research*
+- [It’s Not a SaaSpocalypse, It’s a MetamorphoSaaS!](https://www.salesforceben.com/its-not-a-saaspocalypse-its-a-metamorphosaas/) — *Salesforce Ben*
+- [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/) — *AWS Machine Learning*
 
 ---
 
-<sub>Every headline links to its original source. 2508 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2518 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
