@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-12T20:02:35.871Z",
+  "generatedAt": "2026-10-13T17:50:40.123Z",
   "stats": {
-    "considered": 2518,
-    "relevant": 34,
+    "considered": 2508,
+    "relevant": 46,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 21,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 619,
-    "minutes": 2.5791666666666666,
+    "words": 566,
+    "minutes": 2.3583333333333334,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "85% of Customers Have Tried Agentforce, But Demand Hasn’t Picked Up. Why? — Salesforce Ben",
-    "Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls — Constellation Research",
-    "How Flo Health built safer, more useful open models with Databricks AI Runtime — Databricks Blog",
-    "The state of AI in marketing: Q4 2026 — MarTech"
+    "Workday makes Sana its interface, launches Agent Harness, decision and work intelligence — Constellation Research",
+    "Salesforce buys AI analytics startup Loops — MarTech",
+    "Workday and Snowflake Zero-Copy Integration Now Available — Snowflake Blog",
+    "Ada Lovelace Day - What I’d say to me back then: Freshworks Kady Srinivasan on self-promotion and not settling — Diginomica"
   ],
   "sections": [
     {
@@ -25,30 +25,12 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "85% of Customers Have Tried Agentforce, But Demand Hasn’t Picked Up. Why?",
-          "url": "https://www.salesforceben.com/85-of-customers-have-tried-agentforce-but-demand-hasnt-picked-up-why/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-12T13:55:31.000Z",
-          "summary": "On the surface, Agentforce’s numbers keep getting bigger and better. With over 29,000 paid deals, over $1B in AI revenue, and plastered over nearly every promotional bit of material Salesforce has…",
-          "score": 94.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Renames AIforce to ‘SIforce’ After Trump Order",
-          "url": "https://www.salesforceben.com/salesforce-renames-aiforce-to-siforce-after-trump-order/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-12T15:35:37.000Z",
-          "summary": "Salesforce has renamed AIforce, its new agentic integration layer, to SIforce, according to the company’s CEO, Marc Benioff.",
-          "score": 90.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Piper: The Uncanny Valley Future of Agentforce?",
-          "url": "https://www.salesforceben.com/piper-the-uncanny-valley-future-of-agentforce/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-12T11:04:51.000Z",
-          "summary": "If you’ve been on any of Salesforce’s official webpages over the last few months, or you paid attention at Dreamforce 2026, you’d know that Salesforce has introduced Piper, its new AI Sales…",
-          "score": 88.4,
+          "title": "Salesforce buys AI analytics startup Loops",
+          "url": "https://martech.org/salesforce-buys-ai-analytics-startup-loops/",
+          "source": "MarTech",
+          "date": "2026-10-13T14:53:55.000Z",
+          "summary": "Salesforce is buying Loops to help explain why business metrics change, pushing analytics closer to continuous AI-driven interpretation.",
+          "score": 58.4,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +39,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-12T12:00:00.000Z",
           "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Loops, an AI-powered analytics platform that continuously monitors business performance, explains why key…",
-          "score": 75.7,
+          "score": 56.9,
           "alsoCoveredBy": []
         },
         {
@@ -66,31 +48,31 @@
           "source": "Salesforce Blog",
           "date": "2026-10-12T16:07:44.000Z",
           "summary": "How Slackbot skills, semantic governance, AI content controls, cost management, and operational visibility power trustworthy agentic analytics at scale.",
-          "score": 66.5,
+          "score": 50.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Why Salesforce Lets You Pick the Right AI Model for the Job",
+          "url": "https://www.salesforce.com/news/stories/ai-model-choice/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-13T15:00:00.000Z",
+          "summary": "Salesforce Chief Data Officer Michael Andrew explains how purpose-built models like Koa and multiplayer AI in Slack fit together.",
+          "score": 43.5,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "martech",
-      "label": "Marketing Tech",
+      "key": "crm",
+      "label": "CRM Platforms",
       "items": [
         {
-          "title": "The state of AI in marketing: Q4 2026",
-          "url": "https://martech.org/the-state-of-ai-in-marketing-q4-2026/",
-          "source": "MarTech",
-          "date": "2026-10-12T12:04:00.000Z",
-          "summary": "Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value.",
-          "score": 21.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Your social media following isn’t the asset you think it is",
-          "url": "https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/",
-          "source": "MarTech",
-          "date": "2026-10-12T12:19:00.000Z",
-          "summary": "Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships.",
-          "score": 16.7,
+          "title": "Ada Lovelace Day - What I’d say to me back then: Freshworks Kady Srinivasan on self-promotion and not settling",
+          "url": "https://diginomica.com/ada-lovelace-day-what-id-say-me-back-then-freshworks-kady-srinivasan-self-promotion-and-not",
+          "source": "Diginomica",
+          "date": "2026-10-13T09:30:01.000Z",
+          "summary": "How an early career pivot from software engineer to marketing paid off for one Indian student.",
+          "score": 14.2,
           "alsoCoveredBy": []
         }
       ]
@@ -100,12 +82,21 @@
       "label": "Data Platforms",
       "items": [
         {
+          "title": "Workday and Snowflake Zero-Copy Integration Now Available",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/workday-data-cloud-snowflake-zero-copy-integration",
+          "source": "Snowflake Blog",
+          "date": "2026-10-12T21:19:56.000Z",
+          "summary": "Workday Data Cloud and Snowflake's zero-copy, bidirectional integration is generally available. Query HR and financial data in place, with no pipelines.",
+          "score": 27.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "How Flo Health built safer, more useful open models with Databricks AI Runtime",
           "url": "https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime",
           "source": "Databricks Blog",
           "date": "2026-10-12T15:13:04.000Z",
           "summary": "For Flo Health, the bar for generative AI is unusually high. With 81 million monthly...",
-          "score": 27.5,
+          "score": 21,
           "alsoCoveredBy": []
         },
         {
@@ -114,7 +105,16 @@
           "source": "Snowflake Blog",
           "date": "2026-10-12T15:32:00.000Z",
           "summary": "Semantic Studio is now GA. Author, debug, and deploy semantic views in Snowflake Workspaces — with Snowflake CoCo, git versioning and CI/CD in one place.",
-          "score": 17.2,
+          "score": 13.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13",
+          "url": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-10T22:06:15.000Z",
+          "summary": "The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied…",
+          "score": 6.9,
           "alsoCoveredBy": []
         }
       ]
@@ -124,30 +124,39 @@
       "label": "AI",
       "items": [
         {
-          "title": "Microsoft CEO Nadella: Agentic AI needs healthy dose of deterministic controls",
-          "url": "https://www.constellationr.com/insights/news/microsoft-ceo-nadella-agentic-ai-needs-healthy-dose-deterministic-controls",
+          "title": "Workday makes Sana its interface, launches Agent Harness, decision and work intelligence",
+          "url": "https://www.constellationr.com/insights/news/workday-makes-sana-its-interface-launches-agent-harness-decision-and-work",
           "source": "Constellation Research",
-          "date": "2026-10-11T10:28:45.000Z",
+          "date": "2026-10-13T13:30:00.000Z",
           "summary": "",
-          "score": 77.3,
+          "score": 93.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Trust, Identity & Control: Every Action Earns Authority",
-          "url": "https://www.constellationr.com/research/blog/trust-identity-control-every-action-earns-authority",
+          "title": "IFS launches IFS Intelligence, Industrial AI Harness, eyes industrial productivity",
+          "url": "https://www.constellationr.com/insights/news/ifs-launches-ifs-intelligence-industrial-ai-harness-eyes-industrial-productivity",
           "source": "Constellation Research",
-          "date": "2026-10-12T19:20:47.000Z",
-          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
-          "score": 73.9,
+          "date": "2026-10-13T13:00:00.000Z",
+          "summary": "",
+          "score": 68.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "UKG outlines headless platform strategy",
-          "url": "https://www.constellationr.com/insights/news/ukg-outlines-headless-platform-strategy",
+          "title": "Anthropic licenses, releases Opaque in acquihire",
+          "url": "https://www.constellationr.com/insights/news/anthropic-licenses-releases-opaque-acquihire",
           "source": "Constellation Research",
-          "date": "2026-10-12T16:54:45.000Z",
+          "date": "2026-10-13T13:00:00.000Z",
           "summary": "",
-          "score": 65,
+          "score": 60.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AI agents are coming between you and your customers",
+          "url": "https://martech.org/ai-agents-are-coming-between-you-and-your-customers/",
+          "source": "MarTech",
+          "date": "2026-10-13T11:56:00.000Z",
+          "summary": "Customer preferences, purchase decisions, and even checkout are moving beyond brands' control. Here's what you can still influence — and how.",
+          "score": 53.9,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +165,7 @@
           "source": "MarTech",
           "date": "2026-10-12T12:50:00.000Z",
           "summary": "Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight.",
-          "score": 53.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Phasis develops platform for agentic orientation using World APIs and reality layers",
-          "url": "https://siliconangle.com/2026/10/12/orienting-ai-agents-phasis-thecube-models-neo4jdatatoknowledge/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-12T15:55:51.000Z",
-          "summary": "When the founders at Phasis Inc. sought to develop a platform for orienting AI agents, they turned to graphs as a way to obtain a measurement of culture.",
-          "score": 35.3,
+          "score": 40.1,
           "alsoCoveredBy": []
         }
       ]
@@ -173,9 +173,14 @@
   ],
   "quickLinks": [
     {
-      "title": "The MRI Scan Every Salesforce Admin Toolkit Needs",
-      "url": "https://www.salesforceben.com/the-mri-scan-every-salesforce-admin-toolkit-needs/",
-      "source": "Salesforce Ben"
+      "title": "Trust, Identity & Control: Every Action Earns Authority",
+      "url": "https://www.constellationr.com/research/blog/trust-identity-control-every-action-earns-authority",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "UKG outlines headless platform strategy",
+      "url": "https://www.constellationr.com/insights/news/ukg-outlines-headless-platform-strategy",
+      "source": "Constellation Research"
     },
     {
       "title": "Microsoft to launch Maia 300 inference chip in 2027",
@@ -183,33 +188,28 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Data ontology: A kinder, gentler form of lock-in",
-      "url": "https://www.constellationr.com/insights/news/data-ontology-kinder-gentler-form-lock",
+      "title": "How IFS’ industrial customers are approaching AI use cases",
+      "url": "https://www.constellationr.com/insights/news/how-ifs-industrial-customers-are-approaching-ai-use-cases",
       "source": "Constellation Research"
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Palihapitiya on AI valuations, energy, auditors",
+      "url": "https://www.constellationr.com/insights/news/palihapitiya-ai-valuations-energy-auditors",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Publicis calls AI marketing opportunity a ‘2-speed boat’ as agentic booms",
+      "url": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/",
+      "source": "Marketing Dive"
     },
     {
       "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
       "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "source": "AWS Machine Learning"
-    },
-    {
-      "title": "Agentic AI in Manufacturing: Scale From Pilot to Production",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-in-manufacturing-pilot-to-production",
-      "source": "Snowflake Blog"
-    },
-    {
-      "title": "The New Rules of Trust, Work & Leadership | DisrupTV Episode 452",
-      "url": "https://www.constellationr.com/video/disruptv/new-rules-trust-work-leadership-disruptv-episode-452",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "It’s Not a SaaSpocalypse, It’s a MetamorphoSaaS!",
-      "url": "https://www.salesforceben.com/its-not-a-saaspocalypse-its-a-metamorphosaas/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
       "source": "AWS Machine Learning"
     }
   ]
