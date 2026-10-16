@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T15:23:40.842Z",
+  "generatedAt": "2026-10-16T15:04:07.619Z",
   "stats": {
-    "considered": 2517,
-    "relevant": 76,
+    "considered": 2531,
+    "relevant": 79,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
     "words": 574,
@@ -15,9 +15,9 @@
   },
   "tldr": [
     "Workday outlines monetization plan, sees HR as jump off point to market expansion — Constellation Research",
-    "Tottenham Hotspur Launches Ask Spurs on Agentforce — Salesforce Newsroom",
-    "Snowflake and Lumen: Private Connectivity for AI — Snowflake Blog",
-    "ServiceNow announces AI Passport - bringing authorization, business context and a kill switch together — Diginomica"
+    "Email marketing’s history can guide AI governance — MarTech",
+    "Salesforce Job Demand Is Down 13%: Should You Still Bother in 2027? — Salesforce Ben",
+    "HubSpot’s Unbound 2026: The big announcements and updates — MarTech"
   ],
   "sections": [
     {
@@ -25,39 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Job Demand Is Down 13%: Should You Still Bother in 2027?",
+          "url": "https://www.salesforceben.com/salesforce-job-demand-is-down-13-should-you-still-bother-in-2027/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-16T12:50:07.000Z",
+          "summary": "For many, 2026 was the year Salesforce made some of its biggest ever industry bets. That, of course, trickled down to its job market, shaped by the accelerating rise of artificial intelligence, the…",
+          "score": 65.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Just Delivered 5 Long-Awaited IdeaExchange Features",
+          "url": "https://www.salesforceben.com/salesforce-just-delivered-5-long-awaited-ideaexchange-features/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-16T10:55:14.000Z",
+          "summary": "The Salesforce IdeaExchange has been around since 2006, which means some ideas have had plenty of time to become very, very patient.",
+          "score": 64.6,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
           "url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
           "source": "Salesforce Newsroom",
           "date": "2026-10-15T07:00:00.000Z",
           "summary": "Club unifies over 4.6 million fan accounts across 10+ systems, with new AI agent Ask Spurs achieving an 86% engagement rate.",
-          "score": 80.5,
+          "score": 58.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Confirms New MFA Updates: What You Should Expect",
-          "url": "https://www.salesforceben.com/salesforce-confirms-new-mfa-updates-what-you-should-expect/",
+          "title": "Ultimate Guide to ChatGPT and Codex for Salesforce Professionals",
+          "url": "https://www.salesforceben.com/ultimate-guide-to-chatgpt-and-codex-for-salesforce-professionals/",
           "source": "Salesforce Ben",
-          "date": "2026-10-15T15:19:29.000Z",
-          "summary": "If you’re still confused about what’s happening with Salesforce’s MFA rollout, you’re not the only one.",
-          "score": 67.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Acquires Analytics Platform Loops to Boost Tableau",
-          "url": "https://www.salesforceben.com/salesforce-acquires-analytics-platform-loops-to-boost-tableau/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-13T08:27:17.000Z",
-          "summary": "Salesforce is acquiring Loops – an AI-powered analytics platform that monitors business performance, explains changes in metrics, and surfaces opportunities to improve through the use of machine…",
-          "score": 53.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Exam Retake Policy: Is It Really Free?",
-          "url": "https://www.salesforceben.com/salesforce-exam-retake-policy-is-it-really-free/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-14T08:55:06.000Z",
-          "summary": "Salesforce and Pearson are offering a free exam retake this fall. In essence, if you take and don’t pass an eligible certification exam before November 17, your second attempt is free.",
-          "score": 46.1,
+          "date": "2026-10-16T13:57:27.000Z",
+          "summary": "ChatGPT burst onto the scene back in November of 2022 and kick-started the AI revolution. Since then, its company, OpenAI, has continued to evolve its offerings.",
+          "score": 57.1,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +66,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-15T15:00:31.000Z",
           "summary": "",
-          "score": 41.8,
+          "score": 31.5,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,36 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "ServiceNow announces AI Passport - bringing authorization, business context and a kill switch together",
-          "url": "https://diginomica.com/servicenow-announces-ai-passport-bringing-authorization-business-context-and-kill-switch-together",
-          "source": "Diginomica",
-          "date": "2026-10-15T14:15:00.000Z",
-          "summary": "ServiceNow keeps going deeper and deeper to try and ensure it can deliver value for enterprises struggling with agentic AI.",
-          "score": 29.5,
+          "title": "HubSpot’s Unbound 2026: The big announcements and updates",
+          "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
+          "source": "MarTech",
+          "date": "2026-10-16T13:40:10.000Z",
+          "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you.",
+          "score": 51,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "Email marketing’s history can guide AI governance",
+          "url": "https://martech.org/email-marketings-history-can-guide-ai-governance/",
+          "source": "MarTech",
+          "date": "2026-10-16T12:46:00.000Z",
+          "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility.",
+          "score": 71.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-15T15:45:35.000Z",
+          "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers.",
+          "score": 54.1,
           "alsoCoveredBy": []
         }
       ]
@@ -91,30 +115,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Snowflake and Lumen: Private Connectivity for AI",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-lumen-private-connectivity-ai",
-          "source": "Snowflake Blog",
-          "date": "2026-10-15T16:45:00.000Z",
-          "summary": "Snowflake and Lumen Technologies announce an alliance to privately and securely connect on-premises and edge data to Snowflake for analytics and AI.",
-          "score": 36,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Data Mirroring Is GA: Replicate Postgres Data to Snowflake in Seconds",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-mirroring-ga-snowflake-postgres",
-          "source": "Snowflake Blog",
-          "date": "2026-10-15T12:59:00.000Z",
-          "summary": "Data mirroring from Snowflake Postgres to Snowflake analytics is now generally available. Replicate inserts, updates, deletes and schema changes automatically — no pipelines, no extra infrastructure.",
-          "score": 35.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Sovereign Cloud for France: Snowflake and Bleu",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-bleu-sovereign-cloud-france",
-          "source": "Snowflake Blog",
-          "date": "2026-10-15T19:58:00.000Z",
-          "summary": "Snowflake announces its intent to partner with Bleu to bring AI Data Cloud capabilities to France's regulated markets on sovereign infrastructure.",
-          "score": 35,
+          "title": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
+          "url": "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
+          "source": "Databricks Blog",
+          "date": "2026-10-15T20:50:26.000Z",
+          "summary": "The challenge: Two decades of logging noise at global scaleAtlassian is a global...",
+          "score": 31.6,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +135,7 @@
           "source": "Constellation Research",
           "date": "2026-10-15T13:00:00.000Z",
           "summary": "",
-          "score": 121.7,
+          "score": 90.9,
           "alsoCoveredBy": []
         },
         {
@@ -138,16 +144,25 @@
           "source": "Constellation Research",
           "date": "2026-10-15T13:00:00.000Z",
           "summary": "",
-          "score": 103,
+          "score": 76.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "JPMorgan Chase aims to avoid AI lock-in, have nuanced view of AI agents",
-          "url": "https://www.constellationr.com/insights/news/jpmorgan-chase-aims-avoid-ai-lock-have-nuanced-view-ai-agents",
+          "title": "Meta launches Muse Spark Open, may appeal to enterprises",
+          "url": "https://www.constellationr.com/insights/news/meta-launches-muse-spark-open-may-appeal-enterprises",
           "source": "Constellation Research",
-          "date": "2026-10-14T10:30:00.000Z",
+          "date": "2026-10-15T20:24:36.000Z",
           "summary": "",
-          "score": 78.8,
+          "score": 59.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems",
+          "url": "https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-15T17:10:27.000Z",
+          "summary": "Nvidia Corp. today announced the launch of customizable Nemotron 3.5 Super LV large language models for always-on artificial intelligence agents and edge-focused 3.5 Bolt for local systems.",
+          "score": 38.9,
           "alsoCoveredBy": []
         },
         {
@@ -156,16 +171,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-10-15T13:00:48.000Z",
           "summary": "ServiceNow Inc. today announced new controls for governing artificial intelligence agents alongside updates to its EmployeeWorks information portal (pictured) that let employees build specialized…",
-          "score": 47.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "date": "2026-10-14T12:00:00.000Z",
-          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-          "score": 42.9,
+          "score": 35.4,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +179,44 @@
   ],
   "quickLinks": [
     {
+      "title": "JPMorgan Chase aims to avoid AI lock-in, have nuanced view of AI agents",
+      "url": "https://www.constellationr.com/insights/news/jpmorgan-chase-aims-avoid-ai-lock-have-nuanced-view-ai-agents",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Salesforce Confirms New MFA Updates: What You Should Expect",
+      "url": "https://www.salesforceben.com/salesforce-confirms-new-mfa-updates-what-you-should-expect/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
+      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
+      "source": "MarTech"
+    },
+    {
       "title": "Kodiak Gas Services needs to scale, humans and digital workers are the answer",
       "url": "https://www.constellationr.com/insights/news/kodiak-gas-services-needs-scale-humans-and-digital-workers-are-answer",
       "source": "Constellation Research"
     },
     {
-      "title": "Workday makes Sana its interface, launches Agent Harness, decision and work intelligence",
-      "url": "https://www.constellationr.com/insights/news/workday-makes-sana-its-interface-launches-agent-harness-decision-and-work",
+      "title": "Microsoft's releases MAI-Base-2 aimed at open models with a twist",
+      "url": "https://www.constellationr.com/insights/news/microsofts-releases-mai-base-2-aimed-open-models-twist",
       "source": "Constellation Research"
     },
     {
-      "title": "Uvi raises $7.5M to help AI agents learn business context and run at eight times lower cost",
-      "url": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/",
+      "title": "Cerebras positions inference speed as a competitive edge in agentic AI",
+      "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3",
-      "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
-      "source": "SiliconANGLE AI"
+      "title": "From Discovery to Remission: How Agentic AI Is Reshaping the Oncology Continuum",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-in-oncology",
+      "source": "Snowflake Blog"
     },
     {
-      "title": "Ultimate Guide to Salesforce Architecture Diagrams",
-      "url": "https://www.salesforceben.com/ultimate-guide-to-salesforce-architecture-diagrams/",
+      "title": "Salesforce Exam Retake Policy: Is It Really Free?",
+      "url": "https://www.salesforceben.com/salesforce-exam-retake-policy-is-it-really-free/",
       "source": "Salesforce Ben"
-    },
-    {
-      "title": "IFS launches IFS Intelligence, Industrial AI Harness, eyes industrial productivity",
-      "url": "https://www.constellationr.com/insights/news/ifs-launches-ifs-intelligence-industrial-ai-harness-eyes-industrial-productivity",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Salesforce Selected by HMRC to Modernise Tax Services for UK Citizens and Businesses",
-      "url": "https://www.salesforce.com/news/linked-content/salesforce-selected-by-hmrc-to-modernise-tax-services-for-uk-citizens-and-businesses/",
-      "source": "Salesforce Newsroom"
-    },
-    {
-      "title": "SolarWinds’ Avior pairs AI agents with deterministic execution for enterprise IT",
-      "url": "https://siliconangle.com/2026/10/14/solarwinds-avior-pairs-ai-agents-with-deterministic-execution-for-enterprise-it/",
-      "source": "SiliconANGLE AI"
     }
   ]
 }
