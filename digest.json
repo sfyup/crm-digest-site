@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-17T13:59:16.617Z",
+  "generatedAt": "2026-10-18T14:12:06.223Z",
   "stats": {
-    "considered": 2524,
-    "relevant": 64,
+    "considered": 2534,
+    "relevant": 51,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 540,
-    "minutes": 2.25,
+    "words": 579,
+    "minutes": 2.4125,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Workday outlines monetization plan, sees HR as jump off point to market expansion — Constellation Research",
+    "What we can learn from industrial, blue collar AI — Constellation Research",
     "Email marketing’s history can guide AI governance — MarTech",
-    "HubSpot’s Unbound 2026: The big announcements and updates — MarTech",
-    "Tottenham Hotspur Launches Ask Spurs on Agentforce — Salesforce Newsroom"
+    "Salesforce Job Demand Is Down 13%: Should You Still Bother in 2027? — Salesforce Ben",
+    "HubSpot’s Unbound 2026: The big announcements and updates — MarTech"
   ],
   "sections": [
     {
@@ -25,12 +25,30 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
-          "url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-15T07:00:00.000Z",
-          "summary": "Club unifies over 4.6 million fan accounts across 10+ systems, with new AI agent Ask Spurs achieving an 86% engagement rate.",
-          "score": 37.7,
+          "title": "Salesforce Job Demand Is Down 13%: Should You Still Bother in 2027?",
+          "url": "https://www.salesforceben.com/salesforce-job-demand-is-down-13-should-you-still-bother-in-2027/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-16T12:50:07.000Z",
+          "summary": "For many, 2026 was the year Salesforce made some of its biggest ever industry bets. That, of course, trickled down to its job market, shaped by the accelerating rise of artificial intelligence, the…",
+          "score": 32.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Just Delivered 5 Long-Awaited IdeaExchange Features",
+          "url": "https://www.salesforceben.com/salesforce-just-delivered-5-long-awaited-ideaexchange-features/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-16T10:55:14.000Z",
+          "summary": "The Salesforce IdeaExchange has been around since 2006, which means some ideas have had plenty of time to become very, very patient.",
+          "score": 31.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Ultimate Guide to ChatGPT and Codex for Salesforce Professionals",
+          "url": "https://www.salesforceben.com/ultimate-guide-to-chatgpt-and-codex-for-salesforce-professionals/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-16T13:57:27.000Z",
+          "summary": "ChatGPT burst onto the scene back in November of 2022 and kick-started the AI revolution. Since then, its company, OpenAI, has continued to evolve its offerings.",
+          "score": 28.7,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +57,7 @@
           "source": "Salesforce Blog",
           "date": "2026-10-16T21:05:59.000Z",
           "summary": "If you manage complex dealer networks, you know that legacy technologies can limit both your team and your buyers.",
-          "score": 21.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Pledges Free Slack Enterprise Access to Millions of Higher and Further Education Students in the UK",
-          "url": "https://www.salesforce.com/news/linked-content/salesforce-pledges-free-slack-enterprise-access-to-millions-of-higher-and-further-education-students-in-the-uk/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-15T15:00:31.000Z",
-          "summary": "",
-          "score": 21.4,
+          "score": 15.1,
           "alsoCoveredBy": []
         }
       ]
@@ -63,7 +72,16 @@
           "source": "MarTech",
           "date": "2026-10-16T13:40:10.000Z",
           "summary": "Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you.",
-          "score": 38.7,
+          "score": 25.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
+          "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-17T14:49:22.000Z",
+          "summary": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise artificial intelligence.",
+          "score": 20.4,
           "alsoCoveredBy": []
         },
         {
@@ -72,7 +90,7 @@
           "source": "Salesforce Blog",
           "date": "2026-10-16T13:00:00.000Z",
           "summary": "No coding, no jargon, no headache — here's CRM for non-techies, explained.",
-          "score": 21.2,
+          "score": 13.9,
           "alsoCoveredBy": []
         }
       ]
@@ -87,7 +105,7 @@
           "source": "MarTech",
           "date": "2026-10-16T12:46:00.000Z",
           "summary": "Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility.",
-          "score": 53.7,
+          "score": 35.3,
           "alsoCoveredBy": []
         }
       ]
@@ -102,25 +120,7 @@
           "source": "Databricks Blog",
           "date": "2026-10-15T20:50:26.000Z",
           "summary": "The challenge: Two decades of logging noise at global scaleAtlassian is a global...",
-          "score": 22.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Sovereign Cloud for France: Snowflake and Bleu",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-bleu-sovereign-cloud-france",
-          "source": "Snowflake Blog",
-          "date": "2026-10-15T19:58:00.000Z",
-          "summary": "Snowflake announces its intent to partner with Bleu to bring AI Data Cloud capabilities to France's regulated markets on sovereign infrastructure.",
-          "score": 19.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Snowflake and Lumen: Private Connectivity for AI",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-lumen-private-connectivity-ai",
-          "source": "Snowflake Blog",
-          "date": "2026-10-15T16:45:00.000Z",
-          "summary": "Snowflake and Lumen Technologies announce an alliance to privately and securely connect on-premises and edge data to Snowflake for analytics and AI.",
-          "score": 19,
+          "score": 12.4,
           "alsoCoveredBy": []
         }
       ]
@@ -130,30 +130,21 @@
       "label": "AI",
       "items": [
         {
-          "title": "Workday outlines monetization plan, sees HR as jump off point to market expansion",
-          "url": "https://www.constellationr.com/insights/news/workday-outlines-monetization-plan-sees-hr-jump-point-market-expansion",
+          "title": "What we can learn from industrial, blue collar AI",
+          "url": "https://www.constellationr.com/insights/news/what-we-can-learn-industrial-blue-collar-ai",
           "source": "Constellation Research",
-          "date": "2026-10-15T13:00:00.000Z",
+          "date": "2026-10-18T11:00:00.000Z",
           "summary": "",
-          "score": 61.1,
+          "score": 54.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform",
-          "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform",
-          "source": "Constellation Research",
-          "date": "2026-10-15T13:00:00.000Z",
-          "summary": "",
-          "score": 51.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Meta launches Muse Spark Open, may appeal to enterprises",
-          "url": "https://www.constellationr.com/insights/news/meta-launches-muse-spark-open-may-appeal-enterprises",
-          "source": "Constellation Research",
-          "date": "2026-10-15T20:24:36.000Z",
-          "summary": "",
-          "score": 42.2,
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-17T18:48:08.000Z",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "score": 46.5,
           "alsoCoveredBy": []
         },
         {
@@ -162,16 +153,25 @@
           "source": "MarTech",
           "date": "2026-10-16T18:56:37.000Z",
           "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.",
-          "score": 37,
+          "score": 25.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "The agentic AI era is forcing security and resilience into a single discipline",
-          "url": "https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-security-and-resilience-into-a-single-discipline/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-16T20:09:06.000Z",
-          "summary": "For two decades, security and data resilience have been neighbors who share a fence but rarely a budget. Security kept bad actors out, while resilience brought the business back when they got in.",
-          "score": 30,
+          "title": "Meta launches Muse Spark Open, may appeal to enterprises",
+          "url": "https://www.constellationr.com/insights/news/meta-launches-muse-spark-open-may-appeal-enterprises",
+          "source": "Constellation Research",
+          "date": "2026-10-15T20:24:36.000Z",
+          "summary": "",
+          "score": 23.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-17T20:21:19.000Z",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "score": 23.3,
           "alsoCoveredBy": []
         }
       ]
@@ -179,29 +179,19 @@
   ],
   "quickLinks": [
     {
+      "title": "The agentic AI era is forcing security and resilience into a single discipline",
+      "url": "https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-security-and-resilience-into-a-single-discipline/",
+      "source": "SiliconANGLE AI"
+    },
+    {
       "title": "The latest AI-powered martech news and releases",
       "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
       "source": "MarTech"
     },
     {
-      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
-      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
-      "source": "MarTech"
-    },
-    {
-      "title": "Kodiak Gas Services needs to scale, humans and digital workers are the answer",
-      "url": "https://www.constellationr.com/insights/news/kodiak-gas-services-needs-scale-humans-and-digital-workers-are-answer",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems",
-      "url": "https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/",
-      "source": "SiliconANGLE AI"
+      "title": "Salesforce Confirms New MFA Updates: What You Should Expect",
+      "url": "https://www.salesforceben.com/salesforce-confirms-new-mfa-updates-what-you-should-expect/",
+      "source": "Salesforce Ben"
     },
     {
       "title": "Microsoft's releases MAI-Base-2 aimed at open models with a twist",
@@ -209,14 +199,24 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "source": "AWS Machine Learning"
+      "title": "HubSpot adds spending controls and flexible billing as AI usage grows",
+      "url": "https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/",
+      "source": "MarTech"
     },
     {
       "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
       "source": "AWS Machine Learning"
+    },
+    {
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI"
     }
   ]
 }
