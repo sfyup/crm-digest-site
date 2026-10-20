@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-19T17:14:25.713Z",
+  "generatedAt": "2026-10-20T15:27:10.175Z",
   "stats": {
-    "considered": 2525,
-    "relevant": 32,
+    "considered": 2540,
+    "relevant": 53,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 596,
-    "minutes": 2.4833333333333334,
+    "words": 582,
+    "minutes": 2.425,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Agentforce Jobs Are Booming While Projects Stall in Pilot — Salesforce Ben",
-    "Accenture Federal Services, Google Public Sector roll out Gemini Launchpads — Constellation Research",
-    "How Snowflake Built an Agent to Fix Broken Data Pipelines — Snowflake Blog",
-    "ServiceNow AI Control Tower: Selling a penthouse while building the frame — SiliconANGLE AI"
+    "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator — Constellation Research",
+    "Salesforce Acquires AI Marketing Giant Braze for $5.66B — Salesforce Ben",
+    "Will Salesforce’s Braze deal bring clarity or chaos? — MarTech",
+    "How Snowflake Built an Agent to Fix Broken Data Pipelines — Snowflake Blog"
   ],
   "sections": [
     {
@@ -25,12 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Acquires AI Marketing Giant Braze for $5.66B",
+          "url": "https://www.salesforceben.com/salesforce-acquires-ai-marketing-giant-braze-for-5-66b/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-20T15:24:06.000Z",
+          "summary": "Salesforce is set to acquire AI marketing company Braze in a deal valued at approximately $5.66B. This forms part of its wider acquisition spree this year, dedicated to bringing in the industry’s…",
+          "score": 134.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce buys Braze for $5.66 billion",
+          "url": "https://www.constellationr.com/insights/news/salesforce-buys-braze-566-billion",
+          "source": "Constellation Research",
+          "date": "2026-10-20T13:01:19.000Z",
+          "summary": "",
+          "score": 134.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
+          "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-20T12:00:00.000Z",
+          "summary": "SAN FRANCISCO & NEW YORK — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: BRZE), a leading customer engagement…",
+          "score": 98.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Agentforce Jobs Are Booming While Projects Stall in Pilot",
           "url": "https://www.salesforceben.com/agentforce-jobs-are-booming-while-projects-stall-in-pilot/",
           "source": "Salesforce Ben",
           "date": "2026-10-19T13:30:00.000Z",
           "summary": "It may come as no surprise that Agentforce quickly became one of the most sought-after skills in the Salesforce ecosystem.",
-          "score": 108.1,
+          "score": 82.1,
           "alsoCoveredBy": []
         },
         {
@@ -39,49 +66,31 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-19T11:00:00.000Z",
           "summary": "Madrid named EMEA South hub as Salesforce expands office presence, customer innovation, and AI workforce development across the region.",
-          "score": 61.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Will 20 Years of Trailblazer Community Knowledge Survive the Move to Slack?",
-          "url": "https://www.salesforceben.com/will-20-years-of-trailblazer-community-knowledge-survive-the-move-to-slack/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-19T09:00:00.000Z",
-          "summary": "If you blinked during Dreamforce 2026, you might have missed one of the more significant community announcements.",
-          "score": 56.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How to Simplify Salesforce Document Management",
-          "url": "https://www.salesforceben.com/how-to-simplify-salesforce-document-management/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-19T12:40:17.000Z",
-          "summary": "Combine the best of both worlds: external document storage with native Salesforce user experience. Highlights No matter how mature your Salesforce implementation may be, the majority of business…",
-          "score": 54,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why ‘eating your own dog food’ is the best way to tame stem buyer remorse about AI. Salesforce, SAP, and ServiceNow are wolfing down the chow",
-          "url": "https://diginomica.com/why-eating-your-own-dog-food-best-way-tame-stem-buyer-remorse-about-ai-salesforce-sap-and",
-          "source": "Diginomica",
-          "date": "2026-10-19T11:05:02.000Z",
-          "summary": "Leading by example - how three enterprise AI leaders are showing their customers how the tech can deliver value.",
-          "score": 36.5,
+          "score": 46.3,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "crm",
-      "label": "CRM Platforms",
+      "key": "martech",
+      "label": "Marketing Tech",
       "items": [
         {
-          "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
-          "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-17T14:49:22.000Z",
-          "summary": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise artificial intelligence.",
-          "score": 12.8,
+          "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
+          "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
+          "source": "MarTech",
+          "date": "2026-10-20T14:25:04.000Z",
+          "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer.",
+          "score": 101.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How to use CRM segmentation to drive holiday repeat purchases",
+          "url": "https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/",
+          "source": "MarTech",
+          "date": "2026-10-20T13:00:00.000Z",
+          "summary": "Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media.",
+          "score": 50.6,
           "alsoCoveredBy": []
         }
       ]
@@ -96,25 +105,16 @@
           "source": "Snowflake Blog",
           "date": "2026-10-19T15:48:00.000Z",
           "summary": "Snowflake's data team built an AI agent that diagnoses monitored pipeline failure and opens a proposed fix in under 16 minutes. Here's how.",
-          "score": 48.3,
+          "score": 36.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Databricks Is Doubling Down On New York City As A Premier AI Talent Hub",
-          "url": "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
+          "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
+          "url": "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
           "source": "Databricks Blog",
-          "date": "2026-10-19T14:00:50.000Z",
-          "summary": "When Databricks opened its New York R&amp;D hub at 5 Bryant Park earlier this year, we...",
-          "score": 29,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Snowpipe Streaming Hits 41 GB/s Benchmark with Elastic Channels",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-elastic-channels-benchmark",
-          "source": "Snowflake Blog",
-          "date": "2026-10-19T17:27:00.000Z",
-          "summary": "Snowflake benchmarked Elastic Channels for Snowpipe Streaming at 41 GB/s and 133M rows/sec on a single table — 3.5x faster with linear horizontal scaling.",
-          "score": 12,
+          "date": "2026-10-20T00:01:41.000Z",
+          "summary": "At Data + AI Summit 2026,&nbsp;Luis Alonso, Global Head of Data Strategy &amp; Engineering...",
+          "score": 30.2,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +124,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "Accenture Federal Services, Google Public Sector roll out Gemini Launchpads",
-          "url": "https://www.constellationr.com/insights/news/accenture-federal-services-google-public-sector-roll-out-gemini-launchpads",
+          "title": "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator",
+          "url": "https://www.constellationr.com/insights/news/google-public-sector-launches-gemini-government-services-sees-ai-agents-integration",
           "source": "Constellation Research",
-          "date": "2026-10-19T12:00:00.000Z",
+          "date": "2026-10-20T13:43:00.000Z",
           "summary": "",
-          "score": 96.4,
+          "score": 152,
           "alsoCoveredBy": []
         },
         {
-          "title": "Boomi acquires Elementary Data, adds data observability, quality, governance layer",
-          "url": "https://www.constellationr.com/insights/news/boomi-acquires-elementary-data-adds-data-observability-quality-governance-layer",
+          "title": "There is no moat for LLM giants",
+          "url": "https://www.constellationr.com/insights/news/there-no-moat-llm-giants",
           "source": "Constellation Research",
-          "date": "2026-10-19T10:30:43.000Z",
+          "date": "2026-10-20T09:22:41.000Z",
           "summary": "",
-          "score": 74.8,
+          "score": 104.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
-          "url": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
-          "source": "AWS Machine Learning",
-          "date": "2026-10-19T16:03:23.000Z",
-          "summary": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed…",
-          "score": 38.7,
+          "title": "Agentic AI is moving fast - and cybersecurity must innovate to keep pace",
+          "url": "https://diginomica.com/agentic-ai-moving-fast-and-cybersecurity-must-innovate-keep-pace",
+          "source": "Diginomica",
+          "date": "2026-10-20T10:30:58.000Z",
+          "summary": "88% of UK organizations have had an agentic AI security incident in the past year, yet fewer than half contained it within 24 hours.",
+          "score": 48.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "What we can learn from industrial, blue collar AI",
-          "url": "https://www.constellationr.com/insights/news/what-we-can-learn-industrial-blue-collar-ai",
-          "source": "Constellation Research",
-          "date": "2026-10-18T11:00:00.000Z",
-          "summary": "",
-          "score": 38.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Motive Technologies revs up new AI Agents to automate fleet management",
-          "url": "https://siliconangle.com/2026/10/19/motive-technologies-revs-up-new-ai-agents-to-automate-fleet-management/",
+          "title": "MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%",
+          "url": "https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/",
           "source": "SiliconANGLE AI",
-          "date": "2026-10-19T13:00:16.000Z",
-          "summary": "Motive Technologies Inc. is pushing the needle for fleet management automation with the launch of a new artificial intelligence offering called Agents today.",
-          "score": 37,
+          "date": "2026-10-19T22:25:50.000Z",
+          "summary": "Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June.",
+          "score": 36.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "CustomerLake enters Beta: Leading enterprises going live with the Agentic CDP",
+          "url": "https://www.databricks.com/blog/customerlake-beta",
+          "source": "Databricks Blog",
+          "date": "2026-10-19T22:22:13.000Z",
+          "summary": "Today, we’re excited to share a major CustomerLake milestone:&nbsp;Campaign Agents is...",
+          "score": 32.1,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker",
-      "url": "https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/",
-      "source": "SiliconANGLE AI"
+      "title": "Accenture Federal Services, Google Public Sector roll out Gemini Launchpads",
+      "url": "https://www.constellationr.com/insights/news/accenture-federal-services-google-public-sector-roll-out-gemini-launchpads",
+      "source": "Constellation Research"
     },
     {
-      "title": "Motive brings agentic AI to physical operations with agents that act before problems escalate",
-      "url": "https://siliconangle.com/2026/10/19/motive-brings-agentic-ai-to-physical-operations-with-agents-that-act-before-problems-escalate/",
-      "source": "SiliconANGLE AI"
+      "title": "Boomi acquires Elementary Data, adds data observability, quality, governance layer",
+      "url": "https://www.constellationr.com/insights/news/boomi-acquires-elementary-data-adds-data-observability-quality-governance-layer",
+      "source": "Constellation Research"
     },
     {
-      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
-      "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
-      "source": "AWS Machine Learning"
+      "title": "Couchbase updates AI platform with Amazon Bedrock integration",
+      "url": "https://www.constellationr.com/insights/news/couchbase-updates-ai-platform-amazon-bedrock-integration",
+      "source": "Constellation Research"
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Best Claude skills for marketing and sales teams",
-      "url": "https://blog.hubspot.com/marketing/best-claude-skills",
-      "source": "HubSpot Marketing Blog"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "5 Tips to Help Your Non-Technical Staff Embrace AI",
-      "url": "https://www.salesforceben.com/5-tips-to-help-your-non-technical-staff-embrace-ai/",
+      "title": "Will 20 Years of Trailblazer Community Knowledge Survive the Move to Slack?",
+      "url": "https://www.salesforceben.com/will-20-years-of-trailblazer-community-knowledge-survive-the-move-to-slack/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch AI"
+      "title": "How to Simplify Salesforce Document Management",
+      "url": "https://www.salesforceben.com/how-to-simplify-salesforce-document-management/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "IBM-backed llm-d framework adds controls for running AI models in-house",
+      "url": "https://siliconangle.com/2026/10/20/ibm-backed-llm-d-framework-adds-controls-for-running-ai-models-in-house/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Motive Technologies revs up new AI Agents to automate fleet management",
+      "url": "https://siliconangle.com/2026/10/19/motive-technologies-revs-up-new-ai-agents-to-automate-fleet-management/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
