@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Wednesday, October 21, 2026 · 2–3 min read · 14 stories from 20 sources*
+*Thursday, October 22, 2026 · 2–3 min read · 14 stories from 20 sources*
 
 ## The 60-second version
 
 - HOT TAKE: The Salesforce Glow Up Continues with $5.6 Billion Pickup of Braze — Constellation Research
-- Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator — Constellation Research
+- The latest AI-powered martech news and releases — MarTech
+- Open models gain traction in enterprises, tech CEOs say — Constellation Research
 - Scaling Graph ML with NVIDIA Kumo on Snowflake ML — Snowflake Blog
-- Salesforce Opens Talks With Partners Over AI Agent Billing Concerns — Salesforce Ben
 
 ## Salesforce
 
@@ -15,20 +15,27 @@
 While covering CX as an enterprise strategy, Miller spends time zeroing in on the functional demands of Marketing and Service and the evolving role of the Chief Marketing Officer, the rise of the…
 <sub>Constellation Research · Oct 21</sub>
 
-**[Salesforce Opens Talks With Partners Over AI Agent Billing Concerns](https://www.salesforceben.com/salesforce-opens-talks-with-partners-over-ai-agent-billing-concerns/)**
-The mounting confusion over Salesforce’s recent changes to agentic billing and pricing has reached the Mothership, amid discussions surrounding the company’s decision to charge for agentic MCP and…
-<sub>Salesforce Ben · Oct 21</sub>
+**[Salesforce Named a Leader in 2026 Gartner® Magic Quadrant™ for Digital Commerce for the 11th Consecutive Year](https://www.salesforce.com/news/stories/gartner-magic-quadrant-digital-commerce-2026/)**
+Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision…
+<sub>Salesforce Newsroom · Oct 22</sub>
 
-**[Salesforce Acquires AI Marketing Giant Braze for $5.66B](https://www.salesforceben.com/salesforce-acquires-ai-marketing-giant-braze-for-5-66b/)**
-Salesforce is set to acquire AI marketing company Braze in a deal valued at approximately $5.66B. This forms part of its wider acquisition spree this year, dedicated to bringing in the industry’s…
-<sub>Salesforce Ben · Oct 20</sub>
+**[Salesforce Signs Definitive Agreement to Acquire Braze](https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/)**
+SAN FRANCISCO & NEW YORK — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: BRZE), a leading customer engagement…
+<sub>Salesforce Newsroom · Oct 20</sub>
 
-**[Salesforce buys Braze for $5.66 billion](https://www.constellationr.com/insights/news/salesforce-buys-braze-566-billion)**
-<sub>Constellation Research · Oct 20</sub>
+**[Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms](https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/)**
+According to the IDC MarketScape, our strengths include brand and distribution scale, hybrid reasoning with deterministic control, and a native, grounded data foundation.
+<sub>Salesforce Blog · Oct 21</sub>
 
-**[A brazen move to take a troublesome rival out of the game? What's behind Salesforce's $5.7 billion gambit to buy Braze?](https://diginomica.com/brazen-move-take-troublesome-rival-out-game-whats-behind-salesforces-57-billion-gambit-buy-braze)**
-Salesforce's Marketing offering hasn't exactly been turning in stellar growth of late. Might the latest acquisitive move by Salesforce help to turn that around?
-<sub>Diginomica · Oct 21</sub>
+## Marketing Tech
+
+**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
+Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors.
+<sub>MarTech · Oct 22</sub>
+
+**[Will Salesforce’s Braze deal bring clarity or chaos?](https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/)**
+The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer.
+<sub>MarTech · Oct 20</sub>
 
 ## Data Platforms
 
@@ -36,50 +43,45 @@ Salesforce's Marketing offering hasn't exactly been turning in stellar growth of
 NVIDIA Kumo, now open source, runs on Snowflake ML so teams can train graph neural networks on relational data with GPUs, all inside Snowflake.
 <sub>Snowflake Blog · Oct 21</sub>
 
-**[How Snowflake Built an Agent to Fix Broken Data Pipelines](https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-fixes-data-pipeline-failures)**
-Snowflake's data team built an AI agent that diagnoses monitored pipeline failure and opens a proposed fix in under 16 minutes. Here's how.
-<sub>Snowflake Blog · Oct 19</sub>
+**[Vivix Executable Digital Twin for Float Glass | Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/vivix-executable-digital-twin-float-glass)**
+See how Vivix's executable digital twin, built with Siemens, Snowflake and NVIDIA, aims to cut furnace energy use 3%-5% and extend furnace life.
+<sub>Snowflake Blog · Oct 21</sub>
 
-**[Introducing Agent Memory on Databricks](https://www.databricks.com/blog/introducing-agent-memory-databricks)**
-Today we're introducing agent memory on Agent Bricks, Databricks' agent developer...
-<sub>Databricks Blog · Oct 20</sub>
-
-**[Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data](https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models)**
-GPUs power today's most advanced AI workloads, from cutting-edge language models...
-<sub>Databricks Blog · Oct 21</sub>
+**[Data Migration Tools: Meet the Snowflake AIM Application](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-aim-application-data-migration-tools)**
+The Snowflake AIM application brings data migration tools into one guided desktop workflow: convert code, deploy in waves, move data and validate results.
+<sub>Snowflake Blog · Oct 21</sub>
 
 ## AI
 
-**[Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator](https://www.constellationr.com/insights/news/google-public-sector-launches-gemini-government-services-sees-ai-agents-integration)**
-<sub>Constellation Research · Oct 20</sub>
+**[Open models gain traction in enterprises, tech CEOs say](https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say)**
+<sub>Constellation Research · Oct 22</sub>
+
+**[Anthropic introduces Claude Duet, a proactive AI agent for professionals](https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/)**
+Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps…
+<sub>SiliconANGLE AI · Oct 22</sub>
+
+**[Microsoft launches Contact Center Intelligence in public preview](https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview)**
+<sub>Constellation Research · Oct 21</sub>
+
+**[How to build a reliable source of truth for AI agents](https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/)**
+Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on.
+<sub>MarTech · Oct 22</sub>
 
 **[OpenAI acquires Orchestra Bio to bring AI agents into drug development](https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/)**
 OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc.
 <sub>SiliconANGLE AI · Oct 20</sub>
 
-**[As agentic AI evolves beyond its visionary phase, is enterprise adoption with the pragmatists now?](https://diginomica.com/agentic-ai-evolves-beyond-its-visionary-phase-enterprise-adoption-pragmatists-now)**
-G2’s new research shows that adoption of agentic AI is growing, but significant hurdles remain, including rising governance costs, before success can be declared.
-<sub>Diginomica · Oct 21</sub>
-
-**[Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)**
-See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
-<sub>OpenAI News · Oct 21</sub>
-
-**[Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed](https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/)**
-Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s…
-<sub>SiliconANGLE AI · Oct 20</sub>
-
 ## Also worth a click
 
-- [There is no moat for LLM giants](https://www.constellationr.com/insights/news/there-no-moat-llm-giants) — *Constellation Research*
-- [Google Public Sector customers: Data foundation eases AI bottlenecks](https://www.constellationr.com/insights/news/google-public-sector-customers-data-foundation-eases-ai-bottlenecks) — *Constellation Research*
-- [Microsoft launches Contact Center Intelligence in public preview](https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview) — *Constellation Research*
-- [Salesforce Signs Definitive Agreement to Acquire Braze](https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/) — *Salesforce Newsroom*
-- [What Will a Salesforce Admin Actually Do in 2027?](https://www.salesforceben.com/what-will-a-salesforce-admin-actually-do-in-2027/) — *Salesforce Ben*
+- [The Three AI Reckonings Your Board Isn't Discussing (But Should Be)](https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be) — *Constellation Research*
+- [SAP posts strong Q3 on cloud growth](https://www.constellationr.com/insights/news/sap-posts-strong-q3-cloud-growth) — *Constellation Research*
 - [Security at machine speed has its growing pains](https://www.constellationr.com/insights/news/security-machine-speed-has-its-growing-pains) — *Constellation Research*
-- [Agentforce Jobs Are Booming While Projects Stall in Pilot](https://www.salesforceben.com/agentforce-jobs-are-booming-while-projects-stall-in-pilot/) — *Salesforce Ben*
-- [How to Choose a Scalable Salesforce Power BI Integration](https://www.salesforceben.com/how-to-choose-a-scalable-salesforce-power-bi-integration/) — *Salesforce Ben*
+- [ServiceNow World Forum London – how Experian and BT are taking different paths to agentic AI](https://diginomica.com/servicenow-world-forum-london-how-experian-and-bt-are-taking-different-paths-agentic-ai) — *Diginomica*
+- [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/) — *TechCrunch AI*
+- [Meta optimistic about Muse, Meta Enterprise Platform returns](https://www.constellationr.com/insights/news/meta-optimistic-about-muse-meta-enterprise-platform-returns) — *Constellation Research*
+- [Microsoft Contact Center Intelligence: Transforming customer experience at agentic speed](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/10/21/microsoft-contact-center-intelligence-transforming-customer-experience-at-agentic-speed/) — *MS Dynamics 365 Blog*
+- [Startup Action State launches tools for verifying interactions between AI agents](https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2539 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2546 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>

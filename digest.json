@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-21T15:43:37.080Z",
+  "generatedAt": "2026-10-22T15:43:03.491Z",
   "stats": {
-    "considered": 2539,
-    "relevant": 81,
+    "considered": 2546,
+    "relevant": 92,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 660,
-    "minutes": 2.75,
+    "words": 628,
+    "minutes": 2.6166666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "HOT TAKE: The Salesforce Glow Up Continues with $5.6 Billion Pickup of Braze — Constellation Research",
-    "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator — Constellation Research",
-    "Scaling Graph ML with NVIDIA Kumo on Snowflake ML — Snowflake Blog",
-    "Salesforce Opens Talks With Partners Over AI Agent Billing Concerns — Salesforce Ben"
+    "The latest AI-powered martech news and releases — MarTech",
+    "Open models gain traction in enterprises, tech CEOs say — Constellation Research",
+    "Scaling Graph ML with NVIDIA Kumo on Snowflake ML — Snowflake Blog"
   ],
   "sections": [
     {
@@ -30,43 +30,58 @@
           "source": "Constellation Research",
           "date": "2026-10-21T04:38:28.000Z",
           "summary": "While covering CX as an enterprise strategy, Miller spends time zeroing in on the functional demands of Marketing and Service and the evolving role of the Chief Marketing Officer, the rise of the…",
-          "score": 172,
+          "score": 123.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Opens Talks With Partners Over AI Agent Billing Concerns",
-          "url": "https://www.salesforceben.com/salesforce-opens-talks-with-partners-over-ai-agent-billing-concerns/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-21T12:07:45.000Z",
-          "summary": "The mounting confusion over Salesforce’s recent changes to agentic billing and pricing has reached the Mothership, amid discussions surrounding the company’s decision to charge for agentic MCP and…",
-          "score": 129.9,
+          "title": "Salesforce Named a Leader in 2026 Gartner® Magic Quadrant™ for Digital Commerce for the 11th Consecutive Year",
+          "url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-digital-commerce-2026/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-22T15:00:00.000Z",
+          "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision…",
+          "score": 50,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Acquires AI Marketing Giant Braze for $5.66B",
-          "url": "https://www.salesforceben.com/salesforce-acquires-ai-marketing-giant-braze-for-5-66b/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-20T15:24:06.000Z",
-          "summary": "Salesforce is set to acquire AI marketing company Braze in a deal valued at approximately $5.66B. This forms part of its wider acquisition spree this year, dedicated to bringing in the industry’s…",
-          "score": 100.8,
+          "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
+          "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-20T12:00:00.000Z",
+          "summary": "SAN FRANCISCO & NEW YORK — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: BRZE), a leading customer engagement…",
+          "score": 47.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce buys Braze for $5.66 billion",
-          "url": "https://www.constellationr.com/insights/news/salesforce-buys-braze-566-billion",
-          "source": "Constellation Research",
-          "date": "2026-10-20T13:01:19.000Z",
-          "summary": "",
-          "score": 99.6,
+          "title": "Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms",
+          "url": "https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-21T12:28:43.000Z",
+          "summary": "According to the IDC MarketScape, our strengths include brand and distribution scale, hybrid reasoning with deterministic control, and a native, grounded data foundation.",
+          "score": 35.5,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-22T14:43:36.000Z",
+          "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors.",
+          "score": 77.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "A brazen move to take a troublesome rival out of the game? What's behind Salesforce's $5.7 billion gambit to buy Braze?",
-          "url": "https://diginomica.com/brazen-move-take-troublesome-rival-out-game-whats-behind-salesforces-57-billion-gambit-buy-braze",
-          "source": "Diginomica",
-          "date": "2026-10-21T09:56:47.000Z",
-          "summary": "Salesforce's Marketing offering hasn't exactly been turning in stellar growth of late. Might the latest acquisitive move by Salesforce help to turn that around?",
-          "score": 73.3,
+          "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
+          "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/",
+          "source": "MarTech",
+          "date": "2026-10-20T14:25:04.000Z",
+          "summary": "The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer.",
+          "score": 49.7,
           "alsoCoveredBy": []
         }
       ]
@@ -81,34 +96,25 @@
           "source": "Snowflake Blog",
           "date": "2026-10-21T11:25:00.000Z",
           "summary": "NVIDIA Kumo, now open source, runs on Snowflake ML so teams can train graph neural networks on relational data with GPUs, all inside Snowflake.",
-          "score": 34.4,
+          "score": 25.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "How Snowflake Built an Agent to Fix Broken Data Pipelines",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-fixes-data-pipeline-failures",
+          "title": "Vivix Executable Digital Twin for Float Glass | Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/vivix-executable-digital-twin-float-glass",
           "source": "Snowflake Blog",
-          "date": "2026-10-19T15:48:00.000Z",
-          "summary": "Snowflake's data team built an AI agent that diagnoses monitored pipeline failure and opens a proposed fix in under 16 minutes. Here's how.",
-          "score": 24.5,
+          "date": "2026-10-21T20:13:00.000Z",
+          "summary": "See how Vivix's executable digital twin, built with Siemens, Snowflake and NVIDIA, aims to cut furnace energy use 3%-5% and extend furnace life.",
+          "score": 23.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Introducing Agent Memory on Databricks",
-          "url": "https://www.databricks.com/blog/introducing-agent-memory-databricks",
-          "source": "Databricks Blog",
-          "date": "2026-10-20T17:26:56.000Z",
-          "summary": "Today we're introducing agent memory on Agent Bricks, Databricks' agent developer...",
-          "score": 23,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
-          "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
-          "source": "Databricks Blog",
-          "date": "2026-10-21T11:30:00.000Z",
-          "summary": "GPUs power today's most advanced AI workloads, from cutting-edge language models...",
-          "score": 22.9,
+          "title": "Data Migration Tools: Meet the Snowflake AIM Application",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-aim-application-data-migration-tools",
+          "source": "Snowflake Blog",
+          "date": "2026-10-21T19:58:00.000Z",
+          "summary": "The Snowflake AIM application brings data migration tools into one guided desktop workflow: convert code, deploy in waves, move data and validate results.",
+          "score": 23.8,
           "alsoCoveredBy": []
         }
       ]
@@ -118,12 +124,39 @@
       "label": "AI",
       "items": [
         {
-          "title": "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator",
-          "url": "https://www.constellationr.com/insights/news/google-public-sector-launches-gemini-government-services-sees-ai-agents-integration",
+          "title": "Open models gain traction in enterprises, tech CEOs say",
+          "url": "https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say",
           "source": "Constellation Research",
-          "date": "2026-10-20T13:43:00.000Z",
+          "date": "2026-10-22T10:55:58.000Z",
           "summary": "",
-          "score": 112.9,
+          "score": 74.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
+          "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-22T13:20:53.000Z",
+          "summary": "Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps…",
+          "score": 69.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Microsoft launches Contact Center Intelligence in public preview",
+          "url": "https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview",
+          "source": "Constellation Research",
+          "date": "2026-10-21T15:00:00.000Z",
+          "summary": "",
+          "score": 65.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How to build a reliable source of truth for AI agents",
+          "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+          "source": "MarTech",
+          "date": "2026-10-22T12:33:00.000Z",
+          "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on.",
+          "score": 45.5,
           "alsoCoveredBy": []
         },
         {
@@ -132,34 +165,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-10-20T23:40:20.000Z",
           "summary": "OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc.",
-          "score": 60,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "As agentic AI evolves beyond its visionary phase, is enterprise adoption with the pragmatists now?",
-          "url": "https://diginomica.com/agentic-ai-evolves-beyond-its-visionary-phase-enterprise-adoption-pragmatists-now",
-          "source": "Diginomica",
-          "date": "2026-10-21T08:35:01.000Z",
-          "summary": "G2’s new research shows that adoption of agentic AI is growing, but significant hurdles remain, including rising governance costs, before success can be declared.",
-          "score": 48.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Using thousands of AI agents to uncover new leads in biological data",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI News",
-          "date": "2026-10-21T04:50:00.000Z",
-          "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-          "score": 41.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
-          "url": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-20T22:45:02.000Z",
-          "summary": "Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s…",
-          "score": 41.5,
+          "score": 42,
           "alsoCoveredBy": []
         }
       ]
@@ -167,29 +173,14 @@
   ],
   "quickLinks": [
     {
-      "title": "There is no moat for LLM giants",
-      "url": "https://www.constellationr.com/insights/news/there-no-moat-llm-giants",
+      "title": "The Three AI Reckonings Your Board Isn't Discussing (But Should Be)",
+      "url": "https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be",
       "source": "Constellation Research"
     },
     {
-      "title": "Google Public Sector customers: Data foundation eases AI bottlenecks",
-      "url": "https://www.constellationr.com/insights/news/google-public-sector-customers-data-foundation-eases-ai-bottlenecks",
+      "title": "SAP posts strong Q3 on cloud growth",
+      "url": "https://www.constellationr.com/insights/news/sap-posts-strong-q3-cloud-growth",
       "source": "Constellation Research"
-    },
-    {
-      "title": "Microsoft launches Contact Center Intelligence in public preview",
-      "url": "https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
-      "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
-      "source": "Salesforce Newsroom"
-    },
-    {
-      "title": "What Will a Salesforce Admin Actually Do in 2027?",
-      "url": "https://www.salesforceben.com/what-will-a-salesforce-admin-actually-do-in-2027/",
-      "source": "Salesforce Ben"
     },
     {
       "title": "Security at machine speed has its growing pains",
@@ -197,14 +188,29 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Agentforce Jobs Are Booming While Projects Stall in Pilot",
-      "url": "https://www.salesforceben.com/agentforce-jobs-are-booming-while-projects-stall-in-pilot/",
-      "source": "Salesforce Ben"
+      "title": "ServiceNow World Forum London – how Experian and BT are taking different paths to agentic AI",
+      "url": "https://diginomica.com/servicenow-world-forum-london-how-experian-and-bt-are-taking-different-paths-agentic-ai",
+      "source": "Diginomica"
     },
     {
-      "title": "How to Choose a Scalable Salesforce Power BI Integration",
-      "url": "https://www.salesforceben.com/how-to-choose-a-scalable-salesforce-power-bi-integration/",
-      "source": "Salesforce Ben"
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Meta optimistic about Muse, Meta Enterprise Platform returns",
+      "url": "https://www.constellationr.com/insights/news/meta-optimistic-about-muse-meta-enterprise-platform-returns",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Microsoft Contact Center Intelligence: Transforming customer experience at agentic speed",
+      "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/10/21/microsoft-contact-center-intelligence-transforming-customer-experience-at-agentic-speed/",
+      "source": "MS Dynamics 365 Blog"
+    },
+    {
+      "title": "Startup Action State launches tools for verifying interactions between AI agents",
+      "url": "https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
