@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-23T15:31:30.790Z",
+  "generatedAt": "2026-10-24T14:09:53.564Z",
   "stats": {
-    "considered": 2551,
-    "relevant": 79,
+    "considered": 2563,
+    "relevant": 75,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 651,
-    "minutes": 2.7125,
+    "words": 635,
+    "minutes": 2.6458333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents? — Salesforce Ben",
     "Salesforce Email Login Is the New Default: Convenience or Security Risk? — Salesforce Ben",
-    "Databricks vs. Oracle in 2026 — Databricks Blog",
-    "Microsoft is named a Visionary in the 2026 Gartner® Magic Quadrant™ for Contact Center as a Service — MS Dynamics 365 Blog"
+    "Built to adapt: Why composable martech is becoming the new standard — MarTech",
+    "Real-time energy trading and analytics on Databricks — Databricks Blog"
   ],
   "sections": [
     {
@@ -30,16 +30,16 @@
           "source": "Salesforce Ben",
           "date": "2026-10-23T15:08:10.000Z",
           "summary": "If you use login.salesforce.com or test.salesforce.com to get into your orgs and are using your username to log in, Salesforce sent out an email in September stating that they will be making email…",
-          "score": 67.2,
+          "score": 51.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Opens Talks With Partners Over AI Agent Billing Concerns",
-          "url": "https://www.salesforceben.com/salesforce-opens-talks-with-partners-over-ai-agent-billing-concerns/",
+          "title": "Why Are Salesforce Architects Becoming Forward Deployed Engineers?",
+          "url": "https://www.salesforceben.com/why-are-salesforce-architects-becoming-forward-deployed-engineers/",
           "source": "Salesforce Ben",
-          "date": "2026-10-21T12:07:45.000Z",
-          "summary": "The mounting confusion over Salesforce’s recent changes to agentic billing and pricing has reached the Mothership, amid discussions surrounding the company’s decision to charge for agentic MCP and…",
-          "score": 62.7,
+          "date": "2026-10-23T11:21:24.000Z",
+          "summary": "We have heard time and again that artificial intelligence would bring new jobs to the tech sector, and we have finally begun seeing evidence of this.",
+          "score": 42.2,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-22T15:00:00.000Z",
           "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision…",
-          "score": 37.5,
+          "score": 25.6,
           "alsoCoveredBy": []
         },
         {
@@ -57,31 +57,40 @@
           "source": "Salesforce Blog",
           "date": "2026-10-22T18:17:11.000Z",
           "summary": "Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.",
-          "score": 28.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms",
-          "url": "https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/",
-          "source": "Salesforce Blog",
-          "date": "2026-10-21T12:28:43.000Z",
-          "summary": "According to the IDC MarketScape, our strengths include brand and distribution scale, hybrid reasoning with deterministic control, and a native, grounded data foundation.",
-          "score": 23.2,
+          "score": 19.7,
           "alsoCoveredBy": []
         }
       ]
     },
     {
-      "key": "crm",
-      "label": "CRM Platforms",
+      "key": "martech",
+      "label": "Marketing Tech",
       "items": [
         {
-          "title": "Microsoft is named a Visionary in the 2026 Gartner® Magic Quadrant™ for Contact Center as a Service",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/10/22/microsoft-is-named-a-visionary-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-10-22T18:15:00.000Z",
-          "summary": "Contact centers are where customer loyalty is won or lost, and they're changing fast.",
-          "score": 15.4,
+          "title": "Built to adapt: Why composable martech is becoming the new standard",
+          "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
+          "source": "MarTech",
+          "date": "2026-10-23T11:49:00.000Z",
+          "summary": "4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch.",
+          "score": 48.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-22T14:43:36.000Z",
+          "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors.",
+          "score": 39.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Personalization knows what customers want, not who they are",
+          "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+          "source": "MarTech",
+          "date": "2026-10-23T12:55:00.000Z",
+          "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason.",
+          "score": 25.8,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +100,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Databricks vs. Oracle in 2026",
-          "url": "https://www.databricks.com/blog/databricks-vs-oracle-2026",
+          "title": "Real-time energy trading and analytics on Databricks",
+          "url": "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
           "source": "Databricks Blog",
-          "date": "2026-10-23T13:45:42.000Z",
-          "summary": "Why organizations are moving beyond OracleEnterprise data warehouses built on Oracle...",
-          "score": 28.5,
+          "date": "2026-10-23T19:00:00.000Z",
+          "summary": "Why does real-time energy trading need more than faster data?Energy trading desks...",
+          "score": 19.2,
           "alsoCoveredBy": []
         },
         {
@@ -105,16 +114,7 @@
           "source": "Snowflake Blog",
           "date": "2026-10-22T16:00:48.000Z",
           "summary": "See how Brilliant Earth runs Posit inside Snowflake to drive data democratization with governed, self-service analytics apps for business teams.",
-          "score": 22.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Vivix Executable Digital Twin for Float Glass | Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/vivix-executable-digital-twin-float-glass",
-          "source": "Snowflake Blog",
-          "date": "2026-10-21T20:13:00.000Z",
-          "summary": "See how Vivix's executable digital twin, built with Siemens, Snowflake and NVIDIA, aims to cut furnace energy use 3%-5% and extend furnace life.",
-          "score": 16.5,
+          "score": 15.6,
           "alsoCoveredBy": []
         }
       ]
@@ -129,7 +129,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-22T15:28:31.000Z",
           "summary": "Traditional use of AI in the past few years has largely meant just telling it what to do and firmly being in the driving seat. But Anthropic’s newly announced Claude Duet wants to change that.",
-          "score": 106.8,
+          "score": 73.2,
           "alsoCoveredBy": []
         },
         {
@@ -138,16 +138,7 @@
           "source": "Constellation Research",
           "date": "2026-10-23T11:00:28.000Z",
           "summary": "",
-          "score": 60.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Open models gain traction in enterprises, tech CEOs say",
-          "url": "https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say",
-          "source": "Constellation Research",
-          "date": "2026-10-22T10:55:58.000Z",
-          "summary": "",
-          "score": 54.8,
+          "score": 45.6,
           "alsoCoveredBy": []
         },
         {
@@ -156,7 +147,16 @@
           "source": "Snowflake Blog",
           "date": "2026-10-22T19:58:00.000Z",
           "summary": "Agentic analytics lets AI agents investigate business questions on their own. See how Snowflake grounds, runs and governs that work.",
-          "score": 54.1,
+          "score": 38.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Open models gain traction in enterprises, tech CEOs say",
+          "url": "https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say",
+          "source": "Constellation Research",
+          "date": "2026-10-22T10:55:58.000Z",
+          "summary": "",
+          "score": 36.4,
           "alsoCoveredBy": []
         },
         {
@@ -165,7 +165,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-10-22T13:20:53.000Z",
           "summary": "Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps…",
-          "score": 51.7,
+          "score": 34.9,
           "alsoCoveredBy": []
         }
       ]
@@ -173,18 +173,13 @@
   ],
   "quickLinks": [
     {
-      "title": "Why Are Salesforce Architects Becoming Forward Deployed Engineers?",
-      "url": "https://www.salesforceben.com/why-are-salesforce-architects-becoming-forward-deployed-engineers/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Microsoft launches Contact Center Intelligence in public preview",
-      "url": "https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview",
+      "title": "The Three AI Reckonings Your Board Isn't Discussing (But Should Be)",
+      "url": "https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be",
       "source": "Constellation Research"
     },
     {
-      "title": "The Three AI Reckonings Your Board Isn't Discussing (But Should Be)",
-      "url": "https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be",
+      "title": "From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454",
+      "url": "https://www.constellationr.com/video/disruptv/machine-identity-disruption-what-leaders-need-prepare-disruptv-episode-454",
       "source": "Constellation Research"
     },
     {
@@ -193,23 +188,28 @@
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "SAP posts strong Q3 on cloud growth",
-      "url": "https://www.constellationr.com/insights/news/sap-posts-strong-q3-cloud-growth",
-      "source": "Constellation Research"
-    },
-    {
       "title": "Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO",
       "url": "https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "title": "How to build a reliable source of truth for AI agents",
+      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+      "source": "MarTech"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch AI"
     }
   ]
