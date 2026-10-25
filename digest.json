@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-24T14:09:53.564Z",
+  "generatedAt": "2026-10-25T14:39:48.045Z",
   "stats": {
     "considered": 2563,
-    "relevant": 75,
+    "relevant": 51,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 635,
-    "minutes": 2.6458333333333335,
+    "words": 666,
+    "minutes": 2.775,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents? — Salesforce Ben",
+    "CIOs will need to navigate the nuance for enterprise AI vendors — Constellation Research",
     "Salesforce Email Login Is the New Default: Convenience or Security Risk? — Salesforce Ben",
     "Built to adapt: Why composable martech is becoming the new standard — MarTech",
-    "Real-time energy trading and analytics on Databricks — Databricks Blog"
+    "Helping contact center admins discover what matters, where they work — MS Dynamics 365 Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-23T15:08:10.000Z",
           "summary": "If you use login.salesforce.com or test.salesforce.com to get into your orgs and are using your username to log in, Salesforce sent out an email in September stating that they will be making email…",
-          "score": 51.3,
+          "score": 34.1,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-23T11:21:24.000Z",
           "summary": "We have heard time and again that artificial intelligence would bring new jobs to the tech sector, and we have finally begun seeing evidence of this.",
-          "score": 42.2,
+          "score": 27.2,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-22T15:00:00.000Z",
           "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision…",
-          "score": 25.6,
+          "score": 12.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +57,22 @@
           "source": "Salesforce Blog",
           "date": "2026-10-22T18:17:11.000Z",
           "summary": "Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.",
-          "score": 19.7,
+          "score": 10.4,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "Helping contact center admins discover what matters, where they work",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/23/dynamics-365-contact-center-whats-new-admins/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-10-23T15:30:00.000Z",
+          "summary": "Discover how the new What’s New experience in Dynamics 365 Contact Center helps admins find AI-powered capabilities, guidance, and updates where they already work.",
+          "score": 13.4,
           "alsoCoveredBy": []
         }
       ]
@@ -72,7 +87,7 @@
           "source": "MarTech",
           "date": "2026-10-23T11:49:00.000Z",
           "summary": "4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch.",
-          "score": 48.8,
+          "score": 31.6,
           "alsoCoveredBy": []
         },
         {
@@ -81,7 +96,7 @@
           "source": "MarTech",
           "date": "2026-10-22T14:43:36.000Z",
           "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors.",
-          "score": 39.7,
+          "score": 19.7,
           "alsoCoveredBy": []
         },
         {
@@ -90,7 +105,7 @@
           "source": "MarTech",
           "date": "2026-10-23T12:55:00.000Z",
           "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason.",
-          "score": 25.8,
+          "score": 16.9,
           "alsoCoveredBy": []
         }
       ]
@@ -105,16 +120,7 @@
           "source": "Databricks Blog",
           "date": "2026-10-23T19:00:00.000Z",
           "summary": "Why does real-time energy trading need more than faster data?Energy trading desks...",
-          "score": 19.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How Brilliant Earth Drives Data Democratization | Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/brilliant-earth-data-democratization-snowflake-posit",
-          "source": "Snowflake Blog",
-          "date": "2026-10-22T16:00:48.000Z",
-          "summary": "See how Brilliant Earth runs Posit inside Snowflake to drive data democratization with governed, self-service analytics apps for business teams.",
-          "score": 15.6,
+          "score": 13.1,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +130,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "CIOs will need to navigate the nuance for enterprise AI vendors",
+          "url": "https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors",
+          "source": "Constellation Research",
+          "date": "2026-10-25T09:25:03.000Z",
+          "summary": "",
+          "score": 101,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents?",
           "url": "https://www.salesforceben.com/is-anthropics-always-on-claude-duet-the-next-frontier-of-ai-agents/",
           "source": "Salesforce Ben",
           "date": "2026-10-22T15:28:31.000Z",
           "summary": "Traditional use of AI in the past few years has largely meant just telling it what to do and firmly being in the driving seat. But Anthropic’s newly announced Claude Duet wants to change that.",
-          "score": 73.2,
+          "score": 36.8,
           "alsoCoveredBy": []
         },
         {
@@ -138,34 +153,25 @@
           "source": "Constellation Research",
           "date": "2026-10-23T11:00:28.000Z",
           "summary": "",
-          "score": 45.6,
+          "score": 29.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Agentic Analytics: Building a Data Foundation for AI Agents",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-analytics-data-foundation",
-          "source": "Snowflake Blog",
-          "date": "2026-10-22T19:58:00.000Z",
-          "summary": "Agentic analytics lets AI agents investigate business questions on their own. See how Snowflake grounds, runs and governs that work.",
-          "score": 38.1,
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-24T14:00:00.000Z",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "score": 27.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Open models gain traction in enterprises, tech CEOs say",
-          "url": "https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say",
-          "source": "Constellation Research",
-          "date": "2026-10-22T10:55:58.000Z",
-          "summary": "",
-          "score": 36.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
-          "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-22T13:20:53.000Z",
-          "summary": "Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps…",
-          "score": 34.9,
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-24T15:00:00.000Z",
+          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+          "score": 21.6,
           "alsoCoveredBy": []
         }
       ]
@@ -173,9 +179,9 @@
   ],
   "quickLinks": [
     {
-      "title": "The Three AI Reckonings Your Board Isn't Discussing (But Should Be)",
-      "url": "https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be",
-      "source": "Constellation Research"
+      "title": "Agentic Analytics: Building a Data Foundation for AI Agents",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-analytics-data-foundation",
+      "source": "Snowflake Blog"
     },
     {
       "title": "From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454",
@@ -183,14 +189,9 @@
       "source": "Constellation Research"
     },
     {
-      "title": "Agentic AI Foundation adds four more open-source AI tools",
-      "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO",
-      "url": "https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/",
-      "source": "SiliconANGLE AI"
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
@@ -198,19 +199,24 @@
       "source": "AWS Machine Learning"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch AI"
+      "title": "Agentic AI Foundation adds four more open-source AI tools",
+      "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "How to build a reliable source of truth for AI agents",
-      "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
-      "source": "MarTech"
+      "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+      "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch AI"
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO",
+      "url": "https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }

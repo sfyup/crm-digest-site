@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Saturday, October 24, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Sunday, October 25, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents? — Salesforce Ben
+- CIOs will need to navigate the nuance for enterprise AI vendors — Constellation Research
 - Salesforce Email Login Is the New Default: Convenience or Security Risk? — Salesforce Ben
 - Built to adapt: Why composable martech is becoming the new standard — MarTech
-- Real-time energy trading and analytics on Databricks — Databricks Blog
+- Helping contact center admins discover what matters, where they work — MS Dynamics 365 Blog
 
 ## Salesforce
 
@@ -26,6 +26,12 @@ Salesforce today announced it was positioned as a Leader in the 2026 Gartner® M
 **[Marketing Cloud Winter ’27 Release: What You Need to Know](https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/)**
 Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.
 <sub>Salesforce Blog · Oct 22</sub>
+
+## CRM Platforms
+
+**[Helping contact center admins discover what matters, where they work](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/23/dynamics-365-contact-center-whats-new-admins/)**
+Discover how the new What’s New experience in Dynamics 365 Contact Center helps admins find AI-powered capabilities, guidance, and updates where they already work.
+<sub>MS Dynamics 365 Blog · Oct 23</sub>
 
 ## Marketing Tech
 
@@ -47,11 +53,10 @@ Useful offers are common. Meaningful recognition is not, and consumers are quick
 Why does real-time energy trading need more than faster data?Energy trading desks...
 <sub>Databricks Blog · Oct 23</sub>
 
-**[How Brilliant Earth Drives Data Democratization | Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/brilliant-earth-data-democratization-snowflake-posit)**
-See how Brilliant Earth runs Posit inside Snowflake to drive data democratization with governed, self-service analytics apps for business teams.
-<sub>Snowflake Blog · Oct 22</sub>
-
 ## AI
+
+**[CIOs will need to navigate the nuance for enterprise AI vendors](https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors)**
+<sub>Constellation Research · Oct 25</sub>
 
 **[Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents?](https://www.salesforceben.com/is-anthropics-always-on-claude-duet-the-next-frontier-of-ai-agents/)**
 Traditional use of AI in the past few years has largely meant just telling it what to do and firmly being in the driving seat. But Anthropic’s newly announced Claude Duet wants to change that.
@@ -60,27 +65,24 @@ Traditional use of AI in the past few years has largely meant just telling it wh
 **[How Google Public Sector’s RISE unit works: Show don’t tell](https://www.constellationr.com/insights/news/how-google-public-sectors-rise-unit-works-show-dont-tell)**
 <sub>Constellation Research · Oct 23</sub>
 
-**[Agentic Analytics: Building a Data Foundation for AI Agents](https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-analytics-data-foundation)**
-Agentic analytics lets AI agents investigate business questions on their own. See how Snowflake grounds, runs and governs that work.
-<sub>Snowflake Blog · Oct 22</sub>
+**[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)**
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+<sub>TechCrunch AI · Oct 24</sub>
 
-**[Open models gain traction in enterprises, tech CEOs say](https://www.constellationr.com/insights/news/open-models-gain-traction-enterprises-tech-ceos-say)**
-<sub>Constellation Research · Oct 22</sub>
-
-**[Anthropic introduces Claude Duet, a proactive AI agent for professionals](https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/)**
-Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps…
-<sub>SiliconANGLE AI · Oct 22</sub>
+**[Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)**
+A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
+<sub>TechCrunch AI · Oct 24</sub>
 
 ## Also worth a click
 
-- [The Three AI Reckonings Your Board Isn't Discussing (But Should Be)](https://www.constellationr.com/research/blog/three-ai-reckonings-your-board-isnt-discussing-should-be) — *Constellation Research*
+- [Agentic Analytics: Building a Data Foundation for AI Agents](https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-analytics-data-foundation) — *Snowflake Blog*
 - [From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454](https://www.constellationr.com/video/disruptv/machine-identity-disruption-what-leaders-need-prepare-disruptv-episode-454) — *Constellation Research*
-- [Agentic AI Foundation adds four more open-source AI tools](https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/) — *SiliconANGLE AI*
-- [Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO](https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/) — *SiliconANGLE AI*
-- [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/) — *AWS Machine Learning*
 - [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) — *TechCrunch AI*
-- [How to build a reliable source of truth for AI agents](https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/) — *MarTech*
-- [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) — *TechCrunch AI*
+- [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/) — *AWS Machine Learning*
+- [Agentic AI Foundation adds four more open-source AI tools](https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/) — *SiliconANGLE AI*
+- [Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters](https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/) — *SiliconANGLE AI*
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) — *OpenAI News*
+- [Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO](https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/) — *SiliconANGLE AI*
 
 ---
 
