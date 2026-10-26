@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-25T14:39:48.045Z",
+  "generatedAt": "2026-10-26T17:03:01.042Z",
   "stats": {
-    "considered": 2563,
-    "relevant": 51,
+    "considered": 2564,
+    "relevant": 32,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 666,
-    "minutes": 2.775,
+    "words": 635,
+    "minutes": 2.6458333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Restructuring martech ops for autonomous AI agents — MarTech",
+    "Hey Salesforce, Do We Really Need AI for That? — Salesforce Ben",
     "CIOs will need to navigate the nuance for enterprise AI vendors — Constellation Research",
-    "Salesforce Email Login Is the New Default: Convenience or Security Risk? — Salesforce Ben",
-    "Built to adapt: Why composable martech is becoming the new standard — MarTech",
-    "Helping contact center admins discover what matters, where they work — MS Dynamics 365 Blog"
+    "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals — Salesforce Blog"
   ],
   "sections": [
     {
@@ -25,39 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce Email Login Is the New Default: Convenience or Security Risk?",
-          "url": "https://www.salesforceben.com/salesforce-email-login-is-the-new-default-convenience-or-security-risk/",
+          "title": "Hey Salesforce, Do We Really Need AI for That?",
+          "url": "https://www.salesforceben.com/hey-salesforce-do-we-really-need-ai-for-that/",
           "source": "Salesforce Ben",
-          "date": "2026-10-23T15:08:10.000Z",
-          "summary": "If you use login.salesforce.com or test.salesforce.com to get into your orgs and are using your username to log in, Salesforce sent out an email in September stating that they will be making email…",
-          "score": 34.1,
+          "date": "2026-10-26T12:22:08.000Z",
+          "summary": "Back in June, we openly agreed on a stance that seems obvious but needed saying anyway: not everything needs an AI agent.",
+          "score": 85.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Why Are Salesforce Architects Becoming Forward Deployed Engineers?",
-          "url": "https://www.salesforceben.com/why-are-salesforce-architects-becoming-forward-deployed-engineers/",
+          "title": "Streamline Your Document Lifecycle With Salesforce Integration and AI",
+          "url": "https://www.salesforceben.com/streamline-your-document-lifecycle-with-salesforce-integration-and-ai/",
           "source": "Salesforce Ben",
-          "date": "2026-10-23T11:21:24.000Z",
-          "summary": "We have heard time and again that artificial intelligence would bring new jobs to the tech sector, and we have finally begun seeing evidence of this.",
-          "score": 27.2,
+          "date": "2026-10-26T13:00:00.000Z",
+          "summary": "Working with dynamic documents and sending them out for signature doesn’t have to be difficult or counterintuitive.",
+          "score": 64.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Named a Leader in 2026 Gartner® Magic Quadrant™ for Digital Commerce for the 11th Consecutive Year",
-          "url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-digital-commerce-2026/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-22T15:00:00.000Z",
-          "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision…",
-          "score": 12.8,
+          "title": "The Salesforce Ecosystem: Boom, Bust, or Somewhere in Between?",
+          "url": "https://www.salesforceben.com/the-salesforce-ecosystem-boom-bust-or-somewhere-in-between/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-26T09:12:06.000Z",
+          "summary": "Is the Salesforce ecosystem in decline? It depends on where you look. Salesforce itself continues to grow, with billions of dollars in revenue and rapidly expanding AI and data businesses.",
+          "score": 62,
           "alsoCoveredBy": []
         },
         {
-          "title": "Marketing Cloud Winter ’27 Release: What You Need to Know",
-          "url": "https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/",
-          "source": "Salesforce Blog",
-          "date": "2026-10-22T18:17:11.000Z",
-          "summary": "Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.",
-          "score": 10.4,
+          "title": "How agents are taking on the orchestration layer - Agentforce Operations CEO Simon Mulcahy on processes designed around human capacity",
+          "url": "https://diginomica.com/how-agents-are-taking-orchestration-layer-agentforce-operations-ceo-simon-mulcahy-processes",
+          "source": "Diginomica",
+          "date": "2026-10-26T12:00:02.000Z",
+          "summary": "Back-office processes were built with people as the default orchestration layer. Salesforce execs debate the next phase.",
+          "score": 36.9,
           "alsoCoveredBy": []
         }
       ]
@@ -67,12 +67,21 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Helping contact center admins discover what matters, where they work",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/23/dynamics-365-contact-center-whats-new-admins/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-10-23T15:30:00.000Z",
-          "summary": "Discover how the new What’s New experience in Dynamics 365 Contact Center helps admins find AI-powered capabilities, guidance, and updates where they already work.",
-          "score": 13.4,
+          "title": "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals",
+          "url": "https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-26T13:00:00.000Z",
+          "summary": "Your sales cycle is losing time to the spaces between conversations — here's how Slack and CRM gets deals moving faster.",
+          "score": 35.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Keeping Strategy Aligned as Execution Accelerates",
+          "url": "https://www.constellationr.com/research/blog/keeping-strategy-aligned-execution-accelerates",
+          "source": "Constellation Research",
+          "date": "2026-10-25T21:56:17.000Z",
+          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
+          "score": 19.2,
           "alsoCoveredBy": []
         }
       ]
@@ -82,45 +91,30 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Built to adapt: Why composable martech is becoming the new standard",
-          "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
+          "title": "Restructuring martech ops for autonomous AI agents",
+          "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
           "source": "MarTech",
-          "date": "2026-10-23T11:49:00.000Z",
-          "summary": "4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch.",
-          "score": 31.6,
+          "date": "2026-10-26T12:42:00.000Z",
+          "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software.",
+          "score": 92.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "title": "The next wave of marketing automation is taking aim at Marketo",
+          "url": "https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/",
           "source": "MarTech",
-          "date": "2026-10-22T14:43:36.000Z",
-          "summary": "Salesforce's $5.7 billion acquisition of customer engagement platform Braze brought out the sour grapes from competitors.",
-          "score": 19.7,
+          "date": "2026-10-26T12:35:00.000Z",
+          "summary": "Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades.",
+          "score": 82.8,
           "alsoCoveredBy": []
         },
         {
-          "title": "Personalization knows what customers want, not who they are",
-          "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+          "title": "Why winning AI search isn’t enough to win B2B buyers",
+          "url": "https://martech.org/why-winning-ai-search-isnt-enough-to-win-b2b-buyers/",
           "source": "MarTech",
-          "date": "2026-10-23T12:55:00.000Z",
-          "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason.",
-          "score": 16.9,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "data",
-      "label": "Data Platforms",
-      "items": [
-        {
-          "title": "Real-time energy trading and analytics on Databricks",
-          "url": "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
-          "source": "Databricks Blog",
-          "date": "2026-10-23T19:00:00.000Z",
-          "summary": "Why does real-time energy trading need more than faster data?Energy trading desks...",
-          "score": 13.1,
+          "date": "2026-10-26T12:19:00.000Z",
+          "summary": "Confusing navigation, vague claims, and missing evidence cost you buyers. See how cognitive-load testing helps identify and address these barriers.",
+          "score": 17.3,
           "alsoCoveredBy": []
         }
       ]
@@ -135,43 +129,43 @@
           "source": "Constellation Research",
           "date": "2026-10-25T09:25:03.000Z",
           "summary": "",
-          "score": 101,
+          "score": 71.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Is Anthropic’s Always-On Claude Duet the Next Frontier of AI Agents?",
-          "url": "https://www.salesforceben.com/is-anthropics-always-on-claude-duet-the-next-frontier-of-ai-agents/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-22T15:28:31.000Z",
-          "summary": "Traditional use of AI in the past few years has largely meant just telling it what to do and firmly being in the driving seat. But Anthropic’s newly announced Claude Duet wants to change that.",
-          "score": 36.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How Google Public Sector’s RISE unit works: Show don’t tell",
-          "url": "https://www.constellationr.com/insights/news/how-google-public-sectors-rise-unit-works-show-dont-tell",
+          "title": "NOAA's huge data, cloud migration to Google Public Sector sets up AI plans",
+          "url": "https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans",
           "source": "Constellation Research",
-          "date": "2026-10-23T11:00:28.000Z",
+          "date": "2026-10-26T10:00:00.000Z",
           "summary": "",
-          "score": 29.4,
+          "score": 46.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-24T14:00:00.000Z",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "score": 27.8,
+          "title": "Anthropic files S-1 paperwork for proposed IPO",
+          "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-26T15:50:30.000Z",
+          "summary": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be…",
+          "score": 39.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-24T15:00:00.000Z",
-          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-          "score": 21.6,
+          "title": "Enterprise hits and misses - agentic automation, or building things that matter? The hackening has begun - is enterprise security ready?",
+          "url": "https://diginomica.com/enterprise-hits-and-misses-agentic-automation-or-building-things-matter-hackening-has-begun",
+          "source": "Diginomica",
+          "date": "2026-10-26T07:25:10.000Z",
+          "summary": "This week - agentic automation is the rage, but are we missing out on building cool (new) things? And: how do we govern and scale that?",
+          "score": 37.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Oracle AI World 26 - Agentic AI moves the risk from design to runtime. How do enterprises adapt for that?",
+          "url": "https://diginomica.com/oracle-ai-world-26-agentic-ai-moves-risk-design-runtime-how-do-enterprises-adapt",
+          "source": "Diginomica",
+          "date": "2026-10-26T15:27:19.000Z",
+          "summary": "Oracle’s Simon de Montfort Walker says that the agentic stack is better understood, but work needs to be done by organizations to govern systems at runtime and organize the teams around them.",
+          "score": 35.8,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Agentic Analytics: Building a Data Foundation for AI Agents",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-analytics-data-foundation",
-      "source": "Snowflake Blog"
-    },
-    {
-      "title": "From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454",
-      "url": "https://www.constellationr.com/video/disruptv/machine-identity-disruption-what-leaders-need-prepare-disruptv-episode-454",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
-      "source": "AWS Machine Learning"
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch Enterprise"
     },
     {
-      "title": "Agentic AI Foundation adds four more open-source AI tools",
-      "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
-      "source": "SiliconANGLE AI"
+      "title": "Time for Marketing Automation to move on! Here comes a new platform - will be it be your fave?",
+      "url": "https://diginomica.com/time-marketing-automation-move-here-comes-new-platform-will-be-it-be-your-fave",
+      "source": "Diginomica"
     },
     {
-      "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-      "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-      "source": "SiliconANGLE AI"
+      "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
+      "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+      "source": "Marketing Dive"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI News"
     },
     {
-      "title": "Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO",
-      "url": "https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/",
-      "source": "SiliconANGLE AI"
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "SuiteWorld 26 - NetSuite takes the wraps off new agents and skills as it drives towards an 'autonomous suite'",
+      "url": "https://diginomica.com/suiteworld-26-netsuite-new-agents-skills-towards-autonomous-suite",
+      "source": "Diginomica"
+    },
+    {
+      "title": "How to create Claude skills: What your team actually needs",
+      "url": "https://blog.hubspot.com/marketing/create-claude-skills",
+      "source": "HubSpot Marketing Blog"
     }
   ]
 }
