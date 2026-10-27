@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-26T17:03:01.042Z",
+  "generatedAt": "2026-10-27T16:05:54.371Z",
   "stats": {
-    "considered": 2564,
-    "relevant": 32,
+    "considered": 2571,
+    "relevant": 44,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 635,
-    "minutes": 2.6458333333333335,
+    "words": 574,
+    "minutes": 2.3916666666666666,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Restructuring martech ops for autonomous AI agents — MarTech",
+    "Braze gives Salesforce more speed — and more overlap — MarTech",
+    "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price — SiliconANGLE AI",
     "Hey Salesforce, Do We Really Need AI for That? — Salesforce Ben",
-    "CIOs will need to navigate the nuance for enterprise AI vendors — Constellation Research",
-    "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals — Salesforce Blog"
+    "BigQuery to Databricks: A Strategic Framework — Databricks Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,16 @@
           "source": "Salesforce Ben",
           "date": "2026-10-26T12:22:08.000Z",
           "summary": "Back in June, we openly agreed on a stance that seems obvious but needed saying anyway: not everything needs an AI agent.",
-          "score": 85.6,
+          "score": 64,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Expands Agent Fabric to Automatically Stop Runaway Costs and AI Agent Failures Before They Impact Customers",
+          "url": "https://www.salesforce.com/news/stories/agent-fabric-catch-failures-control-ai-costs/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-27T13:00:00.000Z",
+          "summary": "New Agent Evals gives leaders the confidence to scale more agents into production by continuously evaluating agent performance and costs, no matter what platform the agent is built on.",
+          "score": 61,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-26T13:00:00.000Z",
           "summary": "Working with dynamic documents and sending them out for signature doesn’t have to be difficult or counterintuitive.",
-          "score": 64.7,
+          "score": 48.4,
           "alsoCoveredBy": []
         },
         {
@@ -48,40 +57,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-26T09:12:06.000Z",
           "summary": "Is the Salesforce ecosystem in decline? It depends on where you look. Salesforce itself continues to grow, with billions of dollars in revenue and rapidly expanding AI and data businesses.",
-          "score": 62,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How agents are taking on the orchestration layer - Agentforce Operations CEO Simon Mulcahy on processes designed around human capacity",
-          "url": "https://diginomica.com/how-agents-are-taking-orchestration-layer-agentforce-operations-ceo-simon-mulcahy-processes",
-          "source": "Diginomica",
-          "date": "2026-10-26T12:00:02.000Z",
-          "summary": "Back-office processes were built with people as the default orchestration layer. Salesforce execs debate the next phase.",
-          "score": 36.9,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
-        {
-          "title": "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals",
-          "url": "https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/",
-          "source": "Salesforce Blog",
-          "date": "2026-10-26T13:00:00.000Z",
-          "summary": "Your sales cycle is losing time to the spaces between conversations — here's how Slack and CRM gets deals moving faster.",
-          "score": 35.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Keeping Strategy Aligned as Execution Accelerates",
-          "url": "https://www.constellationr.com/research/blog/keeping-strategy-aligned-execution-accelerates",
-          "source": "Constellation Research",
-          "date": "2026-10-25T21:56:17.000Z",
-          "summary": "In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…",
-          "score": 19.2,
+          "score": 45.8,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +67,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "Braze gives Salesforce more speed — and more overlap",
+          "url": "https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/",
+          "source": "MarTech",
+          "date": "2026-10-27T12:53:00.000Z",
+          "summary": "Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in.",
+          "score": 81.2,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Restructuring martech ops for autonomous AI agents",
           "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
           "source": "MarTech",
           "date": "2026-10-26T12:42:00.000Z",
           "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software.",
-          "score": 92.2,
+          "score": 69,
           "alsoCoveredBy": []
         },
         {
@@ -105,16 +90,31 @@
           "source": "MarTech",
           "date": "2026-10-26T12:35:00.000Z",
           "summary": "Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades.",
-          "score": 82.8,
+          "score": 61.9,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "data",
+      "label": "Data Platforms",
+      "items": [
+        {
+          "title": "BigQuery to Databricks: A Strategic Framework",
+          "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
+          "source": "Databricks Blog",
+          "date": "2026-10-27T11:07:53.000Z",
+          "summary": "Migration as a strategic evolutionMany organizations support a range of data and analytics workloads on BigQuery today...",
+          "score": 37.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Why winning AI search isn’t enough to win B2B buyers",
-          "url": "https://martech.org/why-winning-ai-search-isnt-enough-to-win-b2b-buyers/",
-          "source": "MarTech",
-          "date": "2026-10-26T12:19:00.000Z",
-          "summary": "Confusing navigation, vague claims, and missing evidence cost you buyers. See how cognitive-load testing helps identify and address these barriers.",
-          "score": 17.3,
+          "title": "Building live intelligence: Databricks AI Search supports Streaming Tables, Materialized Views, and Managed tables using Iceberg",
+          "url": "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
+          "source": "Databricks Blog",
+          "date": "2026-10-26T18:03:59.000Z",
+          "summary": "AI Search now natively supports&nbsp;Streaming Tables, Materialized Views, and Managed...",
+          "score": 27.7,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +124,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "CIOs will need to navigate the nuance for enterprise AI vendors",
-          "url": "https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors",
-          "source": "Constellation Research",
-          "date": "2026-10-25T09:25:03.000Z",
-          "summary": "",
-          "score": 71.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "NOAA's huge data, cloud migration to Google Public Sector sets up AI plans",
-          "url": "https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans",
-          "source": "Constellation Research",
-          "date": "2026-10-26T10:00:00.000Z",
-          "summary": "",
-          "score": 46.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic files S-1 paperwork for proposed IPO",
-          "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/",
+          "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+          "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
           "source": "SiliconANGLE AI",
-          "date": "2026-10-26T15:50:30.000Z",
-          "summary": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be…",
-          "score": 39.1,
+          "date": "2026-10-27T00:39:34.000Z",
+          "summary": "OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems.",
+          "score": 69.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Enterprise hits and misses - agentic automation, or building things that matter? The hackening has begun - is enterprise security ready?",
-          "url": "https://diginomica.com/enterprise-hits-and-misses-agentic-automation-or-building-things-matter-hackening-has-begun",
-          "source": "Diginomica",
-          "date": "2026-10-26T07:25:10.000Z",
-          "summary": "This week - agentic automation is the rage, but are we missing out on building cool (new) things? And: how do we govern and scale that?",
-          "score": 37.4,
+          "title": "Anthropic's IPO filing: You can't say you weren't warned",
+          "url": "https://www.constellationr.com/insights/news/anthropics-ipo-filing-you-cant-say-you-werent-warned",
+          "source": "Constellation Research",
+          "date": "2026-10-26T17:05:01.000Z",
+          "summary": "",
+          "score": 66.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Oracle AI World 26 - Agentic AI moves the risk from design to runtime. How do enterprises adapt for that?",
-          "url": "https://diginomica.com/oracle-ai-world-26-agentic-ai-moves-risk-design-runtime-how-do-enterprises-adapt",
-          "source": "Diginomica",
-          "date": "2026-10-26T15:27:19.000Z",
-          "summary": "Oracle’s Simon de Montfort Walker says that the agentic stack is better understood, but work needs to be done by organizations to govern systems at runtime and organize the teams around them.",
-          "score": 35.8,
+          "title": "Broadcom, big banks line up $63 billion in AI financing for Anthropic",
+          "url": "https://www.constellationr.com/insights/news/broadcom-big-banks-line-63-billion-ai-financing-anthropic",
+          "source": "Constellation Research",
+          "date": "2026-10-27T11:55:59.000Z",
+          "summary": "",
+          "score": 63.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Verizon vs. Starlink: It's about AI's edge, last mile",
+          "url": "https://www.constellationr.com/insights/news/verizon-vs-starlink-its-about-ais-edge-last-mile",
+          "source": "Constellation Research",
+          "date": "2026-10-27T00:03:23.000Z",
+          "summary": "",
+          "score": 48,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "4 Takeaways From the State of Agentic AI Report for Small Business",
+          "url": "https://www.salesforce.com/blog/small-business/takeaways-from-the-state-of-agentic-ai-report-for-smb/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-27T13:00:00.000Z",
+          "summary": "Find out what thousands of businesses are saying about agentic AI and the race to smart technology in the latest Salesforce report.",
+          "score": 42.6,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "title": "CIOs will need to navigate the nuance for enterprise AI vendors",
+      "url": "https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Intuit expands industry roster for Intuit Enterprise Suite, steps up midmarket game",
+      "url": "https://www.constellationr.com/insights/news/intuit-expands-industry-roster-intuit-enterprise-suite-steps-midmarket-game",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "How Does Your Salesforce Salary Stack Up? Take Our 2026-27 Survey",
+      "url": "https://www.salesforceben.com/how-does-your-salesforce-salary-stack-up-take-our-2026-27-survey/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "NOAA's huge data, cloud migration to Google Public Sector sets up AI plans",
+      "url": "https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "source": "TechCrunch Enterprise"
+      "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+      "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "Time for Marketing Automation to move on! Here comes a new platform - will be it be your fave?",
-      "url": "https://diginomica.com/time-marketing-automation-move-here-comes-new-platform-will-be-it-be-your-fave",
-      "source": "Diginomica"
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning"
     },
     {
-      "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
-      "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "SuiteWorld 26 - NetSuite takes the wraps off new agents and skills as it drives towards an 'autonomous suite'",
-      "url": "https://diginomica.com/suiteworld-26-netsuite-new-agents-skills-towards-autonomous-suite",
-      "source": "Diginomica"
-    },
-    {
-      "title": "How to create Claude skills: What your team actually needs",
-      "url": "https://blog.hubspot.com/marketing/create-claude-skills",
-      "source": "HubSpot Marketing Blog"
+      "title": "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals",
+      "url": "https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/",
+      "source": "Salesforce Blog"
     }
   ]
 }

@@ -1,19 +1,23 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Monday, October 26, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Tuesday, October 27, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Restructuring martech ops for autonomous AI agents — MarTech
+- Braze gives Salesforce more speed — and more overlap — MarTech
+- OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price — SiliconANGLE AI
 - Hey Salesforce, Do We Really Need AI for That? — Salesforce Ben
-- CIOs will need to navigate the nuance for enterprise AI vendors — Constellation Research
-- Beyond Collaboration: CRM and Slack Are Slaying Sales Goals — Salesforce Blog
+- BigQuery to Databricks: A Strategic Framework — Databricks Blog
 
 ## Salesforce
 
 **[Hey Salesforce, Do We Really Need AI for That?](https://www.salesforceben.com/hey-salesforce-do-we-really-need-ai-for-that/)**
 Back in June, we openly agreed on a stance that seems obvious but needed saying anyway: not everything needs an AI agent.
 <sub>Salesforce Ben · Oct 26</sub>
+
+**[Salesforce Expands Agent Fabric to Automatically Stop Runaway Costs and AI Agent Failures Before They Impact Customers](https://www.salesforce.com/news/stories/agent-fabric-catch-failures-control-ai-costs/)**
+New Agent Evals gives leaders the confidence to scale more agents into production by continuously evaluating agent performance and costs, no matter what platform the agent is built on.
+<sub>Salesforce Newsroom · Oct 27</sub>
 
 **[Streamline Your Document Lifecycle With Salesforce Integration and AI](https://www.salesforceben.com/streamline-your-document-lifecycle-with-salesforce-integration-and-ai/)**
 Working with dynamic documents and sending them out for signature doesn’t have to be difficult or counterintuitive.
@@ -23,21 +27,11 @@ Working with dynamic documents and sending them out for signature doesn’t have
 Is the Salesforce ecosystem in decline? It depends on where you look. Salesforce itself continues to grow, with billions of dollars in revenue and rapidly expanding AI and data businesses.
 <sub>Salesforce Ben · Oct 26</sub>
 
-**[How agents are taking on the orchestration layer - Agentforce Operations CEO Simon Mulcahy on processes designed around human capacity](https://diginomica.com/how-agents-are-taking-orchestration-layer-agentforce-operations-ceo-simon-mulcahy-processes)**
-Back-office processes were built with people as the default orchestration layer. Salesforce execs debate the next phase.
-<sub>Diginomica · Oct 26</sub>
-
-## CRM Platforms
-
-**[Beyond Collaboration: CRM and Slack Are Slaying Sales Goals](https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/)**
-Your sales cycle is losing time to the spaces between conversations — here's how Slack and CRM gets deals moving faster.
-<sub>Salesforce Blog · Oct 26</sub>
-
-**[Keeping Strategy Aligned as Execution Accelerates](https://www.constellationr.com/research/blog/keeping-strategy-aligned-execution-accelerates)**
-In 2000, he became a research analyst at Gartner, focused on CRM, customer service, customer experience management, enterprise feedback management, and voice of the customer, among topics that later…
-<sub>Constellation Research · Oct 25</sub>
-
 ## Marketing Tech
+
+**[Braze gives Salesforce more speed — and more overlap](https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/)**
+Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in.
+<sub>MarTech · Oct 27</sub>
 
 **[Restructuring martech ops for autonomous AI agents](https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/)**
 MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software.
@@ -47,41 +41,46 @@ MOps teams are shifting from task executors to AI fleet managers to run autonomo
 Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades.
 <sub>MarTech · Oct 26</sub>
 
-**[Why winning AI search isn’t enough to win B2B buyers](https://martech.org/why-winning-ai-search-isnt-enough-to-win-b2b-buyers/)**
-Confusing navigation, vague claims, and missing evidence cost you buyers. See how cognitive-load testing helps identify and address these barriers.
-<sub>MarTech · Oct 26</sub>
+## Data Platforms
+
+**[BigQuery to Databricks: A Strategic Framework](https://www.databricks.com/blog/bigquery-databricks-strategic-framework)**
+Migration as a strategic evolutionMany organizations support a range of data and analytics workloads on BigQuery today...
+<sub>Databricks Blog · Oct 27</sub>
+
+**[Building live intelligence: Databricks AI Search supports Streaming Tables, Materialized Views, and Managed tables using Iceberg](https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views)**
+AI Search now natively supports&nbsp;Streaming Tables, Materialized Views, and Managed...
+<sub>Databricks Blog · Oct 26</sub>
 
 ## AI
 
-**[CIOs will need to navigate the nuance for enterprise AI vendors](https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors)**
-<sub>Constellation Research · Oct 25</sub>
+**[OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price](https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/)**
+OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems.
+<sub>SiliconANGLE AI · Oct 27</sub>
 
-**[NOAA's huge data, cloud migration to Google Public Sector sets up AI plans](https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans)**
+**[Anthropic's IPO filing: You can't say you weren't warned](https://www.constellationr.com/insights/news/anthropics-ipo-filing-you-cant-say-you-werent-warned)**
 <sub>Constellation Research · Oct 26</sub>
 
-**[Anthropic files S-1 paperwork for proposed IPO](https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/)**
-Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be…
-<sub>SiliconANGLE AI · Oct 26</sub>
+**[Broadcom, big banks line up $63 billion in AI financing for Anthropic](https://www.constellationr.com/insights/news/broadcom-big-banks-line-63-billion-ai-financing-anthropic)**
+<sub>Constellation Research · Oct 27</sub>
 
-**[Enterprise hits and misses - agentic automation, or building things that matter? The hackening has begun - is enterprise security ready?](https://diginomica.com/enterprise-hits-and-misses-agentic-automation-or-building-things-matter-hackening-has-begun)**
-This week - agentic automation is the rage, but are we missing out on building cool (new) things? And: how do we govern and scale that?
-<sub>Diginomica · Oct 26</sub>
+**[Verizon vs. Starlink: It's about AI's edge, last mile](https://www.constellationr.com/insights/news/verizon-vs-starlink-its-about-ais-edge-last-mile)**
+<sub>Constellation Research · Oct 27</sub>
 
-**[Oracle AI World 26 - Agentic AI moves the risk from design to runtime. How do enterprises adapt for that?](https://diginomica.com/oracle-ai-world-26-agentic-ai-moves-risk-design-runtime-how-do-enterprises-adapt)**
-Oracle’s Simon de Montfort Walker says that the agentic stack is better understood, but work needs to be done by organizations to govern systems at runtime and organize the teams around them.
-<sub>Diginomica · Oct 26</sub>
+**[4 Takeaways From the State of Agentic AI Report for Small Business](https://www.salesforce.com/blog/small-business/takeaways-from-the-state-of-agentic-ai-report-for-smb/)**
+Find out what thousands of businesses are saying about agentic AI and the race to smart technology in the latest Salesforce report.
+<sub>Salesforce Blog · Oct 27</sub>
 
 ## Also worth a click
 
-- [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/) — *TechCrunch AI*
-- [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/) — *TechCrunch Enterprise*
-- [Time for Marketing Automation to move on! Here comes a new platform - will be it be your fave?](https://diginomica.com/time-marketing-automation-move-here-comes-new-platform-will-be-it-be-your-fave) — *Diginomica*
-- [Publicis installs leadership atop Marcel as agentic drives growth plans](https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/) — *Marketing Dive*
-- [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience) — *OpenAI News*
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) — *TechCrunch AI*
-- [SuiteWorld 26 - NetSuite takes the wraps off new agents and skills as it drives towards an 'autonomous suite'](https://diginomica.com/suiteworld-26-netsuite-new-agents-skills-towards-autonomous-suite) — *Diginomica*
-- [How to create Claude skills: What your team actually needs](https://blog.hubspot.com/marketing/create-claude-skills) — *HubSpot Marketing Blog*
+- [CIOs will need to navigate the nuance for enterprise AI vendors](https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors) — *Constellation Research*
+- [Intuit expands industry roster for Intuit Enterprise Suite, steps up midmarket game](https://www.constellationr.com/insights/news/intuit-expands-industry-roster-intuit-enterprise-suite-steps-midmarket-game) — *Constellation Research*
+- [How Does Your Salesforce Salary Stack Up? Take Our 2026-27 Survey](https://www.salesforceben.com/how-does-your-salesforce-salary-stack-up-take-our-2026-27-survey/) — *Salesforce Ben*
+- [NOAA's huge data, cloud migration to Google Public Sector sets up AI plans](https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans) — *Constellation Research*
+- [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) — *TechCrunch AI*
+- [Anthropic files S-1 paperwork for blockbuster AI IPO](https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/) — *SiliconANGLE AI*
+- [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/) — *AWS Machine Learning*
+- [Beyond Collaboration: CRM and Slack Are Slaying Sales Goals](https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/) — *Salesforce Blog*
 
 ---
 
-<sub>Every headline links to its original source. 2564 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2571 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
