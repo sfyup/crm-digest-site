@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T16:52:16.511Z",
+  "generatedAt": "2026-10-29T17:10:54.597Z",
   "stats": {
-    "considered": 2579,
-    "relevant": 75,
+    "considered": 2584,
+    "relevant": 76,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 585,
-    "minutes": 2.4375,
+    "words": 574,
+    "minutes": 2.3916666666666666,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Zoho revamps Zoho Analytics, could extend its reach — Constellation Research",
-    "Marketing automation is dead. Long live marketing automation! — MarTech",
+    "The latest AI-powered martech news and releases — MarTech",
     "Is Salesforce Health Cloud the Next Big Deal? — Salesforce Ben",
     "Snowflake and Oracle: Bringing the AI Data Cloud to OCI — Snowflake Blog"
   ],
@@ -30,16 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-28T16:07:50.000Z",
           "summary": "Salesforce’s core clouds, although extremely important, have been gradually fading into the background as the likes of Agentforce, SIforce, and Data 360 have emerged on the scene.",
-          "score": 83.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Launches Agent Kill Switch and New Cost Controls",
-          "url": "https://www.salesforceben.com/salesforce-launches-agent-kill-switch-and-new-cost-controls/",
-          "source": "Salesforce Ben",
-          "date": "2026-10-27T17:02:41.000Z",
-          "summary": "Salesforce is today introducing Agent Evals, API Evals, and advanced cost controls for its AI agent control plane, Agent Fabric, with hard spending limits that can cap usage within a budget.",
-          "score": 73.3,
+          "score": 62.1,
           "alsoCoveredBy": []
         },
         {
@@ -48,31 +39,34 @@
           "source": "Salesforce Ben",
           "date": "2026-10-28T15:22:30.000Z",
           "summary": "When Salesforce and Jira fall out of sync, the impact can reach the customer before the underlying integration issue is visible.",
-          "score": 66.4,
+          "score": 49.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Expands Agent Fabric to Automatically Stop Runaway Costs and AI Agent Failures Before They Impact Customers",
-          "url": "https://www.salesforce.com/news/stories/agent-fabric-catch-failures-control-ai-costs/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-27T13:00:00.000Z",
-          "summary": "New Agent Evals gives leaders the confidence to scale more agents into production by continuously evaluating agent performance and costs, no matter what platform the agent is built on.",
-          "score": 44.7,
+          "title": "Salesforce Launches Agent Kill Switch and New Cost Controls",
+          "url": "https://www.salesforceben.com/salesforce-launches-agent-kill-switch-and-new-cost-controls/",
+          "source": "Salesforce Ben",
+          "date": "2026-10-27T17:02:41.000Z",
+          "summary": "Salesforce is today introducing Agent Evals, API Evals, and advanced cost controls for its AI agent control plane, Agent Fabric, with hard spending limits that can cap usage within a budget.",
+          "score": 48.6,
           "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "crm",
-      "label": "CRM Platforms",
-      "items": [
+        },
         {
-          "title": "Zoho's latest Analytics release makes the semantic and ontology layers native",
-          "url": "https://diginomica.com/zohos-latest-analytics-release-makes-semantic-and-ontology-layers-native",
-          "source": "Diginomica",
-          "date": "2026-10-28T15:03:02.000Z",
-          "summary": "The latest release of Zoho Analytics launches with a composability pitch aimed at enterprises already running Snowflake, Databricks or Microsoft Fabric.",
-          "score": 40.8,
+          "title": "Startups, Did You Know That Agentforce Coworker Can Do This?",
+          "url": "https://www.salesforce.com/blog/small-business/did-you-know-agentforce-coworker-can-do-this/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-28T18:38:20.000Z",
+          "summary": "We’re going down the Agentforce Coworker rabbit hole — did you know it could do all of this?",
+          "score": 32,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Deepens Investment in Washington, D.C. With New Innovation Center",
+          "url": "https://www.salesforce.com/news/stories/deepens-investment-washington-dc/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-10-29T12:00:00.000Z",
+          "summary": "The new space will serve as a hub for public sector customers, partners, and the D.C. community to meet, collaborate, and explore the next generation of government services",
+          "score": 31.8,
           "alsoCoveredBy": []
         }
       ]
@@ -82,12 +76,21 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-29T14:55:10.000Z",
+          "summary": "The cautionary tale of when Salesforce \"ingested\" Slack.",
+          "score": 67,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Marketing automation is dead. Long live marketing automation!",
           "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
           "source": "MarTech",
           "date": "2026-10-28T11:51:00.000Z",
           "summary": "Algorithm updates and endless manual workflows are draining. On Nov. 4, learn how AI transforms marketing automation into your strongest strategic partner.",
-          "score": 88.9,
+          "score": 65.1,
           "alsoCoveredBy": []
         },
         {
@@ -96,16 +99,7 @@
           "source": "MarTech",
           "date": "2026-10-27T12:53:00.000Z",
           "summary": "Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in.",
-          "score": 59.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Restructuring martech ops for autonomous AI agents",
-          "url": "https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/",
-          "source": "MarTech",
-          "date": "2026-10-26T12:42:00.000Z",
-          "summary": "MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software.",
-          "score": 44.1,
+          "score": 38.2,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +114,7 @@
           "source": "Snowflake Blog",
           "date": "2026-10-27T19:58:00.000Z",
           "summary": "Snowflake and Oracle are expanding their partnership to bring Snowflake's AI Data Cloud to Oracle Cloud Infrastructure as a native, first-party service.",
-          "score": 45.4,
+          "score": 30.7,
           "alsoCoveredBy": []
         }
       ]
@@ -135,78 +129,78 @@
           "source": "Constellation Research",
           "date": "2026-10-28T10:00:00.000Z",
           "summary": "",
-          "score": 142.6,
+          "score": 103.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Boomi CEO Lucas: Beware your zombie AI agents",
-          "url": "https://www.constellationr.com/insights/news/boomi-ceo-lucas-beware-your-zombie-ai-agents",
+          "title": "ServiceNow Q3 mixed, but strong Control Tower demand",
+          "url": "https://www.constellationr.com/insights/news/servicenow-q3-mixed-strong-control-tower-demand",
           "source": "Constellation Research",
-          "date": "2026-10-27T16:29:03.000Z",
+          "date": "2026-10-28T22:03:21.000Z",
           "summary": "",
-          "score": 84.1,
+          "score": 84.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Management amid AI chaos: Takeaways from the field",
-          "url": "https://www.constellationr.com/insights/news/management-amid-ai-chaos-takeaways-field",
+          "title": "Celebrating the 2026 SuperNova Awards Winners: Innovation in Action",
+          "url": "https://www.constellationr.com/research/blog/celebrating-2026-supernova-awards-winners-innovation-action",
           "source": "Constellation Research",
-          "date": "2026-10-27T22:40:42.000Z",
-          "summary": "",
-          "score": 51.5,
+          "date": "2026-10-29T14:00:00.000Z",
+          "summary": "Our analysts are former practitioners who draw on deep, firsthand experience to deliver pragmatic, forward-looking guidance.",
+          "score": 55.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
-          "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-27T00:39:34.000Z",
-          "summary": "OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems.",
-          "score": 48.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "source": "OpenAI News",
-          "date": "2026-10-28T09:30:00.000Z",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "score": 44.3,
-          "alsoCoveredBy": [
-            {
-              "source": "OpenAI News",
-              "url": "https://openai.com/index/legora"
-            }
-          ]
+          "date": "2026-10-28T13:15:00.000Z",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "score": 50.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-28T17:00:00.000Z",
+          "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+          "score": 32.1,
+          "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
     {
+      "title": "Google Cloud Q3 revenue up 103%, but Alphabet results light",
+      "url": "https://www.constellationr.com/insights/news/google-cloud-q3-revenue-103-alphabet-results-light",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Teamwork in the AI age: Pods, clusters, flocks",
+      "url": "https://www.constellationr.com/insights/news/teamwork-ai-age-pods-clusters-flocks",
+      "source": "Constellation Research"
+    },
+    {
+      "title": "Outcome based pricing: Pros, cons and nuances",
+      "url": "https://www.constellationr.com/insights/news/outcome-based-pricing-pros-cons-and-nuances",
+      "source": "Constellation Research"
+    },
+    {
       "title": "How to Build a Custom Skill in Anthropic’s Claude",
       "url": "https://www.salesforceben.com/how-to-build-a-custom-skill-in-anthropics-claude/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Broadcom, big banks line up $63 billion in AI financing for Anthropic",
-      "url": "https://www.constellationr.com/insights/news/broadcom-big-banks-line-63-billion-ai-financing-anthropic",
+      "title": "Google rolls out Gemini 4 Carbon",
+      "url": "https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon",
       "source": "Constellation Research"
     },
     {
-      "title": "2027 themes to watch and what you should do now",
-      "url": "https://www.constellationr.com/insights/news/2027-themes-watch-and-what-you-should-do-now",
+      "title": "Microsoft delivers strong Q3, Azure growth up 48%",
+      "url": "https://www.constellationr.com/insights/news/microsoft-delivers-strong-q3-azure-growth-48",
       "source": "Constellation Research"
-    },
-    {
-      "title": "Anthropic's IPO filing: You can't say you weren't warned",
-      "url": "https://www.constellationr.com/insights/news/anthropics-ipo-filing-you-cant-say-you-werent-warned",
-      "source": "Constellation Research"
-    },
-    {
-      "title": "Contentful, Salesforce, and the Content Layer for the Agentic Enterprise",
-      "url": "https://www.salesforce.com/blog/contentful-salesforce-and-the-content-layer-for-the-agentic-enterprise/",
-      "source": "Salesforce Blog"
     },
     {
       "title": "Virtana lets its AI agents pull in agents from other vendors to work IT incidents",
@@ -214,14 +208,9 @@
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Hey Salesforce, Do We Really Need AI for That?",
-      "url": "https://www.salesforceben.com/hey-salesforce-do-we-really-need-ai-for-that/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "The next wave of marketing automation is taking aim at Marketo",
-      "url": "https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/",
-      "source": "MarTech"
+      "title": "An early read on your 2027 AI budget",
+      "url": "https://www.constellationr.com/insights/news/early-read-your-2027-ai-budget",
+      "source": "Constellation Research"
     }
   ]
 }
