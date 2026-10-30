@@ -1,87 +1,89 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Thursday, October 29, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Friday, October 30, 2026 · 2–3 min read · 14 stories from 19 sources*
 
 ## The 60-second version
 
-- Zoho revamps Zoho Analytics, could extend its reach — Constellation Research
-- The latest AI-powered martech news and releases — MarTech
-- Is Salesforce Health Cloud the Next Big Deal? — Salesforce Ben
-- Snowflake and Oracle: Bringing the AI Data Cloud to OCI — Snowflake Blog
+- What Happens to Salesforce Marketing Cloud After the Braze Acquisition? — Salesforce Ben
+- Dynamics 365 CX MCP Server – Sales: Bringing headless CRM to supported AI experiences — MS Dynamics 365 Blog
+- Dayforce Discover - agentic HCM brings dramatic change to enterprise HR — Diginomica
+- Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks — Databricks Blog
 
 ## Salesforce
 
-**[Is Salesforce Health Cloud the Next Big Deal?](https://www.salesforceben.com/is-salesforce-health-cloud-the-next-big-deal/)**
-Salesforce’s core clouds, although extremely important, have been gradually fading into the background as the likes of Agentforce, SIforce, and Data 360 have emerged on the scene.
-<sub>Salesforce Ben · Oct 28</sub>
+**[What Happens to Salesforce Marketing Cloud After the Braze Acquisition?](https://www.salesforceben.com/what-happens-to-salesforce-marketing-cloud-after-the-braze-acquisition/)**
+Salesforce is acquiring AI marketing company Braze in a deal worth around $5.66B, raising questions around the future of its existing products and partner ecosystem.
+<sub>Salesforce Ben · Oct 30</sub>
 
-**[Salesforce-Jira Integration: 7 Architecture Decisions That Prevent Manual Handoffs](https://www.salesforceben.com/salesforce-jira-integration-7-architecture-decisions-that-prevent-manual-handoffs/)**
-When Salesforce and Jira fall out of sync, the impact can reach the customer before the underlying integration issue is visible.
-<sub>Salesforce Ben · Oct 28</sub>
+**[Salesforce Acquires Rune Technologies in Biggest National Security Buy to Date](https://www.salesforceben.com/salesforce-acquires-rune-technologies-in-biggest-national-security-buy-to-date/)**
+Salesforce has signed a definitive agreement to acquire Rune Technologies, a technology provider dedicated to building solutions to enable critical logistics and sustainment operations for the US…
+<sub>Salesforce Ben · Oct 30</sub>
 
-**[Salesforce Launches Agent Kill Switch and New Cost Controls](https://www.salesforceben.com/salesforce-launches-agent-kill-switch-and-new-cost-controls/)**
-Salesforce is today introducing Agent Evals, API Evals, and advanced cost controls for its AI agent control plane, Agent Fabric, with hard spending limits that can cap usage within a budget.
-<sub>Salesforce Ben · Oct 27</sub>
+**[Accidental Tokenmaxxing Is Draining Your Salesforce AI Budget](https://www.salesforceben.com/accidental-tokenmaxxing-is-draining-your-salesforce-ai-budget/)**
+With all the pricing changes and updates from Salesforce lately, credit-burn concerns are one of the biggest talking points in the ecosystem right now, and not just with Salesforce.
+<sub>Salesforce Ben · Oct 30</sub>
 
-**[Startups, Did You Know That Agentforce Coworker Can Do This?](https://www.salesforce.com/blog/small-business/did-you-know-agentforce-coworker-can-do-this/)**
-We’re going down the Agentforce Coworker rabbit hole — did you know it could do all of this?
-<sub>Salesforce Blog · Oct 28</sub>
+**[Salesforce Signs Definitive Agreement to Acquire Rune Technologies](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/)**
+Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Rune Technologies, a leading edge-native technology provider building solutions to enable critical logistics…
+<sub>Salesforce Newsroom · Oct 29</sub>
 
 **[Salesforce Deepens Investment in Washington, D.C. With New Innovation Center](https://www.salesforce.com/news/stories/deepens-investment-washington-dc/)**
 The new space will serve as a hub for public sector customers, partners, and the D.C. community to meet, collaborate, and explore the next generation of government services
 <sub>Salesforce Newsroom · Oct 29</sub>
 
-## Marketing Tech
+## CRM Platforms
 
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-The cautionary tale of when Salesforce "ingested" Slack.
-<sub>MarTech · Oct 29</sub>
+**[Dynamics 365 CX MCP Server – Sales: Bringing headless CRM to supported AI experiences](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/29/dynamics-365-cx-mcp-server-sales/)**
+Dynamics 365 CX MCP Server - Sales brings governed CRM capabilities to supported AI agents and seller experiences, helping sellers take action wherever they work.
+<sub>MS Dynamics 365 Blog · Oct 29</sub>
 
-**[Marketing automation is dead. Long live marketing automation!](https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/)**
-Algorithm updates and endless manual workflows are draining. On Nov. 4, learn how AI transforms marketing automation into your strongest strategic partner.
-<sub>MarTech · Oct 28</sub>
-
-**[Braze gives Salesforce more speed — and more overlap](https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/)**
-Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in.
-<sub>MarTech · Oct 27</sub>
+**[Motion Picture Association runs its legal operations on a CRM built for sales](https://siliconangle.com/2026/10/29/legal-operations-mpa-crm-powers-global-anti-piracy-work-mondayelevate/)**
+Legal operations teams are finding that software built for sales pipelines can just as easily run investigations and member communications.
+<sub>SiliconANGLE AI · Oct 29</sub>
 
 ## Data Platforms
 
-**[Snowflake and Oracle: Bringing the AI Data Cloud to OCI](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci)**
-Snowflake and Oracle are expanding their partnership to bring Snowflake's AI Data Cloud to Oracle Cloud Infrastructure as a native, first-party service.
-<sub>Snowflake Blog · Oct 27</sub>
+**[Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks](https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks)**
+We introduced Real-Time Mode (RTM) last year which enabled customers to build low-latency, operational use cases...
+<sub>Databricks Blog · Oct 29</sub>
+
+**[Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)**
+The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your…
+<sub>TechCrunch AI · Oct 29</sub>
 
 ## AI
 
-**[Zoho revamps Zoho Analytics, could extend its reach](https://www.constellationr.com/insights/news/zoho-revamps-zoho-analytics-could-extend-its-reach)**
-<sub>Constellation Research · Oct 28</sub>
+**[Dayforce Discover - agentic HCM brings dramatic change to enterprise HR](https://diginomica.com/dayforce-discover-agentic-hcm-brings-dramatic-change-enterprise-hr)**
+Dayforce unveiled a new agentic experience and multiple new agentic capabilities at its annual user conference this week. Are its customers ready for this much change?
+<sub>Diginomica · Oct 30</sub>
 
-**[ServiceNow Q3 mixed, but strong Control Tower demand](https://www.constellationr.com/insights/news/servicenow-q3-mixed-strong-control-tower-demand)**
-<sub>Constellation Research · Oct 28</sub>
+**[The race to deploy AI agents finds a familiar hurdle in data access](https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/)**
+Enterprises racing to put AI agents into production are discovering that role-based access control, not model choice, decides whether those agents can be trusted.
+<sub>SiliconANGLE AI · Oct 30</sub>
 
-**[Celebrating the 2026 SuperNova Awards Winners: Innovation in Action](https://www.constellationr.com/research/blog/celebrating-2026-supernova-awards-winners-innovation-action)**
-Our analysts are former practitioners who draw on deep, firsthand experience to deliver pragmatic, forward-looking guidance.
-<sub>Constellation Research · Oct 29</sub>
+**[OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)**
+OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.
+<sub>TechCrunch AI · Oct 29</sub>
 
-**[OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)**
-OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
-<sub>OpenAI News · Oct 28</sub>
+**[7 Agentic Service Strategies For Startups](https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/)**
+Here's how agentic customer service helps lean teams deliver without burning out.
+<sub>Salesforce Blog · Oct 30</sub>
 
-**[As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)**
-A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
-<sub>TechCrunch AI · Oct 28</sub>
+**[The hidden threat in Anthropic’s prospectus: diseconomies of scale](https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/)**
+As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone.
+<sub>SiliconANGLE AI · Oct 30</sub>
 
 ## Also worth a click
 
-- [Google Cloud Q3 revenue up 103%, but Alphabet results light](https://www.constellationr.com/insights/news/google-cloud-q3-revenue-103-alphabet-results-light) — *Constellation Research*
-- [Teamwork in the AI age: Pods, clusters, flocks](https://www.constellationr.com/insights/news/teamwork-ai-age-pods-clusters-flocks) — *Constellation Research*
-- [Outcome based pricing: Pros, cons and nuances](https://www.constellationr.com/insights/news/outcome-based-pricing-pros-cons-and-nuances) — *Constellation Research*
-- [How to Build a Custom Skill in Anthropic’s Claude](https://www.salesforceben.com/how-to-build-a-custom-skill-in-anthropics-claude/) — *Salesforce Ben*
-- [Google rolls out Gemini 4 Carbon](https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon) — *Constellation Research*
-- [Microsoft delivers strong Q3, Azure growth up 48%](https://www.constellationr.com/insights/news/microsoft-delivers-strong-q3-azure-growth-48) — *Constellation Research*
-- [Virtana lets its AI agents pull in agents from other vendors to work IT incidents](https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/) — *SiliconANGLE AI*
-- [An early read on your 2027 AI budget](https://www.constellationr.com/insights/news/early-read-your-2027-ai-budget) — *Constellation Research*
+- [5 Salesforce Career Lessons from the 2026 10K Report](https://www.salesforceben.com/5-salesforce-career-lessons-from-the-2026-10k-report/) — *Salesforce Ben*
+- [Is Salesforce Health Cloud the Next Big Deal?](https://www.salesforceben.com/is-salesforce-health-cloud-the-next-big-deal/) — *Salesforce Ben*
+- [AI agents cut critical research time for humanitarian teams in conflict zones](https://siliconangle.com/2026/10/30/agentic-ai-helps-prosper-global-speed-crisis-research-evolve26/) — *SiliconANGLE AI*
+- [As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet](https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/) — *SiliconANGLE AI*
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) — *OpenAI News*
+- [Salesforce-Jira Integration: 7 Architecture Decisions That Prevent Manual Handoffs](https://www.salesforceben.com/salesforce-jira-integration-7-architecture-decisions-that-prevent-manual-handoffs/) — *Salesforce Ben*
+- [How Novo has built a scalable data platform for agentic AI explorations](https://diginomica.com/how-novo-has-built-scalable-data-platform-agentic-ai-explorations) — *Diginomica*
+- [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2584 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2568 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
