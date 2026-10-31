@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-30T16:51:15.517Z",
+  "generatedAt": "2026-10-31T15:54:35.646Z",
   "stats": {
-    "considered": 2568,
-    "relevant": 61,
+    "considered": 2580,
+    "relevant": 60,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 19,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 686,
-    "minutes": 2.8583333333333334,
+    "words": 687,
+    "minutes": 2.8625,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "What Happens to Salesforce Marketing Cloud After the Braze Acquisition? — Salesforce Ben",
-    "Dynamics 365 CX MCP Server – Sales: Bringing headless CRM to supported AI experiences — MS Dynamics 365 Blog",
-    "Dayforce Discover - agentic HCM brings dramatic change to enterprise HR — Diginomica",
-    "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks — Databricks Blog"
+    "Meet your new teammate: Building marketing workflows around AI agents — MarTech",
+    "Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy — Salesforce Blog",
+    "Dynamics 365 CX MCP Server – Sales: Bringing headless CRM to supported AI experiences — MS Dynamics 365 Blog"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-30T10:59:11.000Z",
           "summary": "Salesforce is acquiring AI marketing company Braze in a deal worth around $5.66B, raising questions around the future of its existing products and partner ecosystem.",
-          "score": 138,
+          "score": 102.7,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-30T12:30:11.000Z",
           "summary": "Salesforce has signed a definitive agreement to acquire Rune Technologies, a technology provider dedicated to building solutions to enable critical logistics and sustainment operations for the US…",
-          "score": 93.1,
+          "score": 69.7,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-10-30T09:11:50.000Z",
           "summary": "With all the pricing changes and updates from Salesforce lately, credit-burn concerns are one of the biggest talking points in the ecosystem right now, and not just with Salesforce.",
-          "score": 66.3,
+          "score": 49,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,16 @@
           "source": "Salesforce Newsroom",
           "date": "2026-10-29T20:00:00.000Z",
           "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Rune Technologies, a leading edge-native technology provider building solutions to enable critical logistics…",
-          "score": 47.1,
+          "score": 32.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce Deepens Investment in Washington, D.C. With New Innovation Center",
-          "url": "https://www.salesforce.com/news/stories/deepens-investment-washington-dc/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-10-29T12:00:00.000Z",
-          "summary": "The new space will serve as a hub for public sector customers, partners, and the D.C. community to meet, collaborate, and explore the next generation of government services",
-          "score": 23.5,
+          "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+          "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+          "source": "TechCrunch Enterprise",
+          "date": "2026-10-30T23:21:23.000Z",
+          "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+          "score": 19,
           "alsoCoveredBy": []
         }
       ]
@@ -81,16 +81,22 @@
           "source": "MS Dynamics 365 Blog",
           "date": "2026-10-29T15:30:00.000Z",
           "summary": "Dynamics 365 CX MCP Server - Sales brings governed CRM capabilities to supported AI agents and seller experiences, helping sellers take action wherever they work.",
-          "score": 64.8,
+          "score": 43.6,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
         {
-          "title": "Motion Picture Association runs its legal operations on a CRM built for sales",
-          "url": "https://siliconangle.com/2026/10/29/legal-operations-mpa-crm-powers-global-anti-piracy-work-mondayelevate/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-29T18:44:44.000Z",
-          "summary": "Legal operations teams are finding that software built for sales pipelines can just as easily run investigations and member communications.",
-          "score": 26.3,
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-10-29T14:55:10.000Z",
+          "summary": "The cautionary tale of when Salesforce \"ingested\" Slack.",
+          "score": 33.6,
           "alsoCoveredBy": []
         }
       ]
@@ -100,21 +106,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
-          "url": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
-          "source": "Databricks Blog",
-          "date": "2026-10-29T22:30:04.000Z",
-          "summary": "We introduced Real-Time Mode (RTM) last year which enabled customers to build low-latency, operational use cases...",
-          "score": 24.3,
+          "title": "Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy",
+          "url": "https://www.salesforce.com/blog/data360-snowflake/",
+          "source": "Salesforce Blog",
+          "date": "2026-10-30T17:54:54.000Z",
+          "summary": "The AI model itself is no longer the differentiator it once was. Enterprises increasingly have access to the same powerful foundation models.",
+          "score": 51.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Meta quietly launches an AI fashion app called Style Sketch",
-          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-29T19:14:36.000Z",
-          "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your…",
-          "score": 19.6,
+          "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
+          "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
+          "source": "Databricks Blog",
+          "date": "2026-10-30T21:00:00.000Z",
+          "summary": "Today's AI models are more capable than ever. What they still lack is the business...",
+          "score": 19.3,
           "alsoCoveredBy": []
         }
       ]
@@ -124,12 +130,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "Meet your new teammate: Building marketing workflows around AI agents",
+          "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+          "source": "MarTech",
+          "date": "2026-10-30T12:03:00.000Z",
+          "summary": "AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech…",
+          "score": 54.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "source": "TechCrunch AI",
+          "date": "2026-10-30T21:52:03.000Z",
+          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has…",
+          "score": 33.1,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Dayforce Discover - agentic HCM brings dramatic change to enterprise HR",
           "url": "https://diginomica.com/dayforce-discover-agentic-hcm-brings-dramatic-change-enterprise-hr",
           "source": "Diginomica",
           "date": "2026-10-30T09:54:28.000Z",
           "summary": "Dayforce unveiled a new agentic experience and multiple new agentic capabilities at its annual user conference this week. Are its customers ready for this much change?",
-          "score": 42.2,
+          "score": 31.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+          "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-10-31T02:00:23.000Z",
+          "summary": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard.",
+          "score": 27.7,
           "alsoCoveredBy": []
         },
         {
@@ -138,34 +171,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-10-30T12:03:27.000Z",
           "summary": "Enterprises racing to put AI agents into production are discovering that role-based access control, not model choice, decides whether those agents can be trusted.",
-          "score": 36.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI-backed Thrive Holdings acquires ADT",
-          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-          "source": "TechCrunch AI",
-          "date": "2026-10-29T19:56:19.000Z",
-          "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-          "score": 36.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "7 Agentic Service Strategies For Startups",
-          "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
-          "source": "Salesforce Blog",
-          "date": "2026-10-30T13:00:00.000Z",
-          "summary": "Here's how agentic customer service helps lean teams deliver without burning out.",
-          "score": 35.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
-          "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-10-30T15:26:21.000Z",
-          "summary": "As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone.",
-          "score": 35.5,
+          "score": 27.5,
           "alsoCoveredBy": []
         }
       ]
@@ -178,9 +184,14 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Is Salesforce Health Cloud the Next Big Deal?",
-      "url": "https://www.salesforceben.com/is-salesforce-health-cloud-the-next-big-deal/",
-      "source": "Salesforce Ben"
+      "title": "7 Agentic Service Strategies For Startups",
+      "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
+      "source": "Salesforce Blog"
+    },
+    {
+      "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
+      "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
+      "source": "SiliconANGLE AI"
     },
     {
       "title": "AI agents cut critical research time for humanitarian teams in conflict zones",
@@ -193,24 +204,19 @@
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News"
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Salesforce-Jira Integration: 7 Architecture Decisions That Prevent Manual Handoffs",
-      "url": "https://www.salesforceben.com/salesforce-jira-integration-7-architecture-decisions-that-prevent-manual-handoffs/",
-      "source": "Salesforce Ben"
+      "title": "The Humane Agentic Enterprise: How To Thrive with AI at Work",
+      "url": "https://www.salesforce.com/blog/the-humane-agentic-enterprise/",
+      "source": "Salesforce Blog"
     },
     {
       "title": "How Novo has built a scalable data platform for agentic AI explorations",
       "url": "https://diginomica.com/how-novo-has-built-scalable-data-platform-agentic-ai-explorations",
       "source": "Diginomica"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch AI"
     }
   ]
 }
