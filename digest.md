@@ -1,89 +1,81 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Sunday, November 1, 2026 · 2–3 min read · 14 stories from 19 sources*
+*Monday, November 2, 2026 · 2–3 min read · 12 stories from 19 sources*
 
 ## The 60-second version
 
-- What Happens to Salesforce Marketing Cloud After the Braze Acquisition? — Salesforce Ben
-- Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy — Salesforce Blog
-- OpenAI reportedly lowers funding target for new round — TechCrunch AI
-- Motion Picture Association runs its legal operations on a CRM built for sales — SiliconANGLE AI
+- We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026 — Salesforce Ben
+- Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work — SiliconANGLE AI
+- Scrunch vs. Semrush: Which tracks AI visibility better? — HubSpot Marketing Blog
+- Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation — Databricks Blog
 
 ## Salesforce
 
-**[What Happens to Salesforce Marketing Cloud After the Braze Acquisition?](https://www.salesforceben.com/what-happens-to-salesforce-marketing-cloud-after-the-braze-acquisition/)**
-Salesforce is acquiring AI marketing company Braze in a deal worth around $5.66B, raising questions around the future of its existing products and partner ecosystem.
-<sub>Salesforce Ben · Oct 30</sub>
+**[We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026](https://www.salesforceben.com/we-counted-every-time-salesforce-said-crm-at-dreamforce-from-2022-to-2026/)**
+You may know Salesforce as a CRM company. You may know Salesforce as an AI company. You may also know Salesforce as the company that is caught somewhere in between a CRM provider and an AI company.
+<sub>Salesforce Ben · Nov 2</sub>
 
-**[Salesforce Acquires Rune Technologies in Biggest National Security Buy to Date](https://www.salesforceben.com/salesforce-acquires-rune-technologies-in-biggest-national-security-buy-to-date/)**
-Salesforce has signed a definitive agreement to acquire Rune Technologies, a technology provider dedicated to building solutions to enable critical logistics and sustainment operations for the US…
-<sub>Salesforce Ben · Oct 30</sub>
+**[Should You Be Vibe Coding as a Salesforce Admin in 2027?](https://www.salesforceben.com/should-you-be-vibe-coding-as-a-salesforce-admin-in-2027/)**
+If you’ve read any of my content since the Salesforce Ben Admin Survey 2026 Results dropped, you’d know that I’m flabbergasted that three in four Salesforce Admins have never touched a vibe coding…
+<sub>Salesforce Ben · Nov 2</sub>
 
-**[Accidental Tokenmaxxing Is Draining Your Salesforce AI Budget](https://www.salesforceben.com/accidental-tokenmaxxing-is-draining-your-salesforce-ai-budget/)**
-With all the pricing changes and updates from Salesforce lately, credit-burn concerns are one of the biggest talking points in the ecosystem right now, and not just with Salesforce.
-<sub>Salesforce Ben · Oct 30</sub>
+**[The Salesforce Platform App Builder Exam Just Got Harder](https://www.salesforceben.com/the-salesforce-platform-app-builder-exam-just-got-harder/)**
+The Salesforce Certified Platform App Builder exam got refreshed on August 21 (aligned to the Summer ’26 release), and change announcements were likely buried in the usual (and more exciting)…
+<sub>Salesforce Ben · Nov 2</sub>
 
-**[Salesforce Signs Definitive Agreement to Acquire Rune Technologies](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/)**
-Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Rune Technologies, a leading edge-native technology provider building solutions to enable critical logistics…
-<sub>Salesforce Newsroom · Oct 29</sub>
+**[Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business?](https://www.salesforce.com/blog/salesforce-vs-activcampaign/)**
+Let’s take a look at these two CRMs side by side to see which would be a better fit for your business.
+<sub>Salesforce Blog · Nov 2</sub>
 
-**[Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)**
-The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
-<sub>TechCrunch Enterprise · Oct 30</sub>
+**[Salesforce Health Insights: Know What to Fix First](https://www.salesforce.com/blog/salesforce-health-insights/)**
+Turn scattered data and system complexity into an actionable plan with AI-powered step-by step next best actions delivered right where you work.
+<sub>Salesforce Blog · Nov 2</sub>
 
 ## CRM Platforms
 
-**[Motion Picture Association runs its legal operations on a CRM built for sales](https://siliconangle.com/2026/10/29/legal-operations-mpa-crm-powers-global-anti-piracy-work-mondayelevate/)**
-Legal operations teams are finding that software built for sales pipelines can just as easily run investigations and member communications.
-<sub>SiliconANGLE AI · Oct 29</sub>
+**[Scrunch vs. Semrush: Which tracks AI visibility better?](https://blog.hubspot.com/marketing/scrunch-vs-semrush)**
+Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs.
+<sub>HubSpot Marketing Blog · Nov 2</sub>
 
 ## Data Platforms
-
-**[Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy](https://www.salesforce.com/blog/data360-snowflake/)**
-The AI model itself is no longer the differentiator it once was. Enterprises increasingly have access to the same powerful foundation models.
-<sub>Salesforce Blog · Oct 30</sub>
 
 **[Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation](https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation)**
 Today's AI models are more capable than ever. What they still lack is the business...
 <sub>Databricks Blog · Oct 30</sub>
 
-**[Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks](https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks)**
-We introduced Real-Time Mode (RTM) last year which enabled customers to build low-latency, operational use cases...
-<sub>Databricks Blog · Oct 29</sub>
-
 ## AI
 
-**[OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
-OpenAI’s latest funding round doesn't seem to be living up to expectations.
-<sub>TechCrunch AI · Oct 31</sub>
+**[Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work](https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/)**
+Artificial intelligence agents have become two a penny in the enterprise today, but just because they’re rapidly being commoditized does not mean organizations know how best to use them.
+<sub>SiliconANGLE AI · Nov 2</sub>
 
-**[Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)**
-Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has…
-<sub>TechCrunch AI · Oct 30</sub>
+**[With Agentic Studio, LinearB provides the critical context needed to accelerate software delivery](https://siliconangle.com/2026/11/02/with-agentic-studio-linearb-provides-the-critical-context-needed-to-accelerate-software-delivery/)**
+Application development intelligence startup LinearB Inc. said today it’s trying to ease the growing congestion in organization’s software delivery pipelines that has arisen with the widespread…
+<sub>SiliconANGLE AI · Nov 2</sub>
 
-**[Dayforce Discover - agentic HCM brings dramatic change to enterprise HR](https://diginomica.com/dayforce-discover-agentic-hcm-brings-dramatic-change-enterprise-hr)**
-Dayforce unveiled a new agentic experience and multiple new agentic capabilities at its annual user conference this week. Are its customers ready for this much change?
-<sub>Diginomica · Oct 30</sub>
+**[On theCUBE Pod: Stock market gets the jitters and Anthropic files IPO](https://siliconangle.com/2026/11/02/ai-bubble-stock-market-thecubepod/)**
+The hubbub at the New York Stock Exchange was audible on theCUBE Pod last Friday, with concerns rising over the artificial intelligence bubble.
+<sub>SiliconANGLE AI · Nov 2</sub>
 
-**[Google, Anthropic and others to support new AI crawling opt-out standard](https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/)**
-Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard.
-<sub>SiliconANGLE AI · Oct 31</sub>
+**[OpenAI is finally merging ChatGPT’s Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)**
+OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.
+<sub>TechCrunch AI · Nov 2</sub>
 
-**[The hidden threat in Anthropic’s prospectus: diseconomies of scale](https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/)**
-As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone.
-<sub>SiliconANGLE AI · Oct 30</sub>
+**[How ontology is re-shaping the future of multi-agent systems. Druid AI's founder explains what's happening](https://diginomica.com/how-ontology-re-shaping-future-multi-agent-systems-druid-ais-founder-explains-whats-happening)**
+Druid AI co-founder and COO Andreea Pleșea wrote her 2011 PhD on software agents that negotiated over bricks described differently by various buyers and sellers.
+<sub>Diginomica · Nov 2</sub>
 
 ## Also worth a click
 
-- [5 Salesforce Career Lessons from the 2026 10K Report](https://www.salesforceben.com/5-salesforce-career-lessons-from-the-2026-10k-report/) — *Salesforce Ben*
-- [The race to deploy AI agents finds a familiar hurdle in data access](https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/) — *SiliconANGLE AI*
-- [7 Agentic Service Strategies For Startups](https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/) — *Salesforce Blog*
-- [As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet](https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/) — *SiliconANGLE AI*
-- [AI agents cut critical research time for humanitarian teams in conflict zones](https://siliconangle.com/2026/10/30/agentic-ai-helps-prosper-global-speed-crisis-research-evolve26/) — *SiliconANGLE AI*
-- [The Humane Agentic Enterprise: How To Thrive with AI at Work](https://www.salesforce.com/blog/the-humane-agentic-enterprise/) — *Salesforce Blog*
-- [Zest’s new AI agent finds restaurants and books reservations over text](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/) — *TechCrunch AI*
-- [How Novo has built a scalable data platform for agentic AI explorations](https://diginomica.com/how-novo-has-built-scalable-data-platform-agentic-ai-explorations) — *Diginomica*
+- [Salesforce Certificate Changes: Does Your Org Actually Need to Act?](https://www.salesforceben.com/salesforce-certificate-changes-does-your-org-actually-need-to-act/) — *Salesforce Ben*
+- [Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/) — *AWS Machine Learning*
+- [SuiteWorld 26 - Brennan Industries is rebuilding its ERP user experience in Claude and Codex, without burning tokens](https://diginomica.com/suiteworld-26-brennan-industries-rebuilding-erp-ux-claude-codex) — *Diginomica*
+- [Your buyers are sending agents. Will they recommend your brand?](https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/) — *Marketing Dive*
+- [50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well](https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/) — *ZDNet Enterprise Software*
+- [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/) — *TechCrunch AI*
+- [OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect](https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/) — *ZDNet Enterprise Software*
+- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2570 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2573 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
