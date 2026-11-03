@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-02T20:33:55.571Z",
+  "generatedAt": "2026-11-03T18:09:18.185Z",
   "stats": {
-    "considered": 2573,
-    "relevant": 30,
-    "featured": 12,
+    "considered": 2580,
+    "relevant": 54,
+    "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 19,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 640,
-    "minutes": 2.6666666666666665,
+    "words": 688,
+    "minutes": 2.8666666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026 — Salesforce Ben",
-    "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work — SiliconANGLE AI",
-    "Scrunch vs. Semrush: Which tracks AI visibility better? — HubSpot Marketing Blog",
-    "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation — Databricks Blog"
+    "Build Faster, Work Smarter with AI Agents and Apps Grounded in Data — Snowflake Blog",
+    "Snowflake expands agentic AI platform with business context and governance tools — SiliconANGLE AI",
+    "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway — AWS Machine Learning"
   ],
   "sections": [
     {
@@ -30,16 +30,16 @@
           "source": "Salesforce Ben",
           "date": "2026-11-02T14:00:00.000Z",
           "summary": "You may know Salesforce as a CRM company. You may know Salesforce as an AI company. You may also know Salesforce as the company that is caught somewhere in between a CRM provider and an AI company.",
-          "score": 138.3,
+          "score": 104.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Should You Be Vibe Coding as a Salesforce Admin in 2027?",
-          "url": "https://www.salesforceben.com/should-you-be-vibe-coding-as-a-salesforce-admin-in-2027/",
+          "title": "Salesforce Acquires Cresta: Buying Spree Continues With Voice Agent Company",
+          "url": "https://www.salesforceben.com/salesforce-acquires-cresta-buying-spree-continues-with-voice-agent-company/",
           "source": "Salesforce Ben",
-          "date": "2026-11-02T08:45:00.000Z",
-          "summary": "If you’ve read any of my content since the Salesforce Ben Admin Survey 2026 Results dropped, you’d know that I’m flabbergasted that three in four Salesforce Admins have never touched a vibe coding…",
-          "score": 63.1,
+          "date": "2026-11-03T13:37:29.000Z",
+          "summary": "Salesforce has signed a definitive agreement to acquire Cresta, a voice agent customer experience operating system.",
+          "score": 94.3,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,16 @@
           "source": "Salesforce Ben",
           "date": "2026-11-02T13:00:00.000Z",
           "summary": "The Salesforce Certified Platform App Builder exam got refreshed on August 21 (aligned to the Summer ’26 release), and change announcements were likely buried in the usual (and more exciting)…",
-          "score": 62.2,
+          "score": 47,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
+          "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-11-02T21:00:00.000Z",
+          "summary": "Combination unites advanced voice agents with the world’s #1 CRM, bringing together the customer, the conversation and the outcome",
+          "score": 40.4,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +66,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-02T14:00:00.000Z",
           "summary": "Let’s take a look at these two CRMs side by side to see which would be a better fit for your business.",
-          "score": 45.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Health Insights: Know What to Fix First",
-          "url": "https://www.salesforce.com/blog/salesforce-health-insights/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-02T19:14:28.000Z",
-          "summary": "Turn scattered data and system complexity into an actionable plan with AI-powered step-by step next best actions delivered right where you work.",
-          "score": 26,
+          "score": 34.2,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,21 @@
       "label": "CRM Platforms",
       "items": [
         {
+          "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+          "url": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
+          "source": "AWS Machine Learning",
+          "date": "2026-11-03T16:47:40.000Z",
+          "summary": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling…",
+          "score": 22.9,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
           "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
           "source": "HubSpot Marketing Blog",
           "date": "2026-11-02T17:45:05.000Z",
           "summary": "Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs.",
-          "score": 9.3,
+          "score": 7.2,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +100,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
-          "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
-          "source": "Databricks Blog",
-          "date": "2026-10-30T21:00:00.000Z",
-          "summary": "Today's AI models are more capable than ever. What they still lack is the business...",
-          "score": 6.1,
+          "title": "Build Faster, Work Smarter with AI Agents and Apps Grounded in Data | Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-governed-data-business-context",
+          "source": "Snowflake Blog",
+          "date": "2026-11-03T13:57:00.000Z",
+          "summary": "At Expedition 2026, Snowflake announces new capabilities across Snowflake CoCo and CoWork, Cortex Training, Apps and Agentic Collaboration that ground AI agents in governed business data, let them…",
+          "score": 67.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Governed Context, Security and Spend Controls for AI Agents | Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-governance-ai-security-cost-control",
+          "source": "Snowflake Blog",
+          "date": "2026-11-03T13:57:00.000Z",
+          "summary": "Learn how Snowflake brings governed business context, AI agent security and AI spend controls belong in one interoperable platform.",
+          "score": 55.5,
           "alsoCoveredBy": []
         }
       ]
@@ -106,48 +124,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work",
-          "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
+          "title": "Snowflake expands agentic AI platform with business context and governance tools",
+          "url": "https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools/",
           "source": "SiliconANGLE AI",
-          "date": "2026-11-02T09:00:22.000Z",
-          "summary": "Artificial intelligence agents have become two a penny in the enterprise today, but just because they’re rapidly being commoditized does not mean organizations know how best to use them.",
-          "score": 38.8,
+          "date": "2026-11-03T14:00:44.000Z",
+          "summary": "Snowflake Inc. today announced a sweeping collection of artificial intelligence capabilities designed to bring business context, governance and autonomous development into the same environment, as…",
+          "score": 61.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "With Agentic Studio, LinearB provides the critical context needed to accelerate software delivery",
-          "url": "https://siliconangle.com/2026/11/02/with-agentic-studio-linearb-provides-the-critical-context-needed-to-accelerate-software-delivery/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-02T14:00:26.000Z",
-          "summary": "Application development intelligence startup LinearB Inc. said today it’s trying to ease the growing congestion in organization’s software delivery pipelines that has arisen with the widespread…",
-          "score": 34.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "On theCUBE Pod: Stock market gets the jitters and Anthropic files IPO",
-          "url": "https://siliconangle.com/2026/11/02/ai-bubble-stock-market-thecubepod/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-02T16:43:35.000Z",
-          "summary": "The hubbub at the New York Stock Exchange was audible on theCUBE Pod last Friday, with concerns rising over the artificial intelligence bubble.",
-          "score": 29.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-02T13:57:53.000Z",
-          "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-          "score": 26.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How ontology is re-shaping the future of multi-agent systems. Druid AI's founder explains what's happening",
-          "url": "https://diginomica.com/how-ontology-re-shaping-future-multi-agent-systems-druid-ais-founder-explains-whats-happening",
+          "title": "Agentic reality check (1/2) - no, it's really not going to be an agentic AI shopping frenzy this Holidays season",
+          "url": "https://diginomica.com/agentic-reality-check-12-no-its-really-not-going-be-agentic-ai-shopping-frenzy-holidays-season",
           "source": "Diginomica",
-          "date": "2026-11-02T09:50:02.000Z",
-          "summary": "Druid AI co-founder and COO Andreea Pleșea wrote her 2011 PhD on software agents that negotiated over bricks described differently by various buyers and sellers.",
-          "score": 25.4,
+          "date": "2026-11-03T10:35:01.000Z",
+          "summary": "It's that time of year again, but will the agentic revolution make Black Friday 2026 feel any different?",
+          "score": 58.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Tableau Data Apps: From Prompt to Trusted Agentic Analytics",
+          "url": "https://www.salesforce.com/blog/tableau-data-apps-from-prompt-to-trusted-agentic-analytics/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-03T18:06:25.000Z",
+          "summary": "Learn how Tableau Data Apps combine conversational vibe coding with live, governed data to deliver trusted, interactive analytics across your enterprise.",
+          "score": 42.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Cortex Training: Serverless Fine-Tuning for Open-Weight LLMs",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cortex-training-fine-tune-open-weight-llms",
+          "source": "Snowflake Blog",
+          "date": "2026-11-03T20:58:00.000Z",
+          "summary": "Customize open-weight LLMs with SFT, RL and custom training loops on serverless GPUs. Cortex Training is now in public preview on Snowflake.",
+          "score": 41,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Agentic reality check (2/2) - your very own AI personal Finance assistant? Don't bank on it yet!",
+          "url": "https://diginomica.com/agentic-reality-check-22-your-very-own-ai-personal-finance-assistant-dont-bank-it-yet",
+          "source": "Diginomica",
+          "date": "2026-11-03T10:36:52.000Z",
+          "summary": "Personal AI agents running our finances? Nice idea, but even the most evangelical of fiscal leaders are striking a note of caution.",
+          "score": 33.5,
           "alsoCoveredBy": []
         }
       ]
@@ -155,44 +173,44 @@
   ],
   "quickLinks": [
     {
+      "title": "Should You Be Vibe Coding as a Salesforce Admin in 2027?",
+      "url": "https://www.salesforceben.com/should-you-be-vibe-coding-as-a-salesforce-admin-in-2027/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Salesforce Certificate Changes: Does Your Org Actually Need to Act?",
       "url": "https://www.salesforceben.com/salesforce-certificate-changes-does-your-org-actually-need-to-act/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning"
+      "title": "Business Ontology: Governed Context for AI | Snowflake",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/business-ontology-context",
+      "source": "Snowflake Blog"
     },
     {
-      "title": "SuiteWorld 26 - Brennan Industries is rebuilding its ERP user experience in Claude and Codex, without burning tokens",
-      "url": "https://diginomica.com/suiteworld-26-brennan-industries-rebuilding-erp-ux-claude-codex",
-      "source": "Diginomica"
+      "title": "Snowflake and USA Cycling Partner on Data for LA28 Olympics",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/usa-cycling-snowflake-partnership",
+      "source": "Snowflake Blog"
     },
     {
-      "title": "Your buyers are sending agents. Will they recommend your brand?",
-      "url": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
-      "source": "Marketing Dive"
+      "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+      "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
-      "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
-      "source": "ZDNet Enterprise Software"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
-      "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
-      "source": "ZDNet Enterprise Software"
+      "title": "Real-Time Analytics on Snowflake: Stream, Transform, Serve",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/real-time-analytics-snowflake",
+      "source": "Snowflake Blog"
     },
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch AI"
+      "title": "PagerDuty debuts Paige AI agent with renamed PD Reliability Platform and PD Labs",
+      "url": "https://siliconangle.com/2026/11/03/pagerduty-debuts-paige-ai-agent-with-renamed-pd-reliability-platform-and-pd-labs/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
