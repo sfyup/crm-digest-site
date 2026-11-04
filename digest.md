@@ -1,45 +1,41 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Tuesday, November 3, 2026 · 2–3 min read · 14 stories from 19 sources*
+*Wednesday, November 4, 2026 · 2–3 min read · 14 stories from 19 sources*
 
 ## The 60-second version
 
-- We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026 — Salesforce Ben
+- Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI — Salesforce Newsroom
 - Build Faster, Work Smarter with AI Agents and Apps Grounded in Data — Snowflake Blog
 - Snowflake expands agentic AI platform with business context and governance tools — SiliconANGLE AI
-- ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway — AWS Machine Learning
+- Bringing sustainability into the Dynamics 365 ERP portfolio — MS Dynamics 365 Blog
 
 ## Salesforce
 
-**[We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026](https://www.salesforceben.com/we-counted-every-time-salesforce-said-crm-at-dreamforce-from-2022-to-2026/)**
-You may know Salesforce as a CRM company. You may know Salesforce as an AI company. You may also know Salesforce as the company that is caught somewhere in between a CRM provider and an AI company.
-<sub>Salesforce Ben · Nov 2</sub>
+**[Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI](https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/)**
+More than 185,000 users are putting Coworker to work, with companies including The Adecco Group, Fulton Bank, and BACA Systems expanding adoption across their businesses.
+<sub>Salesforce Newsroom · Nov 4</sub>
+
+**[Complete Guide to Salesforce Go: The Future of Salesforce Setup](https://www.salesforceben.com/complete-guide-to-salesforce-go-the-future-of-salesforce-setup/)**
+One of the greatest things about Dreamforce’s coverage on Salesforce+ was the ability to get hands-on with some of the new features from almost anywhere in the world.
+<sub>Salesforce Ben · Nov 4</sub>
+
+**[10 Mistakes Salesforce Architects Make When Scaling Flow](https://www.salesforceben.com/10-mistakes-salesforce-architects-make-when-scaling-flow/)**
+Flow is the go-to automation tool in most Salesforce orgs, and for good reason. It can handle a huge range of business processes without requiring developers to write Apex for every little thing.
+<sub>Salesforce Ben · Nov 4</sub>
 
 **[Salesforce Acquires Cresta: Buying Spree Continues With Voice Agent Company](https://www.salesforceben.com/salesforce-acquires-cresta-buying-spree-continues-with-voice-agent-company/)**
 Salesforce has signed a definitive agreement to acquire Cresta, a voice agent customer experience operating system.
 <sub>Salesforce Ben · Nov 3</sub>
 
-**[The Salesforce Platform App Builder Exam Just Got Harder](https://www.salesforceben.com/the-salesforce-platform-app-builder-exam-just-got-harder/)**
-The Salesforce Certified Platform App Builder exam got refreshed on August 21 (aligned to the Summer ’26 release), and change announcements were likely buried in the usual (and more exciting)…
-<sub>Salesforce Ben · Nov 2</sub>
-
-**[Salesforce Signs Definitive Agreement to Acquire Cresta](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/)**
-Combination unites advanced voice agents with the world’s #1 CRM, bringing together the customer, the conversation and the outcome
-<sub>Salesforce Newsroom · Nov 2</sub>
-
-**[Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business?](https://www.salesforce.com/blog/salesforce-vs-activcampaign/)**
-Let’s take a look at these two CRMs side by side to see which would be a better fit for your business.
-<sub>Salesforce Blog · Nov 2</sub>
+**[Double recall: Inside the Agentforce Memory update](https://www.salesforce.com/blog/agentforce-memory-update/)**
+Salesforce AI Research doubled Agentforce memory performance by creating a framework that tracks what an AI agent remembers.
+<sub>Salesforce Blog · Nov 4 — also: [Salesforce Newsroom](https://www.salesforce.com/news/linked-content/double-recall-inside-the-agentforce-memory-update/)</sub>
 
 ## CRM Platforms
 
-**[ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)**
-Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling…
-<sub>AWS Machine Learning · Nov 3</sub>
-
-**[Scrunch vs. Semrush: Which tracks AI visibility better?](https://blog.hubspot.com/marketing/scrunch-vs-semrush)**
-Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs.
-<sub>HubSpot Marketing Blog · Nov 2</sub>
+**[Bringing sustainability into the Dynamics 365 ERP portfolio](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/03/bringing-sustainability-into-the-dynamics-365-erp-portfolio/)**
+Introducing Microsoft Dynamics 365 Sustainability, which brings Microsoft Sustainability Manager into the Dynamics 365 ERP portfolio.
+<sub>MS Dynamics 365 Blog · Nov 3</sub>
 
 ## Data Platforms
 
@@ -51,15 +47,23 @@ At Expedition 2026, Snowflake announces new capabilities across Snowflake CoCo a
 Learn how Snowflake brings governed business context, AI agent security and AI spend controls belong in one interoperable platform.
 <sub>Snowflake Blog · Nov 3</sub>
 
+**[Claude Platform now supports native OpenTelemetry observability in Databricks MLflow](https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow)**
+An agent can return a plausible answer while missing an important finding or reading the same source repeatedly...
+<sub>Databricks Blog · Nov 3</sub>
+
 ## AI
 
 **[Snowflake expands agentic AI platform with business context and governance tools](https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools/)**
 Snowflake Inc. today announced a sweeping collection of artificial intelligence capabilities designed to bring business context, governance and autonomous development into the same environment, as…
 <sub>SiliconANGLE AI · Nov 3</sub>
 
-**[Agentic reality check (1/2) - no, it's really not going to be an agentic AI shopping frenzy this Holidays season](https://diginomica.com/agentic-reality-check-12-no-its-really-not-going-be-agentic-ai-shopping-frenzy-holidays-season)**
-It's that time of year again, but will the agentic revolution make Black Friday 2026 feel any different?
-<sub>Diginomica · Nov 3</sub>
+**[OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)**
+OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
+<sub>OpenAI News · Nov 4</sub>
+
+**[Oumi’s Frontier AI Engineer now builds AI agents and retrains the models behind them](https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/)**
+Enterprise artificial intelligence platform company Oumi PBC today extended its Frontier AI Engineer agent so it can build AI agents for customers and retrain the models those agents run on.
+<sub>SiliconANGLE AI · Nov 4</sub>
 
 **[Tableau Data Apps: From Prompt to Trusted Agentic Analytics](https://www.salesforce.com/blog/tableau-data-apps-from-prompt-to-trusted-agentic-analytics/)**
 Learn how Tableau Data Apps combine conversational vibe coding with live, governed data to deliver trusted, interactive analytics across your enterprise.
@@ -69,21 +73,17 @@ Learn how Tableau Data Apps combine conversational vibe coding with live, govern
 Customize open-weight LLMs with SFT, RL and custom training loops on serverless GPUs. Cortex Training is now in public preview on Snowflake.
 <sub>Snowflake Blog · Nov 3</sub>
 
-**[Agentic reality check (2/2) - your very own AI personal Finance assistant? Don't bank on it yet!](https://diginomica.com/agentic-reality-check-22-your-very-own-ai-personal-finance-assistant-dont-bank-it-yet)**
-Personal AI agents running our finances? Nice idea, but even the most evangelical of fiscal leaders are striking a note of caution.
-<sub>Diginomica · Nov 3</sub>
-
 ## Also worth a click
 
-- [Should You Be Vibe Coding as a Salesforce Admin in 2027?](https://www.salesforceben.com/should-you-be-vibe-coding-as-a-salesforce-admin-in-2027/) — *Salesforce Ben*
-- [Salesforce Certificate Changes: Does Your Org Actually Need to Act?](https://www.salesforceben.com/salesforce-certificate-changes-does-your-org-actually-need-to-act/) — *Salesforce Ben*
-- [Business Ontology: Governed Context for AI | Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/business-ontology-context) — *Snowflake Blog*
-- [Snowflake and USA Cycling Partner on Data for LA28 Olympics](https://www.snowflake.com/content/snowflake-site/global/en/blog/usa-cycling-snowflake-partnership) — *Snowflake Blog*
-- [Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO](https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/) — *SiliconANGLE AI*
-- [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/) — *TechCrunch AI*
-- [Real-Time Analytics on Snowflake: Stream, Transform, Serve](https://www.snowflake.com/content/snowflake-site/global/en/blog/real-time-analytics-snowflake) — *Snowflake Blog*
-- [PagerDuty debuts Paige AI agent with renamed PD Reliability Platform and PD Labs](https://siliconangle.com/2026/11/03/pagerduty-debuts-paige-ai-agent-with-renamed-pd-reliability-platform-and-pd-labs/) — *SiliconANGLE AI*
+- [We Counted Every Time Salesforce Said ‘CRM’ at Dreamforce, From 2022 to 2026](https://www.salesforceben.com/we-counted-every-time-salesforce-said-crm-at-dreamforce-from-2022-to-2026/) — *Salesforce Ben*
+- [How to Build a Compliant E-Invoicing Process in Salesforce](https://www.salesforceben.com/how-to-build-a-compliant-e-invoicing-process-in-salesforce/) — *Salesforce Ben*
+- [Community Reacts to SIforce Renaming: What on Earth Is ‘Super Intelligence’?](https://www.salesforceben.com/community-reacts-to-siforce-renaming-what-on-earth-is-super-intelligence/) — *Salesforce Ben*
+- [Four layers of context engineering for production AI agents: How Deep Insight applies them in working code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/) — *AWS Machine Learning*
+- [The Salesforce Platform App Builder Exam Just Got Harder](https://www.salesforceben.com/the-salesforce-platform-app-builder-exam-just-got-harder/) — *Salesforce Ben*
+- [Half of Slack Messages Are No Longer From People. Here’s Slack by the Numbers.](https://www.salesforce.com/news/stories/slack-stats/) — *Salesforce Newsroom*
+- [Salesforce to buy customer service automation startup Cresta for reported $2.7B](https://siliconangle.com/2026/11/03/salesforce-to-buy-customer-service-automation-startup-cresta-for-reported-2-7b/) — *SiliconANGLE AI*
+- [Tencent releases Hy4, powerful frontier LLM introducing visual understanding and computer use](https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2580 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2588 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
