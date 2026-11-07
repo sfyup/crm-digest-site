@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-06T17:44:20.836Z",
+  "generatedAt": "2026-11-07T16:40:26.517Z",
   "stats": {
-    "considered": 2600,
-    "relevant": 72,
-    "featured": 14,
-    "quickLinks": 8,
-    "sourcesOk": 19,
+    "considered": 2612,
+    "relevant": 64,
+    "featured": 13,
+    "quickLinks": 9,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 722,
-    "minutes": 3.0083333333333333,
+    "words": 712,
+    "minutes": 2.966666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Microsoft Dynamics 365 named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises — MS Dynamics 365 Blog",
-    "The latest AI-powered martech news and releases — MarTech",
-    "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI — Salesforce Newsroom",
-    "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1 — AWS Machine Learning +1"
+    "Has AI Completely Removed the Need for Trailhead? — Salesforce Ben",
+    "OpenAI reportedly raises $11B in new funding at $1.25T valuation — SiliconANGLE AI",
+    "Beyond the opt-in: Engineering consent for better marketing — MarTech",
+    "HubSpot's 'suck it and see' approach to AI adoption - a work in progress, but worth the headwinds? — Diginomica"
   ],
   "sections": [
     {
@@ -25,13 +25,36 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI",
-          "url": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-04T14:00:00.000Z",
-          "summary": "More than 185,000 users are putting Coworker to work, with companies including The Adecco Group, Fulton Bank, and BACA Systems expanding adoption across their businesses.",
-          "score": 41.3,
+          "title": "Has AI Completely Removed the Need for Trailhead?",
+          "url": "https://www.salesforceben.com/has-ai-completely-removed-the-need-for-trailhead/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-06T13:19:54.000Z",
+          "summary": "For over a decade, Salesforce Trailhead has been the go-to platform for learning Salesforce. From total beginners to seasoned Salesforce veterans, Trailhead has something for everyone.",
+          "score": 63.3,
           "alsoCoveredBy": []
+        },
+        {
+          "title": "What Does a Salesforce CRM Manager Do? (And How to Become One)",
+          "url": "https://www.salesforceben.com/what-does-a-salesforce-crm-manager-do-and-how-to-become-one/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-06T12:58:24.000Z",
+          "summary": "CRM stands for Customer Relationship Management, but what exactly each company means by that varies. In this article, we’re going to talk about one of many elusive job titles in the digital world —…",
+          "score": 55.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Spring ‘27 Release: What to Expect and How to Prepare (Part 2)",
+          "url": "https://www.salesforceben.com/salesforce-spring-27-release-what-to-expect-and-how-to-prepare-part-2/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-06T17:06:16.000Z",
+          "summary": "Welcome to the second part of Salesforce Spring ‘27 Release: What to Expect and How to Prepare. Spring ‘27 arrives in January 2027, and with it another batch of enforced release updates.",
+          "score": 44.6,
+          "alsoCoveredBy": [
+            {
+              "source": "Salesforce Ben",
+              "url": "https://www.salesforceben.com/salesforce-spring-27-release-what-to-expect-and-how-to-prepare-part-1/"
+            }
+          ]
         },
         {
           "title": "Employment for Vets: Why Salesforce Champions Military Talent",
@@ -39,7 +62,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-06T12:57:02.000Z",
           "summary": "Some skills are hard to teach in a classroom. Leading a team through change is one. Making a call with incomplete information is another. Staying focused on the mission when things get hard…",
-          "score": 25.1,
+          "score": 18.8,
           "alsoCoveredBy": []
         }
       ]
@@ -49,30 +72,12 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Microsoft Dynamics 365 named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/05/microsoft-dynamics-365-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-erp-for-service-centric-enterprises/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-11-05T18:30:00.000Z",
-          "summary": "See why Dynamics 365 was named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises.",
-          "score": 60,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "HubSpot's 'suck it and see' approach to AI adoption - a work in progress, but worth the headwinds?",
           "url": "https://diginomica.com/hubspots-suck-it-and-see-approach-ai-adoption-work-progress-worth-headwinds",
           "source": "Diginomica",
           "date": "2026-11-05T12:00:02.000Z",
           "summary": "HubSpot has rolled out a long game gambit around encouraging AI adoption, but the early signs look promising, says CEO Yamini Rangan.",
-          "score": 39.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The ASUG Tech Connect review - vendors had their AI moment. Now SAP customers have their say.",
-          "url": "https://diginomica.com/asug-tech-connect-review-vendors-had-their-ai-moment-now-sap-customers-have-their-say",
-          "source": "Diginomica",
-          "date": "2026-11-05T17:33:45.000Z",
-          "summary": "Something was different at this year's ASUG Tech Connect. SAP customers have shifted. They aren't in some kind of magical agentic future, but they have a direction of travel.",
-          "score": 26.3,
+          "score": 25.8,
           "alsoCoveredBy": []
         }
       ]
@@ -82,21 +87,21 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-11-05T15:02:32.000Z",
-          "summary": "Scott Brinker says AI removes the human friction that used to catch bad decisions, making context an operations problem, not a prompt-writing problem.",
-          "score": 41.4,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "Beyond the opt-in: Engineering consent for better marketing",
           "url": "https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/",
           "source": "MarTech",
           "date": "2026-11-06T16:35:43.000Z",
           "summary": "Compliance pressure is real, but privacy controls can power better personalization. At the November MarTech Conference, we discussed turning opt-ins into your best first-party data asset.",
-          "score": 38.7,
+          "score": 29.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-11-05T15:02:32.000Z",
+          "summary": "Scott Brinker says AI removes the human friction that used to catch bad decisions, making context an operations problem, not a prompt-writing problem.",
+          "score": 27.7,
           "alsoCoveredBy": []
         }
       ]
@@ -111,16 +116,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-05T20:58:00.000Z",
           "summary": "Snowflake CoCo brings governed AI to Microsoft Excel and Google Sheets, with live Snowflake data, agentic workbook building and role-based security.",
-          "score": 33.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "A builder’s guide to scaling Databricks Apps",
-          "url": "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
-          "source": "Databricks Blog",
-          "date": "2026-11-05T18:00:00.000Z",
-          "summary": "Congratulations, you've built an app on Databricks Apps, and it's gone from a couple...",
-          "score": 22.6,
+          "score": 23.4,
           "alsoCoveredBy": []
         }
       ]
@@ -130,12 +126,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+          "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-06T23:43:40.000Z",
+          "summary": "OpenAI Group PBC has reportedly raised $11 billion as part of a funding round that could nearly double in size over the coming weeks, as sources told Bloomberg that investors wired the funds to the…",
+          "score": 34.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI News",
+          "date": "2026-11-06T00:00:00.000Z",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "score": 27,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-06T22:53:46.000Z",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+          "score": 26,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
           "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
           "source": "AWS Machine Learning",
           "date": "2026-11-06T17:09:18.000Z",
           "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it.",
-          "score": 33.8,
+          "score": 25.7,
           "alsoCoveredBy": [
             {
               "source": "AWS Machine Learning",
@@ -149,40 +172,43 @@
           "source": "Diginomica",
           "date": "2026-11-06T09:20:01.000Z",
           "summary": "ASOS was the future once. Can following agentic fashion trends give it back the innovative spark it once had?",
-          "score": 33.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-          "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
-          "source": "AWS Machine Learning",
-          "date": "2026-11-06T17:13:13.000Z",
-          "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake.",
-          "score": 31.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How AI agents help improve your customer experience",
-          "url": "https://martech.org/how-ai-agents-help-improve-your-customer-experience/",
-          "source": "MarTech",
-          "date": "2026-11-04T14:29:28.000Z",
-          "summary": "AI agents could be the key to meeting the crazy expectations of consumers, but only if they're used wisely.",
-          "score": 31.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Oracle rethinks the lakehouse as AI agents become data consumers",
-          "url": "https://siliconangle.com/2026/11/04/semantic-layer-turns-lakehouses-ai-decision-backbones-oracleaiworld/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-04T19:39:13.000Z",
-          "summary": "A shared semantic layer is fast becoming the dividing line between lakehouses built for reporting and those built for artificial intelligence.",
-          "score": 30.9,
+          "score": 24.5,
           "alsoCoveredBy": []
         }
       ]
     }
   ],
   "quickLinks": [
+    {
+      "title": "The ASUG Tech Connect review - vendors had their AI moment. Now SAP customers have their say.",
+      "url": "https://diginomica.com/asug-tech-connect-review-vendors-had-their-ai-moment-now-sap-customers-have-their-say",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Salesforce Announces Quick Pages – Let Users Build Their Own Custom Pages",
+      "url": "https://www.salesforceben.com/salesforce-announces-quick-pages-let-users-build-their-own-custom-pages/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "ServiceNow Lays Off More Staff After Q3 Earnings Fail to Impress Wall Street",
+      "url": "https://www.salesforceben.com/servicenow-lays-off-more-staff-after-q3-earnings-fail-to-impress-wall-street/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News"
+    },
     {
       "title": "Agentic analytics require proper business context. Providing it has gotten easier with time",
       "url": "https://diginomica.com/agentic-analytics-business-context-easier-with-time",
@@ -194,34 +220,9 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Oracle wants to pull stalled AI agents out of demo mode and into production",
-      "url": "https://siliconangle.com/2026/11/05/ai-architecture-gaps-keep-agents-demo-mode-oracleaiworld/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Taxonomy of agentic primitives in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
-      "source": "AWS Machine Learning"
-    },
-    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch Enterprise"
-    },
-    {
-      "title": "OpenAI to acquire developer tooling startup Pierre Computer",
-      "url": "https://siliconangle.com/2026/11/04/openai-to-acquire-developer-tooling-startup-pierre-computer/",
-      "source": "SiliconANGLE AI"
     }
   ]
 }
