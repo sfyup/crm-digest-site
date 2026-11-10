@@ -1,45 +1,96 @@
 {
-  "generatedAt": "2026-11-09T21:11:09.761Z",
+  "generatedAt": "2026-11-10T18:21:27.168Z",
   "stats": {
-    "considered": 2605,
-    "relevant": 22,
-    "featured": 10,
+    "considered": 2622,
+    "relevant": 50,
+    "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 19,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 453,
-    "minutes": 1.8875,
+    "words": 668,
+    "minutes": 2.783333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Content everywhere: Winning attention in a fragmented marketing landscape — MarTech",
-    "Combining MMM with post-purchase survey attribution — MarTech",
-    "Databricks' Commitment to European Sovereignty — Databricks Blog",
-    "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore — AWS Machine Learning"
+    "Are Early Agentforce Adopters Still Using It? — Salesforce Ben",
+    "Claritas brings live optimization to acquisition email — MarTech",
+    "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks — TechCrunch AI",
+    "Databricks' Commitment to European Sovereignty — Databricks Blog"
   ],
   "sections": [
+    {
+      "key": "salesforce",
+      "label": "Salesforce",
+      "items": [
+        {
+          "title": "Are Early Agentforce Adopters Still Using It?",
+          "url": "https://www.salesforceben.com/are-early-agentforce-adopters-still-using-it/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-09T19:20:00.000Z",
+          "summary": "Agentforce is two years old, and some very big-name customers have been paraded before the ecosystem to show how effective it can be.",
+          "score": 76.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Unveils Cheaper, Quicker AI Decisions Model “Koa Decisions”",
+          "url": "https://www.salesforceben.com/salesforce-unveils-cheaper-quicker-ai-decisions-model-koa-decisions/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-09T14:19:27.000Z",
+          "summary": "Salesforce is unveiling the latest version of its AI decision model, Koa Decisions. The latest version builds on the CRM company’s HyperClassifier model, but “dramatically expands” where and how…",
+          "score": 53.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Flow Testing Just Got Easier With New Test Mode",
+          "url": "https://www.salesforceben.com/salesforce-flow-testing-just-got-easier-with-new-test-mode/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-09T15:34:23.000Z",
+          "summary": "While Flow Builder is one of the most powerful and accessible tools at Salesforce Admins’ disposal, it’s not perfect.",
+          "score": 51.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO’s Tradewinds Solutions Marketplace",
+          "url": "https://www.salesforce.com/news/press-releases/2026/11/10/missionforce-achieves-awardable-status/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-11-10T14:00:00.000Z",
+          "summary": "SAN FRANCISCO and WASHINGTON, November 10, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced it has received “Awardable” status for Missionforce National Security personnel recruiting…",
+          "score": 40.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "New Data Shows Sales Agents Are Rescuing the Sales Cycle",
+          "url": "https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-11-10T17:00:00.000Z",
+          "summary": "Nobody gets into sales to do data entry. Sellers want to build relationships and close deals, yet the average seller spends 60% of their time on non-selling activities like manually updating CRM…",
+          "score": 29,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
     {
       "key": "martech",
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Combining MMM with post-purchase survey attribution",
-          "url": "https://martech.org/combining-mmm-with-post-purchase-survey-attribution/",
+          "title": "Claritas brings live optimization to acquisition email",
+          "url": "https://martech.org/claritas-brings-live-optimization-to-acquisition-email/",
           "source": "MarTech",
-          "date": "2026-11-09T13:55:00.000Z",
-          "summary": "Enterprise marketers use top-down statistical modeling and bottom-up survey data to capture hard-to-track dark social shares and offline mentions.",
-          "score": 32.3,
+          "date": "2026-11-10T15:54:44.000Z",
+          "summary": "New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift.",
+          "score": 49.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Why marketing needs different approaches to measurement",
-          "url": "https://martech.org/why-marketing-needs-different-approaches-to-measurement/",
+          "title": "From journeys to decisions: The next era of customer engagement",
+          "url": "https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/",
           "source": "MarTech",
-          "date": "2026-11-09T13:37:00.000Z",
-          "summary": "Stable work rewards exact numbers. Campaigns, customer journeys, and forecasting often don’t.",
-          "score": 20.6,
+          "date": "2026-11-10T14:26:22.000Z",
+          "summary": "Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences.",
+          "score": 26.9,
           "alsoCoveredBy": []
         }
       ]
@@ -54,7 +105,7 @@
           "source": "Databricks Blog",
           "date": "2026-11-09T19:40:00.000Z",
           "summary": "Over a Decade of Investment in EuropeDatabricks has been building in Europe since...",
-          "score": 29.5,
+          "score": 22.9,
           "alsoCoveredBy": []
         },
         {
@@ -63,16 +114,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-09T16:02:41.000Z",
           "summary": "See how Snowflake's internal audit team used AI to save thousands of hours a year, and what it took to get there.",
-          "score": 28.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How Flo Health is using compliance automation to head off all future data privacy concerns",
-          "url": "https://diginomica.com/how-flo-health-using-compliance-automation-head-all-future-data-privacy-concerns",
-          "source": "Diginomica",
-          "date": "2026-11-09T11:01:20.000Z",
-          "summary": "Agentic Trust specialist Vanta at heart of rigorous internal data collection and activity tracking at Flo Health",
-          "score": 18.6,
+          "score": 21.8,
           "alsoCoveredBy": []
         }
       ]
@@ -82,12 +124,30 @@
       "label": "AI",
       "items": [
         {
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-10T17:30:00.000Z",
+          "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such…",
+          "score": 49.1,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
+          "url": "https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-10T00:08:34.000Z",
+          "summary": "Anthropic PBC today pulled back the curtains on Claude Fable 5.2 and Claude Mythos 5.2, its two most capable large language models to date.",
+          "score": 37.9,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
           "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
           "source": "MarTech",
           "date": "2026-11-09T16:43:41.000Z",
           "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.",
-          "score": 44.1,
+          "score": 33.9,
           "alsoCoveredBy": []
         },
         {
@@ -96,34 +156,16 @@
           "source": "AWS Machine Learning",
           "date": "2026-11-09T19:05:54.000Z",
           "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore.",
-          "score": 43,
+          "score": 33.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-          "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-          "source": "AWS Machine Learning",
-          "date": "2026-11-09T20:13:18.000Z",
-          "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval.",
-          "score": 35.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How Veteran Nonprofits Are Using AI Agents to Serve Those Who Served",
-          "url": "https://www.salesforce.com/blog/ai-agents-veteran-nonprofits/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-09T15:41:11.000Z",
-          "summary": "Learn how two veteran support nonprofits are putting AI agents to work for their communities.",
-          "score": 35.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
           "source": "TechCrunch AI",
-          "date": "2026-11-09T19:24:51.000Z",
-          "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-          "score": 28.1,
+          "date": "2026-11-10T15:29:30.000Z",
+          "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+          "score": 33.1,
           "alsoCoveredBy": []
         }
       ]
@@ -131,44 +173,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "title": "Record Type, Profile, or Permission Set? A Salesforce Decision Guide",
+      "url": "https://www.salesforceben.com/record-type-profile-or-permission-set-a-salesforce-decision-guide/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Priceline’s AI agent Penny lands in Snapchat ads amid holiday rush",
+      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Lumbra gets $25M in backing to help intelligence community deploy reliable AI agents",
+      "url": "https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Adobe expands AI assistant into creative workflows",
+      "url": "https://siliconangle.com/2026/11/10/adobe-expands-ai-assistant-into-creative-workflows/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "Introducing Claude Fable 5.2 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-      "source": "AWS Machine Learning"
+      "title": "Cowbell unveils AI liability insurance for small businesses that deploy AI agents",
+      "url": "https://siliconangle.com/2026/11/10/cowbell-unveils-ai-liability-insurance-for-small-businesses-that-deploy-ai-agents/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "Red and Big Blue - how Red Hat and IBM are strengthening open source for the agentic era",
-      "url": "https://diginomica.com/red-and-big-blue-how-red-hat-and-ibm-are-strengthening-open-source-agentic-era",
-      "source": "Diginomica"
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Enterprise hits and misses - the state of enterprise AI needs a debate, AI governance gets data points, and customers air it out at events",
-      "url": "https://diginomica.com/enterprise-hits-and-misses-state-enterprise-ai-needs-debate-ai-governance-gets-data-points-and",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
-      "url": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
-      "source": "ZDNet Enterprise Software"
-    },
-    {
-      "title": "B2B CTV tactics that go beyond brand awareness",
-      "url": "https://martech.org/b2b-ctv-tactics-that-go-beyond-brand-awareness/",
-      "source": "MarTech"
-    },
-    {
-      "title": "Turn buying signals into pipeline with Sendoso gifts in Genie One",
-      "url": "https://www.databricks.com/blog/turn-buying-signals-pipeline-sendoso-gifts-genie-one",
-      "source": "Databricks Blog"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning"
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog"
     }
   ]
 }
