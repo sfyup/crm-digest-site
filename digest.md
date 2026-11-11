@@ -1,31 +1,31 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Tuesday, November 10, 2026 · 2–3 min read · 14 stories from 20 sources*
+*Wednesday, November 11, 2026 · 2–3 min read · 13 stories from 19 sources*
 
 ## The 60-second version
 
-- Are Early Agentforce Adopters Still Using It? — Salesforce Ben
-- Claritas brings live optimization to acquisition email — MarTech
-- Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks — TechCrunch AI
-- Databricks' Commitment to European Sovereignty — Databricks Blog
+- Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline — Salesforce Blog
+- Built to adapt: Why composable martech is becoming the new standard — MarTech
+- AI agents carry memory and storage like people, so their data needs guarding while in use — SiliconANGLE AI
+- Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth — TechCrunch Enterprise
 
 ## Salesforce
 
-**[Are Early Agentforce Adopters Still Using It?](https://www.salesforceben.com/are-early-agentforce-adopters-still-using-it/)**
-Agentforce is two years old, and some very big-name customers have been paraded before the ecosystem to show how effective it can be.
-<sub>Salesforce Ben · Nov 9</sub>
+**[Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline](https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/)**
+Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on…
+<sub>Salesforce Blog · Nov 10</sub>
 
-**[Salesforce Unveils Cheaper, Quicker AI Decisions Model “Koa Decisions”](https://www.salesforceben.com/salesforce-unveils-cheaper-quicker-ai-decisions-model-koa-decisions/)**
-Salesforce is unveiling the latest version of its AI decision model, Koa Decisions. The latest version builds on the CRM company’s HyperClassifier model, but “dramatically expands” where and how…
-<sub>Salesforce Ben · Nov 9</sub>
-
-**[Salesforce Flow Testing Just Got Easier With New Test Mode](https://www.salesforceben.com/salesforce-flow-testing-just-got-easier-with-new-test-mode/)**
-While Flow Builder is one of the most powerful and accessible tools at Salesforce Admins’ disposal, it’s not perfect.
-<sub>Salesforce Ben · Nov 9</sub>
+**[Salesforce Releases R&D Agents That Improve Its AI Models](https://www.salesforce.com/news/stories/agents-that-improve-ai-models/)**
+SFR-AutoR&D, a new self-improving system from Salesforce, trains and improves the embedding models in deployment-grade enterprise AI.
+<sub>Salesforce Newsroom · Nov 11</sub>
 
 **[Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO’s Tradewinds Solutions Marketplace](https://www.salesforce.com/news/press-releases/2026/11/10/missionforce-achieves-awardable-status/)**
 SAN FRANCISCO and WASHINGTON, November 10, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced it has received “Awardable” status for Missionforce National Security personnel recruiting…
 <sub>Salesforce Newsroom · Nov 10</sub>
+
+**[With Salesforce Catalog, agents stop guessing how your org works](https://www.salesforce.com/blog/salesforce-catalog-ai-agents/)**
+The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the…
+<sub>Salesforce Blog · Nov 11</sub>
 
 **[New Data Shows Sales Agents Are Rescuing the Sales Cycle](https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/)**
 Nobody gets into sales to do data entry. Sellers want to build relationships and close deals, yet the average seller spends 60% of their time on non-selling activities like manually updating CRM…
@@ -33,57 +33,54 @@ Nobody gets into sales to do data entry. Sellers want to build relationships and
 
 ## Marketing Tech
 
+**[Built to adapt: Why composable martech is becoming the new standard](https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/)**
+At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over.
+<sub>MarTech · Nov 11</sub>
+
 **[Claritas brings live optimization to acquisition email](https://martech.org/claritas-brings-live-optimization-to-acquisition-email/)**
 New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift.
 <sub>MarTech · Nov 10</sub>
 
-**[From journeys to decisions: The next era of customer engagement](https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/)**
-Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences.
-<sub>MarTech · Nov 10</sub>
-
 ## Data Platforms
 
-**[Databricks' Commitment to European Sovereignty](https://www.databricks.com/blog/databricks-commitment-european-sovereignty)**
-Over a Decade of Investment in EuropeDatabricks has been building in Europe since...
-<sub>Databricks Blog · Nov 9</sub>
-
-**[How Snowflake’s Internal Audit Team Cut Fieldwork By 50% with AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-internal-audit)**
-See how Snowflake's internal audit team used AI to save thousands of hours a year, and what it took to get there.
-<sub>Snowflake Blog · Nov 9</sub>
+**[Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/)**
+At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.
+<sub>TechCrunch Enterprise · Nov 11</sub>
 
 ## AI
+
+**[AI agents carry memory and storage like people, so their data needs guarding while in use](https://siliconangle.com/2026/11/11/cloud-engineering-teams-must-protect-ai-agent-data-use-kubeconna/)**
+As AI agents move into production on Kubernetes, cloud engineering teams at financial companies face a security problem that encryption alone can’t solve.
+<sub>SiliconANGLE AI · Nov 11</sub>
+
+**[OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)**
+New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.
+<sub>TechCrunch AI · Nov 10</sub>
 
 **[Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)**
 As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such…
 <sub>TechCrunch AI · Nov 10</sub>
 
-**[Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades](https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/)**
-Anthropic PBC today pulled back the curtains on Claude Fable 5.2 and Claude Mythos 5.2, its two most capable large language models to date.
+**[Anthropic launches IPO roadshow with $64B fundraising goal](https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/)**
+Anthropic PBC today kicked off the roadshow for its upcoming initial public offering. An IPO roadshow is a series of promotional events aimed at persuading institutional investors to buy shares.
 <sub>SiliconANGLE AI · Nov 10</sub>
 
-**[Content everywhere: Winning attention in a fragmented marketing landscape](https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/)**
-Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.
-<sub>MarTech · Nov 9</sub>
-
-**[Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/)**
-A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore.
-<sub>AWS Machine Learning · Nov 9</sub>
-
-**[Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/)**
-Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.
+**[OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)**
+OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.
 <sub>TechCrunch AI · Nov 10</sub>
 
 ## Also worth a click
 
-- [Record Type, Profile, or Permission Set? A Salesforce Decision Guide](https://www.salesforceben.com/record-type-profile-or-permission-set-a-salesforce-decision-guide/) — *Salesforce Ben*
-- [Priceline’s AI agent Penny lands in Snapchat ads amid holiday rush](https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/) — *Marketing Dive*
-- [Lumbra gets $25M in backing to help intelligence community deploy reliable AI agents](https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/) — *SiliconANGLE AI*
-- [Adobe expands AI assistant into creative workflows](https://siliconangle.com/2026/11/10/adobe-expands-ai-assistant-into-creative-workflows/) — *SiliconANGLE AI*
-- [Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/) — *TechCrunch AI*
-- [Cowbell unveils AI liability insurance for small businesses that deploy AI agents](https://siliconangle.com/2026/11/10/cowbell-unveils-ai-liability-insurance-for-small-businesses-that-deploy-ai-agents/) — *SiliconANGLE AI*
-- [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/) — *TechCrunch AI*
-- [Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/) — *Google AI Blog*
+- [From journeys to decisions: The next era of customer engagement](https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/) — *MarTech*
+- [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/) — *TechCrunch AI*
+- [Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises](https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/) — *SiliconANGLE AI*
+- [Adobe Max 2026 - bringing agentic AI to the content supply chain](https://diginomica.com/adobe-max-2026-bringing-agentic-ai-content-supply-chain) — *Diginomica*
+- [Bring your business context to ChatGPT, Claude, Microsoft Copilot Cowork and Grok Bot](https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot) — *Databricks Blog*
+- [Red Hat accelerates agentic adoption across hybrid environments](https://siliconangle.com/2026/11/11/red-hat-accelerates-agentic-adoption-hybrid-environments-rhsummit/) — *SiliconANGLE AI*
+- [UAEF: A framework-agnostic system for closed-loop evaluation of AI agents](https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/) — *AWS Machine Learning*
+- [Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades](https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/) — *SiliconANGLE AI*
+- [Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2622 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2619 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
