@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-11T18:11:23.300Z",
+  "generatedAt": "2026-11-12T18:38:25.548Z",
   "stats": {
-    "considered": 2619,
-    "relevant": 70,
-    "featured": 13,
-    "quickLinks": 9,
-    "sourcesOk": 19,
+    "considered": 2633,
+    "relevant": 77,
+    "featured": 14,
+    "quickLinks": 8,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 726,
-    "minutes": 3.025,
+    "words": 691,
+    "minutes": 2.879166666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline — Salesforce Blog",
-    "Built to adapt: Why composable martech is becoming the new standard — MarTech",
-    "AI agents carry memory and storage like people, so their data needs guarding while in use — SiliconANGLE AI",
-    "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth — TechCrunch Enterprise"
+    "Salesforce Launches AI Skills in Agentforce Coworker — Salesforce Ben",
+    "Marketing automation is dead. Long live marketing automation! — MarTech",
+    "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift? — Diginomica",
+    "How Block powers collaborative AI agents with Buzz and Unity Gateway — Databricks Blog"
   ],
   "sections": [
     {
@@ -25,12 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Launches AI Skills in Agentforce Coworker",
+          "url": "https://www.salesforceben.com/salesforce-launches-ai-skills-in-agentforce-coworker/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-12T12:54:17.000Z",
+          "summary": "If your team has a workflow they keep doing over and over, wouldn’t it be great if it was automated and reusable?",
+          "score": 131.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce’s Next Big Bet? Agentforce Coworker Usage Grew 21x in 3 Months",
+          "url": "https://www.salesforceben.com/salesforces-next-big-bet-agentforce-coworker-usage-grew-21x-in-3-months/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-11T17:20:03.000Z",
+          "summary": "When Salesforce announced Agentforce Coworker back in May, I remarked that it seemed like one of the only tools that the CRM giant had released in the last couple of years to receive a lot of initial…",
+          "score": 99.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Why Agentforce Needs Customer Feedback on the Salesforce Record",
+          "url": "https://www.salesforceben.com/why-agentforce-needs-customer-feedback-on-the-salesforce-record/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-11T15:49:25.000Z",
+          "summary": "Most Salesforce teams already collect customer feedback, but a lot of what customers tell you never gets acted on, despite surveys and follow-up emails to gather it.",
+          "score": 83.2,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
           "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
           "source": "Salesforce Blog",
           "date": "2026-11-10T22:22:06.000Z",
           "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on…",
-          "score": 73.3,
+          "score": 49.8,
           "alsoCoveredBy": []
         },
         {
@@ -39,34 +66,22 @@
           "source": "Salesforce Newsroom",
           "date": "2026-11-11T16:00:00.000Z",
           "summary": "SFR-AutoR&D, a new self-improving system from Salesforce, trains and improves the embedding models in deployment-grade enterprise AI.",
-          "score": 41,
+          "score": 30.3,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
         {
-          "title": "Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO’s Tradewinds Solutions Marketplace",
-          "url": "https://www.salesforce.com/news/press-releases/2026/11/10/missionforce-achieves-awardable-status/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-10T14:00:00.000Z",
-          "summary": "SAN FRANCISCO and WASHINGTON, November 10, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced it has received “Awardable” status for Missionforce National Security personnel recruiting…",
-          "score": 29.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "With Salesforce Catalog, agents stop guessing how your org works",
-          "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-11T00:01:58.000Z",
-          "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the…",
-          "score": 25,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "New Data Shows Sales Agents Are Rescuing the Sales Cycle",
-          "url": "https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-10T17:00:00.000Z",
-          "summary": "Nobody gets into sales to do data entry. Sellers want to build relationships and close deals, yet the average seller spends 60% of their time on non-selling activities like manually updating CRM…",
-          "score": 21.7,
+          "title": "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift?",
+          "url": "https://diginomica.com/servicenow-takes-aim-crm-switching-costs-autonomous-crm-engine-will-status-quo-shift",
+          "source": "Diginomica",
+          "date": "2026-11-12T13:00:02.000Z",
+          "summary": "ServiceNow says its new Autonomous CRM Engine can move buyers off of legacy CRM platforms in weeks - a bold claim. But as we all know, technology is only one part of the equation.",
+          "score": 68.5,
           "alsoCoveredBy": []
         }
       ]
@@ -76,21 +91,30 @@
       "label": "Marketing Tech",
       "items": [
         {
+          "title": "Marketing automation is dead. Long live marketing automation!",
+          "url": "https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/",
+          "source": "MarTech",
+          "date": "2026-11-12T15:06:05.000Z",
+          "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner.",
+          "score": 99.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-11-12T13:02:00.000Z",
+          "summary": "Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows.",
+          "score": 63.3,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Built to adapt: Why composable martech is becoming the new standard",
           "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
           "source": "MarTech",
           "date": "2026-11-11T14:57:54.000Z",
           "summary": "At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over.",
-          "score": 64.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Claritas brings live optimization to acquisition email",
-          "url": "https://martech.org/claritas-brings-live-optimization-to-acquisition-email/",
-          "source": "MarTech",
-          "date": "2026-11-10T15:54:44.000Z",
-          "summary": "New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift.",
-          "score": 36.6,
+          "score": 47.8,
           "alsoCoveredBy": []
         }
       ]
@@ -104,8 +128,17 @@
           "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
           "source": "TechCrunch Enterprise",
           "date": "2026-11-11T15:00:00.000Z",
-          "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.",
-          "score": 43.5,
+          "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.",
+          "score": 36.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Lakehouse//RT: Scale real-time analytics, not your bill",
+          "url": "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill",
+          "source": "Databricks Blog",
+          "date": "2026-11-12T16:53:43.000Z",
+          "summary": "AI agents are pushing the limits of data warehouses. A human analyst might run a...",
+          "score": 32.4,
           "alsoCoveredBy": []
         }
       ]
@@ -115,48 +148,30 @@
       "label": "AI",
       "items": [
         {
+          "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
+          "url": "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
+          "source": "Databricks Blog",
+          "date": "2026-11-12T14:59:06.000Z",
+          "summary": "Inside Block,&nbsp;Buzz brings employees and AI agents into a shared workspace. With Databricks...",
+          "score": 38.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "AI agents carry memory and storage like people, so their data needs guarding while in use",
           "url": "https://siliconangle.com/2026/11/11/cloud-engineering-teams-must-protect-ai-agent-data-use-kubeconna/",
           "source": "SiliconANGLE AI",
           "date": "2026-11-11T16:20:46.000Z",
           "summary": "As AI agents move into production on Kubernetes, cloud engineering teams at financial companies face a security problem that encryption alone can’t solve.",
-          "score": 50.3,
+          "score": 37.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
           "source": "TechCrunch AI",
-          "date": "2026-11-10T20:52:13.000Z",
-          "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-          "score": 39.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-10T17:30:00.000Z",
-          "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such…",
-          "score": 36.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic launches IPO roadshow with $64B fundraising goal",
-          "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-10T21:33:17.000Z",
-          "summary": "Anthropic PBC today kicked off the roadshow for its upcoming initial public offering. An IPO roadshow is a series of promotional events aimed at persuading institutional investors to buy shares.",
-          "score": 36.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-10T21:08:52.000Z",
-          "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-          "score": 36.1,
+          "date": "2026-11-12T17:17:58.000Z",
+          "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+          "score": 36.9,
           "alsoCoveredBy": []
         }
       ]
@@ -164,49 +179,44 @@
   ],
   "quickLinks": [
     {
-      "title": "From journeys to decisions: The next era of customer engagement",
-      "url": "https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/",
+      "title": "Connected App Warnings Return as Salesforce Disables Two Integrations",
+      "url": "https://www.salesforceben.com/connected-app-warnings-return-as-salesforce-disables-two-integrations/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Is the Salesforce Job Market Finally Recovering?",
+      "url": "https://www.salesforceben.com/is-the-salesforce-job-market-finally-recovering/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Should you invest in a loyalty program?",
+      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
       "source": "MarTech"
     },
     {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "source": "TechCrunch AI"
+      "title": "Salesforce Spring ‘27 Release: What to Expect and How to Prepare (Part 2)",
+      "url": "https://www.salesforceben.com/salesforce-spring-27-release-what-to-expect-and-how-to-prepare-part-2/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
-      "source": "SiliconANGLE AI"
+      "title": "Microsoft is named a Leader in 2026 Gartner® Magic Quadrant™ for CRM Customer Engagement Center",
+      "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/10/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for-crm-customer-engagement-center/",
+      "source": "MS Dynamics 365 Blog"
     },
     {
-      "title": "Adobe Max 2026 - bringing agentic AI to the content supply chain",
-      "url": "https://diginomica.com/adobe-max-2026-bringing-agentic-ai-content-supply-chain",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Bring your business context to ChatGPT, Claude, Microsoft Copilot Cowork and Grok Bot",
-      "url": "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot",
+      "title": "Detecting credential-driven attacks on Databricks",
+      "url": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
       "source": "Databricks Blog"
     },
     {
-      "title": "Red Hat accelerates agentic adoption across hybrid environments",
-      "url": "https://siliconangle.com/2026/11/11/red-hat-accelerates-agentic-adoption-hybrid-environments-rhsummit/",
-      "source": "SiliconANGLE AI"
+      "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
+      "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "source": "Salesforce Newsroom"
     },
     {
-      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
-      "source": "AWS Machine Learning"
-    },
-    {
-      "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
-      "url": "https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TechCrunch AI"
+      "title": "Are Early Agentforce Adopters Still Using It?",
+      "url": "https://www.salesforceben.com/are-early-agentforce-adopters-still-using-it/",
+      "source": "Salesforce Ben"
     }
   ]
 }
