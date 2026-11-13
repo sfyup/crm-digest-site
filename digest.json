@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-12T18:38:25.548Z",
+  "generatedAt": "2026-11-13T18:16:30.125Z",
   "stats": {
-    "considered": 2633,
-    "relevant": 77,
+    "considered": 2638,
+    "relevant": 82,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 691,
-    "minutes": 2.879166666666667,
+    "words": 680,
+    "minutes": 2.8333333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Salesforce Launches AI Skills in Agentforce Coworker — Salesforce Ben",
     "Marketing automation is dead. Long live marketing automation! — MarTech",
-    "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift? — Diginomica",
-    "How Block powers collaborative AI agents with Buzz and Unity Gateway — Databricks Blog"
+    "Meet your new teammate: Building marketing workflows around AI agents — MarTech",
+    "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift? — Diginomica"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-12T12:54:17.000Z",
           "summary": "If your team has a workflow they keep doing over and over, wouldn’t it be great if it was automated and reusable?",
-          "score": 131.2,
+          "score": 96.8,
           "alsoCoveredBy": []
         },
         {
@@ -39,34 +39,16 @@
           "source": "Salesforce Ben",
           "date": "2026-11-11T17:20:03.000Z",
           "summary": "When Salesforce announced Agentforce Coworker back in May, I remarked that it seemed like one of the only tools that the CRM giant had released in the last couple of years to receive a lot of initial…",
-          "score": 99.4,
+          "score": 66.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Why Agentforce Needs Customer Feedback on the Salesforce Record",
-          "url": "https://www.salesforceben.com/why-agentforce-needs-customer-feedback-on-the-salesforce-record/",
+          "title": "Does Salesforce Flow Builder Have an Expiration Date?",
+          "url": "https://www.salesforceben.com/does-salesforce-flow-builder-have-an-expiration-date/",
           "source": "Salesforce Ben",
-          "date": "2026-11-11T15:49:25.000Z",
-          "summary": "Most Salesforce teams already collect customer feedback, but a lot of what customers tell you never gets acted on, despite surveys and follow-up emails to gather it.",
-          "score": 83.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
-          "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-10T22:22:06.000Z",
-          "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on…",
-          "score": 49.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Releases R&D Agents That Improve Its AI Models",
-          "url": "https://www.salesforce.com/news/stories/agents-that-improve-ai-models/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-11T16:00:00.000Z",
-          "summary": "SFR-AutoR&D, a new self-improving system from Salesforce, trains and improves the embedding models in deployment-grade enterprise AI.",
-          "score": 30.3,
+          "date": "2026-11-13T14:45:29.000Z",
+          "summary": "There is a cult following for those who love Salesforce Flow. I say this with confidence because I myself am one of them!",
+          "score": 65,
           "alsoCoveredBy": []
         }
       ]
@@ -81,7 +63,16 @@
           "source": "Diginomica",
           "date": "2026-11-12T13:00:02.000Z",
           "summary": "ServiceNow says its new Autonomous CRM Engine can move buyers off of legacy CRM platforms in weeks - a bold claim. But as we all know, technology is only one part of the equation.",
-          "score": 68.5,
+          "score": 50.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Choose your own agent, says Zendesk - and pay us on outcomes",
+          "url": "https://diginomica.com/choose-your-own-agent-says-zendesk-and-pay-us-outcomes",
+          "source": "Diginomica",
+          "date": "2026-11-13T10:06:11.000Z",
+          "summary": "At its online AI Summit this week, Zendesk unveiled new ways for AI agents to access its platform, and a rebrand to align with an outcome-based pricing model that goes beyond resolution.",
+          "score": 30.9,
           "alsoCoveredBy": []
         }
       ]
@@ -96,25 +87,7 @@
           "source": "MarTech",
           "date": "2026-11-12T15:06:05.000Z",
           "summary": "Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner.",
-          "score": 99.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-11-12T13:02:00.000Z",
-          "summary": "Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows.",
-          "score": 63.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Built to adapt: Why composable martech is becoming the new standard",
-          "url": "https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/",
-          "source": "MarTech",
-          "date": "2026-11-11T14:57:54.000Z",
-          "summary": "At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over.",
-          "score": 47.8,
+          "score": 74.3,
           "alsoCoveredBy": []
         }
       ]
@@ -124,21 +97,30 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-          "source": "TechCrunch Enterprise",
-          "date": "2026-11-11T15:00:00.000Z",
-          "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.",
-          "score": 36.3,
+          "title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
+          "source": "Snowflake Blog",
+          "date": "2026-11-13T20:58:00.000Z",
+          "summary": "Snowflake is named a Leader in the inaugural Magic Quadrant for Data Lakehouse Platforms report by Gartner. Explore its approach to modernization, governance and AI.",
+          "score": 50,
           "alsoCoveredBy": []
         },
         {
-          "title": "Lakehouse//RT: Scale real-time analytics, not your bill",
-          "url": "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill",
+          "title": "OpenAI and Databricks: Enterprise AI on your governed data",
+          "url": "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
           "source": "Databricks Blog",
-          "date": "2026-11-12T16:53:43.000Z",
-          "summary": "AI agents are pushing the limits of data warehouses. A human analyst might run a...",
-          "score": 32.4,
+          "date": "2026-11-13T15:30:00.000Z",
+          "summary": "Greg Brockman, co-founder and President of OpenAI, has a simple way to describe AI...",
+          "score": 42.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Inkling 2 Small Now Available in Snowflake Cortex Training",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/inkling-2-small-snowflake-cortex-training",
+          "source": "Snowflake Blog",
+          "date": "2026-11-12T19:31:09.000Z",
+          "summary": "Inkling 2 Small, Thinking Machines Lab's open-weight agentic model, is now in Snowflake Cortex Training for batch and streaming inference on governed data.",
+          "score": 29.8,
           "alsoCoveredBy": []
         }
       ]
@@ -148,30 +130,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
-          "url": "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
-          "source": "Databricks Blog",
-          "date": "2026-11-12T14:59:06.000Z",
-          "summary": "Inside Block,&nbsp;Buzz brings employees and AI agents into a shared workspace. With Databricks...",
-          "score": 38.5,
+          "title": "Meet your new teammate: Building marketing workflows around AI agents",
+          "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+          "source": "MarTech",
+          "date": "2026-11-13T14:24:28.000Z",
+          "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.",
+          "score": 73.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "AI agents carry memory and storage like people, so their data needs guarding while in use",
-          "url": "https://siliconangle.com/2026/11/11/cloud-engineering-teams-must-protect-ai-agent-data-use-kubeconna/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-11T16:20:46.000Z",
-          "summary": "As AI agents move into production on Kubernetes, cloud engineering teams at financial companies face a security problem that encryption alone can’t solve.",
-          "score": 37.2,
+          "title": "Marketers deploying AI agents faster than they can measure them",
+          "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
+          "source": "MarTech",
+          "date": "2026-11-13T13:34:00.000Z",
+          "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue.",
+          "score": 63.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
           "source": "TechCrunch AI",
-          "date": "2026-11-12T17:17:58.000Z",
-          "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-          "score": 36.9,
+          "date": "2026-11-12T19:11:00.000Z",
+          "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+          "score": 43.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
+          "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-13T13:34:36.000Z",
+          "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
+          "score": 37.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-13T16:00:12.000Z",
+          "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+          "score": 36.5,
           "alsoCoveredBy": []
         }
       ]
@@ -179,9 +179,34 @@
   ],
   "quickLinks": [
     {
+      "title": "Enterprise Edition Is Dead: How to Prepare for Your Next Salesforce Renewal",
+      "url": "https://www.salesforceben.com/enterprise-edition-is-dead-how-to-prepare-for-your-next-salesforce-renewal/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Why Agentforce Needs Customer Feedback on the Salesforce Record",
+      "url": "https://www.salesforceben.com/why-agentforce-needs-customer-feedback-on-the-salesforce-record/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "Connected App Warnings Return as Salesforce Disables Two Integrations",
       "url": "https://www.salesforceben.com/connected-app-warnings-return-as-salesforce-disables-two-integrations/",
       "source": "Salesforce Ben"
+    },
+    {
+      "title": "The latest AI-powered martech news and releases",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "source": "MarTech"
+    },
+    {
+      "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls",
+      "url": "https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "source": "AWS Machine Learning"
     },
     {
       "title": "Is the Salesforce Job Market Finally Recovering?",
@@ -189,34 +214,9 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Should you invest in a loyalty program?",
-      "url": "https://martech.org/should-you-invest-in-a-loyalty-program/",
-      "source": "MarTech"
-    },
-    {
-      "title": "Salesforce Spring ‘27 Release: What to Expect and How to Prepare (Part 2)",
-      "url": "https://www.salesforceben.com/salesforce-spring-27-release-what-to-expect-and-how-to-prepare-part-2/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Microsoft is named a Leader in 2026 Gartner® Magic Quadrant™ for CRM Customer Engagement Center",
-      "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/10/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for-crm-customer-engagement-center/",
-      "source": "MS Dynamics 365 Blog"
-    },
-    {
-      "title": "Detecting credential-driven attacks on Databricks",
-      "url": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
-      "source": "Databricks Blog"
-    },
-    {
-      "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
-      "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
-      "source": "Salesforce Newsroom"
-    },
-    {
-      "title": "Are Early Agentforce Adopters Still Using It?",
-      "url": "https://www.salesforceben.com/are-early-agentforce-adopters-still-using-it/",
-      "source": "Salesforce Ben"
+      "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues",
+      "url": "https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
