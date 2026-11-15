@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-14T16:46:58.172Z",
+  "generatedAt": "2026-11-15T17:29:34.697Z",
   "stats": {
-    "considered": 2629,
-    "relevant": 58,
+    "considered": 2639,
+    "relevant": 43,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 19,
+    "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 699,
-    "minutes": 2.9125,
+    "words": 670,
+    "minutes": 2.7916666666666665,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce Launches AI Skills in Agentforce Coworker — Salesforce Ben",
+    "Meet your new teammate: Building marketing workflows around AI agents — MarTech",
+    "Does Salesforce Flow Builder Have an Expiration Date? — Salesforce Ben",
     "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™ — Snowflake Blog",
-    "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift? — Diginomica",
-    "NiCE’s next-generation Cognigy bets the hard part of AI agents is running them, not building them — SiliconANGLE AI"
+    "Choose your own agent, says Zendesk - and pay us on outcomes — Diginomica"
   ],
   "sections": [
     {
@@ -25,21 +25,12 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce Launches AI Skills in Agentforce Coworker",
-          "url": "https://www.salesforceben.com/salesforce-launches-ai-skills-in-agentforce-coworker/",
-          "source": "Salesforce Ben",
-          "date": "2026-11-12T12:54:17.000Z",
-          "summary": "If your team has a workflow they keep doing over and over, wouldn’t it be great if it was automated and reusable?",
-          "score": 64.1,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "Does Salesforce Flow Builder Have an Expiration Date?",
           "url": "https://www.salesforceben.com/does-salesforce-flow-builder-have-an-expiration-date/",
           "source": "Salesforce Ben",
           "date": "2026-11-13T14:45:29.000Z",
           "summary": "There is a cult following for those who love Salesforce Flow. I say this with confidence because I myself am one of them!",
-          "score": 49.2,
+          "score": 31.8,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-13T12:00:33.000Z",
           "summary": "In early September, Salesforce announced three new editions: Core, Advanced, and Max. It became clear that these existed to replace the Enterprise, Unlimited, and Agentforce 1 tiers that customers…",
-          "score": 42.6,
+          "score": 27,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +48,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-13T18:20:34.000Z",
           "summary": "Deploy robust, secure AI solutions with Salesforce’s development approach, designed to fit the size and skillset of your team and business priorities.",
-          "score": 25.3,
+          "score": 16.8,
           "alsoCoveredBy": []
         }
       ]
@@ -67,21 +58,36 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift?",
-          "url": "https://diginomica.com/servicenow-takes-aim-crm-switching-costs-autonomous-crm-engine-will-status-quo-shift",
-          "source": "Diginomica",
-          "date": "2026-11-12T13:00:02.000Z",
-          "summary": "ServiceNow says its new Autonomous CRM Engine can move buyers off of legacy CRM platforms in weeks - a bold claim. But as we all know, technology is only one part of the equation.",
-          "score": 33.5,
-          "alsoCoveredBy": []
-        },
-        {
           "title": "Choose your own agent, says Zendesk - and pay us on outcomes",
           "url": "https://diginomica.com/choose-your-own-agent-says-zendesk-and-pay-us-outcomes",
           "source": "Diginomica",
           "date": "2026-11-13T10:06:11.000Z",
           "summary": "At its online AI Summit this week, Zendesk unveiled new ways for AI agents to access its platform, and a rebrand to align with an outcome-based pricing model that goes beyond resolution.",
-          "score": 23,
+          "score": 14.3,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
+        {
+          "title": "Relevance has an expiration date",
+          "url": "https://martech.org/relevance-has-an-expiration-date/",
+          "source": "MarTech",
+          "date": "2026-11-13T13:00:00.000Z",
+          "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now.",
+          "score": 10.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+          "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+          "source": "AWS Machine Learning",
+          "date": "2026-11-13T18:44:02.000Z",
+          "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it.",
+          "score": 8.2,
           "alsoCoveredBy": []
         }
       ]
@@ -96,7 +102,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-13T20:58:00.000Z",
           "summary": "Snowflake is named a Leader in the inaugural Magic Quadrant for Data Lakehouse Platforms report by Gartner. Explore its approach to modernization, governance and AI.",
-          "score": 39.7,
+          "score": 26.8,
           "alsoCoveredBy": []
         },
         {
@@ -105,7 +111,7 @@
           "source": "Databricks Blog",
           "date": "2026-11-13T15:30:00.000Z",
           "summary": "Greg Brockman, co-founder and President of OpenAI, has a simple way to describe AI...",
-          "score": 32.4,
+          "score": 21.1,
           "alsoCoveredBy": []
         },
         {
@@ -114,7 +120,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-12T19:31:09.000Z",
           "summary": "Inkling 2 Small, Thinking Machines Lab's open-weight agentic model, is now in Snowflake Cortex Training for batch and streaming inference on governed data.",
-          "score": 20.6,
+          "score": 10.6,
           "alsoCoveredBy": []
         }
       ]
@@ -124,21 +130,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "Meet your new teammate: Building marketing workflows around AI agents",
+          "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+          "source": "MarTech",
+          "date": "2026-11-13T14:24:28.000Z",
+          "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.",
+          "score": 36,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Marketers deploying AI agents faster than they can measure them",
+          "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
+          "source": "MarTech",
+          "date": "2026-11-13T13:34:00.000Z",
+          "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue.",
+          "score": 30.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
+          "url": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-14T19:37:13.000Z",
+          "summary": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates.",
+          "score": 28.5,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "NiCE’s next-generation Cognigy bets the hard part of AI agents is running them, not building them",
           "url": "https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/",
           "source": "SiliconANGLE AI",
           "date": "2026-11-14T00:49:43.000Z",
           "summary": "The contact center has been the low-hanging fruit for the artificial intelligence industry. Ask any information technology or business leader what they want to use agentic AI for, and they will say…",
-          "score": 30.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-12T19:11:00.000Z",
-          "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-          "score": 30,
+          "score": 21.3,
           "alsoCoveredBy": []
         },
         {
@@ -147,25 +171,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-13T13:34:36.000Z",
           "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
-          "score": 28.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-13T16:00:12.000Z",
-          "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-          "score": 27.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls",
-          "url": "https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-12T20:52:08.000Z",
-          "summary": "The rise of agentic AI systems is giving Kubernetes, long valued for its reliability and predictability, an unexpected second act.",
-          "score": 24.9,
+          "score": 18.2,
           "alsoCoveredBy": []
         }
       ]
@@ -173,19 +179,34 @@
   ],
   "quickLinks": [
     {
-      "title": "Connected App Warnings Return as Salesforce Disables Two Integrations",
-      "url": "https://www.salesforceben.com/connected-app-warnings-return-as-salesforce-disables-two-integrations/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce’s Next Big Bet? Agentforce Coworker Usage Grew 21x in 3 Months",
-      "url": "https://www.salesforceben.com/salesforces-next-big-bet-agentforce-coworker-usage-grew-21x-in-3-months/",
-      "source": "Salesforce Ben"
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "AI agents are syphoning cash to vendors, but most enterprises can’t measure the benefits",
+      "url": "https://diginomica.com/ai-agents-are-syphoning-cash-vendors-most-enterprises-cant-measure-benefits",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls",
+      "url": "https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News"
     },
     {
       "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
@@ -195,21 +216,6 @@
     {
       "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues",
       "url": "https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Agentic Enterprise Security: Where the Ecosystem Goes Next",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/securing-agentic-enterprise",
-      "source": "Snowflake Blog"
-    },
-    {
-      "title": "AI agents are syphoning cash to vendors, but most enterprises can’t measure the benefits",
-      "url": "https://diginomica.com/ai-agents-are-syphoning-cash-vendors-most-enterprises-cant-measure-benefits",
-      "source": "Diginomica"
-    },
-    {
-      "title": "As AI agents take control, Nvidia rethinks the security playbook",
-      "url": "https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/",
       "source": "SiliconANGLE AI"
     }
   ]

@@ -1,19 +1,15 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Saturday, November 14, 2026 · 2–3 min read · 14 stories from 19 sources*
+*Sunday, November 15, 2026 · 2–3 min read · 14 stories from 20 sources*
 
 ## The 60-second version
 
-- Salesforce Launches AI Skills in Agentforce Coworker — Salesforce Ben
+- Meet your new teammate: Building marketing workflows around AI agents — MarTech
+- Does Salesforce Flow Builder Have an Expiration Date? — Salesforce Ben
 - Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™ — Snowflake Blog
-- ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift? — Diginomica
-- NiCE’s next-generation Cognigy bets the hard part of AI agents is running them, not building them — SiliconANGLE AI
+- Choose your own agent, says Zendesk - and pay us on outcomes — Diginomica
 
 ## Salesforce
-
-**[Salesforce Launches AI Skills in Agentforce Coworker](https://www.salesforceben.com/salesforce-launches-ai-skills-in-agentforce-coworker/)**
-If your team has a workflow they keep doing over and over, wouldn’t it be great if it was automated and reusable?
-<sub>Salesforce Ben · Nov 12</sub>
 
 **[Does Salesforce Flow Builder Have an Expiration Date?](https://www.salesforceben.com/does-salesforce-flow-builder-have-an-expiration-date/)**
 There is a cult following for those who love Salesforce Flow. I say this with confidence because I myself am one of them!
@@ -29,13 +25,19 @@ Deploy robust, secure AI solutions with Salesforce’s development approach, des
 
 ## CRM Platforms
 
-**[ServiceNow takes aim at CRM switching costs with Autonomous CRM Engine - will the status quo shift?](https://diginomica.com/servicenow-takes-aim-crm-switching-costs-autonomous-crm-engine-will-status-quo-shift)**
-ServiceNow says its new Autonomous CRM Engine can move buyers off of legacy CRM platforms in weeks - a bold claim. But as we all know, technology is only one part of the equation.
-<sub>Diginomica · Nov 12</sub>
-
 **[Choose your own agent, says Zendesk - and pay us on outcomes](https://diginomica.com/choose-your-own-agent-says-zendesk-and-pay-us-outcomes)**
 At its online AI Summit this week, Zendesk unveiled new ways for AI agents to access its platform, and a rebrand to align with an outcome-based pricing model that goes beyond resolution.
 <sub>Diginomica · Nov 13</sub>
+
+## Marketing Tech
+
+**[Relevance has an expiration date](https://martech.org/relevance-has-an-expiration-date/)**
+Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now.
+<sub>MarTech · Nov 13</sub>
+
+**[Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)**
+Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it.
+<sub>AWS Machine Learning · Nov 13</sub>
 
 ## Data Platforms
 
@@ -53,37 +55,37 @@ Inkling 2 Small, Thinking Machines Lab's open-weight agentic model, is now in Sn
 
 ## AI
 
+**[Meet your new teammate: Building marketing workflows around AI agents](https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/)**
+AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.
+<sub>MarTech · Nov 13</sub>
+
+**[Marketers deploying AI agents faster than they can measure them](https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/)**
+AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue.
+<sub>MarTech · Nov 13</sub>
+
+**[AT&T uses agentic AI to reinvent business processes from the ground up](https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/)**
+AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates.
+<sub>SiliconANGLE AI · Nov 14</sub>
+
 **[NiCE’s next-generation Cognigy bets the hard part of AI agents is running them, not building them](https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/)**
 The contact center has been the low-hanging fruit for the artificial intelligence industry. Ask any information technology or business leader what they want to use agentic AI for, and they will say…
 <sub>SiliconANGLE AI · Nov 14</sub>
-
-**[Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)**
-Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
-<sub>TechCrunch AI · Nov 12</sub>
 
 **[AI Agent Vs. Chatbot: What’s The Best For Small Biz?](https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/)**
 One answers questions, the other gets work done — here's how to tell which one your small business needs.
 <sub>Salesforce Blog · Nov 13</sub>
 
-**[ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)**
-ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
-<sub>TechCrunch AI · Nov 13</sub>
-
-**[Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls](https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/)**
-The rise of agentic AI systems is giving Kubernetes, long valued for its reliability and predictability, an unexpected second act.
-<sub>SiliconANGLE AI · Nov 12</sub>
-
 ## Also worth a click
 
-- [Connected App Warnings Return as Salesforce Disables Two Integrations](https://www.salesforceben.com/connected-app-warnings-return-as-salesforce-disables-two-integrations/) — *Salesforce Ben*
-- [Salesforce’s Next Big Bet? Agentforce Coworker Usage Grew 21x in 3 Months](https://www.salesforceben.com/salesforces-next-big-bet-agentforce-coworker-usage-grew-21x-in-3-months/) — *Salesforce Ben*
+- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) — *TechCrunch AI*
 - [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) — *TechCrunch AI*
+- [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/) — *TechCrunch AI*
+- [AI agents are syphoning cash to vendors, but most enterprises can’t measure the benefits](https://diginomica.com/ai-agents-are-syphoning-cash-vendors-most-enterprises-cant-measure-benefits) — *Diginomica*
+- [Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls](https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/) — *SiliconANGLE AI*
+- [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield) — *OpenAI News*
 - [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) — *AWS Machine Learning*
 - [4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues](https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/) — *SiliconANGLE AI*
-- [Agentic Enterprise Security: Where the Ecosystem Goes Next](https://www.snowflake.com/content/snowflake-site/global/en/blog/securing-agentic-enterprise) — *Snowflake Blog*
-- [AI agents are syphoning cash to vendors, but most enterprises can’t measure the benefits](https://diginomica.com/ai-agents-are-syphoning-cash-vendors-most-enterprises-cant-measure-benefits) — *Diginomica*
-- [As AI agents take control, Nvidia rethinks the security playbook](https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2629 items scanned from 19/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2639 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
