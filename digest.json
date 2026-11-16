@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-15T17:29:34.697Z",
+  "generatedAt": "2026-11-16T20:43:52.076Z",
   "stats": {
-    "considered": 2639,
-    "relevant": 43,
+    "considered": 2700,
+    "relevant": 35,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 670,
-    "minutes": 2.7916666666666665,
+    "words": 641,
+    "minutes": 2.6708333333333334,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Meet your new teammate: Building marketing workflows around AI agents — MarTech",
-    "Does Salesforce Flow Builder Have an Expiration Date? — Salesforce Ben",
-    "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™ — Snowflake Blog",
-    "Choose your own agent, says Zendesk - and pay us on outcomes — Diginomica"
+    "Marketing ops can turn AI agent readiness from a blind spot to a strength — MarTech",
+    "An Admin’s Guide to the Salesforce Development Plugin for Claude Code — Salesforce Ben",
+    "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM — TechCrunch Enterprise",
+    "AI agents make CX marketing’s problem — MarTech"
   ],
   "sections": [
     {
@@ -25,30 +25,30 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Does Salesforce Flow Builder Have an Expiration Date?",
-          "url": "https://www.salesforceben.com/does-salesforce-flow-builder-have-an-expiration-date/",
+          "title": "An Admin’s Guide to the Salesforce Development Plugin for Claude Code",
+          "url": "https://www.salesforceben.com/how-salesforce-admins-can-build-metadata-with-the-salesforce-development-plugin/",
           "source": "Salesforce Ben",
-          "date": "2026-11-13T14:45:29.000Z",
-          "summary": "There is a cult following for those who love Salesforce Flow. I say this with confidence because I myself am one of them!",
-          "score": 31.8,
+          "date": "2026-11-16T08:00:00.000Z",
+          "summary": "There’s so much change afoot for Salesforce Admins right now. New agentic tools are driving new opportunities and expectations, and new skills are required to keep up.",
+          "score": 88.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Enterprise Edition Is Dead: How to Prepare for Your Next Salesforce Renewal",
-          "url": "https://www.salesforceben.com/enterprise-edition-is-dead-how-to-prepare-for-your-next-salesforce-renewal/",
+          "title": "An Admin’s Guide to Enhanced Salesforce Omni-Channel",
+          "url": "https://www.salesforceben.com/salesforce-omni-channel/",
           "source": "Salesforce Ben",
-          "date": "2026-11-13T12:00:33.000Z",
-          "summary": "In early September, Salesforce announced three new editions: Core, Advanced, and Max. It became clear that these existed to replace the Enterprise, Unlimited, and Agentforce 1 tiers that customers…",
-          "score": 27,
+          "date": "2026-11-16T10:50:19.000Z",
+          "summary": "If you’ve been in the Salesforce ecosystem for a long time, you’ve more than likely heard of Salesforce Omni-Channel.",
+          "score": 67.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "The Guide to Salesforce Agent, Application, and Headless Development",
-          "url": "https://www.salesforce.com/blog/salesforce-agent-application-development/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-13T18:20:34.000Z",
-          "summary": "Deploy robust, secure AI solutions with Salesforce’s development approach, designed to fit the size and skillset of your team and business priorities.",
-          "score": 16.8,
+          "title": "Are Offshore Salesforce Jobs Disappearing Due to AI Productivity?",
+          "url": "https://www.salesforceben.com/are-offshore-salesforce-jobs-disappearing-due-to-ai-productivity/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-16T10:00:00.000Z",
+          "summary": "For years, offshoring, and now, more recently, nearshoring, have been prominent trends in both the Salesforce ecosystem and the wider tech ecosystem.",
+          "score": 60,
           "alsoCoveredBy": []
         }
       ]
@@ -58,12 +58,39 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Choose your own agent, says Zendesk - and pay us on outcomes",
-          "url": "https://diginomica.com/choose-your-own-agent-says-zendesk-and-pay-us-outcomes",
-          "source": "Diginomica",
-          "date": "2026-11-13T10:06:11.000Z",
-          "summary": "At its online AI Summit this week, Zendesk unveiled new ways for AI agents to access its platform, and a rebrand to align with an outcome-based pricing model that goes beyond resolution.",
-          "score": 14.3,
+          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+          "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+          "source": "TechCrunch Enterprise",
+          "date": "2026-11-16T12:30:00.000Z",
+          "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+          "score": 62.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Gartner Magic Quadrant for CRM Customer Engagement Center (CEC) 2026",
+          "url": "https://cxtoday.com/gartner-magic-quadrant-for-crm-customer-engagement-center-cec-2026",
+          "source": "CX Today",
+          "date": "2026-11-16T10:31:00.000Z",
+          "summary": "Gartner’s 2026 CEC Magic Quadrant shows AI governance now drives CX service buying, with Microsoft, Salesforce, ServiceNow, Oracle and Zendesk leading.",
+          "score": 46.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Legacy CRM Is Becoming a Bigger Risk for CX Buyers",
+          "url": "https://cxtoday.com/legacy-crm-is-becoming-a-bigger-risk-for-cx-buyers",
+          "source": "CX Today",
+          "date": "2026-11-16T15:01:00.000Z",
+          "summary": "Legacy CRM is slowing AI-led service, and CX Today warns buyers to weigh migration against customisation, integrations and ServiceNow.",
+          "score": 36.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Claude AI for marketing: How teams use it with HubSpot",
+          "url": "https://blog.hubspot.com/marketing/claude-for-marketing",
+          "source": "HubSpot Marketing Blog",
+          "date": "2026-11-16T13:55:04.000Z",
+          "summary": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant.",
+          "score": 34.2,
           "alsoCoveredBy": []
         }
       ]
@@ -73,21 +100,21 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Relevance has an expiration date",
-          "url": "https://martech.org/relevance-has-an-expiration-date/",
+          "title": "Marketing ops can turn AI agent readiness from a blind spot to a strength",
+          "url": "https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/",
           "source": "MarTech",
-          "date": "2026-11-13T13:00:00.000Z",
-          "summary": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now.",
-          "score": 10.2,
+          "date": "2026-11-16T13:18:00.000Z",
+          "summary": "Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth.",
+          "score": 91.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
-          "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
-          "source": "AWS Machine Learning",
-          "date": "2026-11-13T18:44:02.000Z",
-          "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it.",
-          "score": 8.2,
+          "title": "Beyond deployment: How to lead the change and make AI adoption stick",
+          "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
+          "source": "MarTech",
+          "date": "2026-11-16T14:51:52.000Z",
+          "summary": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution.",
+          "score": 33.1,
           "alsoCoveredBy": []
         }
       ]
@@ -97,30 +124,21 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
-          "source": "Snowflake Blog",
-          "date": "2026-11-13T20:58:00.000Z",
-          "summary": "Snowflake is named a Leader in the inaugural Magic Quadrant for Data Lakehouse Platforms report by Gartner. Explore its approach to modernization, governance and AI.",
-          "score": 26.8,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "OpenAI and Databricks: Enterprise AI on your governed data",
-          "url": "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
+          "title": "Tabular foundation models on Databricks AI Runtime",
+          "url": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
           "source": "Databricks Blog",
-          "date": "2026-11-13T15:30:00.000Z",
-          "summary": "Greg Brockman, co-founder and President of OpenAI, has a simple way to describe AI...",
-          "score": 21.1,
+          "date": "2026-11-16T17:00:00.000Z",
+          "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
+          "score": 36.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "Inkling 2 Small Now Available in Snowflake Cortex Training",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/inkling-2-small-snowflake-cortex-training",
+          "title": "Open Data Sharing: Share Live Data Beyond Snowflake",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/open-data-sharing-iceberg-rest-catalog",
           "source": "Snowflake Blog",
-          "date": "2026-11-12T19:31:09.000Z",
-          "summary": "Inkling 2 Small, Thinking Machines Lab's open-weight agentic model, is now in Snowflake Cortex Training for batch and streaming inference on governed data.",
-          "score": 10.6,
+          "date": "2026-11-16T20:58:00.000Z",
+          "summary": "Open Data Sharing is now GA: share live Apache Iceberg tables with any Iceberg REST Catalog client, like Spark, with no exports or copies to maintain",
+          "score": 32,
           "alsoCoveredBy": []
         }
       ]
@@ -130,48 +148,30 @@
       "label": "AI",
       "items": [
         {
-          "title": "Meet your new teammate: Building marketing workflows around AI agents",
-          "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+          "title": "AI agents make CX marketing’s problem",
+          "url": "https://martech.org/ai-agents-make-cx-marketings-problem/",
           "source": "MarTech",
-          "date": "2026-11-13T14:24:28.000Z",
-          "summary": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.",
-          "score": 36,
+          "date": "2026-11-16T13:14:00.000Z",
+          "summary": "Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth.",
+          "score": 62,
           "alsoCoveredBy": []
         },
         {
-          "title": "Marketers deploying AI agents faster than they can measure them",
-          "url": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
-          "source": "MarTech",
-          "date": "2026-11-13T13:34:00.000Z",
-          "summary": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue.",
-          "score": 30.9,
+          "title": "Vonage: What CX Leaders Should Do Next in Agentic CX",
+          "url": "https://cxtoday.com/vonage-what-cx-leaders-should-do-next-in-agentic-cx-vonage-cs-0158",
+          "source": "CX Today",
+          "date": "2026-11-16T13:31:00.000Z",
+          "summary": "Vonage warns CX leaders that agentic CX needs clean CRM data, strong voice and agent buy-in to stop context loss across IVR, AI agents and humans.",
+          "score": 55.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
-          "url": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-14T19:37:13.000Z",
-          "summary": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates.",
-          "score": 28.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "NiCE’s next-generation Cognigy bets the hard part of AI agents is running them, not building them",
-          "url": "https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-14T00:49:43.000Z",
-          "summary": "The contact center has been the low-hanging fruit for the artificial intelligence industry. Ask any information technology or business leader what they want to use agentic AI for, and they will say…",
-          "score": 21.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
-          "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-13T13:34:36.000Z",
-          "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
-          "score": 18.2,
+          "title": "The King’s Trust and OpenAI launch £1m partnership",
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "source": "OpenAI News",
+          "date": "2026-11-16T00:00:00.000Z",
+          "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "score": 32,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +179,44 @@
   ],
   "quickLinks": [
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch AI"
+      "title": "How To Fix the 2,000-Row Cap On Salesforce Report Exports",
+      "url": "https://www.salesforceben.com/how-to-fix-the-2000-row-cap-on-salesforce-report-exports/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch AI"
+      "title": "Why Brand Loyalty Still Matters When AI Agents Shop for Us",
+      "url": "https://cxtoday.com/why-brand-loyalty-still-matters-when-ai-agents-shop-for-us",
+      "source": "CX Today"
     },
     {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "AI agents are syphoning cash to vendors, but most enterprises can’t measure the benefits",
-      "url": "https://diginomica.com/ai-agents-are-syphoning-cash-vendors-most-enterprises-cant-measure-benefits",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls",
-      "url": "https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News"
     },
     {
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
+      "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
       "source": "AWS Machine Learning"
     },
     {
-      "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues",
-      "url": "https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/",
-      "source": "SiliconANGLE AI"
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
+      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
+      "source": "Databricks Blog"
     }
   ]
 }
