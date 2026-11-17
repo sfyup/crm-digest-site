@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-16T20:43:52.076Z",
+  "generatedAt": "2026-11-17T19:28:25.796Z",
   "stats": {
-    "considered": 2700,
-    "relevant": 35,
+    "considered": 2708,
+    "relevant": 67,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 641,
-    "minutes": 2.6708333333333334,
+    "words": 665,
+    "minutes": 2.7708333333333335,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
+    "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot — Salesforce Newsroom",
     "Marketing ops can turn AI agent readiness from a blind spot to a strength — MarTech",
-    "An Admin’s Guide to the Salesforce Development Plugin for Claude Code — Salesforce Ben",
-    "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM — TechCrunch Enterprise",
-    "AI agents make CX marketing’s problem — MarTech"
+    "When AI agents evaluate B2B vendors, what earns consideration? — MarTech",
+    "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM — TechCrunch Enterprise"
   ],
   "sections": [
     {
@@ -25,12 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
+          "url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-11-17T18:05:00.000Z",
+          "summary": "New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot, enable real-time CRM collaboration in Microsoft Teams, and connect Salesforce Data 360 with Microsoft…",
+          "score": 129.7,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "An Admin’s Guide to the Salesforce Development Plugin for Claude Code",
           "url": "https://www.salesforceben.com/how-salesforce-admins-can-build-metadata-with-the-salesforce-development-plugin/",
           "source": "Salesforce Ben",
           "date": "2026-11-16T08:00:00.000Z",
           "summary": "There’s so much change afoot for Salesforce Admins right now. New agentic tools are driving new opportunities and expectations, and new skills are required to keep up.",
-          "score": 88.5,
+          "score": 64.3,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Among 178 Brands Hit by Optimizely Exploit",
+          "url": "https://www.salesforceben.com/salesforce-among-178-brands-hit-by-optimizely-exploit/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-17T10:06:53.000Z",
+          "summary": "Salesforce is one of the 178 brands that have fallen victim to the Optimizely supply chain attack. The cloud giant’s own systems have not been compromised.",
+          "score": 60.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics",
+          "url": "https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/",
+          "source": "Salesforce Newsroom",
+          "date": "2026-11-17T18:05:00.000Z",
+          "summary": "Expanded Microsoft collaboration brings Informatica’s enterprise data intelligence directly into Microsoft Copilot for business users and Microsoft Foundry for AI developers, while strengthening…",
+          "score": 60.7,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +66,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-16T10:50:19.000Z",
           "summary": "If you’ve been in the Salesforce ecosystem for a long time, you’ve more than likely heard of Salesforce Omni-Channel.",
-          "score": 67.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Are Offshore Salesforce Jobs Disappearing Due to AI Productivity?",
-          "url": "https://www.salesforceben.com/are-offshore-salesforce-jobs-disappearing-due-to-ai-productivity/",
-          "source": "Salesforce Ben",
-          "date": "2026-11-16T10:00:00.000Z",
-          "summary": "For years, offshoring, and now, more recently, nearshoring, have been prominent trends in both the Salesforce ecosystem and the wider tech ecosystem.",
-          "score": 60,
+          "score": 49.5,
           "alsoCoveredBy": []
         }
       ]
@@ -63,34 +81,16 @@
           "source": "TechCrunch Enterprise",
           "date": "2026-11-16T12:30:00.000Z",
           "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-          "score": 62.2,
+          "score": 46.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Gartner Magic Quadrant for CRM Customer Engagement Center (CEC) 2026",
-          "url": "https://cxtoday.com/gartner-magic-quadrant-for-crm-customer-engagement-center-cec-2026",
+          "title": "A Changing CRM Market and a Challenge to the Old Model",
+          "url": "https://cxtoday.com/a-changing-crm-market-and-a-challenge-to-the-old-model",
           "source": "CX Today",
-          "date": "2026-11-16T10:31:00.000Z",
-          "summary": "Gartner’s 2026 CEC Magic Quadrant shows AI governance now drives CX service buying, with Microsoft, Salesforce, ServiceNow, Oracle and Zendesk leading.",
-          "score": 46.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Legacy CRM Is Becoming a Bigger Risk for CX Buyers",
-          "url": "https://cxtoday.com/legacy-crm-is-becoming-a-bigger-risk-for-cx-buyers",
-          "source": "CX Today",
-          "date": "2026-11-16T15:01:00.000Z",
-          "summary": "Legacy CRM is slowing AI-led service, and CX Today warns buyers to weigh migration against customisation, integrations and ServiceNow.",
-          "score": 36.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Claude AI for marketing: How teams use it with HubSpot",
-          "url": "https://blog.hubspot.com/marketing/claude-for-marketing",
-          "source": "HubSpot Marketing Blog",
-          "date": "2026-11-16T13:55:04.000Z",
-          "summary": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant.",
-          "score": 34.2,
+          "date": "2026-11-17T09:01:00.000Z",
+          "summary": "HubSpot, ServiceNow and Dreamteam are reshaping CRM around AI and customer context, while CX Today tracks Sitecore and Optimove updates.",
+          "score": 41.7,
           "alsoCoveredBy": []
         }
       ]
@@ -105,16 +105,7 @@
           "source": "MarTech",
           "date": "2026-11-16T13:18:00.000Z",
           "summary": "Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth.",
-          "score": 91.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Beyond deployment: How to lead the change and make AI adoption stick",
-          "url": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
-          "source": "MarTech",
-          "date": "2026-11-16T14:51:52.000Z",
-          "summary": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution.",
-          "score": 33.1,
+          "score": 68.2,
           "alsoCoveredBy": []
         }
       ]
@@ -124,21 +115,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "Tabular foundation models on Databricks AI Runtime",
-          "url": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
+          "title": "Azure Databricks sessions at Microsoft Ignite 2026",
+          "url": "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
           "source": "Databricks Blog",
-          "date": "2026-11-16T17:00:00.000Z",
-          "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
-          "score": 36.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Open Data Sharing: Share Live Data Beyond Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/open-data-sharing-iceberg-rest-catalog",
-          "source": "Snowflake Blog",
-          "date": "2026-11-16T20:58:00.000Z",
-          "summary": "Open Data Sharing is now GA: share live Apache Iceberg tables with any Iceberg REST Catalog client, like Spark, with no exports or copies to maintain",
-          "score": 32,
+          "date": "2026-11-17T19:00:00.000Z",
+          "summary": "Azure Databricks is a Visionary-level sponsor at Microsoft Ignite 2026, November...",
+          "score": 29.9,
           "alsoCoveredBy": []
         }
       ]
@@ -148,12 +130,39 @@
       "label": "AI",
       "items": [
         {
+          "title": "When AI agents evaluate B2B vendors, what earns consideration?",
+          "url": "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+          "source": "MarTech",
+          "date": "2026-11-17T12:46:00.000Z",
+          "summary": "Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration.",
+          "score": 53.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "AI Agents Are Ready, But Is CX Deployment Too Slow?",
+          "url": "https://cxtoday.com/ai-agents-are-ready-but-is-cx-deployment-too-slow",
+          "source": "CX Today",
+          "date": "2026-11-17T15:01:00.000Z",
+          "summary": "Genesys, Talkdesk, ServiceNow, and Optimove are tackling the barriers slowing AI agent deployment across customer service, CRM, and marketing.",
+          "score": 53.3,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "AI agents make CX marketing’s problem",
           "url": "https://martech.org/ai-agents-make-cx-marketings-problem/",
           "source": "MarTech",
           "date": "2026-11-16T13:14:00.000Z",
           "summary": "Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth.",
-          "score": 62,
+          "score": 46,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce joins the Personal Agent Protocol to help brands meet shoppers’ AI agents",
+          "url": "https://www.salesforce.com/blog/salesforce-joins-personal-agent-protocol/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-16T23:47:00.000Z",
+          "summary": "Shoppers are starting to send their own AI agents to find running shoes, compare prices, reorder household basics, and check on deliveries.",
+          "score": 45.5,
           "alsoCoveredBy": []
         },
         {
@@ -162,16 +171,7 @@
           "source": "CX Today",
           "date": "2026-11-16T13:31:00.000Z",
           "summary": "Vonage warns CX leaders that agentic CX needs clean CRM data, strong voice and agent buy-in to stop context loss across IVR, AI agents and humans.",
-          "score": 55.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The King’s Trust and OpenAI launch £1m partnership",
-          "url": "https://openai.com/index/the-kings-trust-and-openai",
-          "source": "OpenAI News",
-          "date": "2026-11-16T00:00:00.000Z",
-          "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-          "score": 32,
+          "score": 41.1,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +179,44 @@
   ],
   "quickLinks": [
     {
-      "title": "How To Fix the 2,000-Row Cap On Salesforce Report Exports",
+      "title": "Are Offshore Salesforce Jobs Disappearing Due to AI Productivity?",
+      "url": "https://www.salesforceben.com/are-offshore-salesforce-jobs-disappearing-due-to-ai-productivity/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Three insights you might have missed from theCUBE’s coverage of GraphSummit 2026",
+      "url": "https://siliconangle.com/2026/11/16/three-insights-you-might-have-missed-from-thecubes-coverage-of-graphsummit-2026-neo4jgraphsummit/",
+      "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "source": "AWS Machine Learning"
+    },
+    {
+      "title": "Gartner Magic Quadrant for CRM Customer Engagement Center (CEC) 2026",
+      "url": "https://cxtoday.com/gartner-magic-quadrant-for-crm-customer-engagement-center-cec-2026",
+      "source": "CX Today"
+    },
+    {
+      "title": "How to Fix the 2,000-Row Cap On Salesforce Report Exports",
       "url": "https://www.salesforceben.com/how-to-fix-the-2000-row-cap-on-salesforce-report-exports/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Why Brand Loyalty Still Matters When AI Agents Shop for Us",
-      "url": "https://cxtoday.com/why-brand-loyalty-still-matters-when-ai-agents-shop-for-us",
-      "source": "CX Today"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
-      "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
+      "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
       "source": "AWS Machine Learning"
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
-      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
-      "source": "Databricks Blog"
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI News"
     }
   ]
 }
