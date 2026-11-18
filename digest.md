@@ -1,45 +1,49 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Tuesday, November 17, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Wednesday, November 18, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot — Salesforce Newsroom
+- Salesforce Announces ‘Copilotforce’ With Microsoft Amid Ongoing Outages — Salesforce Ben
+- Microsoft Ignite 2026: Dynamics Moves Into Copilot, Salesforce Too — CX Today
+- Microsoft Ignite 2026: Introducing Dynamics 365 in Copilot — MS Dynamics 365 Blog
 - Marketing ops can turn AI agent readiness from a blind spot to a strength — MarTech
-- When AI agents evaluate B2B vendors, what earns consideration? — MarTech
-- Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM — TechCrunch Enterprise
 
 ## Salesforce
+
+**[Salesforce Announces ‘Copilotforce’ With Microsoft Amid Ongoing Outages](https://www.salesforceben.com/salesforce-announces-copilotforce-with-microsoft-amid-ongoing-outages/)**
+Salesforce has announced ‘Copilotforce’ – a partnership that brings Salesforce into Microsoft through new integrations across Microsoft Copilot, Microsoft Teams, and Microsoft Fabric.
+<sub>Salesforce Ben · Nov 18</sub>
+
+**[Could Salesforce Profit From Anthropic’s Trillion Dollar IPO?](https://www.salesforceben.com/could-salesforce-profit-from-anthropics-trillion-dollar-ipo/)**
+Anthropic is just a day away from its stock market debut, and the numbers being thrown around are pretty staggering.
+<sub>Salesforce Ben · Nov 18</sub>
 
 **[Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot](https://www.salesforce.com/news/stories/copilotforce-announcement/)**
 New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot, enable real-time CRM collaboration in Microsoft Teams, and connect Salesforce Data 360 with Microsoft…
 <sub>Salesforce Newsroom · Nov 17</sub>
 
-**[An Admin’s Guide to the Salesforce Development Plugin for Claude Code](https://www.salesforceben.com/how-salesforce-admins-can-build-metadata-with-the-salesforce-development-plugin/)**
-There’s so much change afoot for Salesforce Admins right now. New agentic tools are driving new opportunities and expectations, and new skills are required to keep up.
-<sub>Salesforce Ben · Nov 16</sub>
+**[Most Salesforce Requests Aren’t Salesforce Problems](https://www.salesforceben.com/most-salesforce-requests-arent-salesforce-problems/)**
+Someone reports that Salesforce isn’t working; a stakeholder requests a new feature; a manager complains that a report isn’t giving them the numbers they expected.
+<sub>Salesforce Ben · Nov 18</sub>
 
-**[Salesforce Among 178 Brands Hit by Optimizely Exploit](https://www.salesforceben.com/salesforce-among-178-brands-hit-by-optimizely-exploit/)**
-Salesforce is one of the 178 brands that have fallen victim to the Optimizely supply chain attack. The cloud giant’s own systems have not been compromised.
-<sub>Salesforce Ben · Nov 17</sub>
-
-**[Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics](https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/)**
-Expanded Microsoft collaboration brings Informatica’s enterprise data intelligence directly into Microsoft Copilot for business users and Microsoft Foundry for AI developers, while strengthening…
-<sub>Salesforce Newsroom · Nov 17</sub>
-
-**[An Admin’s Guide to Enhanced Salesforce Omni-Channel](https://www.salesforceben.com/salesforce-omni-channel/)**
-If you’ve been in the Salesforce ecosystem for a long time, you’ve more than likely heard of Salesforce Omni-Channel.
-<sub>Salesforce Ben · Nov 16</sub>
+**[Decide What Claude Can See and Change in Salesforce](https://www.salesforce.com/blog/what-claude-can-see-and-change-in-salesforce/)**
+Learn how user permissions set what Claude can read and how the Dispatch setting controls what it can write when you use the Sales Cloud in Claude plugin.
+<sub>Salesforce Blog · Nov 18</sub>
 
 ## CRM Platforms
 
-**[Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/)**
-Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.
-<sub>TechCrunch Enterprise · Nov 16</sub>
+**[Microsoft Ignite 2026: Introducing Dynamics 365 in Copilot](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/)**
+Discover what's new for Dynamics 365 at Microsoft Ignite 2026, with innovations across Copilot and agents that help businesses work smarter.
+<sub>MS Dynamics 365 Blog · Nov 17</sub>
 
 **[A Changing CRM Market and a Challenge to the Old Model](https://cxtoday.com/a-changing-crm-market-and-a-challenge-to-the-old-model)**
 HubSpot, ServiceNow and Dreamteam are reshaping CRM around AI and customer context, while CX Today tracks Sitecore and Optimove updates.
 <sub>CX Today · Nov 17</sub>
+
+**[Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/)**
+Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.
+<sub>TechCrunch Enterprise · Nov 16</sub>
 
 ## Marketing Tech
 
@@ -47,45 +51,39 @@ HubSpot, ServiceNow and Dreamteam are reshaping CRM around AI and customer conte
 Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth.
 <sub>MarTech · Nov 16</sub>
 
-## Data Platforms
-
-**[Azure Databricks sessions at Microsoft Ignite 2026](https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026)**
-Azure Databricks is a Visionary-level sponsor at Microsoft Ignite 2026, November...
-<sub>Databricks Blog · Nov 17</sub>
-
 ## AI
 
-**[When AI agents evaluate B2B vendors, what earns consideration?](https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/)**
-Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration.
-<sub>MarTech · Nov 17</sub>
+**[Microsoft Ignite 2026: Dynamics Moves Into Copilot, Salesforce Too](https://cxtoday.com/microsoft-ignite-2026-day-1-cci-copilotforce)**
+Microsoft Contact Center Intelligence is GA, Dynamics 365 plugins land in Copilot and Copilotforce brings Salesforce in. What day one means for CX leaders.
+<sub>CX Today · Nov 18</sub>
 
-**[AI Agents Are Ready, But Is CX Deployment Too Slow?](https://cxtoday.com/ai-agents-are-ready-but-is-cx-deployment-too-slow)**
-Genesys, Talkdesk, ServiceNow, and Optimove are tackling the barriers slowing AI agent deployment across customer service, CRM, and marketing.
-<sub>CX Today · Nov 17</sub>
+**[Frenemies once more - after months of Clippy claps at Microsoft’s expense, welcome to Salesforce’s Copilotforce](https://diginomica.com/frenemies-once-more-after-months-clippy-claps-microsofts-expense-welcome-salesforces-copilotforce)**
+Salesforce and Microsoft are building bridges again, this time around agentic AI with the announcement of Copilotforce on Day One of Microsoft’s Ignite developer conference.
+<sub>Diginomica · Nov 18</sub>
 
-**[AI agents make CX marketing’s problem](https://martech.org/ai-agents-make-cx-marketings-problem/)**
-Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth.
-<sub>MarTech · Nov 16</sub>
+**[OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work](https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/)**
+OpenAI Group PBC today announced the launch of GPT-6.2 Astra, a new frontier artificial intelligence model for complex professional work that is claimed to outperform its predecessor at less than a…
+<sub>SiliconANGLE AI · Nov 17</sub>
 
-**[Salesforce joins the Personal Agent Protocol to help brands meet shoppers’ AI agents](https://www.salesforce.com/blog/salesforce-joins-personal-agent-protocol/)**
-Shoppers are starting to send their own AI agents to find running shoes, compare prices, reorder household basics, and check on deliveries.
-<sub>Salesforce Blog · Nov 16</sub>
+**[Enterprise AI governance alone can’t protect your brand](https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/)**
+Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public.
+<sub>MarTech · Nov 18</sub>
 
-**[Vonage: What CX Leaders Should Do Next in Agentic CX](https://cxtoday.com/vonage-what-cx-leaders-should-do-next-in-agentic-cx-vonage-cs-0158)**
-Vonage warns CX leaders that agentic CX needs clean CRM data, strong voice and agent buy-in to stop context loss across IVR, AI agents and humans.
-<sub>CX Today · Nov 16</sub>
+**[Workday Rising EMEA - AI trust is about data context and agentic controls, so how do we get there? Workday's tech leaders have their say](https://diginomica.com/workday-rising-emea-ai-trust-about-data-context-and-agentic-controls-so-how-do-we-get-there)**
+Workday Rising EMEA is set for kickoff - with the expected agentic news flurry. But underneath the news, enterprise customers want a different kind of AI.
+<sub>Diginomica · Nov 18</sub>
 
 ## Also worth a click
 
-- [Are Offshore Salesforce Jobs Disappearing Due to AI Productivity?](https://www.salesforceben.com/are-offshore-salesforce-jobs-disappearing-due-to-ai-productivity/) — *Salesforce Ben*
-- [Three insights you might have missed from theCUBE’s coverage of GraphSummit 2026](https://siliconangle.com/2026/11/16/three-insights-you-might-have-missed-from-thecubes-coverage-of-graphsummit-2026-neo4jgraphsummit/) — *SiliconANGLE AI*
-- [Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/) — *AWS Machine Learning*
-- [Gartner Magic Quadrant for CRM Customer Engagement Center (CEC) 2026](https://cxtoday.com/gartner-magic-quadrant-for-crm-customer-engagement-center-cec-2026) — *CX Today*
-- [How to Fix the 2,000-Row Cap On Salesforce Report Exports](https://www.salesforceben.com/how-to-fix-the-2000-row-cap-on-salesforce-report-exports/) — *Salesforce Ben*
-- [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/) — *AWS Machine Learning*
-- [Daydream’s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/) — *TechCrunch AI*
-- [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile) — *OpenAI News*
+- [Connecting AI to Scheduling on Salesforce Using Claude](https://www.salesforceben.com/connecting-ai-to-scheduling-on-salesforce-using-claude/) — *Salesforce Ben*
+- [More Salesforce Layoffs Just Three Months After Last Wave](https://www.salesforceben.com/more-salesforce-layoffs-just-three-months-after-last-wave/) — *Salesforce Ben*
+- [Where Does the Next Generation of Salesforce Professionals Come from?](https://www.salesforceben.com/where-does-the-next-generation-of-salesforce-professionals-come-from/) — *Salesforce Ben*
+- [Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics](https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/) — *Salesforce Newsroom*
+- [Salesforce Among 178 Brands Hit by Optimizely Exploit](https://www.salesforceben.com/salesforce-among-178-brands-hit-by-optimizely-exploit/) — *Salesforce Ben*
+- [AI Agents Are Ready, But Is CX Deployment Too Slow?](https://cxtoday.com/ai-agents-are-ready-but-is-cx-deployment-too-slow) — *CX Today*
+- [When AI agents evaluate B2B vendors, what earns consideration?](https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/) — *MarTech*
+- [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2708 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2717 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
