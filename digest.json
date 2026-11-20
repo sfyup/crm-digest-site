@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-19T19:14:36.096Z",
+  "generatedAt": "2026-11-20T18:54:21.832Z",
   "stats": {
-    "considered": 2712,
-    "relevant": 96,
+    "considered": 2727,
+    "relevant": 92,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 685,
-    "minutes": 2.8541666666666665,
+    "words": 644,
+    "minutes": 2.683333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot — Salesforce Newsroom",
-    "Agentic AI Vendor Evaluation: Healthcare Guide — Snowflake Blog",
-    "Frenemies once more - after months of Clippy claps at Microsoft’s expense, welcome to Salesforce’s Copilotforce — Diginomica",
-    "Microsoft Ignite 2026: The Best CRM Might Be the One Nobody Opens — CX Today"
+    "Salesforce Flow Builder vs. Apex — Salesforce Ben",
+    "Intuit finds a buyer for Mailchimp in Bending Spoons — MarTech",
+    "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First — Salesforce Blog",
+    "Agentic AI Vendor Evaluation: Healthcare Guide — Snowflake Blog"
   ],
   "sections": [
     {
@@ -25,12 +25,39 @@
       "label": "Salesforce",
       "items": [
         {
-          "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
-          "url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-17T18:05:00.000Z",
-          "summary": "New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot, enable real-time CRM collaboration in Microsoft Teams, and connect Salesforce Data 360 with Microsoft…",
-          "score": 64.2,
+          "title": "Salesforce Flow Builder vs. Apex",
+          "url": "https://www.salesforceben.com/salesforce-flow-builder-vs-apex/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-20T12:08:48.000Z",
+          "summary": "It’s no secret that Salesforce Flow Builder is one of the most powerful tools available to Salesforce professionals.",
+          "score": 93.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Is This the End of the Core Salesforce Clouds?",
+          "url": "https://www.salesforceben.com/is-this-the-end-of-the-core-salesforce-clouds/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-20T16:52:27.000Z",
+          "summary": "If something isn’t broken, you shouldn’t always try to fix it, and this seems to be the approach that Salesforce has taken with its core clouds and offerings for some time now.",
+          "score": 77.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Salesforce Spring ‘27 Release Date + Preview Information",
+          "url": "https://www.salesforceben.com/salesforce-spring-27-release-date-preview-information/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-20T13:58:00.000Z",
+          "summary": "Salesforce Spring ’27 is on the horizon, bringing another round of new features and platform improvements.",
+          "score": 64,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Replace Salesforce to Salesforce Before Its Spring ’27 Retirement",
+          "url": "https://www.salesforce.com/blog/salesforce-to-salesforce-replacement-architecture/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-20T14:00:18.000Z",
+          "summary": "Select a cross-org sharing architecture that fits your use case ahead of the Spring ’27 Salesforce to Salesforce retirement.",
+          "score": 56.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,34 +66,7 @@
           "source": "Salesforce Newsroom",
           "date": "2026-11-19T13:00:00.000Z",
           "summary": "Commerce designation supports Salesforce’s delivery of governed data, model choice, and agents that modernize government services and business operations",
-          "score": 39.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Decide What Claude Can See and Change in Salesforce",
-          "url": "https://www.salesforce.com/blog/what-claude-can-see-and-change-in-salesforce/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-18T16:33:29.000Z",
-          "summary": "Learn how user permissions set what Claude can read and how the Dispatch setting controls what it can write when you use the Sales Cloud in Claude plugin.",
-          "score": 38.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Data: Record Cyber Week Expected to Deliver $75.8B in AI-Driven Sales",
-          "url": "https://www.salesforce.com/news/stories/cyber-week-ai-sales-2026/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-19T13:00:00.000Z",
-          "summary": "Retailers with shopper agents set to score big as consumers turn to AI and personal agents to find deals this holiday season",
-          "score": 31.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
-          "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-          "source": "AWS Machine Learning",
-          "date": "2026-11-18T20:13:18.000Z",
-          "summary": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving.",
-          "score": 31,
+          "score": 28.9,
           "alsoCoveredBy": []
         }
       ]
@@ -81,25 +81,31 @@
           "source": "CX Today",
           "date": "2026-11-18T21:17:47.000Z",
           "summary": "Microsoft Ignite shows why CRM may move into Copilot: Dynamics 365, Salesforce migration, Work IQ and Agent 365 could change CX operations, says CX Today.",
-          "score": 43.1,
+          "score": 29.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "Microsoft Ignite 2026: Introducing Dynamics 365 in Copilot",
-          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/",
-          "source": "MS Dynamics 365 Blog",
-          "date": "2026-11-17T18:10:46.000Z",
-          "summary": "Discover what's new for Dynamics 365 at Microsoft Ignite 2026, with innovations across Copilot and agents that help businesses work smarter.",
-          "score": 39.3,
+          "title": "The ‘re-founding’ of HubSpot - a work in very visible progress, complete with mis-steps",
+          "url": "https://diginomica.com/re-founding-hubspot-work-very-visible-progress-complete-mis-steps",
+          "source": "Diginomica",
+          "date": "2026-11-20T12:05:02.000Z",
+          "summary": "It's a re-branding and re-founding unlike any other seen before in the enterprise tech space, but is HubSpot wise to air its internal laundry quite so openly?",
+          "score": 29,
           "alsoCoveredBy": []
-        },
+        }
+      ]
+    },
+    {
+      "key": "martech",
+      "label": "Marketing Tech",
+      "items": [
         {
-          "title": "Better Together: Why CC + CRM + UC Unlocks Full AI Value",
-          "url": "https://cxtoday.com/better-together-why-cc-crm-uc-unlocks-full-ai-value-cs-0153",
-          "source": "CX Today",
-          "date": "2026-11-19T16:31:00.000Z",
-          "summary": "Why Microsoft says AI needs connected contact centre, CRM and Teams context to work, in CX Today. D365, Power Platform and governance matter.",
-          "score": 32.8,
+          "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
+          "url": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+          "source": "MarTech",
+          "date": "2026-11-20T03:46:55.000Z",
+          "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable.",
+          "score": 46,
           "alsoCoveredBy": []
         }
       ]
@@ -114,7 +120,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-19T17:00:00.000Z",
           "summary": "Evaluate agentic AI vendors with Snowflake's 13-point framework for healthcare and life sciences. Download the enterprise evaluation today.",
-          "score": 56.6,
+          "score": 42.3,
           "alsoCoveredBy": []
         }
       ]
@@ -124,48 +130,48 @@
       "label": "AI",
       "items": [
         {
-          "title": "Frenemies once more - after months of Clippy claps at Microsoft’s expense, welcome to Salesforce’s Copilotforce",
-          "url": "https://diginomica.com/frenemies-once-more-after-months-clippy-claps-microsofts-expense-welcome-salesforces-copilotforce",
-          "source": "Diginomica",
-          "date": "2026-11-18T13:27:48.000Z",
-          "summary": "Salesforce and Microsoft are building bridges again, this time around agentic AI with the announcement of Copilotforce on Day One of Microsoft’s Ignite developer conference.",
-          "score": 45.7,
+          "title": "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First",
+          "url": "https://www.salesforce.com/blog/how-to-write-knowledge-articles/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-20T18:45:06.000Z",
+          "summary": "Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.",
+          "score": 43.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Microsoft Ignite 2026: Dynamics Moves Into Copilot, Salesforce Too",
-          "url": "https://cxtoday.com/microsoft-ignite-2026-day-1-cci-copilotforce",
+          "title": "Your Customer's AI Agent Is Now Grading Your Marketing",
+          "url": "https://cxtoday.com/your-customers-ai-agent-is-now-grading-your-marketing",
           "source": "CX Today",
-          "date": "2026-11-18T01:24:06.000Z",
-          "summary": "Microsoft Contact Center Intelligence is GA, Dynamics 365 plugins land in Copilot and Copilotforce brings Salesforce in. What day one means for CX leaders.",
-          "score": 44.7,
+          "date": "2026-11-20T09:01:00.000Z",
+          "summary": "Customers are using AI agents to review brand messages. MoEngage's Paul Meinshausen explains why marketing must learn from responses, not just send more.",
+          "score": 39.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
-          "url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+          "title": "Own, don’t rent: Why agentic AI is pulling cloud computing back on-prem",
+          "url": "https://siliconangle.com/2026/11/20/model-plane-shifts-prem-agentic-ai-favors-owning-compute-sc26/",
           "source": "SiliconANGLE AI",
-          "date": "2026-11-18T23:56:55.000Z",
-          "summary": "Google LLC is releasing a new version of its Gemini artificial intelligence assistant that is better at performing multistep tasks.",
-          "score": 44.6,
+          "date": "2026-11-20T17:46:33.000Z",
+          "summary": "Agentic AI is reviving an argument over renting versus owning compute, and the model plane — the layer that decides where AI models run — sits at the center of it.",
+          "score": 38.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
+          "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-20T14:00:00.000Z",
+          "summary": "Your next hire might be the person who knows how to conduct a team of AI agents.",
+          "score": 35.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
           "source": "TechCrunch AI",
-          "date": "2026-11-19T14:54:39.000Z",
-          "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-          "score": 41,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Walmart mulls role advertising will play in an agentic shopping world",
-          "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
-          "source": "Marketing Dive",
-          "date": "2026-11-19T18:19:00.000Z",
-          "summary": "Momentum for the retailer’s ad business remains strong, but executives acknowledged that AI agents are producing notably different consumer behaviors.",
-          "score": 37,
+          "date": "2026-11-20T00:56:01.000Z",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+          "score": 32.2,
           "alsoCoveredBy": []
         }
       ]
@@ -173,44 +179,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch AI"
+      "title": "Could Salesforce Profit From Anthropic’s Trillion Dollar IPO?",
+      "url": "https://www.salesforceben.com/could-salesforce-profit-from-anthropics-trillion-dollar-ipo/",
+      "source": "Salesforce Ben"
     },
     {
-      "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-      "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+      "title": "Salesforce Announces ‘Copilotforce’ With Microsoft Amid Ongoing Outages",
+      "url": "https://www.salesforceben.com/salesforce-announces-copilotforce-with-microsoft-amid-ongoing-outages/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Most Salesforce Requests Aren’t Salesforce Problems",
+      "url": "https://www.salesforceben.com/most-salesforce-requests-arent-salesforce-problems/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Connecting AI to Scheduling on Salesforce Using Claude",
+      "url": "https://www.salesforceben.com/connecting-ai-to-scheduling-on-salesforce-using-claude/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "More Salesforce Layoffs Just Three Months After Last Wave",
+      "url": "https://www.salesforceben.com/more-salesforce-layoffs-just-three-months-after-last-wave/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+      "url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
-      "url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Enterprise AI governance alone can’t protect your brand",
-      "url": "https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/",
-      "source": "MarTech"
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics",
-      "url": "https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/",
-      "source": "Salesforce Newsroom"
-    },
-    {
-      "title": "Google’s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
-      "url": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
-      "source": "SiliconANGLE AI"
     }
   ]
 }
