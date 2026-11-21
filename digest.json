@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-20T18:54:21.832Z",
+  "generatedAt": "2026-11-21T17:49:13.577Z",
   "stats": {
-    "considered": 2727,
-    "relevant": 92,
+    "considered": 2731,
+    "relevant": 78,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 644,
-    "minutes": 2.683333333333333,
+    "words": 670,
+    "minutes": 2.7916666666666665,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Salesforce Flow Builder vs. Apex — Salesforce Ben",
-    "Intuit finds a buyer for Mailchimp in Bending Spoons — MarTech",
-    "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First — Salesforce Blog",
-    "Agentic AI Vendor Evaluation: Healthcare Guide — Snowflake Blog"
+    "Move beyond legacy ERP and CRM with Dynamics 365 Activate — MS Dynamics 365 Blog",
+    "Anthropic researcher claims to have proven Riemann hypothesis using Claude — SiliconANGLE AI",
+    "Intuit finds a buyer for Mailchimp in Bending Spoons — MarTech"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-20T12:08:48.000Z",
           "summary": "It’s no secret that Salesforce Flow Builder is one of the most powerful tools available to Salesforce professionals.",
-          "score": 93.4,
+          "score": 69.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-20T16:52:27.000Z",
           "summary": "If something isn’t broken, you shouldn’t always try to fix it, and this seems to be the approach that Salesforce has taken with its core clouds and offerings for some time now.",
-          "score": 77.8,
+          "score": 58.8,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-20T13:58:00.000Z",
           "summary": "Salesforce Spring ’27 is on the horizon, bringing another round of new features and platform improvements.",
-          "score": 64,
+          "score": 47.9,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,16 @@
           "source": "Salesforce Blog",
           "date": "2026-11-20T14:00:18.000Z",
           "summary": "Select a cross-org sharing architecture that fits your use case ahead of the Spring ’27 Salesforce to Salesforce retirement.",
-          "score": 56.4,
+          "score": 42.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Salesforce to Lead Consortium Bringing Trusted American SI to Global Markets",
-          "url": "https://www.salesforce.com/news/press-releases/2026/11/19/salesforce-si-export-consortium/",
-          "source": "Salesforce Newsroom",
-          "date": "2026-11-19T13:00:00.000Z",
-          "summary": "Commerce designation supports Salesforce’s delivery of governed data, model choice, and agents that modernize government services and business operations",
-          "score": 28.9,
+          "title": "25 Practical Jobs Organizations are Giving Agentforce Coworker to Complete Right Now",
+          "url": "https://www.salesforce.com/blog/agentforce-coworker-practical-jobs/",
+          "source": "Salesforce Blog",
+          "date": "2026-11-20T23:10:49.000Z",
+          "summary": "You know those tasks that somehow eat up half your day? Digging through 14 tabs before a customer call. Writing the same weekly update for the 47th time. Hunting down one record that…",
+          "score": 26.6,
           "alsoCoveredBy": []
         }
       ]
@@ -76,21 +76,21 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Microsoft Ignite 2026: The Best CRM Might Be the One Nobody Opens",
-          "url": "https://cxtoday.com/microsoft-ignite-2026-the-best-crm-might-be-the-one-nobody-opens",
-          "source": "CX Today",
-          "date": "2026-11-18T21:17:47.000Z",
-          "summary": "Microsoft Ignite shows why CRM may move into Copilot: Dynamics 365, Salesforce migration, Work IQ and Agent 365 could change CX operations, says CX Today.",
-          "score": 29.3,
+          "title": "Move beyond legacy ERP and CRM with Dynamics 365 Activate",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/dynamics-365-activate-erp-crm-migration/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-11-19T18:08:52.000Z",
+          "summary": "Learn how Dynamics 365 Activate helps customers and partners move beyond legacy ERP and CRM systems with an agentic approach to discovery, requirements, configuration, and migration.",
+          "score": 44.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "The ‘re-founding’ of HubSpot - a work in very visible progress, complete with mis-steps",
-          "url": "https://diginomica.com/re-founding-hubspot-work-very-visible-progress-complete-mis-steps",
-          "source": "Diginomica",
-          "date": "2026-11-20T12:05:02.000Z",
-          "summary": "It's a re-branding and re-founding unlike any other seen before in the enterprise tech space, but is HubSpot wise to air its internal laundry quite so openly?",
-          "score": 29,
+          "title": "Unlock new possibilities for Dynamics 365 ERP with Work IQ and business skills",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/unlock-new-possibilities-for-dynamics-365-erp-with-work-iq-and-business-skills/",
+          "source": "MS Dynamics 365 Blog",
+          "date": "2026-11-19T16:00:00.000Z",
+          "summary": "See how Dynamics 365 ERP in Work IQ helps organizations connect Copilot and agents to governed ERP data, actions, and reusable business skills.",
+          "score": 28,
           "alsoCoveredBy": []
         }
       ]
@@ -105,7 +105,7 @@
           "source": "MarTech",
           "date": "2026-11-20T03:46:55.000Z",
           "summary": "Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable.",
-          "score": 46,
+          "score": 33,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +120,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-19T17:00:00.000Z",
           "summary": "Evaluate agentic AI vendors with Snowflake's 13-point framework for healthcare and life sciences. Download the enterprise evaluation today.",
-          "score": 42.3,
+          "score": 28.5,
           "alsoCoveredBy": []
         }
       ]
@@ -130,12 +130,30 @@
       "label": "AI",
       "items": [
         {
+          "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+          "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-20T21:28:11.000Z",
+          "summary": "An Anthropic PBC researcher claims to have used Claude to prove the Riemann hypothesis, which is widely considered to be the most important open question in mathematics.",
+          "score": 39.7,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-21T17:00:00.000Z",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "score": 37.1,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First",
           "url": "https://www.salesforce.com/blog/how-to-write-knowledge-articles/",
           "source": "Salesforce Blog",
           "date": "2026-11-20T18:45:06.000Z",
           "summary": "Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.",
-          "score": 43.9,
+          "score": 33.4,
           "alsoCoveredBy": []
         },
         {
@@ -144,7 +162,7 @@
           "source": "CX Today",
           "date": "2026-11-20T09:01:00.000Z",
           "summary": "Customers are using AI agents to review brand messages. MoEngage's Paul Meinshausen explains why marketing must learn from responses, not just send more.",
-          "score": 39.6,
+          "score": 29.1,
           "alsoCoveredBy": []
         },
         {
@@ -153,25 +171,7 @@
           "source": "SiliconANGLE AI",
           "date": "2026-11-20T17:46:33.000Z",
           "summary": "Agentic AI is reviving an argument over renting versus owning compute, and the model plane — the layer that decides where AI models run — sits at the center of it.",
-          "score": 38.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
-          "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-20T14:00:00.000Z",
-          "summary": "Your next hire might be the person who knows how to conduct a team of AI agents.",
-          "score": 35.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-20T00:56:01.000Z",
-          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-          "score": 32.2,
+          "score": 29,
           "alsoCoveredBy": []
         }
       ]
@@ -179,34 +179,34 @@
   ],
   "quickLinks": [
     {
-      "title": "Could Salesforce Profit From Anthropic’s Trillion Dollar IPO?",
-      "url": "https://www.salesforceben.com/could-salesforce-profit-from-anthropics-trillion-dollar-ipo/",
-      "source": "Salesforce Ben"
+      "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
+      "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+      "source": "Salesforce Blog"
     },
     {
-      "title": "Salesforce Announces ‘Copilotforce’ With Microsoft Amid Ongoing Outages",
-      "url": "https://www.salesforceben.com/salesforce-announces-copilotforce-with-microsoft-amid-ongoing-outages/",
-      "source": "Salesforce Ben"
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI"
     },
     {
-      "title": "Most Salesforce Requests Aren’t Salesforce Problems",
-      "url": "https://www.salesforceben.com/most-salesforce-requests-arent-salesforce-problems/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Connecting AI to Scheduling on Salesforce Using Claude",
-      "url": "https://www.salesforceben.com/connecting-ai-to-scheduling-on-salesforce-using-claude/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "More Salesforce Layoffs Just Three Months After Last Wave",
-      "url": "https://www.salesforceben.com/more-salesforce-layoffs-just-three-months-after-last-wave/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
-      "url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+      "title": "Anthropic goes public, but is it too late to save the AI trade?",
+      "url": "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/",
       "source": "SiliconANGLE AI"
+    },
+    {
+      "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+      "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+      "source": "Databricks Blog"
+    },
+    {
+      "title": "The ‘re-founding’ of HubSpot - a work in very visible progress, complete with mis-steps",
+      "url": "https://diginomica.com/re-founding-hubspot-work-very-visible-progress-complete-mis-steps",
+      "source": "Diginomica"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -214,8 +214,8 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "source": "TechCrunch AI"
     }
   ]
