@@ -1,91 +1,81 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Sunday, November 22, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Monday, November 23, 2026 · 2–3 min read · 12 stories from 20 sources*
 
 ## The 60-second version
 
-- Salesforce Flow Builder vs. Apex — Salesforce Ben
-- Here are the top AI agents that can live in your text messages — TechCrunch AI
-- Move beyond legacy ERP and CRM with Dynamics 365 Activate — MS Dynamics 365 Blog
-- Intuit finds a buyer for Mailchimp in Bending Spoons — MarTech
+- Comprehensive Guide to Salesforce Marketing Attribution in 2027 — Salesforce Ben
+- Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes — TechCrunch AI
+- Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI — Marketing Dive
+- AI in Manufacturing: Preserving Institutional Knowledge — Snowflake Blog
 
 ## Salesforce
 
-**[Salesforce Flow Builder vs. Apex](https://www.salesforceben.com/salesforce-flow-builder-vs-apex/)**
-It’s no secret that Salesforce Flow Builder is one of the most powerful tools available to Salesforce professionals.
-<sub>Salesforce Ben · Nov 20</sub>
+**[Comprehensive Guide to Salesforce Marketing Attribution in 2027](https://www.salesforceben.com/comprehensive-guide-to-salesforce-marketing-attribution-in-2027/)**
+Welcome to Salesforce Marketing Attribution, where marketing wants credit for what’s working, and sales wants visibility into pipeline sources.
+<sub>Salesforce Ben · Nov 23</sub>
 
-**[Is This the End of the Core Salesforce Clouds?](https://www.salesforceben.com/is-this-the-end-of-the-core-salesforce-clouds/)**
-If something isn’t broken, you shouldn’t always try to fix it, and this seems to be the approach that Salesforce has taken with its core clouds and offerings for some time now.
-<sub>Salesforce Ben · Nov 20</sub>
+**[The State of Salesforce Development 2026: Download the Report Now!](https://www.salesforceben.com/the-state-of-salesforce-development-2026-download-the-report-now/)**
+The Salesforce Ben 2026 Salesforce Developer Survey report is now live and ready to download. This year, developers from all over the world told us how they’re building on Salesforce – the tools they…
+<sub>Salesforce Ben · Nov 23</sub>
 
-**[Salesforce Spring ‘27 Release Date + Preview Information](https://www.salesforceben.com/salesforce-spring-27-release-date-preview-information/)**
-Salesforce Spring ’27 is on the horizon, bringing another round of new features and platform improvements.
-<sub>Salesforce Ben · Nov 20</sub>
+**[The Rise of the Boutique Salesforce Consultancy](https://www.salesforceben.com/the-rise-of-the-boutique-salesforce-consultancy/)**
+In Salesforce’s consulting world, there have always been the top dogs. Whether you believe the consulting hierarchy has been understated or not, players like Accenture, Deloitte, and Capgemini have…
+<sub>Salesforce Ben · Nov 23</sub>
 
-**[Replace Salesforce to Salesforce Before Its Spring ’27 Retirement](https://www.salesforce.com/blog/salesforce-to-salesforce-replacement-architecture/)**
-Select a cross-org sharing architecture that fits your use case ahead of the Spring ’27 Salesforce to Salesforce retirement.
-<sub>Salesforce Blog · Nov 20</sub>
+**[The End of CRM Busywork: How Agentforce Coworker Helps Run Your Small Business](https://www.salesforce.com/blog/small-business/agentforce-coworker-in-salesforce-suites/)**
+Agentforce Coworker is now available for small businesses at Salesforce, and the future looks bright.
+<sub>Salesforce Blog · Nov 23</sub>
 
-**[25 Practical Jobs Organizations are Giving Agentforce Coworker to Complete Right Now](https://www.salesforce.com/blog/agentforce-coworker-practical-jobs/)**
-You know those tasks that somehow eat up half your day? Digging through 14 tabs before a customer call. Writing the same weekly update for the 47th time. Hunting down one record that…
-<sub>Salesforce Blog · Nov 20</sub>
-
-## CRM Platforms
-
-**[Move beyond legacy ERP and CRM with Dynamics 365 Activate](https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/dynamics-365-activate-erp-crm-migration/)**
-Learn how Dynamics 365 Activate helps customers and partners move beyond legacy ERP and CRM systems with an agentic approach to discovery, requirements, configuration, and migration.
-<sub>MS Dynamics 365 Blog · Nov 19</sub>
-
-**[The ‘re-founding’ of HubSpot - a work in very visible progress, complete with mis-steps](https://diginomica.com/re-founding-hubspot-work-very-visible-progress-complete-mis-steps)**
-It's a re-branding and re-founding unlike any other seen before in the enterprise tech space, but is HubSpot wise to air its internal laundry quite so openly?
-<sub>Diginomica · Nov 20</sub>
+**[Understanding Salesforce Connected App or External Client App Suspension](https://www.salesforce.com/blog/understanding-salesforce-connected-app-or-external-client-app-suspension/)**
+Many Connected Apps and External Client Apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces.
+<sub>Salesforce Blog · Nov 23</sub>
 
 ## Marketing Tech
 
-**[Intuit finds a buyer for Mailchimp in Bending Spoons](https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/)**
-Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable.
-<sub>MarTech · Nov 20</sub>
+**[Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI](https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/)**
+Bending Spoons will obtain the email business for less than one-third of the $12 billion that Intuit acquired it for in 2021.
+<sub>Marketing Dive · Nov 23</sub>
 
 ## Data Platforms
 
-**[Interactive Databricks Reference Architectures Across 70 Industries](https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries)**
-Why we built itMost Databricks architecture talks used to start with the same slide: ingestion on the left...
-<sub>Databricks Blog · Nov 20</sub>
+**[AI in Manufacturing: Preserving Institutional Knowledge](https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-manufacturing-institutional-knowledge)**
+As veteran engineers retire, manufacturers are using AI agents to capture institutional knowledge. See how Wolfspeed and United Rentals do it with Snowflake.
+<sub>Snowflake Blog · Nov 23</sub>
 
 ## AI
 
-**[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)**
-We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-<sub>TechCrunch AI · Nov 21</sub>
+**[Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)**
+As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
+<sub>TechCrunch AI · Nov 23</sub>
 
-**[Anthropic researcher claims to have proven Riemann hypothesis using Claude](https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/)**
-An Anthropic PBC researcher claims to have used Claude to prove the Riemann hypothesis, which is widely considered to be the most important open question in mathematics.
-<sub>SiliconANGLE AI · Nov 20</sub>
+**[Both Sides of the Call Are Going Agentic. Microsoft Wants the Middle](https://cxtoday.com/both-sides-of-the-call-are-going-agentic-microsoft-wants-the-middle)**
+Microsoft’s Dynamics 365 Contact Center goes agentic at Ignite, with Contact Center Intelligence, Cisco, Five9 and Genesys via CX Today.
+<sub>CX Today · Nov 23</sub>
 
-**[Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First](https://www.salesforce.com/blog/how-to-write-knowledge-articles/)**
-Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.
-<sub>Salesforce Blog · Nov 20</sub>
+**[Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)**
+Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
+<sub>TechCrunch AI · Nov 23</sub>
 
-**[Own, don’t rent: Why agentic AI is pulling cloud computing back on-prem](https://siliconangle.com/2026/11/20/model-plane-shifts-prem-agentic-ai-favors-owning-compute-sc26/)**
-Agentic AI is reviving an argument over renting versus owning compute, and the model plane — the layer that decides where AI models run — sits at the center of it.
-<sub>SiliconANGLE AI · Nov 20</sub>
+**[Why it’s time to trade test coverage for risk coverage](https://diginomica.com/why-its-time-trade-test-coverage-risk-coverage)**
+Tricentis Chairman and CEO Kevin Thompson says AI-written code requires re-thinking the test-coverage paradigm that aimed to test everything.
+<sub>Diginomica · Nov 23</sub>
 
-**[Your Customer's AI Agent Is Now Grading Your Marketing](https://cxtoday.com/your-customers-ai-agent-is-now-grading-your-marketing)**
-Customers are using AI agents to review brand messages. MoEngage's Paul Meinshausen explains why marketing must learn from responses, not just send more.
-<sub>CX Today · Nov 20</sub>
+**[Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model](https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/)**
+Healthcare artificial intelligence company Innovaccer Inc. today announced that it has expanded its Gravity Voice AI agents with Grok Voice, the speech-to-speech model from Elon Musk’s artificial…
+<sub>SiliconANGLE AI · Nov 23</sub>
 
 ## Also worth a click
 
-- [AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents](https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/) — *Salesforce Blog*
-- [Anthropic goes public, but is it too late to save the AI trade?](https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/) — *SiliconANGLE AI*
-- [Three insights you may have missed from theCUBE’s coverage of the Dell Technologies New York Symposium](https://siliconangle.com/2026/11/20/three-insights-missed-thecubes-coverage-dell-technologies-new-york-symposium-dellnewyorksymposium/) — *SiliconANGLE AI*
-- [How Standard Bank Group automates AI risk assessment for generative AI](https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/) — *AWS Machine Learning*
-- [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/) — *TechCrunch AI*
-- [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/) — *AWS Machine Learning*
-- [Inference now drives two-thirds of AI workloads, changing where chips get deployed](https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/) — *SiliconANGLE AI*
-- [Announcing Amazon Textract Insights: Verifiable generative AI for documents](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/) — *AWS Machine Learning*
+- [The Evolution of the Salesforce UX and What Comes Next](https://www.salesforceben.com/the-evolution-of-the-salesforce-ux-and-what-comes-next/) — *Salesforce Ben*
+- [Workday Rising EMEA - as the agentic roadmap accelerates ahead, how do customers keep up?](https://diginomica.com/workday-rising-emea-agentic-roadmap-accelerates-how-customers-keep-up) — *Diginomica*
+- [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/) — *TechCrunch AI*
+- [AWS is making AI agents more decisive and secure with its latest Strands updates](https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/) — *SiliconANGLE AI*
+- [Goodbye SEO? Why Salesforce's Palmata push is more about complementary approaches than an extinction event](https://diginomica.com/goodbye-seo-why-salesforces-palmata-push-more-about-complementary-approaches-extinction-event) — *Diginomica*
+- [Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok](https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/) — *ZDNet Enterprise Software*
+- [Richpanel helps companies automate 50% of support in 30 days](https://openai.com/business/customer-stories/richpanel-ai-customer-support) — *OpenAI News*
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) — *TechCrunch AI*
 
 ---
 
-<sub>Every headline links to its original source. 2732 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2725 items scanned from 20/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
