@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-23T22:18:00.983Z",
+  "generatedAt": "2026-11-24T20:55:19.028Z",
   "stats": {
-    "considered": 2725,
-    "relevant": 30,
-    "featured": 12,
+    "considered": 2729,
+    "relevant": 39,
+    "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 20,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 585,
-    "minutes": 2.4375,
+    "words": 657,
+    "minutes": 2.7375,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Comprehensive Guide to Salesforce Marketing Attribution in 2027 — Salesforce Ben",
+    "Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs — Salesforce Ben",
     "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes — TechCrunch AI",
-    "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI — Marketing Dive",
-    "AI in Manufacturing: Preserving Institutional Knowledge — Snowflake Blog"
+    "Can Businesses Close the CRM Data Gap Before AI Scales? — CX Today",
+    "Iceberg Observability in Snowflake Horizon Catalog — Snowflake Blog"
   ],
   "sections": [
     {
@@ -25,12 +25,21 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs",
+          "url": "https://www.salesforceben.com/salesforce-offers-agentforce-coworker-at-no-extra-cost-to-smbs/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-24T15:08:31.000Z",
+          "summary": "Salesforce is continuing its push into the small and medium-sized business (SMB) market, bringing Agentforce Coworker to its Starter and Pro Suites at no additional cost.",
+          "score": 138.1,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Comprehensive Guide to Salesforce Marketing Attribution in 2027",
           "url": "https://www.salesforceben.com/comprehensive-guide-to-salesforce-marketing-attribution-in-2027/",
           "source": "Salesforce Ben",
           "date": "2026-11-23T11:22:26.000Z",
           "summary": "Welcome to Salesforce Marketing Attribution, where marketing wants credit for what’s working, and sales wants visibility into pipeline sources.",
-          "score": 89.1,
+          "score": 65.4,
           "alsoCoveredBy": []
         },
         {
@@ -39,16 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-23T16:37:47.000Z",
           "summary": "The Salesforce Ben 2026 Salesforce Developer Survey report is now live and ready to download. This year, developers from all over the world told us how they’re building on Salesforce – the tools they…",
-          "score": 67.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The Rise of the Boutique Salesforce Consultancy",
-          "url": "https://www.salesforceben.com/the-rise-of-the-boutique-salesforce-consultancy/",
-          "source": "Salesforce Ben",
-          "date": "2026-11-23T12:00:00.000Z",
-          "summary": "In Salesforce’s consulting world, there have always been the top dogs. Whether you believe the consulting hierarchy has been understated or not, players like Accenture, Deloitte, and Capgemini have…",
-          "score": 65.6,
+          "score": 50.8,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +57,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-23T14:00:00.000Z",
           "summary": "Agentforce Coworker is now available for small businesses at Salesforce, and the future looks bright.",
-          "score": 59.3,
+          "score": 44,
           "alsoCoveredBy": []
         },
         {
@@ -65,8 +65,32 @@
           "url": "https://www.salesforce.com/blog/understanding-salesforce-connected-app-or-external-client-app-suspension/",
           "source": "Salesforce Blog",
           "date": "2026-11-23T18:42:47.000Z",
-          "summary": "Many Connected Apps and External Client Apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces.",
-          "score": 31.8,
+          "summary": "Many connected apps and external client apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces.",
+          "score": 24,
+          "alsoCoveredBy": []
+        }
+      ]
+    },
+    {
+      "key": "crm",
+      "label": "CRM Platforms",
+      "items": [
+        {
+          "title": "Can Businesses Close the CRM Data Gap Before AI Scales?",
+          "url": "https://cxtoday.com/the-crm-data-gap-that-could-hold-back-enterprise-ai",
+          "source": "CX Today",
+          "date": "2026-11-24T09:01:00.000Z",
+          "summary": "Microsoft, Salesforce, Databricks and Informatica show why CX Today says CRM data, CDP and governed enterprise AI must connect before agents scale.",
+          "score": 47.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "CRM for political campaigns: Key terms and FAQs answered",
+          "url": "https://blog.hubspot.com/marketing/crm-for-political-campaigns",
+          "source": "HubSpot Marketing Blog",
+          "date": "2026-11-24T19:40:04.000Z",
+          "summary": "A political campaign CRM is a system for managing supporter relationships and coordinating campaign interactions across teams.",
+          "score": 30,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +100,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
-          "url": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
-          "source": "Marketing Dive",
-          "date": "2026-11-23T16:08:52.000Z",
-          "summary": "Bending Spoons will obtain the email business for less than one-third of the $12 billion that Intuit acquired it for in 2021.",
-          "score": 22.6,
+          "title": "The Customer Journey Is Moving Beyond the Brand Website",
+          "url": "https://cxtoday.com/the-customer-journey-is-moving-beyond-the-brand-website",
+          "source": "CX Today",
+          "date": "2026-11-24T15:01:00.000Z",
+          "summary": "Sainsbury’s, OpenAI, Amazon Connect, and Sierra show how AI agents are shifting customer journeys beyond brand websites, apps, and contact centers.",
+          "score": 36.6,
           "alsoCoveredBy": []
         }
       ]
@@ -91,12 +115,12 @@
       "label": "Data Platforms",
       "items": [
         {
-          "title": "AI in Manufacturing: Preserving Institutional Knowledge",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-manufacturing-institutional-knowledge",
+          "title": "Iceberg Observability in Snowflake Horizon Catalog",
+          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/iceberg-observability-horizon-catalog",
           "source": "Snowflake Blog",
-          "date": "2026-11-23T21:08:00.000Z",
-          "summary": "As veteran engineers retire, manufacturers are using AI agents to capture institutional knowledge. See how Wolfspeed and United Rentals do it with Snowflake.",
-          "score": 18.8,
+          "date": "2026-11-24T08:00:00.000Z",
+          "summary": "See every Iceberg read, write and failed request from Spark, Trino and PyIceberg in Snowflake Horizon Catalog with Access History and event table telemetry.",
+          "score": 43.3,
           "alsoCoveredBy": []
         }
       ]
@@ -111,7 +135,34 @@
           "source": "TechCrunch AI",
           "date": "2026-11-23T22:05:50.000Z",
           "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-          "score": 73.5,
+          "score": 56.2,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "How does Compare the Market run AI agents on Databricks inside FCA-regulated insurance quotes?",
+          "url": "https://diginomica.com/how-does-compare-market-run-ai-agents-databricks-inside-fca-regulated-insurance-quotes",
+          "source": "Diginomica",
+          "date": "2026-11-24T18:28:30.000Z",
+          "summary": "Nine months in, Nagy Nagy's data platform team has gone from slowest to fastest at Compare the Market. He's commissioned an outside auditor to prove the governance holds up.",
+          "score": 49.4,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
+          "url": "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-24T01:30:17.000Z",
+          "summary": "Anthropic PBC isn’t satisfied with having Claude just write new software. With a new update today, Claude now can tell developers when the code it has generated is ready to ship into production…",
+          "score": 40.9,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-24T18:30:42.000Z",
+          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "score": 36.5,
           "alsoCoveredBy": []
         },
         {
@@ -120,34 +171,7 @@
           "source": "CX Today",
           "date": "2026-11-23T15:31:00.000Z",
           "summary": "Microsoft’s Dynamics 365 Contact Center goes agentic at Ignite, with Contact Center Intelligence, Cisco, Five9 and Genesys via CX Today.",
-          "score": 48.3,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-23T22:02:05.000Z",
-          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-          "score": 40.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Why it’s time to trade test coverage for risk coverage",
-          "url": "https://diginomica.com/why-its-time-trade-test-coverage-risk-coverage",
-          "source": "Diginomica",
-          "date": "2026-11-23T09:15:01.000Z",
-          "summary": "Tricentis Chairman and CEO Kevin Thompson says AI-written code requires re-thinking the test-coverage paradigm that aimed to test everything.",
-          "score": 40.4,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model",
-          "url": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-23T14:00:09.000Z",
-          "summary": "Healthcare artificial intelligence company Innovaccer Inc. today announced that it has expanded its Gravity Voice AI agents with Grok Voice, the speech-to-speech model from Elon Musk’s artificial…",
-          "score": 33.7,
+          "score": 36.1,
           "alsoCoveredBy": []
         }
       ]
@@ -155,44 +179,44 @@
   ],
   "quickLinks": [
     {
+      "title": "The Rise of the Boutique Salesforce Consultancy",
+      "url": "https://www.salesforceben.com/the-rise-of-the-boutique-salesforce-consultancy/",
+      "source": "Salesforce Ben"
+    },
+    {
       "title": "The Evolution of the Salesforce UX and What Comes Next",
       "url": "https://www.salesforceben.com/the-evolution-of-the-salesforce-ux-and-what-comes-next/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Workday Rising EMEA - as the agentic roadmap accelerates ahead, how do customers keep up?",
-      "url": "https://diginomica.com/workday-rising-emea-agentic-roadmap-accelerates-how-customers-keep-up",
+      "title": "Workday Rising - customers share their agentic lessons, and reveal why managing the pace of change is job one",
+      "url": "https://diginomica.com/workday-rising-workday-customers-share-their-agentic-lessons-and-reveal-why-managing-pace-change",
       "source": "Diginomica"
     },
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Trust AI Agents to Act: Start With Your Data Foundation",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/trust-ai-agents-data-foundation",
+      "source": "Snowflake Blog"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "AWS is making AI agents more decisive and secure with its latest Strands updates",
-      "url": "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
+      "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
+      "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
+      "source": "Databricks Blog"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+      "url": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
       "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Goodbye SEO? Why Salesforce's Palmata push is more about complementary approaches than an extinction event",
-      "url": "https://diginomica.com/goodbye-seo-why-salesforces-palmata-push-more-about-complementary-approaches-extinction-event",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
-      "url": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
-      "source": "ZDNet Enterprise Software"
-    },
-    {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI"
     }
   ]
 }
