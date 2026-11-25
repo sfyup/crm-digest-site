@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-24T20:55:19.028Z",
+  "generatedAt": "2026-11-25T20:17:51.623Z",
   "stats": {
-    "considered": 2729,
-    "relevant": 39,
+    "considered": 2742,
+    "relevant": 66,
     "featured": 14,
     "quickLinks": 8,
-    "sourcesOk": 20,
+    "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 657,
-    "minutes": 2.7375,
+    "words": 672,
+    "minutes": 2.8,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs — Salesforce Ben",
-    "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes — TechCrunch AI",
-    "Can Businesses Close the CRM Data Gap Before AI Scales? — CX Today",
-    "Iceberg Observability in Snowflake Horizon Catalog — Snowflake Blog"
+    "The latest AI-powered martech news and releases — MarTech",
+    "AI Agents Create a New Identity Challenge for CX — CX Today",
+    "Can Businesses Close the CRM Data Gap Before AI Scales? — CX Today"
   ],
   "sections": [
     {
@@ -30,43 +30,43 @@
           "source": "Salesforce Ben",
           "date": "2026-11-24T15:08:31.000Z",
           "summary": "Salesforce is continuing its push into the small and medium-sized business (SMB) market, bringing Agentforce Coworker to its Starter and Pro Suites at no additional cost.",
-          "score": 138.1,
+          "score": 102.4,
           "alsoCoveredBy": []
         },
         {
-          "title": "Comprehensive Guide to Salesforce Marketing Attribution in 2027",
-          "url": "https://www.salesforceben.com/comprehensive-guide-to-salesforce-marketing-attribution-in-2027/",
+          "title": "Ultimate Guide to Salesforce Agentforce Voice",
+          "url": "https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/",
           "source": "Salesforce Ben",
-          "date": "2026-11-23T11:22:26.000Z",
-          "summary": "Welcome to Salesforce Marketing Attribution, where marketing wants credit for what’s working, and sales wants visibility into pipeline sources.",
-          "score": 65.4,
+          "date": "2026-11-25T15:25:22.000Z",
+          "summary": "Salesforce Agentforce Voice has reached its first year of availability, and there’s quite a bit to get your head around.",
+          "score": 92.7,
           "alsoCoveredBy": []
         },
         {
-          "title": "The State of Salesforce Development 2026: Download the Report Now!",
-          "url": "https://www.salesforceben.com/the-state-of-salesforce-development-2026-download-the-report-now/",
+          "title": "What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product",
+          "url": "https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/",
           "source": "Salesforce Ben",
-          "date": "2026-11-23T16:37:47.000Z",
-          "summary": "The Salesforce Ben 2026 Salesforce Developer Survey report is now live and ready to download. This year, developers from all over the world told us how they’re building on Salesforce – the tools they…",
-          "score": 50.8,
+          "date": "2026-11-25T10:00:39.000Z",
+          "summary": "In the middle of all the AI buzz, new Salesforce features, and other news from Dreamforce, it’s easy to miss the “quieter” endings.",
+          "score": 68.3,
           "alsoCoveredBy": []
         },
         {
-          "title": "The End of CRM Busywork: How Agentforce Coworker Helps Run Your Small Business",
-          "url": "https://www.salesforce.com/blog/small-business/agentforce-coworker-in-salesforce-suites/",
+          "title": "Live at World Tour NYC: Meet the People Building Salesforce on Salesforce",
+          "url": "https://www.salesforce.com/blog/world-tour-new-york-executives-customer-zero/",
           "source": "Salesforce Blog",
-          "date": "2026-11-23T14:00:00.000Z",
-          "summary": "Agentforce Coworker is now available for small businesses at Salesforce, and the future looks bright.",
-          "score": 44,
+          "date": "2026-11-25T19:16:59.000Z",
+          "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
+          "score": 52.2,
           "alsoCoveredBy": []
         },
         {
-          "title": "Understanding Salesforce Connected App or External Client App Suspension",
-          "url": "https://www.salesforce.com/blog/understanding-salesforce-connected-app-or-external-client-app-suspension/",
+          "title": "5 ways customers are already innovating with Salesforce in Claude",
+          "url": "https://www.salesforce.com/blog/5-ways-customers-are-already-innovating-with-salesforce-in-claude/",
           "source": "Salesforce Blog",
-          "date": "2026-11-23T18:42:47.000Z",
-          "summary": "Many connected apps and external client apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces.",
-          "score": 24,
+          "date": "2026-11-25T18:06:41.000Z",
+          "summary": "See how early adopters are turning trusted Salesforce data and Claude’s reasoning into faster sales and reimagined ways of working.",
+          "score": 42.1,
           "alsoCoveredBy": []
         }
       ]
@@ -81,16 +81,16 @@
           "source": "CX Today",
           "date": "2026-11-24T09:01:00.000Z",
           "summary": "Microsoft, Salesforce, Databricks and Informatica show why CX Today says CRM data, CDP and governed enterprise AI must connect before agents scale.",
-          "score": 47.8,
+          "score": 34.5,
           "alsoCoveredBy": []
         },
         {
-          "title": "CRM for political campaigns: Key terms and FAQs answered",
-          "url": "https://blog.hubspot.com/marketing/crm-for-political-campaigns",
-          "source": "HubSpot Marketing Blog",
-          "date": "2026-11-24T19:40:04.000Z",
-          "summary": "A political campaign CRM is a system for managing supporter relationships and coordinating campaign interactions across teams.",
-          "score": 30,
+          "title": "Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent",
+          "url": "https://cxtoday.com/ignites-real-cx-launch-was-a-billing-model-not-an-agent",
+          "source": "CX Today",
+          "date": "2026-11-25T13:31:00.000Z",
+          "summary": "Microsoft Ignite 2026 wrap-up for CX leaders: CCI GA, Dynamics 365 in Copilot, consumption pricing, partners and the ACS retirement timeline.",
+          "score": 29,
           "alsoCoveredBy": []
         }
       ]
@@ -100,12 +100,12 @@
       "label": "Marketing Tech",
       "items": [
         {
-          "title": "The Customer Journey Is Moving Beyond the Brand Website",
-          "url": "https://cxtoday.com/the-customer-journey-is-moving-beyond-the-brand-website",
-          "source": "CX Today",
-          "date": "2026-11-24T15:01:00.000Z",
-          "summary": "Sainsbury’s, OpenAI, Amazon Connect, and Sierra show how AI agents are shifting customer journeys beyond brand websites, apps, and contact centers.",
-          "score": 36.6,
+          "title": "The latest AI-powered martech news and releases",
+          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+          "source": "MarTech",
+          "date": "2026-11-25T13:02:00.000Z",
+          "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful.",
+          "score": 56.9,
           "alsoCoveredBy": []
         }
       ]
@@ -120,7 +120,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-24T08:00:00.000Z",
           "summary": "See every Iceberg read, write and failed request from Spark, Trino and PyIceberg in Snowflake Horizon Catalog with Access History and event table telemetry.",
-          "score": 43.3,
+          "score": 31.1,
           "alsoCoveredBy": []
         }
       ]
@@ -130,12 +130,30 @@
       "label": "AI",
       "items": [
         {
-          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-          "source": "TechCrunch AI",
-          "date": "2026-11-23T22:05:50.000Z",
-          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-          "score": 56.2,
+          "title": "AI Agents Create a New Identity Challenge for CX",
+          "url": "https://cxtoday.com/ai-agents-create-a-new-identity-challenge-for-cx",
+          "source": "CX Today",
+          "date": "2026-11-25T15:01:00.000Z",
+          "summary": "AI agents are forcing CX leaders to rethink identity, authorisation and fraud checks. Thales’ Tim Ayling explains why CX Today says security by design matters.",
+          "score": 41.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+          "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-24T22:56:59.000Z",
+          "summary": "Researchers at artificial intelligence developer Anthropic PBC today published details on Siren, a new evaluation that tests whether AI agents will break out of an insecure sandbox to get at…",
+          "score": 40.6,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+          "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-25T02:36:45.000Z",
+          "summary": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different.",
+          "score": 37.4,
           "alsoCoveredBy": []
         },
         {
@@ -144,34 +162,16 @@
           "source": "Diginomica",
           "date": "2026-11-24T18:28:30.000Z",
           "summary": "Nine months in, Nagy Nagy's data platform team has gone from slowest to fastest at Compare the Market. He's commissioned an outside auditor to prove the governance holds up.",
-          "score": 49.4,
+          "score": 37.1,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
-          "url": "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-24T01:30:17.000Z",
-          "summary": "Anthropic PBC isn’t satisfied with having Claude just write new software. With a new update today, Claude now can tell developers when the code it has generated is ready to ship into production…",
-          "score": 40.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
           "source": "TechCrunch AI",
-          "date": "2026-11-24T18:30:42.000Z",
-          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-          "score": 36.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Both Sides of the Call Are Going Agentic. Microsoft Wants the Middle",
-          "url": "https://cxtoday.com/both-sides-of-the-call-are-going-agentic-microsoft-wants-the-middle",
-          "source": "CX Today",
-          "date": "2026-11-23T15:31:00.000Z",
-          "summary": "Microsoft’s Dynamics 365 Contact Center goes agentic at Ignite, with Contact Center Intelligence, Cisco, Five9 and Genesys via CX Today.",
-          "score": 36.1,
+          "date": "2026-11-24T21:32:38.000Z",
+          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "score": 28.5,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +179,44 @@
   ],
   "quickLinks": [
     {
+      "title": "Why Are More Startups Taking Aim at Salesforce?",
+      "url": "https://www.salesforceben.com/why-are-more-startups-taking-aim-at-salesforce/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Is Salesforce Cutting Its Partner Ecosystem Off?",
+      "url": "https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Comprehensive Guide to Salesforce Marketing Attribution in 2027",
+      "url": "https://www.salesforceben.com/comprehensive-guide-to-salesforce-marketing-attribution-in-2027/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "The State of Salesforce Development 2026: Download the Report Now!",
+      "url": "https://www.salesforceben.com/the-state-of-salesforce-development-2026-download-the-report-now/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "Salesforce Graduate Program: Eoin’s Path from the Pitch to Tech",
+      "url": "https://www.salesforce.com/blog/salesforce-graduate-program-eoins-path-pitch-to-tech/",
+      "source": "Salesforce Blog"
+    },
+    {
       "title": "The Rise of the Boutique Salesforce Consultancy",
       "url": "https://www.salesforceben.com/the-rise-of-the-boutique-salesforce-consultancy/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "The Evolution of the Salesforce UX and What Comes Next",
-      "url": "https://www.salesforceben.com/the-evolution-of-the-salesforce-ux-and-what-comes-next/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Workday Rising - customers share their agentic lessons, and reveal why managing the pace of change is job one",
-      "url": "https://diginomica.com/workday-rising-workday-customers-share-their-agentic-lessons-and-reveal-why-managing-pace-change",
-      "source": "Diginomica"
-    },
-    {
-      "title": "Trust AI Agents to Act: Start With Your Data Foundation",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/trust-ai-agents-data-foundation",
-      "source": "Snowflake Blog"
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "TechCrunch AI"
     },
     {
-      "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
-      "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
-      "source": "Databricks Blog"
-    },
-    {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
-      "url": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
-      "source": "SiliconANGLE AI"
     }
   ]
 }
