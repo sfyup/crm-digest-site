@@ -1,27 +1,27 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Thursday, November 26, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Friday, November 27, 2026 · 2–3 min read · 14 stories from 21 sources*
 
 ## The 60-second version
 
-- Salesforce Disables Conga Integrations After ‘Suspicious Activity’ — Salesforce Ben
+- Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce — Salesforce Ben
 - Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions — Diginomica
+- Why CRM Readiness Could Make or Break Enterprise AI Projects — CX Today
 - The latest AI-powered martech news and releases — MarTech
-- Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent — CX Today
 
 ## Salesforce
+
+**[Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce](https://www.salesforceben.com/kill-hardcoded-value-mappings-with-global-flow-resources-in-salesforce/)**
+If you build flows, I know you’ve done value mapping (even if you never even called it that). Something as simple as a customer picking “Very Dissatisfied” and you wanting to show them a different…
+<sub>Salesforce Ben · Nov 27</sub>
 
 **[Salesforce Disables Conga Integrations After ‘Suspicious Activity’](https://www.salesforceben.com/salesforce-disables-conga-integrations-after-suspicious-activity/)**
 Salesforce has disabled connections to Salesforce instances from the Conga connected app after spotting “suspicious activity” related to the app credential store.
 <sub>Salesforce Ben · Nov 26</sub>
 
-**[Ultimate Guide to Salesforce Agentforce Voice](https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/)**
-Salesforce Agentforce Voice has reached its first year of availability, and there’s quite a bit to get your head around.
-<sub>Salesforce Ben · Nov 25</sub>
-
-**[Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs](https://www.salesforceben.com/salesforce-offers-agentforce-coworker-at-no-extra-cost-to-smbs/)**
-Salesforce is continuing its push into the small and medium-sized business (SMB) market, bringing Agentforce Coworker to its Starter and Pro Suites at no additional cost.
-<sub>Salesforce Ben · Nov 24</sub>
+**[Ultimate Guide to Salesforce Platform Licences](https://www.salesforceben.com/salesforce-platform-licenses/)**
+Salesforce’s licence catalog is large, and it’s easy to default to Sales or Service licences without checking whether they’re actually needed.
+<sub>Salesforce Ben · Nov 27</sub>
 
 **[Live at World Tour NYC: Meet the People Building Salesforce on Salesforce](https://www.salesforce.com/blog/world-tour-new-york-executives-customer-zero/)**
 On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.
@@ -33,9 +33,9 @@ See how early adopters are turning trusted Salesforce data and Claude’s reason
 
 ## CRM Platforms
 
-**[Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent](https://cxtoday.com/ignites-real-cx-launch-was-a-billing-model-not-an-agent)**
-Microsoft Ignite 2026 wrap-up for CX leaders: CCI GA, Dynamics 365 in Copilot, consumption pricing, partners and the ACS retirement timeline.
-<sub>CX Today · Nov 25</sub>
+**[Why CRM Readiness Could Make or Break Enterprise AI Projects](https://cxtoday.com/why-crm-readiness-could-make-or-break-enterprise-ai-projects)**
+CRM readiness could make or break enterprise AI, as CX Today reports on Apifonica, customer data, APIs, integrations and CRM systems.
+<sub>CX Today · Nov 27</sub>
 
 ## Marketing Tech
 
@@ -43,14 +43,14 @@ Microsoft Ignite 2026 wrap-up for CX leaders: CCI GA, Dynamics 365 in Copilot, c
 Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful.
 <sub>MarTech · Nov 25</sub>
 
+**[The more AI can do, the more marketers need to know](https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/)**
+Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions.
+<sub>MarTech · Nov 25</sub>
+
 ## Data Platforms
 
 **[How a Healthcare Provider Built HL7v2® and FHIR® Interoperability on Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/healthcare-interoperability-snowflake-hl7-fhir)**
 See how SDG Group built real-time HL7v2® and FHIR® data ingestion on Snowflake using Snowpark Container Services and Snowflake Postgres.
-<sub>Snowflake Blog · Nov 24</sub>
-
-**[Iceberg Observability in Snowflake Horizon Catalog](https://www.snowflake.com/content/snowflake-site/global/en/blog/iceberg-observability-horizon-catalog)**
-See every Iceberg read, write and failed request from Spark, Trino and PyIceberg in Snowflake Horizon Catalog with Access History and event table telemetry.
 <sub>Snowflake Blog · Nov 24</sub>
 
 ## AI
@@ -67,25 +67,25 @@ NiCE Cognigy says personal AI agents are reaching contact centers, making govern
 AI agents are forcing CX leaders to rethink identity, authorisation and fraud checks. Thales’ Tim Ayling explains why CX Today says security by design matters.
 <sub>CX Today · Nov 25</sub>
 
-**[Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox](https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/)**
-Researchers at artificial intelligence developer Anthropic PBC today published details on Siren, a new evaluation that tests whether AI agents will break out of an insecure sandbox to get at…
-<sub>SiliconANGLE AI · Nov 24</sub>
+**[Your AI agents can be fully authorized and still do damage](https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/)**
+For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question.
+<sub>SiliconANGLE AI · Nov 26</sub>
 
-**[Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps](https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/)**
-Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different.
-<sub>SiliconANGLE AI · Nov 25</sub>
+**[Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform](https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing)**
+Optimizely’s rebrand and repositioning as an AI platform is big. So big that it needed serious brand awareness. How did they do it? A wild new website design and a serialized micro-drama.
+<sub>Diginomica · Nov 26</sub>
 
 ## Also worth a click
 
-- [What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product](https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/) — *Salesforce Ben*
+- [Ultimate Guide to Salesforce Agentforce Voice](https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/) — *Salesforce Ben*
+- [How to Make Yourself Employable Outside of Salesforce](https://www.salesforceben.com/how-to-make-yourself-employable-outside-of-salesforce/) — *Salesforce Ben*
 - [Why Are More Startups Taking Aim at Salesforce?](https://www.salesforceben.com/why-are-more-startups-taking-aim-at-salesforce/) — *Salesforce Ben*
+- [What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product](https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/) — *Salesforce Ben*
 - [Is Salesforce Cutting Its Partner Ecosystem Off?](https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/) — *Salesforce Ben*
-- [Your AI agents can be fully authorized and still do damage](https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/) — *SiliconANGLE AI*
-- [Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform](https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing) — *Diginomica*
 - [Salesforce Graduate Program: Eoin’s Path from the Pitch to Tech](https://www.salesforce.com/blog/salesforce-graduate-program-eoins-path-pitch-to-tech/) — *Salesforce Blog*
-- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — *TechCrunch AI*
-- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — *TechCrunch AI*
+- [Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox](https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/) — *SiliconANGLE AI*
+- [Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps](https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/) — *SiliconANGLE AI*
 
 ---
 
-<sub>Every headline links to its original source. 2743 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>
+<sub>Every headline links to its original source. 2744 items scanned from 21/24 feeds in the last 72h. Summaries: source excerpts (no model).</sub>

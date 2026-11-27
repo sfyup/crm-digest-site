@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-26T19:54:47.987Z",
+  "generatedAt": "2026-11-27T19:43:25.519Z",
   "stats": {
-    "considered": 2743,
-    "relevant": 54,
+    "considered": 2744,
+    "relevant": 38,
     "featured": 14,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 667,
-    "minutes": 2.779166666666667,
+    "words": 692,
+    "minutes": 2.8833333333333333,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
-    "Salesforce Disables Conga Integrations After ‘Suspicious Activity’ — Salesforce Ben",
+    "Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce — Salesforce Ben",
     "Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions — Diginomica",
-    "The latest AI-powered martech news and releases — MarTech",
-    "Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent — CX Today"
+    "Why CRM Readiness Could Make or Break Enterprise AI Projects — CX Today",
+    "The latest AI-powered martech news and releases — MarTech"
   ],
   "sections": [
     {
@@ -25,30 +25,30 @@
       "label": "Salesforce",
       "items": [
         {
+          "title": "Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce",
+          "url": "https://www.salesforceben.com/kill-hardcoded-value-mappings-with-global-flow-resources-in-salesforce/",
+          "source": "Salesforce Ben",
+          "date": "2026-11-27T15:30:41.000Z",
+          "summary": "If you build flows, I know you’ve done value mapping (even if you never even called it that). Something as simple as a customer picking “Very Dissatisfied” and you wanting to show them a different…",
+          "score": 55.9,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Salesforce Disables Conga Integrations After ‘Suspicious Activity’",
           "url": "https://www.salesforceben.com/salesforce-disables-conga-integrations-after-suspicious-activity/",
           "source": "Salesforce Ben",
           "date": "2026-11-26T16:42:06.000Z",
           "summary": "Salesforce has disabled connections to Salesforce instances from the Conga connected app after spotting “suspicious activity” related to the app credential store.",
-          "score": 72.5,
+          "score": 53.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Ultimate Guide to Salesforce Agentforce Voice",
-          "url": "https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/",
+          "title": "Ultimate Guide to Salesforce Platform Licences",
+          "url": "https://www.salesforceben.com/salesforce-platform-licenses/",
           "source": "Salesforce Ben",
-          "date": "2026-11-25T15:25:22.000Z",
-          "summary": "Salesforce Agentforce Voice has reached its first year of availability, and there’s quite a bit to get your head around.",
-          "score": 68.7,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs",
-          "url": "https://www.salesforceben.com/salesforce-offers-agentforce-coworker-at-no-extra-cost-to-smbs/",
-          "source": "Salesforce Ben",
-          "date": "2026-11-24T15:08:31.000Z",
-          "summary": "Salesforce is continuing its push into the small and medium-sized business (SMB) market, bringing Agentforce Coworker to its Starter and Pro Suites at no additional cost.",
-          "score": 66.2,
+          "date": "2026-11-27T15:22:22.000Z",
+          "summary": "Salesforce’s licence catalog is large, and it’s easy to default to Sales or Service licences without checking whether they’re actually needed.",
+          "score": 45.1,
           "alsoCoveredBy": []
         },
         {
@@ -57,7 +57,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-25T19:16:59.000Z",
           "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
-          "score": 39.3,
+          "score": 26.2,
           "alsoCoveredBy": []
         },
         {
@@ -66,7 +66,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-25T18:06:41.000Z",
           "summary": "See how early adopters are turning trusted Salesforce data and Claude’s reasoning into faster sales and reimagined ways of working.",
-          "score": 31.5,
+          "score": 20.8,
           "alsoCoveredBy": []
         }
       ]
@@ -76,12 +76,12 @@
       "label": "CRM Platforms",
       "items": [
         {
-          "title": "Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent",
-          "url": "https://cxtoday.com/ignites-real-cx-launch-was-a-billing-model-not-an-agent",
+          "title": "Why CRM Readiness Could Make or Break Enterprise AI Projects",
+          "url": "https://cxtoday.com/why-crm-readiness-could-make-or-break-enterprise-ai-projects",
           "source": "CX Today",
-          "date": "2026-11-25T13:31:00.000Z",
-          "summary": "Microsoft Ignite 2026 wrap-up for CX leaders: CCI GA, Dynamics 365 in Copilot, consumption pricing, partners and the ACS retirement timeline.",
-          "score": 21.3,
+          "date": "2026-11-27T09:01:00.000Z",
+          "summary": "CRM readiness could make or break enterprise AI, as CX Today reports on Apifonica, customer data, APIs, integrations and CRM systems.",
+          "score": 35.8,
           "alsoCoveredBy": []
         }
       ]
@@ -96,7 +96,16 @@
           "source": "MarTech",
           "date": "2026-11-25T13:02:00.000Z",
           "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful.",
-          "score": 41.8,
+          "score": 26.5,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "The more AI can do, the more marketers need to know",
+          "url": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
+          "source": "MarTech",
+          "date": "2026-11-25T13:18:00.000Z",
+          "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions.",
+          "score": 7.9,
           "alsoCoveredBy": []
         }
       ]
@@ -111,16 +120,7 @@
           "source": "Snowflake Blog",
           "date": "2026-11-24T22:55:00.000Z",
           "summary": "See how SDG Group built real-time HL7v2® and FHIR® data ingestion on Snowflake using Snowpark Container Services and Snowflake Postgres.",
-          "score": 19.1,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Iceberg Observability in Snowflake Horizon Catalog",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/iceberg-observability-horizon-catalog",
-          "source": "Snowflake Blog",
-          "date": "2026-11-24T08:00:00.000Z",
-          "summary": "See every Iceberg read, write and failed request from Spark, Trino and PyIceberg in Snowflake Horizon Catalog with Access History and event table telemetry.",
-          "score": 18.8,
+          "score": 10.2,
           "alsoCoveredBy": []
         }
       ]
@@ -135,7 +135,7 @@
           "source": "Diginomica",
           "date": "2026-11-26T14:14:43.000Z",
           "summary": "We speak to Kinaxis's Chief of Agentic Solutions, Manik Sharma, who argues that forward-deployed engineers should create a platform others can build on, rather than a collection of bespoke customer…",
-          "score": 56.3,
+          "score": 41.4,
           "alsoCoveredBy": []
         },
         {
@@ -144,7 +144,7 @@
           "source": "CX Today",
           "date": "2026-11-26T12:01:00.000Z",
           "summary": "NiCE Cognigy says personal AI agents are reaching contact centers, making governance, authentication, auditability, and human handoff urgent CX priorities.",
-          "score": 40.6,
+          "score": 29.6,
           "alsoCoveredBy": []
         },
         {
@@ -153,25 +153,25 @@
           "source": "CX Today",
           "date": "2026-11-25T15:01:00.000Z",
           "summary": "AI agents are forcing CX leaders to rethink identity, authorisation and fraud checks. Thales’ Tim Ayling explains why CX Today says security by design matters.",
-          "score": 30.9,
+          "score": 19.9,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
-          "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+          "title": "Your AI agents can be fully authorized and still do damage",
+          "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
           "source": "SiliconANGLE AI",
-          "date": "2026-11-24T22:56:59.000Z",
-          "summary": "Researchers at artificial intelligence developer Anthropic PBC today published details on Siren, a new evaluation that tests whether AI agents will break out of an insecure sandbox to get at…",
-          "score": 27.8,
+          "date": "2026-11-26T02:52:26.000Z",
+          "summary": "For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question.",
+          "score": 17.6,
           "alsoCoveredBy": []
         },
         {
-          "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
-          "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-25T02:36:45.000Z",
-          "summary": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different.",
-          "score": 26.2,
+          "title": "Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform",
+          "url": "https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing",
+          "source": "Diginomica",
+          "date": "2026-11-26T08:35:01.000Z",
+          "summary": "Optimizely’s rebrand and repositioning as an AI platform is big. So big that it needed serious brand awareness. How did they do it? A wild new website design and a serialized micro-drama.",
+          "score": 17.3,
           "alsoCoveredBy": []
         }
       ]
@@ -179,8 +179,13 @@
   ],
   "quickLinks": [
     {
-      "title": "What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product",
-      "url": "https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/",
+      "title": "Ultimate Guide to Salesforce Agentforce Voice",
+      "url": "https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/",
+      "source": "Salesforce Ben"
+    },
+    {
+      "title": "How to Make Yourself Employable Outside of Salesforce",
+      "url": "https://www.salesforceben.com/how-to-make-yourself-employable-outside-of-salesforce/",
       "source": "Salesforce Ben"
     },
     {
@@ -189,19 +194,14 @@
       "source": "Salesforce Ben"
     },
     {
-      "title": "Is Salesforce Cutting Its Partner Ecosystem Off?",
-      "url": "https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/",
+      "title": "What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product",
+      "url": "https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Your AI agents can be fully authorized and still do damage",
-      "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
-      "source": "SiliconANGLE AI"
-    },
-    {
-      "title": "Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform",
-      "url": "https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing",
-      "source": "Diginomica"
+      "title": "Is Salesforce Cutting Its Partner Ecosystem Off?",
+      "url": "https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/",
+      "source": "Salesforce Ben"
     },
     {
       "title": "Salesforce Graduate Program: Eoin’s Path from the Pitch to Tech",
@@ -209,14 +209,14 @@
       "source": "Salesforce Blog"
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch AI"
+      "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+      "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+      "source": "SiliconANGLE AI"
     },
     {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI"
+      "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+      "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+      "source": "SiliconANGLE AI"
     }
   ]
 }
