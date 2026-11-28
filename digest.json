@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-27T19:43:25.519Z",
+  "generatedAt": "2026-11-28T18:34:49.030Z",
   "stats": {
     "considered": 2744,
-    "relevant": 38,
-    "featured": 14,
+    "relevant": 18,
+    "featured": 10,
     "quickLinks": 8,
     "sourcesOk": 21,
     "sourcesTotal": 24,
     "windowHours": 72,
-    "words": 692,
-    "minutes": 2.8833333333333333,
+    "words": 538,
+    "minutes": 2.2416666666666667,
     "readTimeLabel": "2–3 min",
     "summarizer": "source excerpts (no model)"
   },
   "tldr": [
     "Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce — Salesforce Ben",
-    "Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions — Diginomica",
+    "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’ — TechCrunch AI",
     "Why CRM Readiness Could Make or Break Enterprise AI Projects — CX Today",
-    "The latest AI-powered martech news and releases — MarTech"
+    "Salesforce Disables Conga Integrations After ‘Suspicious Activity’ — Salesforce Ben"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-27T15:30:41.000Z",
           "summary": "If you build flows, I know you’ve done value mapping (even if you never even called it that). Something as simple as a customer picking “Very Dissatisfied” and you wanting to show them a different…",
-          "score": 55.9,
+          "score": 42,
           "alsoCoveredBy": []
         },
         {
@@ -39,7 +39,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-26T16:42:06.000Z",
           "summary": "Salesforce has disabled connections to Salesforce instances from the Conga connected app after spotting “suspicious activity” related to the app credential store.",
-          "score": 53.9,
+          "score": 36,
           "alsoCoveredBy": []
         },
         {
@@ -48,7 +48,7 @@
           "source": "Salesforce Ben",
           "date": "2026-11-27T15:22:22.000Z",
           "summary": "Salesforce’s licence catalog is large, and it’s easy to default to Sales or Service licences without checking whether they’re actually needed.",
-          "score": 45.1,
+          "score": 33.9,
           "alsoCoveredBy": []
         },
         {
@@ -57,16 +57,7 @@
           "source": "Salesforce Blog",
           "date": "2026-11-25T19:16:59.000Z",
           "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
-          "score": 26.2,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "5 ways customers are already innovating with Salesforce in Claude",
-          "url": "https://www.salesforce.com/blog/5-ways-customers-are-already-innovating-with-salesforce-in-claude/",
-          "source": "Salesforce Blog",
-          "date": "2026-11-25T18:06:41.000Z",
-          "summary": "See how early adopters are turning trusted Salesforce data and Claude’s reasoning into faster sales and reimagined ways of working.",
-          "score": 20.8,
+          "score": 13.6,
           "alsoCoveredBy": []
         }
       ]
@@ -81,46 +72,7 @@
           "source": "CX Today",
           "date": "2026-11-27T09:01:00.000Z",
           "summary": "CRM readiness could make or break enterprise AI, as CX Today reports on Apifonica, customer data, APIs, integrations and CRM systems.",
-          "score": 35.8,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "martech",
-      "label": "Marketing Tech",
-      "items": [
-        {
-          "title": "The latest AI-powered martech news and releases",
-          "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-          "source": "MarTech",
-          "date": "2026-11-25T13:02:00.000Z",
-          "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful.",
-          "score": 26.5,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "The more AI can do, the more marketers need to know",
-          "url": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
-          "source": "MarTech",
-          "date": "2026-11-25T13:18:00.000Z",
-          "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions.",
-          "score": 7.9,
-          "alsoCoveredBy": []
-        }
-      ]
-    },
-    {
-      "key": "data",
-      "label": "Data Platforms",
-      "items": [
-        {
-          "title": "How a Healthcare Provider Built HL7v2® and FHIR® Interoperability on Snowflake",
-          "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/healthcare-interoperability-snowflake-hl7-fhir",
-          "source": "Snowflake Blog",
-          "date": "2026-11-24T22:55:00.000Z",
-          "summary": "See how SDG Group built real-time HL7v2® and FHIR® data ingestion on Snowflake using Snowpark Container Services and Snowflake Postgres.",
-          "score": 10.2,
+          "score": 26.2,
           "alsoCoveredBy": []
         }
       ]
@@ -130,12 +82,21 @@
       "label": "AI",
       "items": [
         {
+          "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+          "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+          "source": "TechCrunch AI",
+          "date": "2026-11-28T17:46:47.000Z",
+          "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+          "score": 33.8,
+          "alsoCoveredBy": []
+        },
+        {
           "title": "Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions",
           "url": "https://diginomica.com/dont-be-fde-snowflake-says-kinaxis-agentic-chief",
           "source": "Diginomica",
           "date": "2026-11-26T14:14:43.000Z",
           "summary": "We speak to Kinaxis's Chief of Agentic Solutions, Manik Sharma, who argues that forward-deployed engineers should create a platform others can build on, rather than a collection of bespoke customer…",
-          "score": 41.4,
+          "score": 27.2,
           "alsoCoveredBy": []
         },
         {
@@ -144,25 +105,7 @@
           "source": "CX Today",
           "date": "2026-11-26T12:01:00.000Z",
           "summary": "NiCE Cognigy says personal AI agents are reaching contact centers, making governance, authentication, auditability, and human handoff urgent CX priorities.",
-          "score": 29.6,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "AI Agents Create a New Identity Challenge for CX",
-          "url": "https://cxtoday.com/ai-agents-create-a-new-identity-challenge-for-cx",
-          "source": "CX Today",
-          "date": "2026-11-25T15:01:00.000Z",
-          "summary": "AI agents are forcing CX leaders to rethink identity, authorisation and fraud checks. Thales’ Tim Ayling explains why CX Today says security by design matters.",
-          "score": 19.9,
-          "alsoCoveredBy": []
-        },
-        {
-          "title": "Your AI agents can be fully authorized and still do damage",
-          "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
-          "source": "SiliconANGLE AI",
-          "date": "2026-11-26T02:52:26.000Z",
-          "summary": "For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question.",
-          "score": 17.6,
+          "score": 19.1,
           "alsoCoveredBy": []
         },
         {
@@ -171,7 +114,16 @@
           "source": "Diginomica",
           "date": "2026-11-26T08:35:01.000Z",
           "summary": "Optimizely’s rebrand and repositioning as an AI platform is big. So big that it needed serious brand awareness. How did they do it? A wild new website design and a serialized micro-drama.",
-          "score": 17.3,
+          "score": 10.8,
+          "alsoCoveredBy": []
+        },
+        {
+          "title": "Your AI agents can be fully authorized and still do damage",
+          "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+          "source": "SiliconANGLE AI",
+          "date": "2026-11-26T02:52:26.000Z",
+          "summary": "For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question.",
+          "score": 10.3,
           "alsoCoveredBy": []
         }
       ]
@@ -179,44 +131,44 @@
   ],
   "quickLinks": [
     {
-      "title": "Ultimate Guide to Salesforce Agentforce Voice",
-      "url": "https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/",
-      "source": "Salesforce Ben"
-    },
-    {
       "title": "How to Make Yourself Employable Outside of Salesforce",
       "url": "https://www.salesforceben.com/how-to-make-yourself-employable-outside-of-salesforce/",
       "source": "Salesforce Ben"
     },
     {
-      "title": "Why Are More Startups Taking Aim at Salesforce?",
-      "url": "https://www.salesforceben.com/why-are-more-startups-taking-aim-at-salesforce/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product",
-      "url": "https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Is Salesforce Cutting Its Partner Ecosystem Off?",
-      "url": "https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/",
-      "source": "Salesforce Ben"
-    },
-    {
-      "title": "Salesforce Graduate Program: Eoin’s Path from the Pitch to Tech",
-      "url": "https://www.salesforce.com/blog/salesforce-graduate-program-eoins-path-pitch-to-tech/",
-      "source": "Salesforce Blog"
-    },
-    {
-      "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
-      "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+      "title": "AI infrastructure stocks continue their slide, but Anthropic closes higher",
+      "url": "https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/",
       "source": "SiliconANGLE AI"
     },
     {
-      "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
-      "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
-      "source": "SiliconANGLE AI"
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+      "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+      "source": "ZDNet Enterprise Software"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog"
     }
   ]
 }

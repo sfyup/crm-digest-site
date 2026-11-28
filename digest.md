@@ -1,13 +1,13 @@
 # CRM, Martech, Data & AI — Daily Digest
 
-*Friday, November 27, 2026 · 2–3 min read · 14 stories from 21 sources*
+*Saturday, November 28, 2026 · 2–3 min read · 10 stories from 21 sources*
 
 ## The 60-second version
 
 - Kill Hardcoded Value Mappings With Global Flow Resources in Salesforce — Salesforce Ben
-- Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions — Diginomica
+- OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’ — TechCrunch AI
 - Why CRM Readiness Could Make or Break Enterprise AI Projects — CX Today
-- The latest AI-powered martech news and releases — MarTech
+- Salesforce Disables Conga Integrations After ‘Suspicious Activity’ — Salesforce Ben
 
 ## Salesforce
 
@@ -27,33 +27,17 @@ Salesforce’s licence catalog is large, and it’s easy to default to Sales or 
 On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.
 <sub>Salesforce Blog · Nov 25</sub>
 
-**[5 ways customers are already innovating with Salesforce in Claude](https://www.salesforce.com/blog/5-ways-customers-are-already-innovating-with-salesforce-in-claude/)**
-See how early adopters are turning trusted Salesforce data and Claude’s reasoning into faster sales and reimagined ways of working.
-<sub>Salesforce Blog · Nov 25</sub>
-
 ## CRM Platforms
 
 **[Why CRM Readiness Could Make or Break Enterprise AI Projects](https://cxtoday.com/why-crm-readiness-could-make-or-break-enterprise-ai-projects)**
 CRM readiness could make or break enterprise AI, as CX Today reports on Apifonica, customer data, APIs, integrations and CRM systems.
 <sub>CX Today · Nov 27</sub>
 
-## Marketing Tech
-
-**[The latest AI-powered martech news and releases](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)**
-Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful.
-<sub>MarTech · Nov 25</sub>
-
-**[The more AI can do, the more marketers need to know](https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/)**
-Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions.
-<sub>MarTech · Nov 25</sub>
-
-## Data Platforms
-
-**[How a Healthcare Provider Built HL7v2® and FHIR® Interoperability on Snowflake](https://www.snowflake.com/content/snowflake-site/global/en/blog/healthcare-interoperability-snowflake-hl7-fhir)**
-See how SDG Group built real-time HL7v2® and FHIR® data ingestion on Snowflake using Snowpark Container Services and Snowflake Postgres.
-<sub>Snowflake Blog · Nov 24</sub>
-
 ## AI
+
+**[OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’](https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/)**
+After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.
+<sub>TechCrunch AI · Nov 28</sub>
 
 **[Don’t be an FDE snowflake, says Kinaxis’s Chief of Agentic Solutions](https://diginomica.com/dont-be-fde-snowflake-says-kinaxis-agentic-chief)**
 We speak to Kinaxis's Chief of Agentic Solutions, Manik Sharma, who argues that forward-deployed engineers should create a platform others can build on, rather than a collection of bespoke customer…
@@ -63,28 +47,24 @@ We speak to Kinaxis's Chief of Agentic Solutions, Manik Sharma, who argues that 
 NiCE Cognigy says personal AI agents are reaching contact centers, making governance, authentication, auditability, and human handoff urgent CX priorities.
 <sub>CX Today · Nov 26</sub>
 
-**[AI Agents Create a New Identity Challenge for CX](https://cxtoday.com/ai-agents-create-a-new-identity-challenge-for-cx)**
-AI agents are forcing CX leaders to rethink identity, authorisation and fraud checks. Thales’ Tim Ayling explains why CX Today says security by design matters.
-<sub>CX Today · Nov 25</sub>
+**[Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform](https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing)**
+Optimizely’s rebrand and repositioning as an AI platform is big. So big that it needed serious brand awareness. How did they do it? A wild new website design and a serialized micro-drama.
+<sub>Diginomica · Nov 26</sub>
 
 **[Your AI agents can be fully authorized and still do damage](https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/)**
 For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question.
 <sub>SiliconANGLE AI · Nov 26</sub>
 
-**[Murder in Marketing - how Optimizely looks on the bright side of brand awareness for its new agentic Marketing platform](https://diginomica.com/murder-marketing-how-optimizely-looks-bright-side-brand-awareness-its-new-agentic-marketing)**
-Optimizely’s rebrand and repositioning as an AI platform is big. So big that it needed serious brand awareness. How did they do it? A wild new website design and a serialized micro-drama.
-<sub>Diginomica · Nov 26</sub>
-
 ## Also worth a click
 
-- [Ultimate Guide to Salesforce Agentforce Voice](https://www.salesforceben.com/ultimate-guide-to-salesforce-agentforce-voice/) — *Salesforce Ben*
 - [How to Make Yourself Employable Outside of Salesforce](https://www.salesforceben.com/how-to-make-yourself-employable-outside-of-salesforce/) — *Salesforce Ben*
-- [Why Are More Startups Taking Aim at Salesforce?](https://www.salesforceben.com/why-are-more-startups-taking-aim-at-salesforce/) — *Salesforce Ben*
-- [What Happened to CPQ? A Timeline of Salesforce’s Most Controversial Product](https://www.salesforceben.com/what-happened-to-cpq-a-timeline-of-salesforces-most-controversial-product/) — *Salesforce Ben*
-- [Is Salesforce Cutting Its Partner Ecosystem Off?](https://www.salesforceben.com/is-salesforce-cutting-its-partner-ecosystem-off/) — *Salesforce Ben*
-- [Salesforce Graduate Program: Eoin’s Path from the Pitch to Tech](https://www.salesforce.com/blog/salesforce-graduate-program-eoins-path-pitch-to-tech/) — *Salesforce Blog*
-- [Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox](https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/) — *SiliconANGLE AI*
-- [Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps](https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/) — *SiliconANGLE AI*
+- [AI infrastructure stocks continue their slide, but Anthropic closes higher](https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/) — *SiliconANGLE AI*
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — *TechCrunch AI*
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — *TechCrunch AI*
+- [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) — *Hugging Face Blog*
+- [You can turn Claude artifacts into Windows and Mac apps now – here’s how](https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/) — *ZDNet Enterprise Software*
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) — *Hugging Face Blog*
+- [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms) — *Hugging Face Blog*
 
 ---
 
